@@ -1,0 +1,641 @@
+{
+ "unit_id": "a1_unit_29_directions_places",
+ "slug": "directions_places",
+ "order": 29,
+ "module": "m7",
+ "bonus_a1_plus": false,
+ "title_en": "Practical English: places and directions",
+ "title_tr": "Pratik İngilizce: yerler ve yön tarif",
+ "level": "A1",
+ "related_vocab_topics": [
+  "places_town",
+  "prepositions_place",
+  "transport_travel"
+ ],
+ "lesson": {
+  "goal_tr": "Bu dersin sonunda bir yerin nerede olduğunu sorabilir, basit yön tariflerini anlayabilir ve bir yere nasıl gideceğinizi sorabilirsiniz.",
+  "sections": [
+   {
+    "heading_tr": "Yer sorma ve yer tarif etme",
+    "explanation_tr": "Bir yerin nerede olduğunu sormak için “Where is the...?” deyin. Yerini söylerken “It's next to...” (yanında), “It's opposite...” (karşısında) veya “It's near...” (yakınında) kullanabilirsiniz.",
+    "examples": [
+     {
+      "en": "Where is the bank?",
+      "tr": "Banka nerede?"
+     },
+     {
+      "en": "It's next to the school.",
+      "tr": "Okulun yanında."
+     },
+     {
+      "en": "The station is opposite the hotel.",
+      "tr": "İstasyon otelin karşısında."
+     }
+    ]
+   },
+   {
+    "heading_tr": "Yön tarif etme",
+    "explanation_tr": "Yön verirken fiili yalın hâliyle kullanın: “Turn left/right” (sola/sağa dön) ve “Go past...” (yanından geç). Bu kısa yön cümlelerinde “you” demeniz gerekmez.",
+    "examples": [
+     {
+      "en": "Turn left.",
+      "tr": "Sola dön."
+     },
+     {
+      "en": "Go past the bank and turn right.",
+      "tr": "Bankanın yanından geç ve sağa dön."
+     }
+    ]
+   },
+   {
+    "heading_tr": "Nasıl gidileceğini sorma ve ulaşım",
+    "explanation_tr": "Bir yere nasıl ulaşacağınızı sormak için “How do I get to...?” kalıbını kullanın. Ulaşım aracını söylemek için “take a bus/taxi/train” deyin.",
+    "examples": [
+     {
+      "en": "How do I get to the station?",
+      "tr": "İstasyona nasıl giderim?"
+     },
+     {
+      "en": "Take a bus to the station.",
+      "tr": "İstasyona otobüsle git."
+     }
+    ]
+   }
+  ],
+  "key_patterns": [
+   {
+    "pattern": "Where + is + the + bank?",
+    "example_en": "Where is the bank?",
+    "example_tr": "Banka nerede?"
+   },
+   {
+    "pattern": "The + station + is + near + the + hotel.",
+    "example_en": "The station is near the hotel.",
+    "example_tr": "İstasyon otelin yakınında."
+   },
+   {
+    "pattern": "Go + past + the + bank + and + turn + left.",
+    "example_en": "Go past the bank and turn left.",
+    "example_tr": "Bankanın yanından geç ve sola dön."
+   },
+   {
+    "pattern": "How + do + I + get + to + the + station?",
+    "example_en": "How do I get to the station?",
+    "example_tr": "İstasyona nasıl giderim?"
+   },
+   {
+    "pattern": "Take + a + bus + to + the + station.",
+    "example_en": "Take a bus to the station.",
+    "example_tr": "İstasyona otobüsle git."
+   }
+  ],
+  "turkish_speaker_tips_tr": [
+   "Türkçede yüklem çoğunlukla sonda, İngilizcede ise özne genellikle fiilden önce gelir: “The station is near the hotel.”",
+   "Türkçede “bir” ve “-ı/-i” gibi eklerle anlatılan anlamlar İngilizcede çoğu kez “a” veya “the” ile verilir: “a bus”, “the bank”.",
+   "“How do I get to...?” sorusunda “do” yardımcı kelimesi kullanılır; Türkçeye tek bir kelimeyle çevrilmez.",
+   "“Next to” iki kelimelik bir kalıptır. Kelimelerin arasına başka bir kelime koymayın."
+  ],
+  "common_mistakes": [
+   {
+    "wrong": "Where the bank is?",
+    "correct": "Where is the bank?",
+    "note_tr": "Bu soruda “is”, “the bank” ifadesinden önce gelir."
+   },
+   {
+    "wrong": "Turn to left.",
+    "correct": "Turn left.",
+    "note_tr": "“Turn left/right” derken yön kelimesinden önce “to” kullanılmaz."
+   },
+   {
+    "wrong": "Go to past the bank.",
+    "correct": "Go past the bank.",
+    "note_tr": "“Go past” kalıbında “past” sözcüğünden önce “to” gelmez."
+   },
+   {
+    "wrong": "Take bus to the station.",
+    "correct": "Take a bus to the station.",
+    "note_tr": "Tekil sayılabilen “bus” sözcüğünün önünde burada “a” gerekir."
+   }
+  ],
+  "mini_dialogue": [
+   {
+    "speaker": "Ali",
+    "en": "Where is the bank?",
+    "tr": "Banka nerede?"
+   },
+   {
+    "speaker": "Anna",
+    "en": "It's next to the school.",
+    "tr": "Okulun yanında."
+   },
+   {
+    "speaker": "Ali",
+    "en": "How do I get to the station?",
+    "tr": "İstasyona nasıl giderim?"
+   },
+   {
+    "speaker": "Anna",
+    "en": "Go past the bank and turn left.",
+    "tr": "Bankanın yanından geç ve sola dön."
+   },
+   {
+    "speaker": "Ali",
+    "en": "Can I take a bus to the station?",
+    "tr": "İstasyona otobüsle gidebilir miyim?"
+   },
+   {
+    "speaker": "Anna",
+    "en": "Yes. Take a bus.",
+    "tr": "Evet. Otobüse bin."
+   }
+  ]
+ },
+ "exercise_counts": {
+  "fill_blank": 6,
+  "multiple_choice": 4,
+  "match_pairs": 1,
+  "choose_correct_sentence": 3,
+  "build_sentence": 6,
+  "dictation": 2,
+  "type_translation": 2
+ },
+ "exercises": [
+  {
+   "id": "a1_gram_directions_places_001",
+   "unit": "a1_unit_29_directions_places",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "Where ___ the bank?",
+   "sentence_tr": "Banka nerede?",
+   "options": [
+    "do",
+    "does",
+    "is",
+    "are"
+   ],
+   "answer": "is",
+   "explanation_tr": "“The bank” tekil olduğu için “is” kullanılır."
+  },
+  {
+   "id": "a1_gram_directions_places_002",
+   "unit": "a1_unit_29_directions_places",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "The station is ___ the hotel.",
+   "sentence_tr": "İstasyon otelin yakınında.",
+   "options": [
+    "near",
+    "past",
+    "across",
+    "next"
+   ],
+   "answer": "near",
+   "explanation_tr": "Bir yerin yakınında olduğunu belirtmek için “near” kullanılır."
+  },
+  {
+   "id": "a1_gram_directions_places_003",
+   "unit": "a1_unit_29_directions_places",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "Go past the bank and turn ___.",
+   "sentence_tr": "Bankayı geç ve sola dön.",
+   "options": [
+    "next",
+    "near",
+    "left",
+    "opposite"
+   ],
+   "answer": "left",
+   "explanation_tr": "“Turn left” sola dönmek demektir."
+  },
+  {
+   "id": "a1_gram_directions_places_004",
+   "unit": "a1_unit_29_directions_places",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "How do I get ___ the station?",
+   "sentence_tr": "İstasyona nasıl giderim?",
+   "options": [
+    "to",
+    "at",
+    "on",
+    "in"
+   ],
+   "answer": "to",
+   "explanation_tr": "Bir yere nasıl gidileceğini sorarken “get to” kalıbı kullanılır."
+  },
+  {
+   "id": "a1_gram_directions_places_005",
+   "unit": "a1_unit_29_directions_places",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "Take ___ bus to the station.",
+   "sentence_tr": "İstasyona otobüsle git.",
+   "options": [
+    "a",
+    "at",
+    "an",
+    "on"
+   ],
+   "answer": "a",
+   "explanation_tr": "Tekil sayılabilen “bus” isminden önce “a” kullanılır."
+  },
+  {
+   "id": "a1_gram_directions_places_006",
+   "unit": "a1_unit_29_directions_places",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "Take a ___ to the station.",
+   "sentence_tr": "İstasyona taksiyle git.",
+   "options": [
+    "opposite",
+    "taxi",
+    "left",
+    "near"
+   ],
+   "answer": "taxi",
+   "explanation_tr": "Ulaşım aracı olarak “take a taxi” denir."
+  },
+  {
+   "id": "a1_gram_directions_places_007",
+   "unit": "a1_unit_29_directions_places",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "The school is next to the bank.",
+   "question_tr": "",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Okul bankayı geçiyor.",
+    "Okul bankanın yanında.",
+    "Okul bankanın yakınında.",
+    "Okul bankanın karşısında."
+   ],
+   "answer": "Okul bankanın yanında.",
+   "explanation_tr": "“Next to” bitişik olmayı, yani “yanında” olmayı anlatır."
+  },
+  {
+   "id": "a1_gram_directions_places_008",
+   "unit": "a1_unit_29_directions_places",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "Go past the hotel and turn right.",
+   "question_tr": "",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Oteli geç ve sağa dön.",
+    "Otelin yanında dur ve sağa dön.",
+    "Otele git ve sola dön.",
+    "Oteli geç ve sola dön."
+   ],
+   "answer": "Oteli geç ve sağa dön.",
+   "explanation_tr": "“Go past” bir yeri geçmek, “turn right” ise sağa dönmek demektir."
+  },
+  {
+   "id": "a1_gram_directions_places_009",
+   "unit": "a1_unit_29_directions_places",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "",
+   "question_tr": "Havaalanına nasıl giderim?",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Where do I get to the airport?",
+    "How do I get the airport?",
+    "How I do get to the airport?",
+    "How do I get to the airport?"
+   ],
+   "answer": "How do I get to the airport?",
+   "explanation_tr": "“How do I get to ...?” bir yere nasıl gidileceğini sormak için kullanılır."
+  },
+  {
+   "id": "a1_gram_directions_places_010",
+   "unit": "a1_unit_29_directions_places",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "",
+   "question_tr": "İstasyona trenle git.",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Take train to the station.",
+    "Take a bus to the station.",
+    "Take a train to the station.",
+    "Take a train at the station."
+   ],
+   "answer": "Take a train to the station.",
+   "explanation_tr": "“Take a train to ...” bir yere trenle gitmek anlamına gelir."
+  },
+  {
+   "id": "a1_gram_directions_places_011",
+   "unit": "a1_unit_29_directions_places",
+   "type": "match_pairs",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Eşleştir.",
+   "pairs": [
+    {
+     "en": "next to",
+     "tr": "yanında"
+    },
+    {
+     "en": "opposite",
+     "tr": "karşısında"
+    },
+    {
+     "en": "near",
+     "tr": "yakınında"
+    },
+    {
+     "en": "turn left",
+     "tr": "sola dön"
+    },
+    {
+     "en": "go past",
+     "tr": "geç"
+    }
+   ],
+   "explanation_tr": "Bu ifadeler yer tariflerinde konumları ve yönleri anlatır."
+  },
+  {
+   "id": "a1_gram_directions_places_012",
+   "unit": "a1_unit_29_directions_places",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "Where does the bank?",
+    "Where the bank is?",
+    "Where is the bank?"
+   ],
+   "answer": "Where is the bank?",
+   "explanation_tr": "“Where” ile soru kurarken tekil “the bank” için “is” kullanılır: “Where is the bank?”."
+  },
+  {
+   "id": "a1_gram_directions_places_013",
+   "unit": "a1_unit_29_directions_places",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Where is the bank?",
+   "word_bank": [
+    "the",
+    "near",
+    "left",
+    "is",
+    "hotel",
+    "bank",
+    "Where"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Banka nerede?",
+   "explanation_tr": "Yer sorarken “Where is the…?” kalıbını kullanırız."
+  },
+  {
+   "id": "a1_gram_directions_places_014",
+   "unit": "a1_unit_29_directions_places",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "The station is near the hotel.",
+   "word_bank": [
+    "near",
+    "station",
+    "is",
+    "opposite",
+    "turn",
+    "bus",
+    "The",
+    "the",
+    "hotel"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "İstasyon otelin yakınında.",
+   "explanation_tr": "“Near” bir yerin yakınında olduğunu belirtir."
+  },
+  {
+   "id": "a1_gram_directions_places_015",
+   "unit": "a1_unit_29_directions_places",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "The school is next to the park.",
+   "word_bank": [
+    "train",
+    "opposite",
+    "left",
+    "The",
+    "park",
+    "next",
+    "school",
+    "to",
+    "the",
+    "is"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Okul parkın yanında.",
+   "explanation_tr": "“Next to” bitişik ya da hemen yanında anlamına gelir."
+  },
+  {
+   "id": "a1_gram_directions_places_016",
+   "unit": "a1_unit_29_directions_places",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "The bank is opposite the hotel.",
+   "word_bank": [
+    "go",
+    "and",
+    "bank",
+    "is",
+    "taxi",
+    "The",
+    "hotel",
+    "opposite",
+    "the"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Banka otelin karşısında.",
+   "explanation_tr": "“Opposite” bir yerin karşısında olduğunu anlatır."
+  },
+  {
+   "id": "a1_gram_directions_places_017",
+   "unit": "a1_unit_29_directions_places",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Go past the bank and turn left.",
+   "word_bank": [
+    "bank",
+    "past",
+    "the",
+    "Go",
+    "left",
+    "a",
+    "hotel",
+    "is",
+    "turn",
+    "and"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Bankayı geç ve sola dön.",
+   "explanation_tr": "Yol tarifi verirken “go past” bir yeri geçmek, “turn left” sola dönmek demektir."
+  },
+  {
+   "id": "a1_gram_directions_places_018",
+   "unit": "a1_unit_29_directions_places",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Take a bus to the station.",
+   "word_bank": [
+    "to",
+    "the",
+    "Take",
+    "station",
+    "near",
+    "turn",
+    "bus",
+    "a"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "İstasyona otobüsle git.",
+   "explanation_tr": "Bir araca binmeyi anlatmak için “take a bus” deriz."
+  },
+  {
+   "id": "a1_gram_directions_places_019",
+   "unit": "a1_unit_29_directions_places",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "Where are the station?",
+    "Where is the station?",
+    "Where the station is?"
+   ],
+   "answer": "Where is the station?",
+   "explanation_tr": "“Where” sorusunda yardımcı fiil özneden önce gelir: “Where is the…?”."
+  },
+  {
+   "id": "a1_gram_directions_places_020",
+   "unit": "a1_unit_29_directions_places",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "Go past school and turn right.",
+    "Go pass the school and turn right.",
+    "Go past the school and turn right."
+   ],
+   "answer": "Go past the school and turn right.",
+   "explanation_tr": "“Go past” kalıbında “past” kullanılır ve tekil yer adından önce “the” gelir."
+  },
+  {
+   "id": "a1_gram_directions_places_021",
+   "unit": "a1_unit_29_directions_places",
+   "type": "dictation",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Duyduğun cümleyi yaz.",
+   "answer": "Turn right at the station.",
+   "word_bank": [
+    "Turn",
+    "station",
+    "right",
+    "bank",
+    "at",
+    "bus",
+    "the",
+    "left"
+   ],
+   "accepted_answers": [],
+   "sentence_tr": "İstasyonda sağa dön.",
+   "audio_text": "Turn right at the station.",
+   "explanation_tr": "Yön tarifinde “turn right” sağa dönmek anlamına gelir."
+  },
+  {
+   "id": "a1_gram_directions_places_022",
+   "unit": "a1_unit_29_directions_places",
+   "type": "dictation",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Duyduğun cümleyi yaz.",
+   "answer": "Go past the hotel.",
+   "word_bank": [
+    "turn",
+    "school",
+    "hotel",
+    "the",
+    "taxi",
+    "Go",
+    "past"
+   ],
+   "accepted_answers": [],
+   "sentence_tr": "Otelin önünden geç.",
+   "audio_text": "Go past the hotel.",
+   "explanation_tr": "“Go past the hotel” otelin önünden ya da yanından geçmek anlamında kullanılır."
+  },
+  {
+   "id": "a1_gram_directions_places_023",
+   "unit": "a1_unit_29_directions_places",
+   "type": "type_translation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "İngilizceye çevir ve yaz.",
+   "prompt_tr": "Bankaya nasıl giderim?",
+   "answer": "How do I get to the bank?",
+   "accepted_answers": [
+    "How can I get to the bank?"
+   ],
+   "explanation_tr": "Bir yere nasıl gidileceğini sormak için “How do I get to…?” kalıbını kullanırız."
+  },
+  {
+   "id": "a1_gram_directions_places_024",
+   "unit": "a1_unit_29_directions_places",
+   "type": "type_translation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "İngilizceye çevir ve yaz.",
+   "prompt_tr": "Havaalanına taksiyle git.",
+   "answer": "Take a taxi to the airport.",
+   "accepted_answers": [
+    "Go to the airport by taxi."
+   ],
+   "explanation_tr": "Bir ulaşım aracını belirtmek için “take a taxi” ya da “go by taxi” diyebiliriz."
+  }
+ ]
+}

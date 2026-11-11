@@ -1,0 +1,616 @@
+{
+ "unit_id": "a1_unit_05_this_that",
+ "slug": "this_that",
+ "order": 5,
+ "module": "m1",
+ "bonus_a1_plus": false,
+ "title_en": "This, that, these, those",
+ "title_tr": "This, that, these, those",
+ "level": "A1",
+ "related_vocab_topics": [
+  "pronouns_grammar",
+  "home_furniture"
+ ],
+ "lesson": {
+  "goal_tr": "Bu dersin sonunda yakındaki ve uzaktaki tekil ya da çoğul şeyleri gösterebilir ve onlar hakkında soru sorabilirsin.",
+  "sections": [
+   {
+    "heading_tr": "Yakındaki ve uzaktaki tekil şeyler",
+    "explanation_tr": "Yakındaki tek bir şey için “this”, uzaktaki tek bir şey için “that” kullanılır. İkisinden sonra da “is” gelir. Sayılabilen tekil isimlerle “a” veya “an” kullanılır.",
+    "examples": [
+     {
+      "en": "This is a book.",
+      "tr": "Bu bir kitap."
+     },
+     {
+      "en": "That is an apple.",
+      "tr": "Şu/O bir elma."
+     }
+    ]
+   },
+   {
+    "heading_tr": "Yakındaki ve uzaktaki çoğul şeyler",
+    "explanation_tr": "Yakındaki birden fazla şey için “these”, uzaktaki birden fazla şey için “those” kullanılır. Bu kelimelerle “are” gelir ve çoğul isim kullanılır; çoğul isimlerle “a/an” kullanılmaz.",
+    "examples": [
+     {
+      "en": "These are books.",
+      "tr": "Bunlar kitap."
+     },
+     {
+      "en": "Those are apples.",
+      "tr": "Şunlar/Onlar elma."
+     }
+    ]
+   },
+   {
+    "heading_tr": "Soru sorma",
+    "explanation_tr": "Tekil bir şeyi sormak için “What is this?” veya “What is that?” diyebilirsin. Çoğul şeyleri sormak için “What are these?” veya “What are those?” kullanılır.",
+    "examples": [
+     {
+      "en": "What is this?",
+      "tr": "Bu ne?"
+     },
+     {
+      "en": "What are those?",
+      "tr": "Şunlar/Onlar ne?"
+     }
+    ]
+   }
+  ],
+  "key_patterns": [
+   {
+    "pattern": "This + is + a/an + [tekil isim]",
+    "example_en": "This is a pen.",
+    "example_tr": "Bu bir kalem."
+   },
+   {
+    "pattern": "That + is + a/an + [tekil isim]",
+    "example_en": "That is a chair.",
+    "example_tr": "Şu/O bir sandalye."
+   },
+   {
+    "pattern": "These + are + [çoğul isim]",
+    "example_en": "These are books.",
+    "example_tr": "Bunlar kitap."
+   },
+   {
+    "pattern": "Those + are + [çoğul isim]",
+    "example_en": "Those are apples.",
+    "example_tr": "Şunlar/Onlar elma."
+   },
+   {
+    "pattern": "What + is + this/that?",
+    "example_en": "What is that?",
+    "example_tr": "Şu/O ne?"
+   },
+   {
+    "pattern": "What + are + these/those?",
+    "example_en": "What are these?",
+    "example_tr": "Bunlar ne?"
+   }
+  ],
+  "turkish_speaker_tips_tr": [
+   "Türkçedeki “bu, şu, o” ayrımı İngilizceyle birebir örtüşmez: “this/these” yakındakiler, “that/those” uzaktakiler içindir.",
+   "İngilizcede tekil ve çoğul için ayrı gösterme kelimeleri vardır: “this/that” tekil, “these/those” çoğuldur.",
+   "Türkçede isimden önce “a/an” kullanılmaz; İngilizcede sayılabilen tekil isimle genellikle “a/an” gerekir: “a book”, “an apple”."
+  ],
+  "common_mistakes": [
+   {
+    "wrong": "These is a book.",
+    "correct": "This is a book.",
+    "note_tr": "“These” çoğul içindir; tek bir şey için “this” kullan."
+   },
+   {
+    "wrong": "That are a bag.",
+    "correct": "That is a bag.",
+    "note_tr": "“That” tekil olduğu için ardından “is” gelir."
+   },
+   {
+    "wrong": "What are this?",
+    "correct": "What is this?",
+    "note_tr": "Tekil “this” ile “is” kullanılır."
+   },
+   {
+    "wrong": "This is book.",
+    "correct": "This is a book.",
+    "note_tr": "Sayılabilen tekil “book” kelimesinden önce “a” gerekir."
+   }
+  ],
+  "mini_dialogue": [
+   {
+    "speaker": "Anna",
+    "en": "What is this, Ali?",
+    "tr": "Bu ne, Ali?"
+   },
+   {
+    "speaker": "Ali",
+    "en": "This is a camera.",
+    "tr": "Bu bir fotoğraf makinesi."
+   },
+   {
+    "speaker": "Anna",
+    "en": "What are those?",
+    "tr": "Şunlar ne?"
+   },
+   {
+    "speaker": "Ali",
+    "en": "Those are my books.",
+    "tr": "Onlar benim kitaplarım."
+   }
+  ]
+ },
+ "exercise_counts": {
+  "fill_blank": 6,
+  "multiple_choice": 4,
+  "match_pairs": 1,
+  "choose_correct_sentence": 3,
+  "build_sentence": 6,
+  "dictation": 2,
+  "type_translation": 2
+ },
+ "exercises": [
+  {
+   "id": "a1_gram_this_that_001",
+   "unit": "a1_unit_05_this_that",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "This ___ a pen.",
+   "sentence_tr": "Bu bir kalem.",
+   "options": [
+    "is",
+    "are",
+    "be",
+    "am"
+   ],
+   "answer": "is",
+   "explanation_tr": "“This” tekil olduğu için ardından “is” gelir."
+  },
+  {
+   "id": "a1_gram_this_that_002",
+   "unit": "a1_unit_05_this_that",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "These ___ books.",
+   "sentence_tr": "Bunlar kitaplar.",
+   "options": [
+    "are",
+    "be",
+    "am",
+    "is"
+   ],
+   "answer": "are",
+   "explanation_tr": "“These” çoğuldur; bu nedenle “are” kullanılır."
+  },
+  {
+   "id": "a1_gram_this_that_003",
+   "unit": "a1_unit_05_this_that",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "That ___ a chair.",
+   "sentence_tr": "Şu bir sandalye.",
+   "options": [
+    "be",
+    "is",
+    "are",
+    "am"
+   ],
+   "answer": "is",
+   "explanation_tr": "“That” tekil olduğu için “is” ile kullanılır."
+  },
+  {
+   "id": "a1_gram_this_that_004",
+   "unit": "a1_unit_05_this_that",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "What ___ this?",
+   "sentence_tr": "Bu ne?",
+   "options": [
+    "is",
+    "are",
+    "be",
+    "am"
+   ],
+   "answer": "is",
+   "explanation_tr": "“This” tekil olduğu için soruda “What is this?” deriz."
+  },
+  {
+   "id": "a1_gram_this_that_005",
+   "unit": "a1_unit_05_this_that",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "What ___ those?",
+   "sentence_tr": "Şunlar ne?",
+   "options": [
+    "are",
+    "is",
+    "am",
+    "be"
+   ],
+   "answer": "are",
+   "explanation_tr": "“Those” çoğuldur; soruda ardından “are” gelir."
+  },
+  {
+   "id": "a1_gram_this_that_006",
+   "unit": "a1_unit_05_this_that",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "Those ___ chairs.",
+   "sentence_tr": "Şunlar sandalyeler.",
+   "options": [
+    "am",
+    "is",
+    "are",
+    "be"
+   ],
+   "answer": "are",
+   "explanation_tr": "“Those” çoğul olduğu için “are” kullanılır."
+  },
+  {
+   "id": "a1_gram_this_that_007",
+   "unit": "a1_unit_05_this_that",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "That is a chair.",
+   "question_tr": "",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Şunlar sandalyeler.",
+    "Şu bir sandalye.",
+    "O bir elma.",
+    "Bu bir kitap."
+   ],
+   "answer": "Şu bir sandalye.",
+   "explanation_tr": "“That” uzaktaki tek bir şeyi gösterir ve Türkçeye “şu” diye çevrilebilir."
+  },
+  {
+   "id": "a1_gram_this_that_008",
+   "unit": "a1_unit_05_this_that",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "These are apples.",
+   "question_tr": "",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Şunlar kitaplar.",
+    "Bunlar elmalar.",
+    "Bu bir elma.",
+    "Bunlar sandalyeler."
+   ],
+   "answer": "Bunlar elmalar.",
+   "explanation_tr": "“These are” yakındaki birden fazla şeyi anlatır; “Bunlar” anlamına gelir."
+  },
+  {
+   "id": "a1_gram_this_that_009",
+   "unit": "a1_unit_05_this_that",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "",
+   "question_tr": "Bu ne?",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "What is this?",
+    "What are those?",
+    "What is these?",
+    "What are this?"
+   ],
+   "answer": "What is this?",
+   "explanation_tr": "“Bu” tekil olduğu için “this” ve “is” kullanılır."
+  },
+  {
+   "id": "a1_gram_this_that_010",
+   "unit": "a1_unit_05_this_that",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "",
+   "question_tr": "Şunlar ne?",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "What is those?",
+    "What are those?",
+    "What are that?",
+    "What is this?"
+   ],
+   "answer": "What are those?",
+   "explanation_tr": "“Şunlar” çoğul ve uzaktaki şeyleri anlatır; “those” ile “are” kullanılır."
+  },
+  {
+   "id": "a1_gram_this_that_011",
+   "unit": "a1_unit_05_this_that",
+   "type": "match_pairs",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Eşleştir.",
+   "pairs": [
+    {
+     "en": "this",
+     "tr": "bu"
+    },
+    {
+     "en": "that",
+     "tr": "şu"
+    },
+    {
+     "en": "these",
+     "tr": "bunlar"
+    },
+    {
+     "en": "those",
+     "tr": "şunlar"
+    },
+    {
+     "en": "What are those?",
+     "tr": "Şunlar ne?"
+    }
+   ],
+   "explanation_tr": "“This” ve “that” tekil; “these” ve “those” çoğul şeyleri gösterir."
+  },
+  {
+   "id": "a1_gram_this_that_012",
+   "unit": "a1_unit_05_this_that",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "These are books.",
+    "These is books.",
+    "This are books."
+   ],
+   "answer": "These are books.",
+   "explanation_tr": "“These” çoğuldur ve çoğul özneyle “are” kullanılır."
+  },
+  {
+   "id": "a1_gram_this_that_013",
+   "unit": "a1_unit_05_this_that",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "This is a pen.",
+   "word_bank": [
+    "pen",
+    "is",
+    "This",
+    "those",
+    "a",
+    "are",
+    "book"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Bu bir kalem.",
+   "explanation_tr": "Yakındaki tek bir nesne için “This is a…” kullanılır."
+  },
+  {
+   "id": "a1_gram_this_that_014",
+   "unit": "a1_unit_05_this_that",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "That is a chair.",
+   "word_bank": [
+    "these",
+    "are",
+    "That",
+    "is",
+    "chair",
+    "chairs",
+    "a"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Şu bir sandalye.",
+   "explanation_tr": "Uzakta olan tek bir nesne için “That is a…” kullanılır."
+  },
+  {
+   "id": "a1_gram_this_that_015",
+   "unit": "a1_unit_05_this_that",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "These are books.",
+   "word_bank": [
+    "this",
+    "books",
+    "are",
+    "is",
+    "These",
+    "book"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Bunlar kitaplar.",
+   "explanation_tr": "Yakındaki çoğul nesneler için “These are…” kullanılır."
+  },
+  {
+   "id": "a1_gram_this_that_016",
+   "unit": "a1_unit_05_this_that",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Those are red apples.",
+   "word_bank": [
+    "red",
+    "apples",
+    "are",
+    "Those",
+    "this",
+    "is",
+    "apple"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Şunlar kırmızı elmalar.",
+   "explanation_tr": "Uzakta olan çoğul nesneler için “Those are…” kullanılır."
+  },
+  {
+   "id": "a1_gram_this_that_017",
+   "unit": "a1_unit_05_this_that",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "This is a small bag.",
+   "word_bank": [
+    "is",
+    "are",
+    "those",
+    "small",
+    "bags",
+    "This",
+    "a",
+    "bag"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Bu küçük bir çanta.",
+   "explanation_tr": "“This” tekil ve yakındaki bir nesneyi gösterir; ardından “is” gelir."
+  },
+  {
+   "id": "a1_gram_this_that_018",
+   "unit": "a1_unit_05_this_that",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Those are yellow bananas.",
+   "word_bank": [
+    "are",
+    "yellow",
+    "is",
+    "this",
+    "bananas",
+    "Those",
+    "banana"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Şunlar sarı muzlar.",
+   "explanation_tr": "“Those” uzaktaki çoğul nesneleri gösterir ve “are” ile kullanılır."
+  },
+  {
+   "id": "a1_gram_this_that_019",
+   "unit": "a1_unit_05_this_that",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "This is an orange.",
+    "These is an orange.",
+    "This are an orange."
+   ],
+   "answer": "This is an orange.",
+   "explanation_tr": "“Orange” tekil olduğu için “This is” kullanılır."
+  },
+  {
+   "id": "a1_gram_this_that_020",
+   "unit": "a1_unit_05_this_that",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "Those is apples.",
+    "That are apples.",
+    "Those are apples."
+   ],
+   "answer": "Those are apples.",
+   "explanation_tr": "“Apples” çoğul olduğu için “Those are” kullanılır."
+  },
+  {
+   "id": "a1_gram_this_that_021",
+   "unit": "a1_unit_05_this_that",
+   "type": "dictation",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Duyduğun cümleyi yaz.",
+   "answer": "What is that?",
+   "word_bank": [
+    "that",
+    "is",
+    "are",
+    "book",
+    "What",
+    "these"
+   ],
+   "accepted_answers": [],
+   "sentence_tr": "Şu nedir?",
+   "audio_text": "What is that?",
+   "explanation_tr": "Tek bir nesne hakkında soru sorarken “What is that?” denir."
+  },
+  {
+   "id": "a1_gram_this_that_022",
+   "unit": "a1_unit_05_this_that",
+   "type": "dictation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Duyduğun cümleyi yaz.",
+   "answer": "What are these?",
+   "word_bank": [
+    "an",
+    "a",
+    "are",
+    "these",
+    "What",
+    "book"
+   ],
+   "accepted_answers": [],
+   "sentence_tr": "Bunlar nedir?",
+   "audio_text": "What are these?",
+   "explanation_tr": "Yakındaki birden fazla nesne hakkında soru sorarken “What are these?” kullanılır."
+  },
+  {
+   "id": "a1_gram_this_that_023",
+   "unit": "a1_unit_05_this_that",
+   "type": "type_translation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "İngilizceye çevir ve yaz.",
+   "prompt_tr": "Şunlar nedir?",
+   "answer": "What are those?",
+   "accepted_answers": [
+    "What are those"
+   ],
+   "explanation_tr": "Uzakta olan birden fazla nesne için “What are those?” diye sorulur."
+  },
+  {
+   "id": "a1_gram_this_that_024",
+   "unit": "a1_unit_05_this_that",
+   "type": "type_translation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "İngilizceye çevir ve yaz.",
+   "prompt_tr": "Bu nedir?",
+   "answer": "What is this?",
+   "accepted_answers": [
+    "What is this"
+   ],
+   "explanation_tr": "Yakındaki tek bir nesne hakkında soru sorarken “What is this?” denir."
+  }
+ ]
+}

@@ -1,0 +1,624 @@
+{
+ "unit_id": "a1_unit_11_possessive_s",
+ "slug": "possessive_s",
+ "order": 11,
+ "module": "m2",
+ "bonus_a1_plus": false,
+ "title_en": "Possessive 's and family",
+ "title_tr": "Tamlama 's ve aile",
+ "level": "A1",
+ "related_vocab_topics": [
+  "family_people"
+ ],
+ "lesson": {
+  "goal_tr": "Bu dersin sonunda kime ait olduğunu sorabilir ve aile üyelerinin eşyalarından söz edebilirsin.",
+  "sections": [
+   {
+    "heading_tr": "Tekil isimlerde sahiplik",
+    "explanation_tr": "Bir şeyin kime ait olduğunu belirtmek için sahibin adının sonuna ’s ekle, ardından eşyanın adını söyle. Örneğin, Ali’nin kitabı için “Ali’s book” dersin.",
+    "examples": [
+     {
+      "en": "This is Ali's book.",
+      "tr": "Bu, Ali’nin kitabı."
+     },
+     {
+      "en": "My mother's name is Ayse.",
+      "tr": "Annemin adı Ayşe."
+     }
+    ]
+   },
+   {
+    "heading_tr": "Çoğul isimlerle sahiplik",
+    "explanation_tr": "Çoğul isim -s ile bitiyorsa sahiplik için sona yalnızca kesme işareti (’) ekle: “brothers’”. “Children” gibi düzensiz çoğul isimlere ise ’s eklenir: “children’s”.",
+    "examples": [
+     {
+      "en": "My brother's room is big.",
+      "tr": "Erkek kardeşimin odası büyük."
+     },
+     {
+      "en": "My brothers' room is big.",
+      "tr": "Erkek kardeşlerimin odası büyük."
+     },
+     {
+      "en": "The children's room is big.",
+      "tr": "Çocukların odası büyük."
+     }
+    ]
+   },
+   {
+    "heading_tr": "Kime ait olduğunu sorma",
+    "explanation_tr": "Bir şeyin kime ait olduğunu sormak için “Whose is this?” diyebilirsin. Kısa cevapta eşyanın adını söylemeden de “It’s Tom’s.” diye yanıt verebilirsin.",
+    "examples": [
+     {
+      "en": "Whose is this? It's Tom's.",
+      "tr": "Bu kimin? Tom’un."
+     },
+     {
+      "en": "Whose book is this? It's Tom's.",
+      "tr": "Bu kimin kitabı? Tom’un."
+     }
+    ]
+   }
+  ],
+  "key_patterns": [
+   {
+    "pattern": "sahip + 's + eşya",
+    "example_en": "This is Ali's book.",
+    "example_tr": "Bu, Ali’nin kitabı."
+   },
+   {
+    "pattern": "çoğul isim -s + ' + eşya",
+    "example_en": "My brothers' room is big.",
+    "example_tr": "Erkek kardeşlerimin odası büyük."
+   },
+   {
+    "pattern": "children + 's + eşya",
+    "example_en": "The children's room is big.",
+    "example_tr": "Çocukların odası büyük."
+   },
+   {
+    "pattern": "Whose + is + this? — It's + sahibin adı + 's.",
+    "example_en": "Whose is this? It's Tom's.",
+    "example_tr": "Bu kimin? Tom’un."
+   }
+  ],
+  "turkish_speaker_tips_tr": [
+   "Türkçede sahiplik eklerle kurulur; İngilizcede sahibin adından sonra ’s gelir ve eşyanın adı onun ardından söylenir.",
+   "Türkçede “Bu kimin?” deriz; İngilizcede soru sırası “Whose is this?” şeklindedir.",
+   "Çoğul eki -s ile sahiplik aynı şey değildir: “brothers” erkek kardeşler, “brothers’ room” erkek kardeşlerin odası demektir."
+  ],
+  "common_mistakes": [
+   {
+    "wrong": "Ali book is big.",
+    "correct": "Ali's book is big.",
+    "note_tr": "Sahibi belirtirken Ali’den sonra ’s ekle."
+   },
+   {
+    "wrong": "My mothers name is Ayse.",
+    "correct": "My mother's name is Ayse.",
+    "note_tr": "Tekil “mother” sözcüğünden sonra sahiplik için ’s kullan."
+   },
+   {
+    "wrong": "The childrens' room is big.",
+    "correct": "The children's room is big.",
+    "note_tr": "“Children” çoğulunun sonunda -s yoktur; sahiplik için ’s eklenir."
+   },
+   {
+    "wrong": "Whose this is?",
+    "correct": "Whose is this?",
+    "note_tr": "Bu soruda “is”, “this” sözcüğünden önce gelir."
+   }
+  ],
+  "mini_dialogue": [
+   {
+    "speaker": "Ali",
+    "en": "Whose book is this?",
+    "tr": "Bu kimin kitabı?"
+   },
+   {
+    "speaker": "Anna",
+    "en": "It's Tom's.",
+    "tr": "Tom’un."
+   },
+   {
+    "speaker": "Ali",
+    "en": "Is this your mother's bag?",
+    "tr": "Bu annenin çantası mı?"
+   },
+   {
+    "speaker": "Anna",
+    "en": "No, it's my sister's.",
+    "tr": "Hayır, kız kardeşimin."
+   },
+   {
+    "speaker": "Ali",
+    "en": "Where is the children's room?",
+    "tr": "Çocukların odası nerede?"
+   },
+   {
+    "speaker": "Anna",
+    "en": "It's here.",
+    "tr": "Burada."
+   }
+  ]
+ },
+ "exercise_counts": {
+  "fill_blank": 6,
+  "multiple_choice": 4,
+  "match_pairs": 1,
+  "choose_correct_sentence": 3,
+  "build_sentence": 6,
+  "dictation": 2,
+  "type_translation": 2
+ },
+ "exercises": [
+  {
+   "id": "a1_gram_possessive_s_001",
+   "unit": "a1_unit_11_possessive_s",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "This is ___ book.",
+   "sentence_tr": "Bu Ali'nin kitabı.",
+   "options": [
+    "Ali",
+    "Ali'",
+    "Ali is",
+    "Ali's"
+   ],
+   "answer": "Ali's",
+   "explanation_tr": "Bir kişinin sahip olduğu şeyi belirtirken isme 's ekleriz."
+  },
+  {
+   "id": "a1_gram_possessive_s_002",
+   "unit": "a1_unit_11_possessive_s",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "My ___ name is Anna.",
+   "sentence_tr": "Annemin adı Anna.",
+   "options": [
+    "mothers'",
+    "mother",
+    "mother's",
+    "mothers"
+   ],
+   "answer": "mother's",
+   "explanation_tr": "Tekil olan mother sözcüğüne sahiplik için 's eklenir."
+  },
+  {
+   "id": "a1_gram_possessive_s_003",
+   "unit": "a1_unit_11_possessive_s",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "This is ___ bag.",
+   "sentence_tr": "Bu Zeynep'in çantası.",
+   "options": [
+    "Zeynep'",
+    "Zeyneps",
+    "Zeynep's",
+    "Zeynep"
+   ],
+   "answer": "Zeynep's",
+   "explanation_tr": "Zeynep'in çantası demek için Zeynep's bag deriz."
+  },
+  {
+   "id": "a1_gram_possessive_s_004",
+   "unit": "a1_unit_11_possessive_s",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "My ___ room is big.",
+   "sentence_tr": "Erkek kardeşlerimin odası büyük.",
+   "options": [
+    "brothers'",
+    "brothers",
+    "brother's",
+    "brother"
+   ],
+   "answer": "brothers'",
+   "explanation_tr": "Çoğul isim -s ile bitiyorsa sahiplik için sonuna yalnızca kesme işareti eklenir."
+  },
+  {
+   "id": "a1_gram_possessive_s_005",
+   "unit": "a1_unit_11_possessive_s",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "Whose is this? It's ___.",
+   "sentence_tr": "Bu kimin? Tom'un.",
+   "options": [
+    "Tom is",
+    "Tom's",
+    "Toms",
+    "Tom"
+   ],
+   "answer": "Tom's",
+   "explanation_tr": "Whose sorusuna sahibin adı ve 's ile cevap verebiliriz."
+  },
+  {
+   "id": "a1_gram_possessive_s_006",
+   "unit": "a1_unit_11_possessive_s",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "The ___ room is clean.",
+   "sentence_tr": "Çocukların odası temiz.",
+   "options": [
+    "children's",
+    "child's",
+    "children",
+    "childrens"
+   ],
+   "answer": "children's",
+   "explanation_tr": "Children düzensiz çoğuldur; sahiplik belirtirken children'a 's eklenir."
+  },
+  {
+   "id": "a1_gram_possessive_s_007",
+   "unit": "a1_unit_11_possessive_s",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "This is Ali's book.",
+   "question_tr": "",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Bu Ali'nin çantası.",
+    "Bu Ali'nin kitabı.",
+    "Bu Ali'nin kardeşi.",
+    "Bu Ali'nin odası."
+   ],
+   "answer": "Bu Ali'nin kitabı.",
+   "explanation_tr": "Ali's book, Ali'nin kitabı demektir; 's sahiplik belirtir."
+  },
+  {
+   "id": "a1_gram_possessive_s_008",
+   "unit": "a1_unit_11_possessive_s",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "My mother's name is Sara.",
+   "question_tr": "",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Annemin çantası Sara.",
+    "Kız kardeşimin adı Sara.",
+    "Sara'nın annesinin adı.",
+    "Annemin adı Sara."
+   ],
+   "answer": "Annemin adı Sara.",
+   "explanation_tr": "Mother's name, annemin adı anlamına gelir."
+  },
+  {
+   "id": "a1_gram_possessive_s_009",
+   "unit": "a1_unit_11_possessive_s",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "",
+   "question_tr": "Babamın adı Mehmet.",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "My father's name is Mehmet.",
+    "My fathers' name is Mehmet.",
+    "My mother's name is Mehmet.",
+    "My father name is Mehmet."
+   ],
+   "answer": "My father's name is Mehmet.",
+   "explanation_tr": "Tekil father sözcüğüne sahiplik için 's eklenir: father's."
+  },
+  {
+   "id": "a1_gram_possessive_s_010",
+   "unit": "a1_unit_11_possessive_s",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "",
+   "question_tr": "Bu Emma'nın kitabı.",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "This is Emma book.",
+    "This is Emma's room.",
+    "This is Emma's book.",
+    "This is Emmas' book."
+   ],
+   "answer": "This is Emma's book.",
+   "explanation_tr": "Emma'nın kitabı ifadesinde sahip olan Emma'ya 's eklenir."
+  },
+  {
+   "id": "a1_gram_possessive_s_011",
+   "unit": "a1_unit_11_possessive_s",
+   "type": "match_pairs",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Eşleştir.",
+   "pairs": [
+    {
+     "en": "mother",
+     "tr": "anne"
+    },
+    {
+     "en": "father",
+     "tr": "baba"
+    },
+    {
+     "en": "brother",
+     "tr": "erkek kardeş"
+    },
+    {
+     "en": "sister",
+     "tr": "kız kardeş"
+    },
+    {
+     "en": "children's room",
+     "tr": "çocukların odası"
+    }
+   ],
+   "explanation_tr": "Bu sözcükler aile üyelerini ve çocuklara ait odayı anlatır."
+  },
+  {
+   "id": "a1_gram_possessive_s_012",
+   "unit": "a1_unit_11_possessive_s",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "The children room is big.",
+    "The children's room is big.",
+    "The childrens' room is big."
+   ],
+   "answer": "The children's room is big.",
+   "explanation_tr": "Children düzensiz çoğuldur ve sahiplik biçimi children's olur."
+  },
+  {
+   "id": "a1_gram_possessive_s_013",
+   "unit": "a1_unit_11_possessive_s",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "This is Ali's book.",
+   "word_bank": [
+    "her",
+    "is",
+    "book",
+    "big",
+    "name",
+    "This",
+    "Ali's"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Bu Ali'nin kitabı.",
+   "explanation_tr": "Tek bir kişiye ait bir şeyden söz ederken sahibin adına 's eklenir."
+  },
+  {
+   "id": "a1_gram_possessive_s_014",
+   "unit": "a1_unit_11_possessive_s",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Anna's bag is big.",
+   "word_bank": [
+    "big",
+    "my",
+    "Anna's",
+    "bag",
+    "room",
+    "is",
+    "are"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Anna'nın çantası büyük.",
+   "explanation_tr": "Anna'ya ait çanta için Anna's kullanılır."
+  },
+  {
+   "id": "a1_gram_possessive_s_015",
+   "unit": "a1_unit_11_possessive_s",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "My mother's name is Anna.",
+   "word_bank": [
+    "is",
+    "room",
+    "father",
+    "Anna",
+    "name",
+    "big",
+    "My",
+    "mother's"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Annemin adı Anna.",
+   "explanation_tr": "Anne anlamındaki mother kelimesine sahiplik bildiren 's eklenir."
+  },
+  {
+   "id": "a1_gram_possessive_s_016",
+   "unit": "a1_unit_11_possessive_s",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "My brothers' room is big.",
+   "word_bank": [
+    "are",
+    "big",
+    "the",
+    "room",
+    "is",
+    "My",
+    "sister",
+    "brothers'"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Erkek kardeşlerimin odası büyük.",
+   "explanation_tr": "Düzenli çoğul isim -s ile biter; sahiplik için sonuna yalnızca kesme işareti eklenir."
+  },
+  {
+   "id": "a1_gram_possessive_s_017",
+   "unit": "a1_unit_11_possessive_s",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "The children's room is big.",
+   "word_bank": [
+    "The",
+    "children's",
+    "big",
+    "are",
+    "is",
+    "brothers",
+    "room",
+    "my"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Çocukların odası büyük.",
+   "explanation_tr": "Children düzensiz bir çoğuldur ve -s ile bitmez; sahiplik için 's eklenir."
+  },
+  {
+   "id": "a1_gram_possessive_s_018",
+   "unit": "a1_unit_11_possessive_s",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Whose is this? It's Tom's.",
+   "word_bank": [
+    "Anna",
+    "is",
+    "Whose",
+    "Tom's",
+    "It's",
+    "book",
+    "are",
+    "this"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Bu kimin? Tom'un.",
+   "explanation_tr": "Bir şeyin kime ait olduğunu sormak için Whose is this? denir; yanıt sahibin adı ve 's ile verilebilir."
+  },
+  {
+   "id": "a1_gram_possessive_s_019",
+   "unit": "a1_unit_11_possessive_s",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "My parents's room is big.",
+    "My parents room is big.",
+    "My parents' room is big."
+   ],
+   "answer": "My parents' room is big.",
+   "explanation_tr": "Parents çoğulunda sahiplik, sona yalnızca kesme işareti eklenerek gösterilir."
+  },
+  {
+   "id": "a1_gram_possessive_s_020",
+   "unit": "a1_unit_11_possessive_s",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "The childrens' room is big.",
+    "The children's room are big.",
+    "The children's room is big."
+   ],
+   "answer": "The children's room is big.",
+   "explanation_tr": "Children düzensiz çoğuldur; sahiplik biçimi children's olur. Cümlenin öznesi room olduğu için is kullanılır."
+  },
+  {
+   "id": "a1_gram_possessive_s_021",
+   "unit": "a1_unit_11_possessive_s",
+   "type": "dictation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Duyduğun cümleyi yaz.",
+   "answer": "This is Tom's book.",
+   "word_bank": [
+    "Anna",
+    "Tom's",
+    "book",
+    "This",
+    "big",
+    "is",
+    "room"
+   ],
+   "accepted_answers": [],
+   "sentence_tr": "Bu Tom'un kitabı.",
+   "audio_text": "This is Tom's book.",
+   "explanation_tr": "Tom'a ait kitabı anlatırken Tom's book denir."
+  },
+  {
+   "id": "a1_gram_possessive_s_022",
+   "unit": "a1_unit_11_possessive_s",
+   "type": "dictation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Duyduğun cümleyi yaz.",
+   "answer": "My sister's name is Anna.",
+   "word_bank": [
+    "name",
+    "sister's",
+    "is",
+    "brother",
+    "are",
+    "My",
+    "book",
+    "Anna"
+   ],
+   "accepted_answers": [],
+   "sentence_tr": "Kız kardeşimin adı Anna.",
+   "audio_text": "My sister's name is Anna.",
+   "explanation_tr": "Kız kardeşime ait ad için sister kelimesine 's eklenir."
+  },
+  {
+   "id": "a1_gram_possessive_s_023",
+   "unit": "a1_unit_11_possessive_s",
+   "type": "type_translation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "İngilizceye çevir ve yaz.",
+   "prompt_tr": "Bu kimin? Ali'nin.",
+   "answer": "Whose is this? It's Ali's.",
+   "accepted_answers": [
+    "Whose is this? It is Ali's."
+   ],
+   "explanation_tr": "Whose is this? sahiplik sorusudur; yanıt Ali's biçiminde verilebilir."
+  },
+  {
+   "id": "a1_gram_possessive_s_024",
+   "unit": "a1_unit_11_possessive_s",
+   "type": "type_translation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "İngilizceye çevir ve yaz.",
+   "prompt_tr": "Kız kardeşlerimin odası büyük.",
+   "answer": "My sisters' room is big.",
+   "accepted_answers": [],
+   "explanation_tr": "Düzenli çoğul sisters kelimesinde sahiplik kesme işaretiyle gösterilir."
+  }
+ ]
+}

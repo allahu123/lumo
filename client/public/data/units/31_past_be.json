@@ -1,0 +1,615 @@
+{
+ "unit_id": "a1_unit_31_past_be",
+ "slug": "past_be",
+ "order": 31,
+ "module": "m8",
+ "bonus_a1_plus": true,
+ "title_en": "Past of be: was and were (bonus A1+)",
+ "title_tr": "Be fiilinin geçmişi: was / were (bonus A1+)",
+ "level": "A1",
+ "related_vocab_topics": [
+  "daily_verbs",
+  "numbers_time"
+ ],
+ "lesson": {
+  "goal_tr": "Bu dersin sonunda geçmişte nerede olduğunu veya nasıl hissettiğini was/were ile anlatabilir ve soru sorabilirsin.",
+  "sections": [
+   {
+    "heading_tr": "Olumlu cümleler",
+    "explanation_tr": "I, he, she ve it ile was; you, we ve they ile were kullanılır. Was/were, Türkçedeki “idi” anlamını verebilir: I was tired = Yorgundum.",
+    "examples": [
+     {
+      "en": "I was at home yesterday.",
+      "tr": "Dün evdeydim."
+     },
+     {
+      "en": "They were happy last week.",
+      "tr": "Geçen hafta mutluydular."
+     }
+    ]
+   },
+   {
+    "heading_tr": "Olumsuz cümleler",
+    "explanation_tr": "Olumsuz yapmak için was veya were sonuna not eklenir. Kısa biçimleri wasn't ve weren't şeklindedir.",
+    "examples": [
+     {
+      "en": "She wasn't at school yesterday.",
+      "tr": "Dün okulda değildi."
+     },
+     {
+      "en": "We weren't busy.",
+      "tr": "Meşgul değildik."
+     }
+    ]
+   },
+   {
+    "heading_tr": "Sorular ve zaman ifadeleri",
+    "explanation_tr": "Soru sorarken was veya were cümlenin başına gelir. Yesterday “dün”, last week “geçen hafta”, ago ise “önce” anlamına gelir.",
+    "examples": [
+     {
+      "en": "Was he at home yesterday?",
+      "tr": "Dün evde miydi?"
+     },
+     {
+      "en": "Were you busy last week?",
+      "tr": "Geçen hafta meşgul müydün?"
+     }
+    ]
+   }
+  ],
+  "key_patterns": [
+   {
+    "pattern": "I / he / she / it + was + ...",
+    "example_en": "She was happy yesterday.",
+    "example_tr": "Dün mutluydu."
+   },
+   {
+    "pattern": "You / we / they + were + ...",
+    "example_en": "They were at home last week.",
+    "example_tr": "Geçen hafta evdeydiler."
+   },
+   {
+    "pattern": "Was + he / she / it + ...?",
+    "example_en": "Was he at home yesterday?",
+    "example_tr": "Dün evde miydi?"
+   },
+   {
+    "pattern": "Were + you / we / they + ...?",
+    "example_en": "Were you tired last night?",
+    "example_tr": "Dün gece yorgun muydun?"
+   }
+  ],
+  "turkish_speaker_tips_tr": [
+   "Türkçede “Dün evdeydim” derken ayrı bir “idi” sözcüğü kullanmayız; İngilizcede ise I was demek gerekir.",
+   "İngilizcede özneyi genellikle söylemek gerekir: “Yorgundum” için I was tired denir.",
+   "Türkçedeki “o” cinsiyet belirtmez; İngilizcede kişi için he veya she, nesne ya da hayvan için it kullanılır.",
+   "İngilizcede soru yaparken was/were öznenin önüne geçer: Were you...? Türkçede soru eki cümlenin sonunda bulunur."
+  ],
+  "common_mistakes": [
+   {
+    "wrong": "I were at home yesterday.",
+    "correct": "I was at home yesterday.",
+    "note_tr": "I ile were değil, was kullanılır."
+   },
+   {
+    "wrong": "They was happy.",
+    "correct": "They were happy.",
+    "note_tr": "They ile were kullanılır."
+   },
+   {
+    "wrong": "Did you were at home?",
+    "correct": "Were you at home?",
+    "note_tr": "Was/were ile soru yaparken başa did getirilmez; was veya were başa alınır."
+   }
+  ],
+  "mini_dialogue": [
+   {
+    "speaker": "Anna",
+    "en": "Were you at the park yesterday?",
+    "tr": "Dün parkta mıydın?"
+   },
+   {
+    "speaker": "Ali",
+    "en": "No, I wasn't. I was at home.",
+    "tr": "Hayır, değildim. Evdeydim."
+   },
+   {
+    "speaker": "Anna",
+    "en": "Was Tom with you?",
+    "tr": "Tom seninle miydi?"
+   },
+   {
+    "speaker": "Ali",
+    "en": "No, he wasn't. He was at work.",
+    "tr": "Hayır, değildi. İşteydi."
+   }
+  ]
+ },
+ "exercise_counts": {
+  "fill_blank": 6,
+  "multiple_choice": 4,
+  "match_pairs": 1,
+  "choose_correct_sentence": 3,
+  "build_sentence": 6,
+  "dictation": 2,
+  "type_translation": 2
+ },
+ "exercises": [
+  {
+   "id": "a1_gram_past_be_001",
+   "unit": "a1_unit_31_past_be",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "She ___ happy yesterday.",
+   "sentence_tr": "Dün mutluydu.",
+   "options": [
+    "are",
+    "is",
+    "was",
+    "were"
+   ],
+   "answer": "was",
+   "explanation_tr": "She ile geçmişte was kullanılır."
+  },
+  {
+   "id": "a1_gram_past_be_002",
+   "unit": "a1_unit_31_past_be",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "They ___ at home last week.",
+   "sentence_tr": "Geçen hafta evdeydiler.",
+   "options": [
+    "is",
+    "was",
+    "are",
+    "were"
+   ],
+   "answer": "were",
+   "explanation_tr": "They ile geçmişte were kullanılır."
+  },
+  {
+   "id": "a1_gram_past_be_003",
+   "unit": "a1_unit_31_past_be",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "I ___ tired last night.",
+   "sentence_tr": "Dün gece yorgundum.",
+   "options": [
+    "was",
+    "am",
+    "were",
+    "be"
+   ],
+   "answer": "was",
+   "explanation_tr": "I ile be fiilinin geçmiş biçimi was olur."
+  },
+  {
+   "id": "a1_gram_past_be_004",
+   "unit": "a1_unit_31_past_be",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "___ he at home yesterday?",
+   "sentence_tr": "Dün evde miydi?",
+   "options": [
+    "Were",
+    "Was",
+    "Is",
+    "Are"
+   ],
+   "answer": "Was",
+   "explanation_tr": "He ile soru kurarken cümlenin başında Was kullanılır."
+  },
+  {
+   "id": "a1_gram_past_be_005",
+   "unit": "a1_unit_31_past_be",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "They ___ at school last Monday.",
+   "sentence_tr": "Geçen pazartesi okulda değillerdi.",
+   "options": [
+    "aren't",
+    "weren't",
+    "wasn't",
+    "weren"
+   ],
+   "answer": "weren't",
+   "explanation_tr": "They ile olumsuz geçmiş biçim weren't kullanılır."
+  },
+  {
+   "id": "a1_gram_past_be_006",
+   "unit": "a1_unit_31_past_be",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "Tom ___ at the airport two hours ago.",
+   "sentence_tr": "Tom iki saat önce havaalanındaydı.",
+   "options": [
+    "was",
+    "were",
+    "are",
+    "is"
+   ],
+   "answer": "was",
+   "explanation_tr": "Tom, he yerine geçtiği için geçmişte was ile kullanılır."
+  },
+  {
+   "id": "a1_gram_past_be_007",
+   "unit": "a1_unit_31_past_be",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "We were in London last year.",
+   "question_tr": "",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Geçen yıl Londra'daydık.",
+    "Geçen yıl Londra'da olacağız.",
+    "Geçen yıl Londra'daydı.",
+    "Gelecek yıl Londra'daydık."
+   ],
+   "answer": "Geçen yıl Londra'daydık.",
+   "explanation_tr": "We ile were kullanılır; last year ise geçen yılı anlatır."
+  },
+  {
+   "id": "a1_gram_past_be_008",
+   "unit": "a1_unit_31_past_be",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "Was Anna at the museum yesterday?",
+   "question_tr": "",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Anna dün müzede miydi?",
+    "Anna dün evde miydi?",
+    "Anna yarın müzede mi olacak?",
+    "Anna dün müzede değildi."
+   ],
+   "answer": "Anna dün müzede miydi?",
+   "explanation_tr": "Was ile başlayan soru, Anna'nın geçmişte müzede olup olmadığını sorar."
+  },
+  {
+   "id": "a1_gram_past_be_009",
+   "unit": "a1_unit_31_past_be",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "",
+   "question_tr": "Lisa geçen hafta evde değildi.",
+   "sentence_en": "",
+   "sentence_tr": "Lisa geçen hafta evde değildi.",
+   "options": [
+    "Lisa weren't at home last week.",
+    "Lisa isn't at home last week.",
+    "Lisa wasn't at home last week.",
+    "Lisa was at home last week."
+   ],
+   "answer": "Lisa wasn't at home last week.",
+   "explanation_tr": "Lisa ile olumsuz geçmiş biçim wasn't kullanılır; last week geçmiş zamanı belirtir."
+  },
+  {
+   "id": "a1_gram_past_be_010",
+   "unit": "a1_unit_31_past_be",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "",
+   "question_tr": "Dün sabah okulda mıydın?",
+   "sentence_en": "",
+   "sentence_tr": "Dün sabah okulda mıydın?",
+   "options": [
+    "Are you at school yesterday morning?",
+    "Were he at school yesterday morning?",
+    "Were you at school yesterday morning?",
+    "Was you at school yesterday morning?"
+   ],
+   "answer": "Were you at school yesterday morning?",
+   "explanation_tr": "You ile geçmiş zaman sorusu Were ile kurulur."
+  },
+  {
+   "id": "a1_gram_past_be_011",
+   "unit": "a1_unit_31_past_be",
+   "type": "match_pairs",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Eşleştir.",
+   "pairs": [
+    {
+     "en": "was happy",
+     "tr": "mutluydu"
+    },
+    {
+     "en": "were at home",
+     "tr": "evdeydiler"
+    },
+    {
+     "en": "wasn't tired",
+     "tr": "yorgun değildi"
+    },
+    {
+     "en": "weren't at school",
+     "tr": "okulda değillerdi"
+    },
+    {
+     "en": "last night",
+     "tr": "dün gece"
+    }
+   ],
+   "explanation_tr": "Was ve were geçmişteki durumları anlatır; wasn't ve weren't olumsuz biçimleridir."
+  },
+  {
+   "id": "a1_gram_past_be_012",
+   "unit": "a1_unit_31_past_be",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "Dün gece yorgunduk.",
+   "options": [
+    "We are tired last night.",
+    "We were tired last night.",
+    "We was tired last night."
+   ],
+   "answer": "We were tired last night.",
+   "explanation_tr": "We ile geçmiş zamanda were kullanılır; last night geçmiş zamanı gösterir."
+  },
+  {
+   "id": "a1_gram_past_be_013",
+   "unit": "a1_unit_31_past_be",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "I was happy yesterday.",
+   "word_bank": [
+    "I",
+    "yesterday",
+    "green",
+    "happy",
+    "was",
+    "dog",
+    "book"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Ben dün mutluydum.",
+   "explanation_tr": "I ile geçmişte be fiili was kullanılır."
+  },
+  {
+   "id": "a1_gram_past_be_014",
+   "unit": "a1_unit_31_past_be",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Anna was at home last week.",
+   "word_bank": [
+    "week",
+    "Anna",
+    "at",
+    "blue",
+    "cat",
+    "home",
+    "was",
+    "last",
+    "bus"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Anna geçen hafta evdeydi.",
+   "explanation_tr": "Anna için was kullanılır; last week, geçen haftayı anlatır."
+  },
+  {
+   "id": "a1_gram_past_be_015",
+   "unit": "a1_unit_31_past_be",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "We were tired after lunch.",
+   "word_bank": [
+    "tired",
+    "were",
+    "after",
+    "airport",
+    "bird",
+    "milk",
+    "lunch",
+    "We"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Öğle yemeğinden sonra yorgunduk.",
+   "explanation_tr": "We ile geçmişte be fiili were kullanılır."
+  },
+  {
+   "id": "a1_gram_past_be_016",
+   "unit": "a1_unit_31_past_be",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Was Tom at home last night?",
+   "word_bank": [
+    "last",
+    "Tom",
+    "home",
+    "dog",
+    "night",
+    "at",
+    "were",
+    "book",
+    "Was"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Tom dün gece evde miydi?",
+   "explanation_tr": "Tom için soru Was ile başlar."
+  },
+  {
+   "id": "a1_gram_past_be_017",
+   "unit": "a1_unit_31_past_be",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Were you at the beach yesterday?",
+   "word_bank": [
+    "the",
+    "at",
+    "Were",
+    "beach",
+    "camera",
+    "was",
+    "you",
+    "yesterday",
+    "green"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Siz dün sahilde miydiniz?",
+   "explanation_tr": "You ile geçmiş zaman sorusu Were ile başlar."
+  },
+  {
+   "id": "a1_gram_past_be_018",
+   "unit": "a1_unit_31_past_be",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Ali wasn't at school two days ago.",
+   "word_bank": [
+    "wasn't",
+    "days",
+    "at",
+    "were",
+    "ago",
+    "bus",
+    "school",
+    "two",
+    "Ali",
+    "happy"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Ali iki gün önce okulda değildi.",
+   "explanation_tr": "Ali için olumsuz geçmiş be biçimi wasn't kullanılır."
+  },
+  {
+   "id": "a1_gram_past_be_019",
+   "unit": "a1_unit_31_past_be",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "She was cold yesterday.",
+    "She was be cold yesterday.",
+    "She were cold yesterday."
+   ],
+   "answer": "She was cold yesterday.",
+   "explanation_tr": "She ile was kullanılır; was be birlikte kullanılmaz."
+  },
+  {
+   "id": "a1_gram_past_be_020",
+   "unit": "a1_unit_31_past_be",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "Were they was at the airport last week?",
+    "Was they at the airport last week?",
+    "Were they at the airport last week?"
+   ],
+   "answer": "Were they at the airport last week?",
+   "explanation_tr": "They ile soru Were ile kurulur; özne ve fiille birlikte was kullanılmaz."
+  },
+  {
+   "id": "a1_gram_past_be_021",
+   "unit": "a1_unit_31_past_be",
+   "type": "dictation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Duyduğun cümleyi yaz.",
+   "answer": "Mark was at home.",
+   "word_bank": [
+    "at",
+    "Mark",
+    "was",
+    "were",
+    "home",
+    "airport",
+    "green"
+   ],
+   "accepted_answers": [],
+   "sentence_tr": "Mark evdeydi.",
+   "audio_text": "Mark was at home.",
+   "explanation_tr": "Mark tekil olduğu için was kullanılır."
+  },
+  {
+   "id": "a1_gram_past_be_022",
+   "unit": "a1_unit_31_past_be",
+   "type": "dictation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Duyduğun cümleyi yaz.",
+   "answer": "Were you tired last night?",
+   "word_bank": [
+    "school",
+    "tired",
+    "you",
+    "last",
+    "night",
+    "Were",
+    "was",
+    "happy"
+   ],
+   "accepted_answers": [],
+   "sentence_tr": "Dün gece yorgun muydun?",
+   "audio_text": "Were you tired last night?",
+   "explanation_tr": "You ile geçmiş zaman sorusu Were ile başlar."
+  },
+  {
+   "id": "a1_gram_past_be_023",
+   "unit": "a1_unit_31_past_be",
+   "type": "type_translation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "İngilizceye çevir ve yaz.",
+   "prompt_tr": "Geçen hafta evdeydik.",
+   "answer": "We were at home last week.",
+   "accepted_answers": [
+    "We were home last week."
+   ],
+   "explanation_tr": "We ile were kullanılır; last week geçmiş zamanı belirtir."
+  },
+  {
+   "id": "a1_gram_past_be_024",
+   "unit": "a1_unit_31_past_be",
+   "type": "type_translation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "İngilizceye çevir ve yaz.",
+   "prompt_tr": "Dün gece evde değildim.",
+   "answer": "I wasn't at home last night.",
+   "accepted_answers": [
+    "I was not at home last night."
+   ],
+   "explanation_tr": "I ile olumsuz geçmiş be biçimi wasn't olur."
+  }
+ ]
+}

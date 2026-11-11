@@ -1,0 +1,614 @@
+{
+ "unit_id": "a1_unit_30_comparisons",
+ "slug": "comparisons",
+ "order": 30,
+ "module": "m8",
+ "bonus_a1_plus": true,
+ "title_en": "Simple comparisons (bonus A1+)",
+ "title_tr": "Basit karşılaştırmalar (bonus A1+)",
+ "level": "A1",
+ "related_vocab_topics": [
+  "adjectives_description"
+ ],
+ "lesson": {
+  "goal_tr": "Kısa sıfatlarla iki şeyi karşılaştırabilir, eşitlik anlatabilir ve bir şeyin en üstün olduğunu söyleyebilirsin.",
+  "sections": [
+   {
+    "heading_tr": "Kısa sıfatlarla karşılaştırma",
+    "explanation_tr": "Kısa sıfatların çoğuna -er ekleyip ardından than kullanırız. Big gibi bazı sıfatlarda son harf iki kez yazılır: big → bigger.",
+    "examples": [
+     {
+      "en": "A car is bigger than a bike.",
+      "tr": "Bir araba bisikletten daha büyüktür."
+     },
+     {
+      "en": "Tom is taller than Ali.",
+      "tr": "Tom, Ali'den daha uzundur."
+     }
+    ]
+   },
+   {
+    "heading_tr": "Eşitlik ve en üstünlük",
+    "explanation_tr": "İki şeyin aynı özellikte olduğunu söylemek için as + sıfat + as kullanırız. Bir gruptaki en üstün şeyi anlatırken sıfatın önüne the koyup genellikle -est ekleriz: big → the biggest.",
+    "examples": [
+     {
+      "en": "This box is as big as that box.",
+      "tr": "Bu kutu o kutu kadar büyük."
+     },
+     {
+      "en": "This is the biggest room.",
+      "tr": "Bu en büyük oda."
+     }
+    ]
+   },
+   {
+    "heading_tr": "Good sıfatının özel biçimleri",
+    "explanation_tr": "Good sıfatı kurala uymaz: karşılaştırmada better, en üstünlükte the best kullanılır. Better'dan sonra karşılaştırılan şeyi belirtmek için than gelir.",
+    "examples": [
+     {
+      "en": "This book is better than that book.",
+      "tr": "Bu kitap o kitaptan daha iyi."
+     },
+     {
+      "en": "This is the best book.",
+      "tr": "Bu en iyi kitap."
+     }
+    ]
+   }
+  ],
+  "key_patterns": [
+   {
+    "pattern": "A + is + sıfat-er + than + B",
+    "example_en": "A cat is smaller than a dog.",
+    "example_tr": "Bir kedi bir köpekten daha küçüktür."
+   },
+   {
+    "pattern": "A + is + as + sıfat + as + B",
+    "example_en": "Ali is as tall as Tom.",
+    "example_tr": "Ali, Tom kadar uzundur."
+   },
+   {
+    "pattern": "A + is + the + sıfat-est",
+    "example_en": "This is the biggest room.",
+    "example_tr": "Bu en büyük oda."
+   },
+   {
+    "pattern": "good → better → the best",
+    "example_en": "This is the best book.",
+    "example_tr": "Bu en iyi kitap."
+   }
+  ],
+  "turkish_speaker_tips_tr": [
+   "Türkçede karşılaştırma eki sözcüğe eklenir: “bisikletten daha büyük.” İngilizcede sıfatın ardından ayrı bir sözcük olarak than gelir.",
+   "As ... as yapısı Türkçedeki “... kadar” anlamına gelir; iki as sözcüğünü de kullanmayı unutma.",
+   "İngilizcede en üstünlük biçiminde sıfatın önüne the gelir: the biggest. Türkçede bunun karşılığı genellikle sıfatın önüne gelen “en”dir."
+  ],
+  "common_mistakes": [
+   {
+    "wrong": "A car is more big than a bike.",
+    "correct": "A car is bigger than a bike.",
+    "note_tr": "Big kısa bir sıfattır; more big değil, bigger kullanılır."
+   },
+   {
+    "wrong": "A car is bigger a bike.",
+    "correct": "A car is bigger than a bike.",
+    "note_tr": "Karşılaştırılan iki şey arasında than gerekir."
+   },
+   {
+    "wrong": "This is biggest room.",
+    "correct": "This is the biggest room.",
+    "note_tr": "En üstünlük biçiminde sıfattan önce the kullanılır."
+   }
+  ],
+  "mini_dialogue": [
+   {
+    "speaker": "Anna",
+    "en": "Is your bag bigger than my bag?",
+    "tr": "Çantan benim çantamdan daha mı büyük?"
+   },
+   {
+    "speaker": "Ali",
+    "en": "No, my bag is smaller than your bag.",
+    "tr": "Hayır, benim çantam senin çantandan daha küçük."
+   },
+   {
+    "speaker": "Anna",
+    "en": "Is your bag as light as my bag?",
+    "tr": "Çantan benim çantam kadar hafif mi?"
+   },
+   {
+    "speaker": "Ali",
+    "en": "No, my bag is not as light as your bag.",
+    "tr": "Hayır, benim çantam senin çantan kadar hafif değil."
+   }
+  ]
+ },
+ "exercise_counts": {
+  "fill_blank": 6,
+  "multiple_choice": 4,
+  "match_pairs": 1,
+  "choose_correct_sentence": 3,
+  "build_sentence": 6,
+  "dictation": 2,
+  "type_translation": 2
+ },
+ "exercises": [
+  {
+   "id": "a1_gram_comparisons_001",
+   "unit": "a1_unit_30_comparisons",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "A cat is ___ than a dog.",
+   "sentence_tr": "Bir kedi bir köpekten daha küçüktür.",
+   "options": [
+    "smallest",
+    "more small",
+    "small",
+    "smaller"
+   ],
+   "answer": "smaller",
+   "explanation_tr": "Kısa sıfatlarda karşılaştırma için sıfata -er eklenir ve ardından than kullanılır."
+  },
+  {
+   "id": "a1_gram_comparisons_002",
+   "unit": "a1_unit_30_comparisons",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "Ali is as ___ as Tom.",
+   "sentence_tr": "Ali, Tom kadar uzundur.",
+   "options": [
+    "tallest",
+    "tall",
+    "taller",
+    "more tall"
+   ],
+   "answer": "tall",
+   "explanation_tr": "“As ... as” yapısında sıfat yalın hâlde kullanılır."
+  },
+  {
+   "id": "a1_gram_comparisons_003",
+   "unit": "a1_unit_30_comparisons",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "This is the ___ book.",
+   "sentence_tr": "Bu en iyi kitap.",
+   "options": [
+    "better",
+    "good",
+    "best than",
+    "best"
+   ],
+   "answer": "best",
+   "explanation_tr": "Good sıfatının üstünlük biçimi the best olur."
+  },
+  {
+   "id": "a1_gram_comparisons_004",
+   "unit": "a1_unit_30_comparisons",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "My car is ___ than your car.",
+   "sentence_tr": "Benim arabam senin arabandan daha eskidir.",
+   "options": [
+    "old",
+    "more old",
+    "older",
+    "oldest"
+   ],
+   "answer": "older",
+   "explanation_tr": "Old kısa bir sıfattır; karşılaştırma biçimi older olur."
+  },
+  {
+   "id": "a1_gram_comparisons_005",
+   "unit": "a1_unit_30_comparisons",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "The blue bag is ___ than the red bag.",
+   "sentence_tr": "Mavi çanta kırmızı çantadan daha büyüktür.",
+   "options": [
+    "more big",
+    "big",
+    "biggest",
+    "bigger"
+   ],
+   "answer": "bigger",
+   "explanation_tr": "Big sıfatının karşılaştırma biçimi bigger olur."
+  },
+  {
+   "id": "a1_gram_comparisons_006",
+   "unit": "a1_unit_30_comparisons",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "This is the ___ car in the city.",
+   "sentence_tr": "Bu, şehirdeki en hızlı arabadır.",
+   "options": [
+    "more fast",
+    "fastest",
+    "faster",
+    "fast"
+   ],
+   "answer": "fastest",
+   "explanation_tr": "Bir gruptaki en hızlı şeyi anlatmak için the ve sıfatın -est biçimi kullanılır."
+  },
+  {
+   "id": "a1_gram_comparisons_007",
+   "unit": "a1_unit_30_comparisons",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "Anna is taller than Lisa.",
+   "question_tr": "",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Lisa, Anna'dan daha uzundur.",
+    "Anna, Lisa kadar uzundur.",
+    "Anna, Lisa'dan daha kısadır.",
+    "Anna, Lisa'dan daha uzundur."
+   ],
+   "answer": "Anna, Lisa'dan daha uzundur.",
+   "explanation_tr": "Taller than, “daha uzun” anlamına gelir ve iki kişiyi karşılaştırır."
+  },
+  {
+   "id": "a1_gram_comparisons_008",
+   "unit": "a1_unit_30_comparisons",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "The red car is the fastest car.",
+   "question_tr": "",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Kırmızı araba diğer araba kadar hızlıdır.",
+    "Kırmızı araba daha hızlı bir arabadır.",
+    "Kırmızı araba en yavaş arabadır.",
+    "Kırmızı araba en hızlı arabadır."
+   ],
+   "answer": "Kırmızı araba en hızlı arabadır.",
+   "explanation_tr": "The fastest, “en hızlı” demektir."
+  },
+  {
+   "id": "a1_gram_comparisons_009",
+   "unit": "a1_unit_30_comparisons",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "",
+   "question_tr": "Bu oda o odadan daha küçüktür.",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "This room is as smaller as that room.",
+    "This room is smaller than that room.",
+    "This room is the smaller than that room.",
+    "This room is more small than that room."
+   ],
+   "answer": "This room is smaller than that room.",
+   "explanation_tr": "Small kısa bir sıfattır; doğru karşılaştırma biçimi smaller than olur."
+  },
+  {
+   "id": "a1_gram_comparisons_010",
+   "unit": "a1_unit_30_comparisons",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "",
+   "question_tr": "Mehmet en iyi öğrencidir.",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Mehmet is the good student.",
+    "Mehmet is the best than student.",
+    "Mehmet is better student.",
+    "Mehmet is the best student."
+   ],
+   "answer": "Mehmet is the best student.",
+   "explanation_tr": "Good sıfatının en üstün biçimi the best şeklindedir."
+  },
+  {
+   "id": "a1_gram_comparisons_011",
+   "unit": "a1_unit_30_comparisons",
+   "type": "match_pairs",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Eşleştir.",
+   "pairs": [
+    {
+     "en": "bigger than",
+     "tr": "daha büyük"
+    },
+    {
+     "en": "as tall as",
+     "tr": "kadar uzun"
+    },
+    {
+     "en": "the smallest",
+     "tr": "en küçük"
+    },
+    {
+     "en": "better",
+     "tr": "daha iyi"
+    },
+    {
+     "en": "the best",
+     "tr": "en iyi"
+    }
+   ],
+   "explanation_tr": "Karşılaştırma ifadelerini Türkçe anlamlarıyla eşleştir."
+  },
+  {
+   "id": "a1_gram_comparisons_012",
+   "unit": "a1_unit_30_comparisons",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "A bicycle is slow than a car.",
+    "A bicycle is more slow than a car.",
+    "A bicycle is slower than a car."
+   ],
+   "answer": "A bicycle is slower than a car.",
+   "explanation_tr": "Slow kısa bir sıfattır; karşılaştırma biçimi slower olur ve than ile kullanılır."
+  },
+  {
+   "id": "a1_gram_comparisons_013",
+   "unit": "a1_unit_30_comparisons",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "This room is bigger than that room.",
+   "word_bank": [
+    "room",
+    "that",
+    "bigger",
+    "the",
+    "very",
+    "room",
+    "This",
+    "than",
+    "small",
+    "is"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Bu oda o odadan daha büyük.",
+   "explanation_tr": "Kısa sıfatlarda karşılaştırma için sıfata -er eklenir ve ardından than kullanılır."
+  },
+  {
+   "id": "a1_gram_comparisons_014",
+   "unit": "a1_unit_30_comparisons",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Ali is as tall as Tom.",
+   "word_bank": [
+    "Ali",
+    "as",
+    "the",
+    "big",
+    "as",
+    "than",
+    "is",
+    "tall",
+    "Tom"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Ali, Tom kadar uzun.",
+   "explanation_tr": "İki kişinin aynı özelliğe sahip olduğunu söylemek için as + sıfat + as kullanılır."
+  },
+  {
+   "id": "a1_gram_comparisons_015",
+   "unit": "a1_unit_30_comparisons",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "This is the smallest apple.",
+   "word_bank": [
+    "smallest",
+    "apple",
+    "This",
+    "a",
+    "is",
+    "than",
+    "big",
+    "the"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Bu en küçük elma.",
+   "explanation_tr": "Bir grubun en küçüğünü söylerken sıfata -est eklenir ve önüne the gelir."
+  },
+  {
+   "id": "a1_gram_comparisons_016",
+   "unit": "a1_unit_30_comparisons",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Tom is faster than me.",
+   "word_bank": [
+    "the",
+    "Tom",
+    "faster",
+    "fast",
+    "as",
+    "than",
+    "me",
+    "is"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Tom benden daha hızlı.",
+   "explanation_tr": "Fast kısa bir sıfattır; karşılaştırma biçimi faster than olur."
+  },
+  {
+   "id": "a1_gram_comparisons_017",
+   "unit": "a1_unit_30_comparisons",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "This bag is as light as that bag.",
+   "word_bank": [
+    "than",
+    "big",
+    "This",
+    "that",
+    "is",
+    "bag",
+    "as",
+    "the",
+    "as",
+    "bag",
+    "light"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Bu çanta o çanta kadar hafif.",
+   "explanation_tr": "Eşitlik karşılaştırmasında as light as yapısı kullanılır."
+  },
+  {
+   "id": "a1_gram_comparisons_018",
+   "unit": "a1_unit_30_comparisons",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Ankara is bigger than Istanbul.",
+   "word_bank": [
+    "small",
+    "bigger",
+    "is",
+    "Ankara",
+    "as",
+    "than",
+    "Istanbul",
+    "the"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Ankara, İstanbul'dan daha büyük.",
+   "explanation_tr": "Big sıfatı karşılaştırma biçiminde bigger olur ve than ile kullanılır."
+  },
+  {
+   "id": "a1_gram_comparisons_019",
+   "unit": "a1_unit_30_comparisons",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "A cat is more small than a dog.",
+    "A cat is smaller than a dog.",
+    "A cat is smaller a dog."
+   ],
+   "answer": "A cat is smaller than a dog.",
+   "explanation_tr": "Small kısa bir sıfattır; doğru karşılaştırma biçimi smaller than olur."
+  },
+  {
+   "id": "a1_gram_comparisons_020",
+   "unit": "a1_unit_30_comparisons",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "This is the goodest book.",
+    "This is best book.",
+    "This is the best book."
+   ],
+   "answer": "This is the best book.",
+   "explanation_tr": "Good sıfatının üstünlük biçimi the best'tir; best'ten önce the kullanılır."
+  },
+  {
+   "id": "a1_gram_comparisons_021",
+   "unit": "a1_unit_30_comparisons",
+   "type": "dictation",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Duyduğun cümleyi yaz.",
+   "answer": "This room is the biggest.",
+   "word_bank": [
+    "the",
+    "than",
+    "This",
+    "is",
+    "smaller",
+    "room",
+    "biggest",
+    "a"
+   ],
+   "accepted_answers": [],
+   "sentence_tr": "Bu oda en büyüğüdür.",
+   "audio_text": "This room is the biggest.",
+   "explanation_tr": "Big sıfatının üstünlük biçimi biggest'tır ve önünde the kullanılır."
+  },
+  {
+   "id": "a1_gram_comparisons_022",
+   "unit": "a1_unit_30_comparisons",
+   "type": "dictation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Duyduğun cümleyi yaz.",
+   "answer": "The dog is bigger than the cat.",
+   "word_bank": [
+    "than",
+    "bigger",
+    "cat",
+    "the",
+    "is",
+    "The",
+    "fast",
+    "dog",
+    "best",
+    "small"
+   ],
+   "accepted_answers": [],
+   "sentence_tr": "Köpek kediden daha büyüktür.",
+   "audio_text": "The dog is bigger than the cat.",
+   "explanation_tr": "Big sıfatı karşılaştırmada bigger olur ve karşılaştırılan kişi ya da şeyden önce than gelir."
+  },
+  {
+   "id": "a1_gram_comparisons_023",
+   "unit": "a1_unit_30_comparisons",
+   "type": "type_translation",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "İngilizceye çevir ve yaz.",
+   "prompt_tr": "Bu en iyi oda.",
+   "answer": "This is the best room.",
+   "accepted_answers": [],
+   "explanation_tr": "Good sıfatının üstünlük biçimi best'tir; en iyi anlamında the best kullanılır."
+  },
+  {
+   "id": "a1_gram_comparisons_024",
+   "unit": "a1_unit_30_comparisons",
+   "type": "type_translation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "İngilizceye çevir ve yaz.",
+   "prompt_tr": "Bu çanta o çantadan daha ucuz.",
+   "answer": "This bag is cheaper than that bag.",
+   "accepted_answers": [],
+   "explanation_tr": "Cheap kısa bir sıfattır; karşılaştırma biçimi cheaper than olur."
+  }
+ ]
+}

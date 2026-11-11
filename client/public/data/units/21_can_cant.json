@@ -1,0 +1,622 @@
+{
+ "unit_id": "a1_unit_21_can_cant",
+ "slug": "can_cant",
+ "order": 21,
+ "module": "m5",
+ "bonus_a1_plus": false,
+ "title_en": "Can and can't",
+ "title_tr": "Can / can't",
+ "level": "A1",
+ "related_vocab_topics": [
+  "hobbies_sports_music",
+  "daily_verbs"
+ ],
+ "lesson": {
+  "goal_tr": "Yeteneklerden söz edebilecek, izin isteyebilecek ve can/can’t ile soru sorup kısa cevap verebileceksin.",
+  "sections": [
+   {
+    "heading_tr": "Olumlu ve olumsuz cümle",
+    "explanation_tr": "Yeteneklerden söz ederken can, fiilden önce gelir: I can swim. Olumsuz cümlede can’t kullanılır: I can’t swim. Can’t sonrasında fiile -s ya da to eklenmez.",
+    "examples": [
+     {
+      "en": "I can swim.",
+      "tr": "Yüzebilirim."
+     },
+     {
+      "en": "She can cook.",
+      "tr": "O yemek yapabilir."
+     },
+     {
+      "en": "He can't swim.",
+      "tr": "O yüzemez."
+     }
+    ]
+   },
+   {
+    "heading_tr": "Soru sorma ve kısa cevap",
+    "explanation_tr": "Soru için can cümlenin başına gelir. Kısa cevapta can veya can’t kullanılır. Özne he ya da she olsa bile can değişmez.",
+    "examples": [
+     {
+      "en": "Can you swim?",
+      "tr": "Yüzebilir misin?"
+     },
+     {
+      "en": "Yes, I can.",
+      "tr": "Evet, yüzebilirim."
+     },
+     {
+      "en": "No, I can't.",
+      "tr": "Hayır, yüzemem."
+     }
+    ]
+   },
+   {
+    "heading_tr": "İzin ve rica",
+    "explanation_tr": "Can I...? izin istemek için, Can you...? ise birinden bir şey yapmasını rica etmek için kullanılabilir. Bu sorulardan sonra fiil yalın hâlde gelir.",
+    "examples": [
+     {
+      "en": "Can I open the window?",
+      "tr": "Pencereyi açabilir miyim?"
+     },
+     {
+      "en": "Can you help me?",
+      "tr": "Bana yardım edebilir misin?"
+     }
+    ]
+   }
+  ],
+  "key_patterns": [
+   {
+    "pattern": "I + can + swim",
+    "example_en": "I can swim.",
+    "example_tr": "Yüzebilirim."
+   },
+   {
+    "pattern": "She + can't + cook",
+    "example_en": "She can't cook.",
+    "example_tr": "O yemek yapamaz."
+   },
+   {
+    "pattern": "Can + you + swim?",
+    "example_en": "Can you swim?",
+    "example_tr": "Yüzebilir misin?"
+   },
+   {
+    "pattern": "Can + I + open + the window?",
+    "example_en": "Can I open the window?",
+    "example_tr": "Pencereyi açabilir miyim?"
+   }
+  ],
+  "turkish_speaker_tips_tr": [
+   "Türkçede “Yüzebilirim” tek kelime olabilir; İngilizcede özne ve can gerekir: I can swim.",
+   "Türkçede yüklem genellikle sonda, İngilizcede ise özne + can + fiil sırasındadır.",
+   "İngilizcede he ve she için can’a -s eklenmez. Türkçedeki “o” gibi, he ve she de cinsiyet belirtir."
+  ],
+  "common_mistakes": [
+   {
+    "wrong": "She cans swim.",
+    "correct": "She can swim.",
+    "note_tr": "He ve she ile de can değişmez; sonuna -s gelmez."
+   },
+   {
+    "wrong": "I can to swim.",
+    "correct": "I can swim.",
+    "note_tr": "Can’den sonra fiil doğrudan gelir; araya to koymayız."
+   },
+   {
+    "wrong": "He can't swims.",
+    "correct": "He can't swim.",
+    "note_tr": "Can’t sonrasında fiile -s eklenmez."
+   }
+  ],
+  "mini_dialogue": [
+   {
+    "speaker": "Anna",
+    "en": "Can you swim, Ali?",
+    "tr": "Yüzebilir misin, Ali?"
+   },
+   {
+    "speaker": "Ali",
+    "en": "Yes, I can.",
+    "tr": "Evet, yüzebilirim."
+   },
+   {
+    "speaker": "Anna",
+    "en": "Can I open the window?",
+    "tr": "Pencereyi açabilir miyim?"
+   },
+   {
+    "speaker": "Ali",
+    "en": "Yes, you can.",
+    "tr": "Evet, açabilirsin."
+   },
+   {
+    "speaker": "Anna",
+    "en": "Thanks.",
+    "tr": "Teşekkürler."
+   }
+  ]
+ },
+ "exercise_counts": {
+  "fill_blank": 6,
+  "multiple_choice": 4,
+  "match_pairs": 1,
+  "choose_correct_sentence": 3,
+  "build_sentence": 6,
+  "dictation": 2,
+  "type_translation": 2
+ },
+ "exercises": [
+  {
+   "id": "a1_gram_can_cant_001",
+   "unit": "a1_unit_21_can_cant",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "I ___ swim; I do it every day.",
+   "sentence_tr": "Yüzebilirim; bunu her gün yapıyorum.",
+   "options": [
+    "am",
+    "can",
+    "can't",
+    "do"
+   ],
+   "answer": "can",
+   "explanation_tr": "“Can” bir yeteneği anlatır. “Can”den sonra fiil yalın hâlde kullanılır."
+  },
+  {
+   "id": "a1_gram_can_cant_002",
+   "unit": "a1_unit_21_can_cant",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "She ___ cook; she cannot make food.",
+   "sentence_tr": "O yemek yapamaz; yemek hazırlayamaz.",
+   "options": [
+    "isn't",
+    "cans",
+    "can",
+    "can't"
+   ],
+   "answer": "can't",
+   "explanation_tr": "“Can't” yapamama anlamı verir. “She” ile de “can” ve “can't” değişmeden kullanılır."
+  },
+  {
+   "id": "a1_gram_can_cant_003",
+   "unit": "a1_unit_21_can_cant",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "Can you play tennis? Yes, I ___.",
+   "sentence_tr": "Tenis oynayabilir misin? Evet, oynayabilirim.",
+   "options": [
+    "can't",
+    "am",
+    "can",
+    "do"
+   ],
+   "answer": "can",
+   "explanation_tr": "“Can you...?” sorusuna olumlu kısa cevap “Yes, I can.” şeklindedir."
+  },
+  {
+   "id": "a1_gram_can_cant_004",
+   "unit": "a1_unit_21_can_cant",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "Can I ___ the window? It is hot in here.",
+   "sentence_tr": "Pencereyi açabilir miyim? Burası sıcak.",
+   "options": [
+    "open",
+    "opens",
+    "to open",
+    "opening"
+   ],
+   "answer": "open",
+   "explanation_tr": "İzin isterken “Can I...?” kullanılır. “Can”den sonra fiilin yalın hâli gelir."
+  },
+  {
+   "id": "a1_gram_can_cant_005",
+   "unit": "a1_unit_21_can_cant",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "He ___ ride a bike; he is a baby.",
+   "sentence_tr": "O bisiklete binemez; o bir bebek.",
+   "options": [
+    "is",
+    "can",
+    "cans",
+    "can't"
+   ],
+   "answer": "can't",
+   "explanation_tr": "“Can't” yapamama bildirir. Modal fiil “can” üçüncü tekil şahısta “-s” almaz."
+  },
+  {
+   "id": "a1_gram_can_cant_006",
+   "unit": "a1_unit_21_can_cant",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "Anna ___ sing; she sings in a band.",
+   "sentence_tr": "Anna şarkı söyleyebilir; bir grupta şarkı söylüyor.",
+   "options": [
+    "can't",
+    "can",
+    "is",
+    "cans"
+   ],
+   "answer": "can",
+   "explanation_tr": "Anna'nın bir grupta şarkı söylemesi, şarkı söyleyebildiğini gösterir. “Can”den sonra “sing” yalın hâlde gelir."
+  },
+  {
+   "id": "a1_gram_can_cant_007",
+   "unit": "a1_unit_21_can_cant",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "She can't cook.",
+   "question_tr": "",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Yemek yapabilir miyim?",
+    "O yemek yapamaz.",
+    "O yemek yapmıyor.",
+    "O yemek yapabilir."
+   ],
+   "answer": "O yemek yapamaz.",
+   "explanation_tr": "“Can't” yapamama anlamına gelir; cümlede kişi yemek yapamıyor."
+  },
+  {
+   "id": "a1_gram_can_cant_008",
+   "unit": "a1_unit_21_can_cant",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "Can I use your phone?",
+   "question_tr": "",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Telefonunu kullanamam.",
+    "Telefonumu kullanabilir misin?",
+    "Telefonunu kullanabilir miyim?",
+    "Telefonunu kullanabilir."
+   ],
+   "answer": "Telefonunu kullanabilir miyim?",
+   "explanation_tr": "“Can I...?” bir şey yapmak için izin istemenin yaygın bir yoludur."
+  },
+  {
+   "id": "a1_gram_can_cant_009",
+   "unit": "a1_unit_21_can_cant",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "",
+   "question_tr": "Ali iyi yüzebilir.",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Ali can swim well.",
+    "Ali cans swim well.",
+    "Ali can swims well.",
+    "Ali can't swim well."
+   ],
+   "answer": "Ali can swim well.",
+   "explanation_tr": "“Can”den sonra fiil yalın hâlde kullanılır; bu yüzden “swim” doğru biçimdir."
+  },
+  {
+   "id": "a1_gram_can_cant_010",
+   "unit": "a1_unit_21_can_cant",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "",
+   "question_tr": "Pencereyi açabilir misin?",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Can you open the window?",
+    "Can open you the window?",
+    "Do you can open the window?",
+    "Can you opens the window?"
+   ],
+   "answer": "Can you open the window?",
+   "explanation_tr": "“Can” sorunun başına gelir ve ardından özne, sonra yalın fiil kullanılır."
+  },
+  {
+   "id": "a1_gram_can_cant_011",
+   "unit": "a1_unit_21_can_cant",
+   "type": "match_pairs",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Eşleştir.",
+   "pairs": [
+    {
+     "en": "I can swim",
+     "tr": "Yüzebilirim"
+    },
+    {
+     "en": "She can't cook",
+     "tr": "O yemek yapamaz"
+    },
+    {
+     "en": "Can you sing?",
+     "tr": "Şarkı söyleyebilir misin?"
+    },
+    {
+     "en": "open the window",
+     "tr": "pencereyi açmak"
+    },
+    {
+     "en": "ride a bike",
+     "tr": "bisiklete binmek"
+    }
+   ],
+   "explanation_tr": "“Can” yetenek bildirebilir veya soru kurabilir; “can't” ise yapamamayı anlatır."
+  },
+  {
+   "id": "a1_gram_can_cant_012",
+   "unit": "a1_unit_21_can_cant",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "She cans play tennis.",
+    "She can plays tennis.",
+    "She can play tennis."
+   ],
+   "answer": "She can play tennis.",
+   "explanation_tr": "“Can”den sonra fiil yalın hâlde gelir ve “she” ile “can” sözcüğüne “-s” eklenmez."
+  },
+  {
+   "id": "a1_gram_can_cant_013",
+   "unit": "a1_unit_21_can_cant",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "I can swim in the pool.",
+   "word_bank": [
+    "swim",
+    "can",
+    "does",
+    "he",
+    "the",
+    "in",
+    "to",
+    "I",
+    "pool"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Havuzda yüzebilirim.",
+   "explanation_tr": "Yeteneklerden söz ederken özne ile fiilin arasına “can” gelir. “Can”den sonra fiil yalın hâlde kullanılır."
+  },
+  {
+   "id": "a1_gram_can_cant_014",
+   "unit": "a1_unit_21_can_cant",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Anna can't cook today.",
+   "word_bank": [
+    "to",
+    "does",
+    "today",
+    "Anna",
+    "cook",
+    "he",
+    "can't"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Anna bugün yemek yapamaz.",
+   "explanation_tr": "Olumsuz yetenek “can't” ile ifade edilir. “Can't”den sonra fiil yalın hâlde gelir."
+  },
+  {
+   "id": "a1_gram_can_cant_015",
+   "unit": "a1_unit_21_can_cant",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Can you play the guitar?",
+   "word_bank": [
+    "the",
+    "does",
+    "Can",
+    "guitar",
+    "to",
+    "you",
+    "play",
+    "she"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Gitar çalabilir misin?",
+   "explanation_tr": "“Can” soruda öznenin önüne gelir. Ardından özne ve fiilin yalın hâli kullanılır."
+  },
+  {
+   "id": "a1_gram_can_cant_016",
+   "unit": "a1_unit_21_can_cant",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Can I open the window, please?",
+   "word_bank": [
+    "does",
+    "he",
+    "open",
+    "to",
+    "Can",
+    "please",
+    "I",
+    "window",
+    "the"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Pencereyi açabilir miyim, lütfen?",
+   "explanation_tr": "İzin isterken “Can I...?” kalıbını kullanabiliriz. “Can”den sonra fiil yalın hâlde gelir."
+  },
+  {
+   "id": "a1_gram_can_cant_017",
+   "unit": "a1_unit_21_can_cant",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Ali can't ride a bicycle.",
+   "word_bank": [
+    "to",
+    "ride",
+    "can",
+    "a",
+    "she",
+    "Ali",
+    "can't",
+    "bicycle"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Ali bisiklete binemez.",
+   "explanation_tr": "“Can't” olumsuz yetenek belirtir. Ali “he” yerine geçtiği hâlde “can”e -s eklenmez."
+  },
+  {
+   "id": "a1_gram_can_cant_018",
+   "unit": "a1_unit_21_can_cant",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "They can play tennis after school.",
+   "word_bank": [
+    "after",
+    "school",
+    "play",
+    "does",
+    "to",
+    "can",
+    "tennis",
+    "he",
+    "They"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Okuldan sonra tenis oynayabilirler.",
+   "explanation_tr": "Yetenek belirtirken “can”den sonra fiilin yalın hâli kullanılır. “Play” fiiline -s eklenmez."
+  },
+  {
+   "id": "a1_gram_can_cant_019",
+   "unit": "a1_unit_21_can_cant",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "She can to sing.",
+    "She can sing.",
+    "She can sings."
+   ],
+   "answer": "She can sing.",
+   "explanation_tr": "“Can”den sonra fiilin yalın hâli gelir. Bu yüzden “sing” doğrudur; “sings” ve “to sing” kullanılmaz."
+  },
+  {
+   "id": "a1_gram_can_cant_020",
+   "unit": "a1_unit_21_can_cant",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "Can he swims?",
+    "Does he can swim?",
+    "Can he swim?"
+   ],
+   "answer": "Can he swim?",
+   "explanation_tr": "“Can” soruda öznenin önüne gelir ve ardından fiilin yalın hâli kullanılır. “Can” ile soru kurarken “does” kullanılmaz."
+  },
+  {
+   "id": "a1_gram_can_cant_021",
+   "unit": "a1_unit_21_can_cant",
+   "type": "dictation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Duyduğun cümleyi yaz.",
+   "answer": "I can't dance.",
+   "word_bank": [
+    "can't",
+    "to",
+    "she",
+    "can",
+    "dance",
+    "I"
+   ],
+   "accepted_answers": [],
+   "sentence_tr": "Dans edemem.",
+   "audio_text": "I can't dance.",
+   "explanation_tr": "“Can't”, bir şeyi yapamama anlamı verir. Ardından “dance” fiilinin yalın hâli gelir."
+  },
+  {
+   "id": "a1_gram_can_cant_022",
+   "unit": "a1_unit_21_can_cant",
+   "type": "dictation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Duyduğun cümleyi yaz.",
+   "answer": "Can I close the door?",
+   "word_bank": [
+    "Can",
+    "does",
+    "door",
+    "the",
+    "to",
+    "he",
+    "close",
+    "I"
+   ],
+   "accepted_answers": [],
+   "sentence_tr": "Kapıyı kapatabilir miyim?",
+   "audio_text": "Can I close the door?",
+   "explanation_tr": "İzin isterken “Can I...?” kullanılır. “Can” öznenin önüne gelir."
+  },
+  {
+   "id": "a1_gram_can_cant_023",
+   "unit": "a1_unit_21_can_cant",
+   "type": "type_translation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "İngilizceye çevir ve yaz.",
+   "prompt_tr": "Hayır, yüzemem.",
+   "answer": "No, I can't.",
+   "accepted_answers": [
+    "No, I cannot."
+   ],
+   "explanation_tr": "“Can't” olumsuz yetenek bildirir. “Cannot” da aynı anlamı verir."
+  },
+  {
+   "id": "a1_gram_can_cant_024",
+   "unit": "a1_unit_21_can_cant",
+   "type": "type_translation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "İngilizceye çevir ve yaz.",
+   "prompt_tr": "Ayşe araba kullanabilir.",
+   "answer": "Ayse can drive a car.",
+   "accepted_answers": [],
+   "explanation_tr": "Yetenek belirtirken “can”den sonra fiilin yalın hâli gelir. “Drive” fiiline -s eklenmez."
+  }
+ ]
+}

@@ -1,0 +1,650 @@
+{
+ "unit_id": "a1_unit_23_like_want",
+ "slug": "like_want",
+ "order": 23,
+ "module": "m5",
+ "bonus_a1_plus": false,
+ "title_en": "Like, love, want and need",
+ "title_tr": "Like, love, want, need",
+ "level": "A1",
+ "related_vocab_topics": [
+  "food_drink",
+  "hobbies_sports_music"
+ ],
+ "lesson": {
+  "goal_tr": "Bu dersin sonunda neleri sevdiğini, ne istediğini ve neye ihtiyacın olduğunu söyleyebilir, kibarca bir şey isteyebilirsin.",
+  "sections": [
+   {
+    "heading_tr": "Like, love ve hate",
+    "explanation_tr": "Bu fiillerden sonra bir isim ya da -ing biçiminde bir fiil kullanılır. Örneğin, “I like tea” ve “I like swimming” diyebilirsin.",
+    "examples": [
+     {
+      "en": "I like tea.",
+      "tr": "Çayı severim."
+     },
+     {
+      "en": "I love swimming.",
+      "tr": "Yüzmeyi çok severim."
+     },
+     {
+      "en": "I hate rain.",
+      "tr": "Yağmurdan nefret ederim."
+     }
+    ]
+   },
+   {
+    "heading_tr": "Want ve need",
+    "explanation_tr": "Want ve need sözcüklerinden sonra bir isim ya da to + fiilin yalın hâli gelir. Örneğin, “I want tea” veya “I want to go” diyebilirsin.",
+    "examples": [
+     {
+      "en": "I want tea.",
+      "tr": "Çay istiyorum."
+     },
+     {
+      "en": "I need to go.",
+      "tr": "Gitmem gerekiyor."
+     }
+    ]
+   },
+   {
+    "heading_tr": "Kibar istek ve soru",
+    "explanation_tr": "Would like, bir şeyi kibarca istemek için kullanılır; ardından isim ya da to + fiil gelebilir. Like ile soru sorarken başa Do gelir: “Do you like tea?”",
+    "examples": [
+     {
+      "en": "I would like a tea.",
+      "tr": "Bir çay alabilir miyim?"
+     },
+     {
+      "en": "Would you like to go?",
+      "tr": "Gitmek ister misin?"
+     },
+     {
+      "en": "Do you like tea?",
+      "tr": "Çayı sever misin?"
+     }
+    ]
+   },
+   {
+    "heading_tr": "-ing yazımı",
+    "explanation_tr": "Çoğu fiile -ing eklenir. Fiil sonundaki okunmayan e düşer: make → making; bazı kısa fiillerde son harf tekrarlanır: swim → swimming.",
+    "examples": [
+     {
+      "en": "I like swimming.",
+      "tr": "Yüzmeyi severim."
+     },
+     {
+      "en": "I like making tea.",
+      "tr": "Çay yapmayı severim."
+     }
+    ]
+   }
+  ],
+  "key_patterns": [
+   {
+    "pattern": "I + like + tea",
+    "example_en": "I like tea.",
+    "example_tr": "Çayı severim."
+   },
+   {
+    "pattern": "I + love + swimming",
+    "example_en": "I love swimming.",
+    "example_tr": "Yüzmeyi çok severim."
+   },
+   {
+    "pattern": "I + want + to + go",
+    "example_en": "I want to go.",
+    "example_tr": "Gitmek istiyorum."
+   },
+   {
+    "pattern": "I + need + tea",
+    "example_en": "I need tea.",
+    "example_tr": "Çaya ihtiyacım var."
+   },
+   {
+    "pattern": "I + would like + a + tea",
+    "example_en": "I would like a tea.",
+    "example_tr": "Bir çay alabilir miyim?"
+   },
+   {
+    "pattern": "Do + you + like + tea?",
+    "example_en": "Do you like tea?",
+    "example_tr": "Çayı sever misin?"
+   }
+  ],
+  "turkish_speaker_tips_tr": [
+   "Türkçede cümle sırası çoğunlukla özne-nesne-fiildir; İngilizcede fiil genellikle nesneden önce gelir: “I like tea.”",
+   "Türkçedeki “-meyi/-mayı” karşılığı her fiille aynı kurulmaz: like ardından swimming, want ardından to swim gelir.",
+   "Türkçede soru eki kullanılır; İngilizcede like ile soru kurarken Do başa gelir: “Do you like tea?”"
+  ],
+  "common_mistakes": [
+   {
+    "wrong": "I like swim.",
+    "correct": "I like swimming.",
+    "note_tr": "Like fiilinden sonra başka bir fiil geliyorsa -ing biçimini kullan."
+   },
+   {
+    "wrong": "I want going.",
+    "correct": "I want to go.",
+    "note_tr": "Want fiilinden sonra to + fiilin yalın hâli gelir."
+   },
+   {
+    "wrong": "Do you like swim?",
+    "correct": "Do you like swimming?",
+    "note_tr": "Like ile soru kurarken Do kullan; ardından fiil geliyorsa -ing biçimini seç."
+   },
+   {
+    "wrong": "I need go.",
+    "correct": "I need to go.",
+    "note_tr": "Need fiilinden sonra başka bir fiil geliyorsa to kullan."
+   }
+  ],
+  "mini_dialogue": [
+   {
+    "speaker": "Anna",
+    "en": "Do you like tea?",
+    "tr": "Çayı sever misin?"
+   },
+   {
+    "speaker": "Ali",
+    "en": "Yes, I do. I like tea.",
+    "tr": "Evet, severim. Çayı severim."
+   },
+   {
+    "speaker": "Anna",
+    "en": "Would you like a coffee?",
+    "tr": "Bir kahve ister misin?"
+   },
+   {
+    "speaker": "Ali",
+    "en": "No, thanks. I want tea.",
+    "tr": "Hayır, teşekkürler. Çay istiyorum."
+   }
+  ]
+ },
+ "exercise_counts": {
+  "fill_blank": 6,
+  "multiple_choice": 4,
+  "match_pairs": 1,
+  "choose_correct_sentence": 3,
+  "build_sentence": 6,
+  "dictation": 2,
+  "type_translation": 2
+ },
+ "exercises": [
+  {
+   "id": "a1_gram_like_want_001",
+   "unit": "a1_unit_23_like_want",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "I ___ tea.",
+   "sentence_tr": "Çayı severim.",
+   "options": [
+    "likes",
+    "like",
+    "liking",
+    "am like"
+   ],
+   "answer": "like",
+   "explanation_tr": "“I” öznesinden sonra fiilin yalın hâli kullanılır: “I like.”"
+  },
+  {
+   "id": "a1_gram_like_want_002",
+   "unit": "a1_unit_23_like_want",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "I love ___ in the pool.",
+   "sentence_tr": "Havuzda yüzmeyi seviyorum.",
+   "options": [
+    "swimming",
+    "swim",
+    "swims",
+    "to swimming"
+   ],
+   "answer": "swimming",
+   "explanation_tr": "“Love” fiilinden sonra eylem belirtirken fiile “-ing” eklenebilir: “love swimming.”"
+  },
+  {
+   "id": "a1_gram_like_want_003",
+   "unit": "a1_unit_23_like_want",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "I want ___ go home.",
+   "sentence_tr": "Eve gitmek istiyorum.",
+   "options": [
+    "for",
+    "of",
+    "at",
+    "to"
+   ],
+   "answer": "to",
+   "explanation_tr": "“Want” fiilinden sonra başka bir fiil gelirse “to + fiil” kullanılır."
+  },
+  {
+   "id": "a1_gram_like_want_004",
+   "unit": "a1_unit_23_like_want",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "Tom ___ tea.",
+   "sentence_tr": "Tom çayı sever.",
+   "options": [
+    "like",
+    "is like",
+    "likes",
+    "liking"
+   ],
+   "answer": "likes",
+   "explanation_tr": "“Tom” üçüncü tekil şahıs olduğu için “like” fiiline “-s” eklenir."
+  },
+  {
+   "id": "a1_gram_like_want_005",
+   "unit": "a1_unit_23_like_want",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "I would ___ a tea, please.",
+   "sentence_tr": "Lütfen bir çay rica ediyorum.",
+   "options": [
+    "like",
+    "to like",
+    "liking",
+    "likes"
+   ],
+   "answer": "like",
+   "explanation_tr": "Kibarca bir şey istemek için “would like + isim” kullanılır."
+  },
+  {
+   "id": "a1_gram_like_want_006",
+   "unit": "a1_unit_23_like_want",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "Do you ___ swimming?",
+   "sentence_tr": "Yüzmeyi sever misin?",
+   "options": [
+    "likes",
+    "are like",
+    "like",
+    "liking"
+   ],
+   "answer": "like",
+   "explanation_tr": "“Do you” ile sorulan sorularda fiil yalın hâlde kullanılır: “Do you like...?” "
+  },
+  {
+   "id": "a1_gram_like_want_007",
+   "unit": "a1_unit_23_like_want",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "I like reading.",
+   "question_tr": "",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Kitap okumak istiyorum.",
+    "Kitap okumam gerekiyor.",
+    "Kitap okumayı sevmiyorum.",
+    "Kitap okumayı severim."
+   ],
+   "answer": "Kitap okumayı severim.",
+   "explanation_tr": "“Like + -ing” bir etkinliği sevdiğimizi anlatır; “reading” burada kitap okumaktır."
+  },
+  {
+   "id": "a1_gram_like_want_008",
+   "unit": "a1_unit_23_like_want",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "I want to go home.",
+   "question_tr": "",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Eve gitmek istemiyorum.",
+    "Eve gitmeyi seviyorum.",
+    "Eve gitmem gerekiyor.",
+    "Eve gitmek istiyorum."
+   ],
+   "answer": "Eve gitmek istiyorum.",
+   "explanation_tr": "“Want to go” Türkçede “gitmek istemek” anlamına gelir."
+  },
+  {
+   "id": "a1_gram_like_want_009",
+   "unit": "a1_unit_23_like_want",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "",
+   "question_tr": "Yüzmeyi seviyorum.",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "I love swimming.",
+    "I am love swimming.",
+    "I love swim.",
+    "I love to swimming."
+   ],
+   "answer": "I love swimming.",
+   "explanation_tr": "“Love” fiilinden sonra “swimming” gibi “-ing” biçimi kullanılabilir."
+  },
+  {
+   "id": "a1_gram_like_want_010",
+   "unit": "a1_unit_23_like_want",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "",
+   "question_tr": "Lütfen bir çay rica ediyorum.",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "I would likes a tea, please.",
+    "I would liking a tea, please.",
+    "I would to like a tea, please.",
+    "I would like a tea, please."
+   ],
+   "answer": "I would like a tea, please.",
+   "explanation_tr": "Kibar bir istekte “would” sonrasında fiilin yalın hâli gelir: “would like.”"
+  },
+  {
+   "id": "a1_gram_like_want_011",
+   "unit": "a1_unit_23_like_want",
+   "type": "match_pairs",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Eşleştir.",
+   "pairs": [
+    {
+     "en": "like tea",
+     "tr": "çayı sevmek"
+    },
+    {
+     "en": "love music",
+     "tr": "müziği sevmek"
+    },
+    {
+     "en": "want to go",
+     "tr": "gitmek istemek"
+    },
+    {
+     "en": "need water",
+     "tr": "suya ihtiyaç duymak"
+    },
+    {
+     "en": "would like a tea",
+     "tr": "bir çay rica etmek"
+    }
+   ],
+   "explanation_tr": "“Like” ve “love” sevilen şeyleri, “want” istekleri, “need” ihtiyaçları anlatır. “Would like” kibar bir istektir."
+  },
+  {
+   "id": "a1_gram_like_want_012",
+   "unit": "a1_unit_23_like_want",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "I want go.",
+    "I want going.",
+    "I want to go."
+   ],
+   "answer": "I want to go.",
+   "explanation_tr": "“Want” fiilinden sonra başka bir eylem gelince “to + fiil” kullanılır."
+  },
+  {
+   "id": "a1_gram_like_want_013",
+   "unit": "a1_unit_23_like_want",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "I like drinking tea every morning.",
+   "word_bank": [
+    "drinking",
+    "like",
+    "morning",
+    "am",
+    "tea",
+    "does",
+    "I",
+    "at",
+    "every"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Her sabah çay içmeyi severim.",
+   "explanation_tr": "Like fiilinden sonra bir isim ya da -ing eki almış fiil kullanılır."
+  },
+  {
+   "id": "a1_gram_like_want_014",
+   "unit": "a1_unit_23_like_want",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "I love swimming with my friends.",
+   "word_bank": [
+    "I",
+    "to",
+    "a",
+    "my",
+    "love",
+    "friends",
+    "is",
+    "with",
+    "swimming"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Arkadaşlarımla yüzmeyi seviyorum.",
+   "explanation_tr": "Love fiilinden sonra yüzme etkinliğini anlatmak için swimming kullanılır."
+  },
+  {
+   "id": "a1_gram_like_want_015",
+   "unit": "a1_unit_23_like_want",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "I want to visit London today.",
+   "word_bank": [
+    "the",
+    "to",
+    "I",
+    "want",
+    "London",
+    "am",
+    "visit",
+    "today",
+    "with"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Bugün Londra'yı ziyaret etmek istiyorum.",
+   "explanation_tr": "Want fiilinden sonra başka bir fiil gelirse to kullanılır: want to visit."
+  },
+  {
+   "id": "a1_gram_like_want_016",
+   "unit": "a1_unit_23_like_want",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "I need a new book today.",
+   "word_bank": [
+    "new",
+    "to",
+    "I",
+    "am",
+    "a",
+    "book",
+    "on",
+    "need",
+    "today"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Bugün yeni bir kitaba ihtiyacım var.",
+   "explanation_tr": "Need sözcüğünden sonra bir isim gelebilir; burada bu isim a new book ifadesidir."
+  },
+  {
+   "id": "a1_gram_like_want_017",
+   "unit": "a1_unit_23_like_want",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "I would like a cup of tea.",
+   "word_bank": [
+    "cup",
+    "tea",
+    "like",
+    "of",
+    "does",
+    "would",
+    "a",
+    "I",
+    "at",
+    "am"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Bir fincan çay rica ediyorum.",
+   "explanation_tr": "Would like, kibarca istemek için kullanılır ve ardından isim gelebilir."
+  },
+  {
+   "id": "a1_gram_like_want_018",
+   "unit": "a1_unit_23_like_want",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Does Ali like music?",
+   "word_bank": [
+    "music",
+    "is",
+    "an",
+    "Does",
+    "Ali",
+    "like",
+    "are"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Ali müziği sever mi?",
+   "explanation_tr": "Tekil bir kişi hakkında şimdiki zamanda soru sorarken Does kullanılır; ardından like yalın hâlde kalır."
+  },
+  {
+   "id": "a1_gram_like_want_019",
+   "unit": "a1_unit_23_like_want",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "I want to going home.",
+    "I want go home.",
+    "I want to go home."
+   ],
+   "answer": "I want to go home.",
+   "explanation_tr": "Want fiilinden sonra başka bir fiil kullanıldığında to ve fiilin yalın hâli gelir."
+  },
+  {
+   "id": "a1_gram_like_want_020",
+   "unit": "a1_unit_23_like_want",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "Do you likes tea?",
+    "Are you like tea?",
+    "Do you like tea?"
+   ],
+   "answer": "Do you like tea?",
+   "explanation_tr": "Like ile soru kurarken Do kullanılır ve you’dan sonra fiil yalın hâlde kalır."
+  },
+  {
+   "id": "a1_gram_like_want_021",
+   "unit": "a1_unit_23_like_want",
+   "type": "dictation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Duyduğun cümleyi yaz.",
+   "answer": "I need some water.",
+   "word_bank": [
+    "need",
+    "water",
+    "to",
+    "some",
+    "I",
+    "at",
+    "is"
+   ],
+   "accepted_answers": [],
+   "sentence_tr": "Biraz suya ihtiyacım var.",
+   "audio_text": "I need some water.",
+   "explanation_tr": "Need sözcüğünden sonra ihtiyaç duyulan şey olan some water gelir."
+  },
+  {
+   "id": "a1_gram_like_want_022",
+   "unit": "a1_unit_23_like_want",
+   "type": "dictation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Duyduğun cümleyi yaz.",
+   "answer": "She loves dancing.",
+   "word_bank": [
+    "loves",
+    "dancing",
+    "to",
+    "She",
+    "is",
+    "a"
+   ],
+   "accepted_answers": [],
+   "sentence_tr": "O dans etmeyi seviyor.",
+   "audio_text": "She loves dancing.",
+   "explanation_tr": "Love fiilinden sonra bir etkinliği anlatan dancing gibi -ing biçimi kullanılabilir."
+  },
+  {
+   "id": "a1_gram_like_want_023",
+   "unit": "a1_unit_23_like_want",
+   "type": "type_translation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "İngilizceye çevir ve yaz.",
+   "prompt_tr": "Akşam yemeği için bir masa rica ediyorum.",
+   "answer": "I would like a table for dinner.",
+   "accepted_answers": [
+    "I'd like a table for dinner."
+   ],
+   "explanation_tr": "Would like, bir şeyi kibarca istemenin yaygın bir yoludur; I'd like bunun kısaltılmış biçimidir."
+  },
+  {
+   "id": "a1_gram_like_want_024",
+   "unit": "a1_unit_23_like_want",
+   "type": "type_translation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "İngilizceye çevir ve yaz.",
+   "prompt_tr": "Yüzmeyi sever misin?",
+   "answer": "Do you like swimming?",
+   "accepted_answers": [
+    "Do you like to swim?"
+   ],
+   "explanation_tr": "Like ile soru kurarken Do you kullanılır; swimming ya da to swim ifadesi etkinliği anlatabilir."
+  }
+ ]
+}

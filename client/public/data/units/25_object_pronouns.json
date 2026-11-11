@@ -1,0 +1,607 @@
+{
+ "unit_id": "a1_unit_25_object_pronouns",
+ "slug": "object_pronouns",
+ "order": 25,
+ "module": "m5",
+ "bonus_a1_plus": false,
+ "title_en": "Object pronouns",
+ "title_tr": "Nesne zamirleri",
+ "level": "A1",
+ "related_vocab_topics": [
+  "pronouns_grammar",
+  "family_people"
+ ],
+ "lesson": {
+  "goal_tr": "Bu dersin sonunda fiil ve edatlardan sonra doğru nesne zamirlerini kullanabilirsin.",
+  "sections": [
+   {
+    "heading_tr": "Nesne zamirleri",
+    "explanation_tr": "Bir işten etkilenen kişiyi ya da şeyi gösteren zamirlere nesne zamiri denir. Özne zamirleri I, you, he, she, it, we, they; nesne zamirleri me, you, him, her, it, us, them şeklindedir.",
+    "examples": [
+     {
+      "en": "I see him.",
+      "tr": "Onu görüyorum."
+     },
+     {
+      "en": "She likes us.",
+      "tr": "O bizden hoşlanıyor."
+     }
+    ]
+   },
+   {
+    "heading_tr": "Fiil ve edatlardan sonra",
+    "explanation_tr": "Nesne zamiri fiilden sonra gelir. Edatlardan, örneğin with ve to’dan sonra da nesne zamiri kullanılır.",
+    "examples": [
+     {
+      "en": "Come with them.",
+      "tr": "Onlarla gel."
+     },
+     {
+      "en": "Give it to me.",
+      "tr": "Onu bana ver."
+     }
+    ]
+   },
+   {
+    "heading_tr": "Özneyle farkı",
+    "explanation_tr": "I özne zamiriyken me nesne zamiridir; he ve him, she ve her de aynı şekilde eşleşir. You ve it ise özne ve nesne konumunda aynı kalır.",
+    "examples": [
+     {
+      "en": "He sees me.",
+      "tr": "O beni görüyor."
+     },
+     {
+      "en": "I see him.",
+      "tr": "Ben onu görüyorum."
+     }
+    ]
+   }
+  ],
+  "key_patterns": [
+   {
+    "pattern": "Özne + fiil + nesne zamiri",
+    "example_en": "I + see + him → I see him.",
+    "example_tr": "Ben onu görüyorum."
+   },
+   {
+    "pattern": "Fiil + with + nesne zamiri",
+    "example_en": "Come + with + them → Come with them.",
+    "example_tr": "Onlarla gel."
+   },
+   {
+    "pattern": "Fiil + it + to + nesne zamiri",
+    "example_en": "Give + it + to + me → Give it to me.",
+    "example_tr": "Onu bana ver."
+   }
+  ],
+  "turkish_speaker_tips_tr": [
+   "Türkçede nesne çoğu zaman fiilden önce gelir; İngilizcede nesne zamiri fiilden sonra gelir: “I see him.”",
+   "Türkçedeki “o” cinsiyet belirtmez; İngilizcede erkek için him, kadın için her kullanılır.",
+   "You hem özne hem nesne olabilir. Hangi görevde olduğunu cümledeki yerine bakarak anlarsın."
+  ],
+  "common_mistakes": [
+   {
+    "wrong": "I see he.",
+    "correct": "I see him.",
+    "note_tr": "Fiilden sonra özne biçimi he değil, nesne biçimi him kullanılır."
+   },
+   {
+    "wrong": "Come with they.",
+    "correct": "Come with them.",
+    "note_tr": "With edatından sonra they değil, them gelir."
+   },
+   {
+    "wrong": "She gives I a book.",
+    "correct": "She gives me a book.",
+    "note_tr": "Give fiilinden sonra kişi nesne zamiriyle belirtilir: me."
+   }
+  ],
+  "mini_dialogue": [
+   {
+    "speaker": "Anna",
+    "en": "I have a book. Do you want it?",
+    "tr": "Bir kitabım var. Onu ister misin?"
+   },
+   {
+    "speaker": "Ali",
+    "en": "Yes. Give it to me, please.",
+    "tr": "Evet. Lütfen onu bana ver."
+   },
+   {
+    "speaker": "Anna",
+    "en": "Here you are.",
+    "tr": "Buyur."
+   },
+   {
+    "speaker": "Ali",
+    "en": "Thank you. I like it.",
+    "tr": "Teşekkür ederim. Onu seviyorum."
+   },
+   {
+    "speaker": "Anna",
+    "en": "Come with me.",
+    "tr": "Benimle gel."
+   }
+  ]
+ },
+ "exercise_counts": {
+  "fill_blank": 6,
+  "multiple_choice": 4,
+  "match_pairs": 1,
+  "choose_correct_sentence": 3,
+  "build_sentence": 6,
+  "dictation": 2,
+  "type_translation": 2
+ },
+ "exercises": [
+  {
+   "id": "a1_gram_object_pronouns_001",
+   "unit": "a1_unit_25_object_pronouns",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "I see ___.",
+   "sentence_tr": "Onu görüyorum.",
+   "options": [
+    "his",
+    "they",
+    "he",
+    "him"
+   ],
+   "answer": "him",
+   "explanation_tr": "Fiilden sonra nesne zamiri kullanılır. “Him”, “see” fiilinin nesnesidir."
+  },
+  {
+   "id": "a1_gram_object_pronouns_002",
+   "unit": "a1_unit_25_object_pronouns",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "Come with ___.",
+   "sentence_tr": "Benimle gel.",
+   "options": [
+    "me",
+    "my",
+    "we",
+    "I"
+   ],
+   "answer": "me",
+   "explanation_tr": "“With” bir edattır; ardından nesne zamiri olan “me” gelir."
+  },
+  {
+   "id": "a1_gram_object_pronouns_003",
+   "unit": "a1_unit_25_object_pronouns",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "Anna helps ___.",
+   "sentence_tr": "Anna bize yardım ediyor.",
+   "options": [
+    "they",
+    "we",
+    "our",
+    "us"
+   ],
+   "answer": "us",
+   "explanation_tr": "“Helps” fiilinin nesnesi “us” olur. “We” özne zamiridir."
+  },
+  {
+   "id": "a1_gram_object_pronouns_004",
+   "unit": "a1_unit_25_object_pronouns",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "Give it to ___.",
+   "sentence_tr": "Onu ona ver. (kadın için)",
+   "options": [
+    "she",
+    "her",
+    "he",
+    "they"
+   ],
+   "answer": "her",
+   "explanation_tr": "“To” edatından sonra nesne zamiri “her” kullanılır; “she” özne zamiridir."
+  },
+  {
+   "id": "a1_gram_object_pronouns_005",
+   "unit": "a1_unit_25_object_pronouns",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "The food is for ___.",
+   "sentence_tr": "Yemek onlar için.",
+   "options": [
+    "they",
+    "we",
+    "them",
+    "their"
+   ],
+   "answer": "them",
+   "explanation_tr": "“For” edatından sonra nesne zamiri gerekir. “Them”, “they” zamirinin nesne biçimidir."
+  },
+  {
+   "id": "a1_gram_object_pronouns_006",
+   "unit": "a1_unit_25_object_pronouns",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "I see Anna. I see ___.",
+   "sentence_tr": "Anna'yı görüyorum. Onu görüyorum.",
+   "options": [
+    "her",
+    "him",
+    "she",
+    "they"
+   ],
+   "answer": "her",
+   "explanation_tr": "Anna'nın yerine nesne zamiri olarak “her” kullanılır. “She” özne biçimidir."
+  },
+  {
+   "id": "a1_gram_object_pronouns_007",
+   "unit": "a1_unit_25_object_pronouns",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "Tom sees me.",
+   "question_tr": "",
+   "sentence_en": "Tom sees me.",
+   "sentence_tr": "",
+   "options": [
+    "Tom onu görüyor.",
+    "Ben Tom'u görüyorum.",
+    "Tom bana görüyor.",
+    "Tom beni görüyor."
+   ],
+   "answer": "Tom beni görüyor.",
+   "explanation_tr": "“Me”, “see” fiilinin nesnesidir ve Türkçeye “beni” diye çevrilir."
+  },
+  {
+   "id": "a1_gram_object_pronouns_008",
+   "unit": "a1_unit_25_object_pronouns",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "Come with us.",
+   "question_tr": "",
+   "sentence_en": "Come with us.",
+   "sentence_tr": "",
+   "options": [
+    "Biz gel.",
+    "Bize gel.",
+    "Bizimle geliyor.",
+    "Bizimle gel."
+   ],
+   "answer": "Bizimle gel.",
+   "explanation_tr": "“With” sonrasında nesne zamiri “us” gelir. “With us” burada “bizimle” demektir."
+  },
+  {
+   "id": "a1_gram_object_pronouns_009",
+   "unit": "a1_unit_25_object_pronouns",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "",
+   "question_tr": "Onu bana ver.",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Give it for me.",
+    "Give it to I.",
+    "Give me to it.",
+    "Give it to me."
+   ],
+   "answer": "Give it to me.",
+   "explanation_tr": "Bu kalıpta “it” nesnesinden sonra “to” ve nesne zamiri “me” gelir."
+  },
+  {
+   "id": "a1_gram_object_pronouns_010",
+   "unit": "a1_unit_25_object_pronouns",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "",
+   "question_tr": "Ben onları görüyorum.",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "I see us.",
+    "I see they.",
+    "They see me.",
+    "I see them."
+   ],
+   "answer": "I see them.",
+   "explanation_tr": "“Them”, “see” fiilinin nesnesidir. “They” ise özne zamiridir."
+  },
+  {
+   "id": "a1_gram_object_pronouns_011",
+   "unit": "a1_unit_25_object_pronouns",
+   "type": "match_pairs",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Eşleştir.",
+   "pairs": [
+    {
+     "en": "me",
+     "tr": "beni / bana"
+    },
+    {
+     "en": "you",
+     "tr": "seni / sana"
+    },
+    {
+     "en": "him",
+     "tr": "onu / ona (erkek için)"
+    },
+    {
+     "en": "her",
+     "tr": "onu / ona (kadın için)"
+    },
+    {
+     "en": "them",
+     "tr": "onları / onlara"
+    }
+   ],
+   "explanation_tr": "Bu kelimeler, özne zamirlerinin fiillerden veya edatlardan sonra kullanılan nesne biçimleridir."
+  },
+  {
+   "id": "a1_gram_object_pronouns_012",
+   "unit": "a1_unit_25_object_pronouns",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "Ben onu görüyorum. (erkek için)",
+   "options": [
+    "I see he.",
+    "I see him.",
+    "Me see him."
+   ],
+   "answer": "I see him.",
+   "explanation_tr": "“Him”, fiilden sonra nesne zamiri olarak kullanılır. “I” ise cümlenin özne zamiridir."
+  },
+  {
+   "id": "a1_gram_object_pronouns_013",
+   "unit": "a1_unit_25_object_pronouns",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "I see him at the park.",
+   "word_bank": [
+    "park",
+    "her",
+    "at",
+    "the",
+    "with",
+    "today",
+    "I",
+    "see",
+    "him"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Onu parkta görüyorum.",
+   "explanation_tr": "Fiilden sonra nesne zamiri kullanılır: “see him”. “He” özne zamiridir."
+  },
+  {
+   "id": "a1_gram_object_pronouns_014",
+   "unit": "a1_unit_25_object_pronouns",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Anna comes to school with them.",
+   "word_bank": [
+    "comes",
+    "Anna",
+    "it",
+    "me",
+    "them",
+    "to",
+    "with",
+    "at",
+    "school"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Anna onlarla okula geliyor.",
+   "explanation_tr": "“With” edatından sonra nesne zamiri gelir; bu yüzden “them” kullanılır."
+  },
+  {
+   "id": "a1_gram_object_pronouns_015",
+   "unit": "a1_unit_25_object_pronouns",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Give it to me, please.",
+   "word_bank": [
+    "him",
+    "Give",
+    "me",
+    "it",
+    "with",
+    "they",
+    "to",
+    "please"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Onu bana ver, lütfen.",
+   "explanation_tr": "“Give it to me” kalıbında “it” fiilin nesnesi, “me” ise “to” edatından sonra gelir."
+  },
+  {
+   "id": "a1_gram_object_pronouns_016",
+   "unit": "a1_unit_25_object_pronouns",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "We see her every day.",
+   "word_bank": [
+    "every",
+    "today",
+    "her",
+    "We",
+    "with",
+    "see",
+    "day",
+    "him"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Onu her gün görüyoruz.",
+   "explanation_tr": "“See” fiilinden sonra nesne zamiri “her” kullanılır; “she” özne biçimidir."
+  },
+  {
+   "id": "a1_gram_object_pronouns_017",
+   "unit": "a1_unit_25_object_pronouns",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "They come with us today.",
+   "word_bank": [
+    "with",
+    "she",
+    "us",
+    "today",
+    "They",
+    "to",
+    "come",
+    "them"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Onlar bugün bizimle geliyor.",
+   "explanation_tr": "Cümlede işi yapan özne “they”dir; “with” edatından sonra ise “us” kullanılır."
+  },
+  {
+   "id": "a1_gram_object_pronouns_018",
+   "unit": "a1_unit_25_object_pronouns",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "I love it very much.",
+   "word_bank": [
+    "I",
+    "much",
+    "very",
+    "to",
+    "them",
+    "love",
+    "it",
+    "with"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Onu çok seviyorum.",
+   "explanation_tr": "“Love” fiilinden sonra nesne zamiri “it” gelir."
+  },
+  {
+   "id": "a1_gram_object_pronouns_019",
+   "unit": "a1_unit_25_object_pronouns",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "I see he every day.",
+    "I see him every day.",
+    "Me see him every day."
+   ],
+   "answer": "I see him every day.",
+   "explanation_tr": "“See” fiilinin nesnesi olduğu için “he” değil, nesne zamiri “him” kullanılır."
+  },
+  {
+   "id": "a1_gram_object_pronouns_020",
+   "unit": "a1_unit_25_object_pronouns",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "Give it to her.",
+    "Give her to it.",
+    "Give it to she."
+   ],
+   "answer": "Give it to her.",
+   "explanation_tr": "“To” edatından sonra nesne zamiri “her” gelir; “she” özne biçimidir."
+  },
+  {
+   "id": "a1_gram_object_pronouns_021",
+   "unit": "a1_unit_25_object_pronouns",
+   "type": "dictation",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Duyduğun cümleyi yaz.",
+   "answer": "Please call them today.",
+   "word_bank": [
+    "Please",
+    "with",
+    "today",
+    "she",
+    "call",
+    "them",
+    "him"
+   ],
+   "accepted_answers": [],
+   "sentence_tr": "Lütfen bugün onları ara.",
+   "audio_text": "Please call them today.",
+   "explanation_tr": "“Call” fiilinin nesnesi “them”dir; “they” özne zamiri olurdu."
+  },
+  {
+   "id": "a1_gram_object_pronouns_022",
+   "unit": "a1_unit_25_object_pronouns",
+   "type": "dictation",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Duyduğun cümleyi yaz.",
+   "answer": "He is with me.",
+   "word_bank": [
+    "with",
+    "is",
+    "her",
+    "me",
+    "He",
+    "him",
+    "they"
+   ],
+   "accepted_answers": [],
+   "sentence_tr": "O benimle.",
+   "audio_text": "He is with me.",
+   "explanation_tr": "“With” edatından sonra nesne zamiri “me” kullanılır."
+  },
+  {
+   "id": "a1_gram_object_pronouns_023",
+   "unit": "a1_unit_25_object_pronouns",
+   "type": "type_translation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "İngilizceye çevir ve yaz.",
+   "prompt_tr": "Onları her gün görüyorum.",
+   "answer": "I see them every day.",
+   "accepted_answers": [],
+   "explanation_tr": "“See” fiilinden sonra nesne zamiri “them” gelir."
+  },
+  {
+   "id": "a1_gram_object_pronouns_024",
+   "unit": "a1_unit_25_object_pronouns",
+   "type": "type_translation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "İngilizceye çevir ve yaz.",
+   "prompt_tr": "Onu bana ver.",
+   "answer": "Give it to me.",
+   "accepted_answers": [],
+   "explanation_tr": "“Give it to me” kalıbında nesne zamirleri fiilden ve “to” edatından sonra gelir."
+  }
+ ]
+}

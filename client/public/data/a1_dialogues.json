@@ -1,0 +1,1052 @@
+[
+ {
+  "id": "meeting_new_friend",
+  "title_en": "Meeting a New Friend",
+  "title_tr": "Yeni Bir Arkadaşla Tanışma",
+  "situation_tr": "Ali ve Anna ilk kez tanışıp birbirlerine kendilerini tanıtır.",
+  "lines": [
+   {
+    "speaker": "Ali",
+    "en": "Hi, I'm Ali.",
+    "tr": "Merhaba, ben Ali."
+   },
+   {
+    "speaker": "Anna",
+    "en": "Hello, I'm Anna.",
+    "tr": "Merhaba, ben Anna."
+   },
+   {
+    "speaker": "Ali",
+    "en": "Where are you from, Anna?",
+    "tr": "Nerelisin, Anna?"
+   },
+   {
+    "speaker": "Anna",
+    "en": "I'm from Ankara.",
+    "tr": "Ankara'danım."
+   },
+   {
+    "speaker": "Ali",
+    "en": "What do you do?",
+    "tr": "Ne iş yapıyorsun?"
+   },
+   {
+    "speaker": "Anna",
+    "en": "I'm a teacher.",
+    "tr": "Öğretmenim."
+   },
+   {
+    "speaker": "Ali",
+    "en": "Nice to meet you.",
+    "tr": "Tanıştığıma memnun oldum."
+   },
+   {
+    "speaker": "Anna",
+    "en": "Nice to meet you too.",
+    "tr": "Ben de tanıştığıma memnun oldum."
+   }
+  ],
+  "key_phrases": [
+   {
+    "en": "Where are you from?",
+    "tr": "Nerelisin?"
+   },
+   {
+    "en": "I'm from Ankara.",
+    "tr": "Ankara'danım."
+   },
+   {
+    "en": "What do you do?",
+    "tr": "Ne iş yapıyorsun?"
+   },
+   {
+    "en": "Nice to meet you.",
+    "tr": "Tanıştığıma memnun oldum."
+   }
+  ],
+  "question": {
+   "question_tr": "Anna nereli?",
+   "options": [
+    "İzmirli.",
+    "Ankaralı.",
+    "Bursalı."
+   ],
+   "answer": "Ankaralı."
+  }
+ },
+ {
+  "id": "at_cafe",
+  "title_en": "At the Cafe",
+  "title_tr": "Kafede",
+  "situation_tr": "Müşteri kafede içecek ve pasta sipariş eder, sonra hesabı ister.",
+  "lines": [
+   {
+    "speaker": "Waiter",
+    "en": "Hello. What would you like?",
+    "tr": "Merhaba. Ne istersiniz?"
+   },
+   {
+    "speaker": "Customer",
+    "en": "I'd like tea, please.",
+    "tr": "Bir çay istiyorum, lütfen."
+   },
+   {
+    "speaker": "Waiter",
+    "en": "Would you like cake?",
+    "tr": "Pasta ister misiniz?"
+   },
+   {
+    "speaker": "Customer",
+    "en": "Yes, please.",
+    "tr": "Evet, lütfen."
+   },
+   {
+    "speaker": "Waiter",
+    "en": "Here you are.",
+    "tr": "Buyurun."
+   },
+   {
+    "speaker": "Customer",
+    "en": "Thank you.",
+    "tr": "Teşekkür ederim."
+   },
+   {
+    "speaker": "Waiter",
+    "en": "Anything else?",
+    "tr": "Başka bir şey?"
+   },
+   {
+    "speaker": "Customer",
+    "en": "The bill, please.",
+    "tr": "Hesap, lütfen."
+   }
+  ],
+  "key_phrases": [
+   {
+    "en": "What would you like?",
+    "tr": "Ne istersiniz?"
+   },
+   {
+    "en": "I'd like tea, please.",
+    "tr": "Bir çay istiyorum, lütfen."
+   },
+   {
+    "en": "Here you are.",
+    "tr": "Buyurun."
+   },
+   {
+    "en": "The bill, please.",
+    "tr": "Hesap, lütfen."
+   }
+  ],
+  "question": {
+   "question_tr": "Müşteri ne içmek istiyor?",
+   "options": [
+    "Çay.",
+    "Kahve.",
+    "Su."
+   ],
+   "answer": "Çay."
+  }
+ },
+ {
+  "id": "at_shop",
+  "title_en": "At the Shop",
+  "title_tr": "Mağazada",
+  "situation_tr": "Müşteri bir gömleğin fiyatını sorar ve gömleği satın alır.",
+  "lines": [
+   {
+    "speaker": "Customer",
+    "en": "How much is this shirt?",
+    "tr": "Bu gömlek ne kadar?"
+   },
+   {
+    "speaker": "Shop assistant",
+    "en": "It's ten pounds.",
+    "tr": "On sterlin."
+   },
+   {
+    "speaker": "Customer",
+    "en": "Do you have a blue shirt?",
+    "tr": "Mavi gömleğiniz var mı?"
+   },
+   {
+    "speaker": "Shop assistant",
+    "en": "Yes, we do.",
+    "tr": "Evet, var."
+   },
+   {
+    "speaker": "Customer",
+    "en": "I want this one, please.",
+    "tr": "Bunu istiyorum, lütfen."
+   },
+   {
+    "speaker": "Shop assistant",
+    "en": "Here you are.",
+    "tr": "Buyurun."
+   },
+   {
+    "speaker": "Customer",
+    "en": "Can I pay by card?",
+    "tr": "Kartla ödeyebilir miyim?"
+   },
+   {
+    "speaker": "Shop assistant",
+    "en": "Yes, you can.",
+    "tr": "Evet, ödeyebilirsiniz."
+   }
+  ],
+  "key_phrases": [
+   {
+    "en": "How much is this shirt?",
+    "tr": "Bu gömlek ne kadar?"
+   },
+   {
+    "en": "Do you have a blue shirt?",
+    "tr": "Mavi gömleğiniz var mı?"
+   },
+   {
+    "en": "I want this one, please.",
+    "tr": "Bunu istiyorum, lütfen."
+   },
+   {
+    "en": "Can I pay by card?",
+    "tr": "Kartla ödeyebilir miyim?"
+   }
+  ],
+  "question": {
+   "question_tr": "Gömlek kaç sterlin?",
+   "options": [
+    "Beş sterlin.",
+    "On sterlin.",
+    "On beş sterlin."
+   ],
+   "answer": "On sterlin."
+  }
+ },
+ {
+  "id": "asking_directions",
+  "title_en": "Asking for Directions",
+  "title_tr": "Yol Sorma",
+  "situation_tr": "Ali, Anna'ya bankanın nerede olduğunu ve oraya nasıl gideceğini sorar.",
+  "lines": [
+   {
+    "speaker": "Ali",
+    "en": "Excuse me, where is the bank?",
+    "tr": "Affedersiniz, banka nerede?"
+   },
+   {
+    "speaker": "Anna",
+    "en": "The bank is near the park.",
+    "tr": "Banka parkın yakınında."
+   },
+   {
+    "speaker": "Ali",
+    "en": "How do I get there?",
+    "tr": "Oraya nasıl giderim?"
+   },
+   {
+    "speaker": "Anna",
+    "en": "Go straight on.",
+    "tr": "Dümdüz gidin."
+   },
+   {
+    "speaker": "Ali",
+    "en": "Then what?",
+    "tr": "Sonra ne yapayım?"
+   },
+   {
+    "speaker": "Anna",
+    "en": "Turn left at the shop.",
+    "tr": "Mağazada sola dönün."
+   },
+   {
+    "speaker": "Ali",
+    "en": "Is it far?",
+    "tr": "Uzak mı?"
+   },
+   {
+    "speaker": "Anna",
+    "en": "No, it is next to the park.",
+    "tr": "Hayır, parkın yanında."
+   }
+  ],
+  "key_phrases": [
+   {
+    "en": "Where is the bank?",
+    "tr": "Banka nerede?"
+   },
+   {
+    "en": "How do I get there?",
+    "tr": "Oraya nasıl giderim?"
+   },
+   {
+    "en": "Go straight on.",
+    "tr": "Dümdüz gidin."
+   },
+   {
+    "en": "Turn left at the shop.",
+    "tr": "Mağazada sola dönün."
+   }
+  ],
+  "question": {
+   "question_tr": "Ali önce ne yapmalı?",
+   "options": [
+    "Dümdüz gitmeli.",
+    "Sağa dönmeli.",
+    "Geri dönmeli."
+   ],
+   "answer": "Dümdüz gitmeli."
+  }
+ },
+ {
+  "id": "family_talk",
+  "title_en": "Talking About Family",
+  "title_tr": "Aile Hakkında Konuşma",
+  "situation_tr": "Ali ve Anna aileleri ve Anna'nın kardeşinin yaşı hakkında konuşur.",
+  "lines": [
+   {
+    "speaker": "Ali",
+    "en": "Do you have a big family?",
+    "tr": "Kalabalık bir ailen var mı?"
+   },
+   {
+    "speaker": "Anna",
+    "en": "Yes, I do.",
+    "tr": "Evet, var."
+   },
+   {
+    "speaker": "Ali",
+    "en": "How many brothers do you have?",
+    "tr": "Kaç erkek kardeşin var?"
+   },
+   {
+    "speaker": "Anna",
+    "en": "I have one brother.",
+    "tr": "Bir erkek kardeşim var."
+   },
+   {
+    "speaker": "Ali",
+    "en": "How old is he?",
+    "tr": "O kaç yaşında?"
+   },
+   {
+    "speaker": "Anna",
+    "en": "He is twelve.",
+    "tr": "O on iki yaşında."
+   },
+   {
+    "speaker": "Ali",
+    "en": "What about your parents?",
+    "tr": "Peki ya anne baban?"
+   },
+   {
+    "speaker": "Anna",
+    "en": "My mother is forty, and my father is forty-five.",
+    "tr": "Annem kırk, babam kırk beş yaşında."
+   }
+  ],
+  "key_phrases": [
+   {
+    "en": "Do you have a big family?",
+    "tr": "Kalabalık bir ailen var mı?"
+   },
+   {
+    "en": "How many brothers do you have?",
+    "tr": "Kaç erkek kardeşin var?"
+   },
+   {
+    "en": "How old is he?",
+    "tr": "O kaç yaşında?"
+   },
+   {
+    "en": "He is twelve.",
+    "tr": "O on iki yaşında."
+   }
+  ],
+  "question": {
+   "question_tr": "Anna'nın erkek kardeşi kaç yaşında?",
+   "options": [
+    "On yaşında.",
+    "On iki yaşında.",
+    "On dört yaşında."
+   ],
+   "answer": "On iki yaşında."
+  }
+ },
+ {
+  "id": "daily_routine",
+  "title_en": "Daily Routine",
+  "title_tr": "Günlük Rutin",
+  "situation_tr": "Ali ve Anna, Anna'nın ne zaman kalktığını ve işe başladığını konuşur.",
+  "lines": [
+   {
+    "speaker": "Ali",
+    "en": "What time do you get up?",
+    "tr": "Saat kaçta kalkarsın?"
+   },
+   {
+    "speaker": "Anna",
+    "en": "I get up at seven.",
+    "tr": "Saat yedide kalkarım."
+   },
+   {
+    "speaker": "Ali",
+    "en": "Do you work every day?",
+    "tr": "Her gün çalışır mısın?"
+   },
+   {
+    "speaker": "Anna",
+    "en": "Yes, I work at a school.",
+    "tr": "Evet, bir okulda çalışırım."
+   },
+   {
+    "speaker": "Ali",
+    "en": "What time do you start?",
+    "tr": "Saat kaçta başlarsın?"
+   },
+   {
+    "speaker": "Anna",
+    "en": "I start at eight.",
+    "tr": "Saat sekizde başlarım."
+   },
+   {
+    "speaker": "Ali",
+    "en": "What time do you go home?",
+    "tr": "Saat kaçta eve gidersin?"
+   },
+   {
+    "speaker": "Anna",
+    "en": "I go home at four.",
+    "tr": "Saat dörtte eve giderim."
+   }
+  ],
+  "key_phrases": [
+   {
+    "en": "What time do you get up?",
+    "tr": "Saat kaçta kalkarsın?"
+   },
+   {
+    "en": "I get up at seven.",
+    "tr": "Saat yedide kalkarım."
+   },
+   {
+    "en": "What time do you start?",
+    "tr": "Saat kaçta başlarsın?"
+   },
+   {
+    "en": "I go home at four.",
+    "tr": "Saat dörtte eve giderim."
+   }
+  ],
+  "question": {
+   "question_tr": "Anna işe saat kaçta başlıyor?",
+   "options": [
+    "Saat yedide.",
+    "Saat sekizde.",
+    "Saat dokuzda."
+   ],
+   "answer": "Saat sekizde."
+  }
+ },
+ {
+  "id": "hobbies",
+  "title_en": "Hobbies and Free Time",
+  "title_tr": "Hobiler ve Boş Zaman",
+  "situation_tr": "Ali ve Anna boş zamanlarında neler yapmayı sevdiklerini ve neler yapabildiklerini konuşur.",
+  "lines": [
+   {
+    "speaker": "Ali",
+    "en": "What do you do in your free time?",
+    "tr": "Boş zamanlarında ne yaparsın?"
+   },
+   {
+    "speaker": "Anna",
+    "en": "I like music and books.",
+    "tr": "Müziği ve kitapları severim."
+   },
+   {
+    "speaker": "Ali",
+    "en": "Can you play the guitar?",
+    "tr": "Gitar çalabilir misin?"
+   },
+   {
+    "speaker": "Anna",
+    "en": "No, I can't, but I can sing.",
+    "tr": "Hayır, çalamam ama şarkı söyleyebilirim."
+   },
+   {
+    "speaker": "Ali",
+    "en": "Can you swim?",
+    "tr": "Yüzebilir misin?"
+   },
+   {
+    "speaker": "Anna",
+    "en": "Yes, I can swim very well.",
+    "tr": "Evet, çok iyi yüzebilirim."
+   },
+   {
+    "speaker": "Ali",
+    "en": "Do you like sports?",
+    "tr": "Spor yapmayı sever misin?"
+   },
+   {
+    "speaker": "Anna",
+    "en": "Yes, I like running.",
+    "tr": "Evet, koşmayı severim."
+   }
+  ],
+  "key_phrases": [
+   {
+    "en": "What do you do in your free time?",
+    "tr": "Boş zamanlarında ne yaparsın?"
+   },
+   {
+    "en": "I like music and books.",
+    "tr": "Müziği ve kitapları severim."
+   },
+   {
+    "en": "I can sing.",
+    "tr": "Şarkı söyleyebilirim."
+   },
+   {
+    "en": "I can swim very well.",
+    "tr": "Çok iyi yüzebilirim."
+   }
+  ],
+  "question": {
+   "question_tr": "Anna hangi konuda yetenekli?",
+   "options": [
+    "Şarkı söylemekte.",
+    "Gitar çalmakta.",
+    "Resim yapmakta."
+   ],
+   "answer": "Şarkı söylemekte."
+  }
+ },
+ {
+  "id": "phone_call",
+  "title_en": "A Meeting by Phone",
+  "title_tr": "Telefonda Buluşma",
+  "situation_tr": "Ali ve Anna telefonda buluşmak için saat belirler.",
+  "lines": [
+   {
+    "speaker": "Ali",
+    "en": "Hello, this is Ali.",
+    "tr": "Merhaba, ben Ali."
+   },
+   {
+    "speaker": "Anna",
+    "en": "Hi, Ali. This is Anna.",
+    "tr": "Merhaba Ali. Ben Anna."
+   },
+   {
+    "speaker": "Ali",
+    "en": "Are you free today?",
+    "tr": "Bugün müsait misin?"
+   },
+   {
+    "speaker": "Anna",
+    "en": "Yes, I am free.",
+    "tr": "Evet, müsaitim."
+   },
+   {
+    "speaker": "Ali",
+    "en": "Can we meet at the cafe?",
+    "tr": "Kafede buluşabilir miyiz?"
+   },
+   {
+    "speaker": "Anna",
+    "en": "Yes. What time?",
+    "tr": "Evet. Saat kaçta?"
+   },
+   {
+    "speaker": "Ali",
+    "en": "At three o'clock.",
+    "tr": "Saat üçte."
+   },
+   {
+    "speaker": "Anna",
+    "en": "Great. See you then.",
+    "tr": "Harika. O zaman görüşürüz."
+   }
+  ],
+  "key_phrases": [
+   {
+    "en": "Are you free today?",
+    "tr": "Bugün müsait misin?"
+   },
+   {
+    "en": "Can we meet at the cafe?",
+    "tr": "Kafede buluşabilir miyiz?"
+   },
+   {
+    "en": "What time?",
+    "tr": "Saat kaçta?"
+   },
+   {
+    "en": "At three o'clock.",
+    "tr": "Saat üçte."
+   }
+  ],
+  "question": {
+   "question_tr": "Ali ve Anna nerede buluşacak?",
+   "options": [
+    "Parkta",
+    "Kafede",
+    "Okulda"
+   ],
+   "answer": "Kafede"
+  }
+ },
+ {
+  "id": "at_school",
+  "title_en": "At School",
+  "title_tr": "Okulda",
+  "situation_tr": "Ali ve Anna sınıfları, öğretmenleri ve ödevleri hakkında konuşur.",
+  "lines": [
+   {
+    "speaker": "Ali",
+    "en": "What class is this?",
+    "tr": "Bu hangi ders?"
+   },
+   {
+    "speaker": "Anna",
+    "en": "It is English class.",
+    "tr": "Bu İngilizce dersi."
+   },
+   {
+    "speaker": "Ali",
+    "en": "Who is our teacher?",
+    "tr": "Öğretmenimiz kim?"
+   },
+   {
+    "speaker": "Anna",
+    "en": "Mr Lee is our teacher.",
+    "tr": "Öğretmenimiz Bay Lee."
+   },
+   {
+    "speaker": "Ali",
+    "en": "Is there homework today?",
+    "tr": "Bugün ödev var mı?"
+   },
+   {
+    "speaker": "Anna",
+    "en": "Yes, read page five.",
+    "tr": "Evet, beşinci sayfayı oku."
+   },
+   {
+    "speaker": "Ali",
+    "en": "Can you help me?",
+    "tr": "Bana yardım edebilir misin?"
+   },
+   {
+    "speaker": "Anna",
+    "en": "Yes, after class.",
+    "tr": "Evet, dersten sonra."
+   }
+  ],
+  "key_phrases": [
+   {
+    "en": "What class is this?",
+    "tr": "Bu hangi ders?"
+   },
+   {
+    "en": "Who is our teacher?",
+    "tr": "Öğretmenimiz kim?"
+   },
+   {
+    "en": "Is there homework today?",
+    "tr": "Bugün ödev var mı?"
+   },
+   {
+    "en": "Can you help me?",
+    "tr": "Bana yardım edebilir misin?"
+   }
+  ],
+  "question": {
+   "question_tr": "Öğrenciler hangi sayfayı okuyacak?",
+   "options": [
+    "Üçüncü sayfayı",
+    "Beşinci sayfayı",
+    "Yedinci sayfayı"
+   ],
+   "answer": "Beşinci sayfayı"
+  }
+ },
+ {
+  "id": "weather_plans",
+  "title_en": "Weather and Plans",
+  "title_tr": "Hava Durumu ve Planlar",
+  "situation_tr": "Ali ve Anna cumartesi hava durumunu ve planlarını konuşur.",
+  "lines": [
+   {
+    "speaker": "Ali",
+    "en": "Is it sunny today?",
+    "tr": "Bugün hava güneşli mi?"
+   },
+   {
+    "speaker": "Anna",
+    "en": "No, it is rainy.",
+    "tr": "Hayır, yağmurlu."
+   },
+   {
+    "speaker": "Ali",
+    "en": "What about Saturday?",
+    "tr": "Peki ya cumartesi?"
+   },
+   {
+    "speaker": "Anna",
+    "en": "It is sunny on Saturday.",
+    "tr": "Cumartesi hava güneşli."
+   },
+   {
+    "speaker": "Ali",
+    "en": "Do you want to go to the park?",
+    "tr": "Parka gitmek ister misin?"
+   },
+   {
+    "speaker": "Anna",
+    "en": "Yes, I like the park.",
+    "tr": "Evet, parkı severim."
+   },
+   {
+    "speaker": "Ali",
+    "en": "What time can we go?",
+    "tr": "Saat kaçta gidebiliriz?"
+   },
+   {
+    "speaker": "Anna",
+    "en": "At ten in the morning.",
+    "tr": "Sabah saat onda."
+   }
+  ],
+  "key_phrases": [
+   {
+    "en": "Is it sunny today?",
+    "tr": "Bugün hava güneşli mi?"
+   },
+   {
+    "en": "What about Saturday?",
+    "tr": "Peki ya cumartesi?"
+   },
+   {
+    "en": "Do you want to go to the park?",
+    "tr": "Parka gitmek ister misin?"
+   },
+   {
+    "en": "At ten in the morning.",
+    "tr": "Sabah saat onda."
+   }
+  ],
+  "question": {
+   "question_tr": "Cumartesi hava nasıl olacak?",
+   "options": [
+    "Güneşli",
+    "Yağmurlu",
+    "Karlı"
+   ],
+   "answer": "Güneşli"
+  }
+ },
+ {
+  "id": "at_home",
+  "title_en": "In the Living Room",
+  "title_tr": "Oturma Odasında",
+  "situation_tr": "Ali ve Anna oturma odasındaki eşyalar hakkında konuşur.",
+  "lines": [
+   {
+    "speaker": "Ali",
+    "en": "Is there a sofa in the living room?",
+    "tr": "Oturma odasında bir kanepe var mı?"
+   },
+   {
+    "speaker": "Anna",
+    "en": "Yes, there is a big sofa.",
+    "tr": "Evet, büyük bir kanepe var."
+   },
+   {
+    "speaker": "Ali",
+    "en": "Are there two chairs?",
+    "tr": "İki sandalye var mı?"
+   },
+   {
+    "speaker": "Anna",
+    "en": "Yes, they are next to the table.",
+    "tr": "Evet, masanın yanındalar."
+   },
+   {
+    "speaker": "Ali",
+    "en": "Is there a lamp?",
+    "tr": "Bir lamba var mı?"
+   },
+   {
+    "speaker": "Anna",
+    "en": "Yes, it is by the sofa.",
+    "tr": "Evet, kanepenin yanında."
+   },
+   {
+    "speaker": "Ali",
+    "en": "I like this room.",
+    "tr": "Bu odayı beğeniyorum."
+   },
+   {
+    "speaker": "Anna",
+    "en": "Me too. It is nice.",
+    "tr": "Ben de. Güzel bir oda."
+   }
+  ],
+  "key_phrases": [
+   {
+    "en": "Is there a sofa in the living room?",
+    "tr": "Oturma odasında bir kanepe var mı?"
+   },
+   {
+    "en": "Are there two chairs?",
+    "tr": "İki sandalye var mı?"
+   },
+   {
+    "en": "Is there a lamp?",
+    "tr": "Bir lamba var mı?"
+   },
+   {
+    "en": "I like this room.",
+    "tr": "Bu odayı beğeniyorum."
+   }
+  ],
+  "question": {
+   "question_tr": "Oturma odasında hangi eşya var?",
+   "options": [
+    "Bir kanepe",
+    "Bir yatak",
+    "Bir buzdolabı"
+   ],
+   "answer": "Bir kanepe"
+  }
+ },
+ {
+  "id": "feeling_sick",
+  "title_en": "Feeling Sick",
+  "title_tr": "Kendini Hasta Hissetmek",
+  "situation_tr": "Ali başı ağrıdığı için Anna'dan doktora telefon etmesini ister.",
+  "lines": [
+   {
+    "speaker": "Ali",
+    "en": "I have a headache.",
+    "tr": "Başım ağrıyor."
+   },
+   {
+    "speaker": "Anna",
+    "en": "Oh, are you OK?",
+    "tr": "Aa, iyi misin?"
+   },
+   {
+    "speaker": "Ali",
+    "en": "No, I feel sick.",
+    "tr": "Hayır, kendimi hasta hissediyorum."
+   },
+   {
+    "speaker": "Anna",
+    "en": "You need a doctor.",
+    "tr": "Bir doktora ihtiyacın var."
+   },
+   {
+    "speaker": "Ali",
+    "en": "Can you call the doctor?",
+    "tr": "Doktoru arayabilir misin?"
+   },
+   {
+    "speaker": "Anna",
+    "en": "Yes, I can call now.",
+    "tr": "Evet, şimdi arayabilirim."
+   },
+   {
+    "speaker": "Ali",
+    "en": "Thank you. I want some water.",
+    "tr": "Teşekkürler. Biraz su istiyorum."
+   },
+   {
+    "speaker": "Anna",
+    "en": "Here you are. Drink it, please.",
+    "tr": "Buyur. Lütfen iç."
+   }
+  ],
+  "key_phrases": [
+   {
+    "en": "I have a headache.",
+    "tr": "Başım ağrıyor."
+   },
+   {
+    "en": "I feel sick.",
+    "tr": "Kendimi hasta hissediyorum."
+   },
+   {
+    "en": "Can you call the doctor?",
+    "tr": "Doktoru arayabilir misin?"
+   },
+   {
+    "en": "I want some water.",
+    "tr": "Biraz su istiyorum."
+   }
+  ],
+  "question": {
+   "question_tr": "Ali'nin neresi ağrıyor?",
+   "options": [
+    "Başı",
+    "Karnı",
+    "Dişi"
+   ],
+   "answer": "Başı"
+  }
+ },
+ {
+  "id": "taking_bus",
+  "title_en": "Buying a Bus Ticket",
+  "title_tr": "Otobüs Bileti Alma",
+  "situation_tr": "Bir yolcu şehir merkezine gitmek için otobüs bileti alır.",
+  "lines": [
+   {
+    "speaker": "Customer",
+    "en": "Hello. I want a bus ticket.",
+    "tr": "Merhaba. Bir otobüs bileti istiyorum."
+   },
+   {
+    "speaker": "Clerk",
+    "en": "Where do you want to go?",
+    "tr": "Nereye gitmek istiyorsunuz?"
+   },
+   {
+    "speaker": "Customer",
+    "en": "To the city center, please.",
+    "tr": "Şehir merkezine, lütfen."
+   },
+   {
+    "speaker": "Clerk",
+    "en": "Do you want a return ticket?",
+    "tr": "Gidiş dönüş bileti ister misiniz?"
+   },
+   {
+    "speaker": "Customer",
+    "en": "One way, please.",
+    "tr": "Tek gidiş, lütfen."
+   },
+   {
+    "speaker": "Clerk",
+    "en": "It is five dollars.",
+    "tr": "Beş dolar."
+   },
+   {
+    "speaker": "Customer",
+    "en": "Can I pay by card?",
+    "tr": "Kartla ödeyebilir miyim?"
+   },
+   {
+    "speaker": "Clerk",
+    "en": "Yes. Here is your ticket.",
+    "tr": "Evet. İşte biletiniz."
+   }
+  ],
+  "key_phrases": [
+   {
+    "en": "I want a bus ticket.",
+    "tr": "Bir otobüs bileti istiyorum."
+   },
+   {
+    "en": "Where do you want to go?",
+    "tr": "Nereye gitmek istiyorsunuz?"
+   },
+   {
+    "en": "One way, please.",
+    "tr": "Tek yön, lütfen."
+   },
+   {
+    "en": "Can I pay by card?",
+    "tr": "Kartla ödeyebilir miyim?"
+   }
+  ],
+  "question": {
+   "question_tr": "Müşteri nereye gitmek istiyor?",
+   "options": [
+    "Şehir merkezine",
+    "Havaalanına",
+    "Okula"
+   ],
+   "answer": "Şehir merkezine"
+  }
+ },
+ {
+  "id": "birthday_invite",
+  "title_en": "A Birthday Party",
+  "title_tr": "Doğum Günü Partisi",
+  "situation_tr": "Anna, Ali'yi 12 Mayıs Pazar günü yapılacak doğum günü partisine çağırır.",
+  "lines": [
+   {
+    "speaker": "Anna",
+    "en": "Hi, Ali. My birthday is soon.",
+    "tr": "Merhaba Ali. Doğum günüm yakında."
+   },
+   {
+    "speaker": "Ali",
+    "en": "Happy birthday! When is it?",
+    "tr": "İyi ki doğdun! Ne zaman?"
+   },
+   {
+    "speaker": "Anna",
+    "en": "It is on Sunday, May 12.",
+    "tr": "12 Mayıs Pazar günü."
+   },
+   {
+    "speaker": "Ali",
+    "en": "Can I come to your party?",
+    "tr": "Partine gelebilir miyim?"
+   },
+   {
+    "speaker": "Anna",
+    "en": "Yes! It is at my home.",
+    "tr": "Evet! Evimde olacak."
+   },
+   {
+    "speaker": "Ali",
+    "en": "What time does it start?",
+    "tr": "Saat kaçta başlıyor?"
+   },
+   {
+    "speaker": "Anna",
+    "en": "It starts at three o'clock.",
+    "tr": "Saat üçte başlıyor."
+   },
+   {
+    "speaker": "Ali",
+    "en": "Great. I am happy to come.",
+    "tr": "Harika. Gelmekten mutluyum."
+   }
+  ],
+  "key_phrases": [
+   {
+    "en": "When is it?",
+    "tr": "Ne zaman?"
+   },
+   {
+    "en": "It is on Sunday, May 12.",
+    "tr": "12 Mayıs Pazar günü."
+   },
+   {
+    "en": "Can I come to your party?",
+    "tr": "Partine gelebilir miyim?"
+   },
+   {
+    "en": "It starts at three o'clock.",
+    "tr": "Saat üçte başlıyor."
+   }
+  ],
+  "question": {
+   "question_tr": "Anna'nın doğum günü partisi hangi gün?",
+   "options": [
+    "Pazar günü",
+    "Pazartesi günü",
+    "Cuma günü"
+   ],
+   "answer": "Pazar günü"
+  }
+ }
+]

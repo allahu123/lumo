@@ -1,0 +1,631 @@
+{
+ "unit_id": "a1_unit_08_numbers_prices",
+ "slug": "numbers_prices",
+ "order": 8,
+ "module": "m2",
+ "bonus_a1_plus": false,
+ "title_en": "Numbers, age and prices",
+ "title_tr": "Sayılar, yaş ve fiyatlar",
+ "level": "A1",
+ "related_vocab_topics": [
+  "numbers_time",
+  "shopping_money"
+ ],
+ "lesson": {
+  "goal_tr": "Bu dersin sonunda 0-100 arasındaki sayıları cümlelerde kullanabilir, yaş ve fiyat sorabilir, telefon numarası söyleyebilir ve miktar sorabilirsin.",
+  "sections": [
+   {
+    "heading_tr": "Sayılar",
+    "explanation_tr": "Sayıları rakamla da yazabilirsin: “I have 20 books.” 13-19 arasındaki sayıların yazılışında genellikle “-teen”, onluklarda ise “-ty” kullanılır. 21-99 arasındaki sayılar yazıyla yazıldığında onluk ve birlik arasına kısa çizgi konur.",
+    "examples": [
+     {
+      "en": "I have 20 books.",
+      "tr": "20 kitabım var."
+     },
+     {
+      "en": "There are 100 people.",
+      "tr": "100 kişi var."
+     }
+    ]
+   },
+   {
+    "heading_tr": "Yaş ve fiyat",
+    "explanation_tr": "Yaş söylerken “be + sayı + years old” kalıbını kullanırız; Türkçedeki gibi “yaşında olmak” için “have” kullanılmaz. Fiyat sormak için “How much is it?” deriz; cevaptaysa para birimi çoğul olabilir.",
+    "examples": [
+     {
+      "en": "How old are you?",
+      "tr": "Kaç yaşındasın?"
+     },
+     {
+      "en": "I'm 10 years old.",
+      "tr": "10 yaşındayım."
+     },
+     {
+      "en": "How much is it?",
+      "tr": "Fiyatı ne kadar?"
+     },
+     {
+      "en": "It's five euros.",
+      "tr": "Beş euro."
+     }
+    ]
+   },
+   {
+    "heading_tr": "Miktar ve telefon numarası",
+    "explanation_tr": "Sayılabilen şeylerin miktarını sormak için “How many” kullanırız ve ardından çoğul isim gelir. Telefon numaralarını genellikle rakam rakam okuruz.",
+    "examples": [
+     {
+      "en": "How many books are there?",
+      "tr": "Kaç kitap var?"
+     },
+     {
+      "en": "There are three books.",
+      "tr": "Üç kitap var."
+     },
+     {
+      "en": "My phone number is 2-5-1-4.",
+      "tr": "Telefon numaram 2-5-1-4."
+     }
+    ]
+   }
+  ],
+  "key_patterns": [
+   {
+    "pattern": "How old + are + you? → How old are you?",
+    "example_en": "How old are you?",
+    "example_tr": "Kaç yaşındasın?"
+   },
+   {
+    "pattern": "I + am + sayı + years old → I'm 10 years old.",
+    "example_en": "I'm 10 years old.",
+    "example_tr": "10 yaşındayım."
+   },
+   {
+    "pattern": "How much + is + it? → How much is it?",
+    "example_en": "How much is it?",
+    "example_tr": "Fiyatı ne kadar?"
+   },
+   {
+    "pattern": "How many + books + are there? → How many books are there?",
+    "example_en": "How many books are there?",
+    "example_tr": "Kaç kitap var?"
+   }
+  ],
+  "turkish_speaker_tips_tr": [
+   "Türkçede fiil çoğunlukla sonda, İngilizcede ise özne-fiil-nesne sırası kullanılır: “How old are you?” sorusunda “are” özneden sonra gelir.",
+   "Türkçede yaşı “10 yaşındayım” diye söyleriz; İngilizcede “I am 10 years old” kalıbında “am” gerekir.",
+   "Türkçede sayı söylerken birlik onluktan önce gelir; İngilizcede 21 gibi sayılarda önce onluk, sonra birlik söylenir.",
+   "İngilizcede “How many” sonrasında çoğul isim kullanılır; örneğin “books”."
+  ],
+  "common_mistakes": [
+   {
+    "wrong": "I have 10 years.",
+    "correct": "I am 10 years old.",
+    "note_tr": "İngilizcede yaşı söylemek için “have” değil, “be” fiilini kullan."
+   },
+   {
+    "wrong": "How much it is?",
+    "correct": "How much is it?",
+    "note_tr": "Soru kelimesinden sonra “is”, ardından “it” gelir."
+   },
+   {
+    "wrong": "How many book?",
+    "correct": "How many books?",
+    "note_tr": "“How many” sonrasında sayılabilen isim çoğul olur."
+   },
+   {
+    "wrong": "It's five euro.",
+    "correct": "It's five euros.",
+    "note_tr": "Birden fazla euro için “euros” kullanılır."
+   }
+  ],
+  "mini_dialogue": [
+   {
+    "speaker": "Anna",
+    "en": "How old are you?",
+    "tr": "Kaç yaşındasın?"
+   },
+   {
+    "speaker": "Ali",
+    "en": "I'm 10 years old.",
+    "tr": "10 yaşındayım."
+   },
+   {
+    "speaker": "Anna",
+    "en": "How much is it?",
+    "tr": "Fiyatı ne kadar?"
+   },
+   {
+    "speaker": "Ali",
+    "en": "It's five dollars.",
+    "tr": "Beş dolar."
+   },
+   {
+    "speaker": "Anna",
+    "en": "How many books are there?",
+    "tr": "Kaç kitap var?"
+   },
+   {
+    "speaker": "Ali",
+    "en": "There are three books.",
+    "tr": "Üç kitap var."
+   }
+  ]
+ },
+ "exercise_counts": {
+  "fill_blank": 6,
+  "multiple_choice": 4,
+  "match_pairs": 1,
+  "choose_correct_sentence": 3,
+  "build_sentence": 6,
+  "dictation": 2,
+  "type_translation": 2
+ },
+ "exercises": [
+  {
+   "id": "a1_gram_numbers_prices_001",
+   "unit": "a1_unit_08_numbers_prices",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "I ___ ten years old.",
+   "sentence_tr": "Ben on yaşındayım.",
+   "options": [
+    "am",
+    "are",
+    "is",
+    "be"
+   ],
+   "answer": "am",
+   "explanation_tr": "“I” öznesiyle “am” kullanılır."
+  },
+  {
+   "id": "a1_gram_numbers_prices_002",
+   "unit": "a1_unit_08_numbers_prices",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "How old ___ you?",
+   "sentence_tr": "Kaç yaşındasın?",
+   "options": [
+    "be",
+    "are",
+    "am",
+    "is"
+   ],
+   "answer": "are",
+   "explanation_tr": "“You” öznesiyle “are” kullanılır: “How old are you?”."
+  },
+  {
+   "id": "a1_gram_numbers_prices_003",
+   "unit": "a1_unit_08_numbers_prices",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "How many books ___ there?",
+   "sentence_tr": "Kaç kitap var?",
+   "options": [
+    "be",
+    "am",
+    "is",
+    "are"
+   ],
+   "answer": "are",
+   "explanation_tr": "Çoğul “books” ile “are” kullanılır."
+  },
+  {
+   "id": "a1_gram_numbers_prices_004",
+   "unit": "a1_unit_08_numbers_prices",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "How much ___ the book?",
+   "sentence_tr": "Kitap ne kadar?",
+   "options": [
+    "be",
+    "am",
+    "is",
+    "are"
+   ],
+   "answer": "is",
+   "explanation_tr": "Fiyat sorarken “How much is it?” kalıbı kullanılır; tekil “the book” ile “is” gelir."
+  },
+  {
+   "id": "a1_gram_numbers_prices_005",
+   "unit": "a1_unit_08_numbers_prices",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "It is five ___.",
+   "sentence_tr": "Beş dolar.",
+   "options": [
+    "years",
+    "books",
+    "dollars",
+    "phones"
+   ],
+   "answer": "dollars",
+   "explanation_tr": "Para miktarını belirtirken sayıdan sonra para birimi gelir; “five dollars” denir."
+  },
+  {
+   "id": "a1_gram_numbers_prices_006",
+   "unit": "a1_unit_08_numbers_prices",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "My phone ___ is 123.",
+   "sentence_tr": "Telefon numaram 123.",
+   "options": [
+    "book",
+    "number",
+    "age",
+    "price"
+   ],
+   "answer": "number",
+   "explanation_tr": "Telefon numarası için “phone number” ifadesi kullanılır."
+  },
+  {
+   "id": "a1_gram_numbers_prices_007",
+   "unit": "a1_unit_08_numbers_prices",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "How old is Ali?",
+   "question_tr": "",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Ali ne kadar?",
+    "Ali'nin telefon numarası ne?",
+    "Ali kaç yaşında?",
+    "Ali'nin kaç kitabı var?"
+   ],
+   "answer": "Ali kaç yaşında?",
+   "explanation_tr": "Bir kişinin yaşını sormak için “How old is...?” kullanılır."
+  },
+  {
+   "id": "a1_gram_numbers_prices_008",
+   "unit": "a1_unit_08_numbers_prices",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "How much is the bag?",
+   "question_tr": "",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Çantanın telefon numarası ne?",
+    "Çanta kaç yaşında?",
+    "Kaç çanta var?",
+    "Çanta ne kadar?"
+   ],
+   "answer": "Çanta ne kadar?",
+   "explanation_tr": "Bir şeyin fiyatını sormak için “How much is...?” denir."
+  },
+  {
+   "id": "a1_gram_numbers_prices_009",
+   "unit": "a1_unit_08_numbers_prices",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "",
+   "question_tr": "Kaç kitap var?",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "How many books is there?",
+    "How many book are there?",
+    "How many books are there?",
+    "How much books are there?"
+   ],
+   "answer": "How many books are there?",
+   "explanation_tr": "“How many” çoğul sayılabilen isimlerle kullanılır; “books” ile “are” gelir."
+  },
+  {
+   "id": "a1_gram_numbers_prices_010",
+   "unit": "a1_unit_08_numbers_prices",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "",
+   "question_tr": "Mehmet 12 yaşında.",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Mehmet is 12 year old.",
+    "Mehmet is 12 years old.",
+    "Mehmet are 12 years old.",
+    "Mehmet has 12 years old."
+   ],
+   "answer": "Mehmet is 12 years old.",
+   "explanation_tr": "Yaş belirtmek için “be + sayı + years old” kalıbı kullanılır."
+  },
+  {
+   "id": "a1_gram_numbers_prices_011",
+   "unit": "a1_unit_08_numbers_prices",
+   "type": "match_pairs",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Eşleştir.",
+   "pairs": [
+    {
+     "en": "zero",
+     "tr": "sıfır"
+    },
+    {
+     "en": "fifty",
+     "tr": "elli"
+    },
+    {
+     "en": "phone number",
+     "tr": "telefon numarası"
+    },
+    {
+     "en": "years old",
+     "tr": "yaşında"
+    },
+    {
+     "en": "How much?",
+     "tr": "Ne kadar?"
+    }
+   ],
+   "explanation_tr": "Bu kelime ve ifadeler sayılar, yaş ve fiyatlarla ilgilidir."
+  },
+  {
+   "id": "a1_gram_numbers_prices_012",
+   "unit": "a1_unit_08_numbers_prices",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "How much books are there?",
+    "How many books is there?",
+    "How many books are there?"
+   ],
+   "answer": "How many books are there?",
+   "explanation_tr": "“Books” çoğul olduğu için “are” kullanılır; sayılabilen çoğul isimlerle “How many” gelir."
+  },
+  {
+   "id": "a1_gram_numbers_prices_013",
+   "unit": "a1_unit_08_numbers_prices",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "How old are you?",
+   "word_bank": [
+    "old",
+    "many",
+    "are",
+    "How",
+    "you",
+    "is"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Kaç yaşındasın?",
+   "explanation_tr": "Yaş sormak için “How old are you?” kalıbı kullanılır."
+  },
+  {
+   "id": "a1_gram_numbers_prices_014",
+   "unit": "a1_unit_08_numbers_prices",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "I am ten years old.",
+   "word_bank": [
+    "are",
+    "ten",
+    "old",
+    "I",
+    "years",
+    "am",
+    "how",
+    "year"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Ben on yaşındayım.",
+   "explanation_tr": "Yaş söylerken “I am + sayı + years old” yapısı kullanılır."
+  },
+  {
+   "id": "a1_gram_numbers_prices_015",
+   "unit": "a1_unit_08_numbers_prices",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "How much is it?",
+   "word_bank": [
+    "it",
+    "many",
+    "much",
+    "is",
+    "old",
+    "How",
+    "are"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Bu ne kadar?",
+   "explanation_tr": "Bir şeyin fiyatını sormak için “How much is it?” denir."
+  },
+  {
+   "id": "a1_gram_numbers_prices_016",
+   "unit": "a1_unit_08_numbers_prices",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "It is five euros.",
+   "word_bank": [
+    "dollar",
+    "old",
+    "is",
+    "euros",
+    "are",
+    "It",
+    "five"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Bu beş euro.",
+   "explanation_tr": "Fiyat söylerken “It is” kalıbı kullanılır; “euro” çoğul olduğunda “euros” olur."
+  },
+  {
+   "id": "a1_gram_numbers_prices_017",
+   "unit": "a1_unit_08_numbers_prices",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "How many books are there?",
+   "word_bank": [
+    "there",
+    "old",
+    "books",
+    "much",
+    "are",
+    "How",
+    "many",
+    "is"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Kaç kitap var?",
+   "explanation_tr": "Sayılabilen çoğul isimlerin miktarını sormak için “How many” kullanılır."
+  },
+  {
+   "id": "a1_gram_numbers_prices_018",
+   "unit": "a1_unit_08_numbers_prices",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "There are six books.",
+   "word_bank": [
+    "six",
+    "There",
+    "is",
+    "book",
+    "how",
+    "books",
+    "are"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Altı kitap var.",
+   "explanation_tr": "Çoğul isimlerle “There are” kullanılır; “books” da çoğuldur."
+  },
+  {
+   "id": "a1_gram_numbers_prices_019",
+   "unit": "a1_unit_08_numbers_prices",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "How old are you?",
+    "How are old you?",
+    "How old you are?"
+   ],
+   "answer": "How old are you?",
+   "explanation_tr": "Soru kelimesinden sonra “are” gelir: “How old are you?”."
+  },
+  {
+   "id": "a1_gram_numbers_prices_020",
+   "unit": "a1_unit_08_numbers_prices",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "How much are it?",
+    "How much is it?",
+    "How many is it?"
+   ],
+   "answer": "How much is it?",
+   "explanation_tr": "“It” tekil olduğu için “is” kullanılır; fiyatı sormak için “How much” denir."
+  },
+  {
+   "id": "a1_gram_numbers_prices_021",
+   "unit": "a1_unit_08_numbers_prices",
+   "type": "dictation",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Duyduğun cümleyi yaz.",
+   "answer": "I'm twelve years old.",
+   "word_bank": [
+    "old",
+    "I'm",
+    "year",
+    "how",
+    "years",
+    "are",
+    "twelve"
+   ],
+   "accepted_answers": [],
+   "sentence_tr": "On iki yaşındayım.",
+   "audio_text": "I'm twelve years old.",
+   "explanation_tr": "Yaş bildirirken “I am” ya da kısaltması “I'm” kullanılır; “years old” yaş kalıbıdır."
+  },
+  {
+   "id": "a1_gram_numbers_prices_022",
+   "unit": "a1_unit_08_numbers_prices",
+   "type": "dictation",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Duyduğun cümleyi yaz.",
+   "answer": "It's five dollars.",
+   "word_bank": [
+    "are",
+    "five",
+    "dollars",
+    "It's",
+    "dollar",
+    "many"
+   ],
+   "accepted_answers": [],
+   "sentence_tr": "Beş dolar.",
+   "audio_text": "It's five dollars.",
+   "explanation_tr": "Fiyatı belirtmek için “It is” veya “It's” kullanılır; birden fazla dolar için “dollars” denir."
+  },
+  {
+   "id": "a1_gram_numbers_prices_023",
+   "unit": "a1_unit_08_numbers_prices",
+   "type": "type_translation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "İngilizceye çevir ve yaz.",
+   "prompt_tr": "Tom on iki yaşında.",
+   "answer": "Tom is twelve years old.",
+   "accepted_answers": [
+    "Tom's twelve years old."
+   ],
+   "explanation_tr": "Bir kişinin yaşını söylemek için “is + sayı + years old” yapısı kullanılır."
+  },
+  {
+   "id": "a1_gram_numbers_prices_024",
+   "unit": "a1_unit_08_numbers_prices",
+   "type": "type_translation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "İngilizceye çevir ve yaz.",
+   "prompt_tr": "Telefon numaram 20 30 40.",
+   "answer": "My phone number is 20 30 40.",
+   "accepted_answers": [
+    "My telephone number is 20 30 40."
+   ],
+   "explanation_tr": "Telefon numarasını söylerken “My phone number is” kalıbı kullanılır; numara rakam rakam okunabilir."
+  }
+ ]
+}

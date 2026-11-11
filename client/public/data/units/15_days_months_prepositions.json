@@ -1,0 +1,630 @@
+{
+ "unit_id": "a1_unit_15_days_months_prepositions",
+ "slug": "days_months_prepositions",
+ "order": 15,
+ "module": "m3",
+ "bonus_a1_plus": false,
+ "title_en": "Days, months and prepositions of time",
+ "title_tr": "Gün, ay ve zaman edatları",
+ "level": "A1",
+ "related_vocab_topics": [
+  "numbers_time",
+  "weather_seasons"
+ ],
+ "lesson": {
+  "goal_tr": "Gün ve ayları kullanarak gün, tarih ve günün bölümlerinden ne zaman söz edeceğini öğrenebilirsin.",
+  "sections": [
+   {
+    "heading_tr": "Günler ve aylar",
+    "explanation_tr": "Haftanın günlerinden önce on, aylardan önce in kullanılır. Gün ve ay adları İngilizcede büyük harfle başlar.",
+    "examples": [
+     {
+      "en": "I study on Monday.",
+      "tr": "Pazartesi ders çalışırım."
+     },
+     {
+      "en": "My birthday is in June.",
+      "tr": "Doğum günüm haziranda."
+     }
+    ]
+   },
+   {
+    "heading_tr": "Günün bölümleri ve hafta sonu",
+    "explanation_tr": "Sabah, öğleden sonra ve akşam için in the kullanılır; gece için at night denir. Bu derste hafta sonu için at the weekend kalıbını kullanıyoruz.",
+    "examples": [
+     {
+      "en": "I read in the morning.",
+      "tr": "Sabah okurum."
+     },
+     {
+      "en": "I sleep at night.",
+      "tr": "Gece uyurum."
+     },
+     {
+      "en": "I play tennis at the weekend.",
+      "tr": "Hafta sonu tenis oynarım."
+     }
+    ]
+   },
+   {
+    "heading_tr": "Tarihler ve gün sorma",
+    "explanation_tr": "Tarihlerden önce on kullanılır; örneğin on June fifth. Bugünün hangi gün olduğunu sormak için What day is it today? diyebilirsin; yanıtı It is Monday. şeklinde verebilirsin.",
+    "examples": [
+     {
+      "en": "My birthday is on June fifth.",
+      "tr": "Doğum günüm 5 Haziran'da."
+     },
+     {
+      "en": "What day is it today? It is Monday.",
+      "tr": "Bugün günlerden ne? Pazartesi."
+     }
+    ]
+   }
+  ],
+  "key_patterns": [
+   {
+    "pattern": "on + gün",
+    "example_en": "I study on Monday.",
+    "example_tr": "Pazartesi ders çalışırım."
+   },
+   {
+    "pattern": "in + ay",
+    "example_en": "My birthday is in June.",
+    "example_tr": "Doğum günüm haziranda."
+   },
+   {
+    "pattern": "in the + morning/afternoon/evening",
+    "example_en": "I read in the morning.",
+    "example_tr": "Sabah okurum."
+   },
+   {
+    "pattern": "at + night / at the weekend",
+    "example_en": "I sleep at night. I play tennis at the weekend.",
+    "example_tr": "Gece uyurum. Hafta sonu tenis oynarım."
+   },
+   {
+    "pattern": "on + tarih",
+    "example_en": "My birthday is on June fifth.",
+    "example_tr": "Doğum günüm 5 Haziran'da."
+   },
+   {
+    "pattern": "What day is it today? — It is + gün.",
+    "example_en": "What day is it today? It is Monday.",
+    "example_tr": "Bugün günlerden ne? Pazartesi."
+   }
+  ],
+  "turkish_speaker_tips_tr": [
+   "Türkçede “pazartesi günü” derken İngilizcede günün önüne on gelir; ayın önüne ise in gelir.",
+   "Türkçede “sabah” tek başına yeterli olabilir; İngilizcede bu kalıpta the kullanılır: in the morning.",
+   "Türkçede “Bugün günlerden ne?” deriz. İngilizce soruda is, it'ten önce gelir: What day is it today?"
+  ],
+  "common_mistakes": [
+   {
+    "wrong": "I study at the morning.",
+    "correct": "I study in the morning.",
+    "note_tr": "Sabah, öğleden sonra ve akşam için in the kullanılır."
+   },
+   {
+    "wrong": "I play tennis in the weekend.",
+    "correct": "I play tennis at the weekend.",
+    "note_tr": "Bu derste hafta sonu için at the weekend kalıbını kullanıyoruz."
+   },
+   {
+    "wrong": "What is day it today?",
+    "correct": "What day is it today?",
+    "note_tr": "Bu soruda day, is it bölümünden önce gelir."
+   }
+  ],
+  "mini_dialogue": [
+   {
+    "speaker": "Anna",
+    "en": "What day is it today?",
+    "tr": "Bugün günlerden ne?"
+   },
+   {
+    "speaker": "Ali",
+    "en": "It is Monday.",
+    "tr": "Pazartesi."
+   },
+   {
+    "speaker": "Anna",
+    "en": "Do you play tennis on Monday?",
+    "tr": "Pazartesi tenis oynar mısın?"
+   },
+   {
+    "speaker": "Ali",
+    "en": "No. I play tennis at the weekend.",
+    "tr": "Hayır. Hafta sonu tenis oynarım."
+   },
+   {
+    "speaker": "Anna",
+    "en": "In the morning or in the afternoon?",
+    "tr": "Sabah mı, öğleden sonra mı?"
+   },
+   {
+    "speaker": "Ali",
+    "en": "In the afternoon.",
+    "tr": "Öğleden sonra."
+   }
+  ]
+ },
+ "exercise_counts": {
+  "fill_blank": 6,
+  "multiple_choice": 4,
+  "match_pairs": 1,
+  "choose_correct_sentence": 3,
+  "build_sentence": 6,
+  "dictation": 2,
+  "type_translation": 2
+ },
+ "exercises": [
+  {
+   "id": "a1_gram_days_months_prepositions_001",
+   "unit": "a1_unit_15_days_months_prepositions",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "I study ___ Monday.",
+   "sentence_tr": "Pazartesi günü ders çalışırım.",
+   "options": [
+    "at",
+    "by",
+    "in",
+    "on"
+   ],
+   "answer": "on",
+   "explanation_tr": "Günlerden önce “on” kullanılır."
+  },
+  {
+   "id": "a1_gram_days_months_prepositions_002",
+   "unit": "a1_unit_15_days_months_prepositions",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "My birthday is ___ June.",
+   "sentence_tr": "Doğum günüm haziran ayında.",
+   "options": [
+    "by",
+    "in",
+    "on",
+    "at"
+   ],
+   "answer": "in",
+   "explanation_tr": "Aylardan önce “in” kullanılır."
+  },
+  {
+   "id": "a1_gram_days_months_prepositions_003",
+   "unit": "a1_unit_15_days_months_prepositions",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "I read ___ the afternoon.",
+   "sentence_tr": "Öğleden sonra kitap okurum.",
+   "options": [
+    "by",
+    "in",
+    "on",
+    "at"
+   ],
+   "answer": "in",
+   "explanation_tr": "“Sabah”, “öğleden sonra” ve “akşam” ifadelerinde “in the” kullanılır."
+  },
+  {
+   "id": "a1_gram_days_months_prepositions_004",
+   "unit": "a1_unit_15_days_months_prepositions",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "I sleep ___ night.",
+   "sentence_tr": "Geceleri uyurum.",
+   "options": [
+    "at",
+    "on",
+    "in",
+    "by"
+   ],
+   "answer": "at",
+   "explanation_tr": "“Night” ile zaman edatı olarak “at” kullanılır."
+  },
+  {
+   "id": "a1_gram_days_months_prepositions_005",
+   "unit": "a1_unit_15_days_months_prepositions",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "My birthday is ___ June fifth.",
+   "sentence_tr": "Doğum günüm beş haziranda.",
+   "options": [
+    "in",
+    "at",
+    "on",
+    "by"
+   ],
+   "answer": "on",
+   "explanation_tr": "Belirli tarihlerden önce “on” kullanılır."
+  },
+  {
+   "id": "a1_gram_days_months_prepositions_006",
+   "unit": "a1_unit_15_days_months_prepositions",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "We play tennis ___ the weekend.",
+   "sentence_tr": "Hafta sonları tenis oynarız.",
+   "options": [
+    "at",
+    "by",
+    "in",
+    "on"
+   ],
+   "answer": "at",
+   "explanation_tr": "Bu kalıpta “at the weekend” denir."
+  },
+  {
+   "id": "a1_gram_days_months_prepositions_007",
+   "unit": "a1_unit_15_days_months_prepositions",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "Mark works on Friday.",
+   "question_tr": "",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Mark haziran ayında çalışır.",
+    "Mark hafta sonları çalışır.",
+    "Mark cuma günü çalışır.",
+    "Mark cuma gecesi çalışır."
+   ],
+   "answer": "Mark cuma günü çalışır.",
+   "explanation_tr": "“On Friday”, “cuma günü” demektir."
+  },
+  {
+   "id": "a1_gram_days_months_prepositions_008",
+   "unit": "a1_unit_15_days_months_prepositions",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "Emma's birthday is in August.",
+   "question_tr": "",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Emma'nın doğum günü hafta sonu.",
+    "Emma'nın doğum günü ağustos ayında.",
+    "Emma'nın doğum günü ağustosun sekizinde.",
+    "Emma'nın doğum günü geceleri."
+   ],
+   "answer": "Emma'nın doğum günü ağustos ayında.",
+   "explanation_tr": "Aylardan önce “in” gelir; “in August” ağustos ayında demektir."
+  },
+  {
+   "id": "a1_gram_days_months_prepositions_009",
+   "unit": "a1_unit_15_days_months_prepositions",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "",
+   "question_tr": "Ali akşam kitap okur.",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Ali reads at the evening.",
+    "Ali reads in the evening.",
+    "Ali reads on the evening.",
+    "Ali reads in evening."
+   ],
+   "answer": "Ali reads in the evening.",
+   "explanation_tr": "“Akşam” anlamında “in the evening” kalıbı kullanılır."
+  },
+  {
+   "id": "a1_gram_days_months_prepositions_010",
+   "unit": "a1_unit_15_days_months_prepositions",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "",
+   "question_tr": "Bugün günlerden çarşamba.",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "What day is it today? It is Wednesday.",
+    "What day is it today? It Wednesday.",
+    "What day is it today? It is on Wednesday.",
+    "What day it is today? It is Wednesday."
+   ],
+   "answer": "What day is it today? It is Wednesday.",
+   "explanation_tr": "Günü sormak için “What day is it today?” denir; cevap “It is + gün” şeklindedir."
+  },
+  {
+   "id": "a1_gram_days_months_prepositions_011",
+   "unit": "a1_unit_15_days_months_prepositions",
+   "type": "match_pairs",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Eşleştir.",
+   "pairs": [
+    {
+     "en": "on Monday",
+     "tr": "pazartesi günü"
+    },
+    {
+     "en": "in June",
+     "tr": "haziran ayında"
+    },
+    {
+     "en": "in the morning",
+     "tr": "sabahleyin"
+    },
+    {
+     "en": "at night",
+     "tr": "geceleri"
+    },
+    {
+     "en": "at the weekend",
+     "tr": "hafta sonu"
+    }
+   ],
+   "explanation_tr": "Gün, ay ve zaman ifadelerinde bu kalıplardaki edatlar kullanılır."
+  },
+  {
+   "id": "a1_gram_days_months_prepositions_012",
+   "unit": "a1_unit_15_days_months_prepositions",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "My birthday is in October.",
+    "My birthday is on October.",
+    "My birthday is at October."
+   ],
+   "answer": "My birthday is in October.",
+   "explanation_tr": "Aylardan önce “in” kullanılır; bu nedenle doğru ifade “in October” olur."
+  },
+  {
+   "id": "a1_gram_days_months_prepositions_013",
+   "unit": "a1_unit_15_days_months_prepositions",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "I study on Monday.",
+   "word_bank": [
+    "in",
+    "at",
+    "on",
+    "Monday",
+    "I",
+    "Tuesday",
+    "study"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Pazartesi günü ders çalışırım.",
+   "explanation_tr": "Günlerden önce on kullanılır: on Monday."
+  },
+  {
+   "id": "a1_gram_days_months_prepositions_014",
+   "unit": "a1_unit_15_days_months_prepositions",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "My birthday is in June.",
+   "word_bank": [
+    "at",
+    "June",
+    "on",
+    "is",
+    "July",
+    "My",
+    "birthday",
+    "in"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Doğum günüm haziranda.",
+   "explanation_tr": "Aylardan önce in kullanılır: in June."
+  },
+  {
+   "id": "a1_gram_days_months_prepositions_015",
+   "unit": "a1_unit_15_days_months_prepositions",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "I read in the morning.",
+   "word_bank": [
+    "at",
+    "on",
+    "night",
+    "morning",
+    "read",
+    "the",
+    "in",
+    "I"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Sabahları okurum.",
+   "explanation_tr": "Sabah için in the morning kullanılır."
+  },
+  {
+   "id": "a1_gram_days_months_prepositions_016",
+   "unit": "a1_unit_15_days_months_prepositions",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "I sleep at night.",
+   "word_bank": [
+    "in",
+    "sleep",
+    "I",
+    "at",
+    "June",
+    "on",
+    "night"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Geceleri uyurum.",
+   "explanation_tr": "Gece anlamında at night kullanılır."
+  },
+  {
+   "id": "a1_gram_days_months_prepositions_017",
+   "unit": "a1_unit_15_days_months_prepositions",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "I play tennis at the weekend.",
+   "word_bank": [
+    "at",
+    "I",
+    "weekend",
+    "the",
+    "play",
+    "in",
+    "tennis",
+    "on",
+    "Monday"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Hafta sonları tenis oynarım.",
+   "explanation_tr": "Hafta sonu için at the weekend kullanılır."
+  },
+  {
+   "id": "a1_gram_days_months_prepositions_018",
+   "unit": "a1_unit_15_days_months_prepositions",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "My birthday is on June fifth.",
+   "word_bank": [
+    "June",
+    "birthday",
+    "at",
+    "April",
+    "My",
+    "on",
+    "in",
+    "fifth",
+    "is"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Doğum günüm beş haziranda.",
+   "explanation_tr": "Belirli tarihlerden önce on kullanılır: on June fifth."
+  },
+  {
+   "id": "a1_gram_days_months_prepositions_019",
+   "unit": "a1_unit_15_days_months_prepositions",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "My birthday is on April.",
+    "My birthday is at April.",
+    "My birthday is in April."
+   ],
+   "answer": "My birthday is in April.",
+   "explanation_tr": "Aylardan önce in kullanılır; on ve at burada doğru değildir."
+  },
+  {
+   "id": "a1_gram_days_months_prepositions_020",
+   "unit": "a1_unit_15_days_months_prepositions",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "I read on the evening.",
+    "I read at the evening.",
+    "I read in the evening."
+   ],
+   "answer": "I read in the evening.",
+   "explanation_tr": "Akşam için in the evening kullanılır; at night farklı bir kalıptır."
+  },
+  {
+   "id": "a1_gram_days_months_prepositions_021",
+   "unit": "a1_unit_15_days_months_prepositions",
+   "type": "dictation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Duyduğun cümleyi yaz.",
+   "answer": "I play tennis at the weekend.",
+   "word_bank": [
+    "play",
+    "at",
+    "Monday",
+    "tennis",
+    "the",
+    "in",
+    "weekend",
+    "I",
+    "June"
+   ],
+   "accepted_answers": [],
+   "sentence_tr": "Hafta sonu tenis oynarım.",
+   "audio_text": "I play tennis at the weekend.",
+   "explanation_tr": "Hafta sonu için kullanılan kalıp at the weekend şeklindedir."
+  },
+  {
+   "id": "a1_gram_days_months_prepositions_022",
+   "unit": "a1_unit_15_days_months_prepositions",
+   "type": "dictation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Duyduğun cümleyi yaz.",
+   "answer": "It is Monday.",
+   "word_bank": [
+    "Monday",
+    "June",
+    "on",
+    "today",
+    "is",
+    "It"
+   ],
+   "accepted_answers": [],
+   "sentence_tr": "Bugün pazartesi.",
+   "audio_text": "It is Monday.",
+   "explanation_tr": "Günü söylerken It is + gün kalıbı kullanılır."
+  },
+  {
+   "id": "a1_gram_days_months_prepositions_023",
+   "unit": "a1_unit_15_days_months_prepositions",
+   "type": "type_translation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "İngilizceye çevir ve yaz.",
+   "prompt_tr": "Doğum günüm temmuzda.",
+   "answer": "My birthday is in July.",
+   "accepted_answers": [],
+   "explanation_tr": "Ay adlarından önce in kullanılır: in July."
+  },
+  {
+   "id": "a1_gram_days_months_prepositions_024",
+   "unit": "a1_unit_15_days_months_prepositions",
+   "type": "type_translation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "İngilizceye çevir ve yaz.",
+   "prompt_tr": "Bugün günlerden ne?",
+   "answer": "What day is it today?",
+   "accepted_answers": [],
+   "explanation_tr": "Bugünün hangi gün olduğunu sormak için What day is it today? denir."
+  }
+ ]
+}

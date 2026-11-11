@@ -1,0 +1,617 @@
+{
+ "unit_id": "a1_unit_06_articles",
+ "slug": "articles",
+ "order": 6,
+ "module": "m2",
+ "bonus_a1_plus": false,
+ "title_en": "Articles: a, an, the",
+ "title_tr": "Tanımlıklar: a, an, the",
+ "level": "A1",
+ "related_vocab_topics": [
+  "general_nouns"
+ ],
+ "lesson": {
+  "goal_tr": "Tekil bir isimden önce a/an seçebilir, bilinen veya tek olan şeyler için the kullanabilir ve genel çoğullarda tanımlık kullanmayabilirsin.",
+  "sections": [
+   {
+    "heading_tr": "a mı, an mı?",
+    "explanation_tr": "a/an tekil, sayılabilen ve henüz belirli olmayan isimlerden önce gelir. Sonraki kelimenin ilk sesine göre sessiz seste a, sesli seste an kullanılır; hour kelimesinde h okunmadığı için an hour denir.",
+    "examples": [
+     {
+      "en": "I have a cat.",
+      "tr": "Bir kedim var."
+     },
+     {
+      "en": "I eat an apple.",
+      "tr": "Bir elma yerim."
+     },
+     {
+      "en": "I need an hour.",
+      "tr": "Bir saate ihtiyacım var."
+     }
+    ]
+   },
+   {
+    "heading_tr": "the: bilinen veya tek olan şeyler",
+    "explanation_tr": "the, hangi şeyden söz ettiğimiz biliniyorsa kullanılır; bu şey daha önce söylenmiş olabilir. Ayrıca bulunduğumuz bağlamda tek olan şeyler için de kullanılır.",
+    "examples": [
+     {
+      "en": "I have a book. The book is good.",
+      "tr": "Bir kitabım var. Kitap iyi."
+     },
+     {
+      "en": "The sun is hot.",
+      "tr": "Güneş sıcaktır."
+     }
+    ]
+   },
+   {
+    "heading_tr": "Tanımlık kullanılmayan yerler",
+    "explanation_tr": "Genel olarak çoğul şeylerden söz ederken tanımlık kullanmayız. at home gibi bazı kalıplarda da tanımlık kullanılmaz.",
+    "examples": [
+     {
+      "en": "Cats are nice.",
+      "tr": "Kediler sevimlidir."
+     },
+     {
+      "en": "I am at home.",
+      "tr": "Evdeyim."
+     }
+    ]
+   }
+  ],
+  "key_patterns": [
+   {
+    "pattern": "a + cat",
+    "example_en": "I have a cat.",
+    "example_tr": "Bir kedim var."
+   },
+   {
+    "pattern": "an + apple",
+    "example_en": "I eat an apple.",
+    "example_tr": "Bir elma yerim."
+   },
+   {
+    "pattern": "the + book",
+    "example_en": "The book is good.",
+    "example_tr": "Kitap iyi."
+   },
+   {
+    "pattern": "Ø + cats",
+    "example_en": "Cats are nice.",
+    "example_tr": "Kediler sevimlidir."
+   }
+  ],
+  "turkish_speaker_tips_tr": [
+   "Türkçede tanımlık yoktur; İngilizcede tekil ve sayılabilen bir isimden önce çoğu zaman a/an ya da the gerekir.",
+   "a/an, Türkçedeki “bir” anlamına gelebilir; ancak Türkçede “bir” demediğimiz yerlerde de İngilizcede a/an gerekebilir.",
+   "a/an seçerken yazılı harfe değil, kelimenin başındaki sese bak. hour kelimesinin başındaki h okunmaz."
+  ],
+  "common_mistakes": [
+   {
+    "wrong": "I have cat.",
+    "correct": "I have a cat.",
+    "note_tr": "Tekil ve sayılabilen bir isimden önce a/an kullan."
+   },
+   {
+    "wrong": "A apple is red.",
+    "correct": "An apple is red.",
+    "note_tr": "apple sesli sesle başladığı için an kullanılır."
+   },
+   {
+    "wrong": "An book is good.",
+    "correct": "A book is good.",
+    "note_tr": "book sessiz sesle başladığı için a kullanılır."
+   },
+   {
+    "wrong": "The cats are nice.",
+    "correct": "Cats are nice.",
+    "note_tr": "Kedilerden genel olarak söz ederken the kullanma. Belirli kedilerden söz ediyorsan the cats doğru olabilir."
+   }
+  ],
+  "mini_dialogue": [
+   {
+    "speaker": "Anna",
+    "en": "I have a cat.",
+    "tr": "Bir kedim var."
+   },
+   {
+    "speaker": "Ali",
+    "en": "Is the cat at home?",
+    "tr": "Kedi evde mi?"
+   },
+   {
+    "speaker": "Anna",
+    "en": "Yes, the cat is at home.",
+    "tr": "Evet, kedi evde."
+   },
+   {
+    "speaker": "Ali",
+    "en": "I have an apple.",
+    "tr": "Bir elmam var."
+   },
+   {
+    "speaker": "Anna",
+    "en": "The apple is red.",
+    "tr": "Elma kırmızı."
+   }
+  ]
+ },
+ "exercise_counts": {
+  "fill_blank": 6,
+  "multiple_choice": 4,
+  "match_pairs": 1,
+  "choose_correct_sentence": 3,
+  "build_sentence": 6,
+  "dictation": 2,
+  "type_translation": 2
+ },
+ "exercises": [
+  {
+   "id": "a1_gram_articles_001",
+   "unit": "a1_unit_06_articles",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "I have ___ cat.",
+   "sentence_tr": "Bir kedim var.",
+   "options": [
+    "—",
+    "an",
+    "the",
+    "a"
+   ],
+   "answer": "a",
+   "explanation_tr": "Cat ünsüz sesiyle başladığı için önüne a gelir."
+  },
+  {
+   "id": "a1_gram_articles_002",
+   "unit": "a1_unit_06_articles",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "She eats ___ apple.",
+   "sentence_tr": "Bir elma yer.",
+   "options": [
+    "the",
+    "an",
+    "—",
+    "a"
+   ],
+   "answer": "an",
+   "explanation_tr": "Apple sesli harf sesiyle başladığı için önüne an gelir."
+  },
+  {
+   "id": "a1_gram_articles_003",
+   "unit": "a1_unit_06_articles",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "Tom waits for ___ hour.",
+   "sentence_tr": "Tom bir saat bekler.",
+   "options": [
+    "the",
+    "—",
+    "a",
+    "an"
+   ],
+   "answer": "an",
+   "explanation_tr": "Hour kelimesindeki h okunmaz; kelime sesli harf sesiyle başladığı için an kullanılır."
+  },
+  {
+   "id": "a1_gram_articles_004",
+   "unit": "a1_unit_06_articles",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "I have a book. ___ book is good.",
+   "sentence_tr": "Bir kitabım var. Kitap iyi.",
+   "options": [
+    "An",
+    "The",
+    "A",
+    "—"
+   ],
+   "answer": "The",
+   "explanation_tr": "İkinci cümlede, daha önce sözü edilen belirli kitaptan bahsediyoruz; bu yüzden the kullanılır."
+  },
+  {
+   "id": "a1_gram_articles_005",
+   "unit": "a1_unit_06_articles",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "We see ___ sun.",
+   "sentence_tr": "Güneşi görüyoruz.",
+   "options": [
+    "the",
+    "a",
+    "—",
+    "an"
+   ],
+   "answer": "the",
+   "explanation_tr": "Güneş tek ve bilinen bir şey olduğu için the kullanılır."
+  },
+  {
+   "id": "a1_gram_articles_006",
+   "unit": "a1_unit_06_articles",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "There is ___ umbrella on the table.",
+   "sentence_tr": "Masanın üzerinde bir şemsiye var.",
+   "options": [
+    "a",
+    "—",
+    "the",
+    "an"
+   ],
+   "answer": "an",
+   "explanation_tr": "Umbrella sesli harf sesiyle başladığı için belirsiz tanımlık olarak an kullanılır."
+  },
+  {
+   "id": "a1_gram_articles_007",
+   "unit": "a1_unit_06_articles",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "I have a bag.",
+   "question_tr": "",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Belirli çanta bende.",
+    "Çanta bende.",
+    "Çantalarım var.",
+    "Bir çantam var."
+   ],
+   "answer": "Bir çantam var.",
+   "explanation_tr": "A, tek ve belirli olmayan bir çantadan söz eder; Türkçede bunun için ayrı bir tanımlık kullanılmaz."
+  },
+  {
+   "id": "a1_gram_articles_008",
+   "unit": "a1_unit_06_articles",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "Cats are nice.",
+   "question_tr": "",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Belirli kediler sevimlidir.",
+    "Kediler sevimlidir.",
+    "Bir kedi sevimlidir.",
+    "Kediler bir sevimlidir."
+   ],
+   "answer": "Kediler sevimlidir.",
+   "explanation_tr": "Genel olarak kedilerden bahsederken çoğul isimden önce tanımlık kullanılmaz."
+  },
+  {
+   "id": "a1_gram_articles_009",
+   "unit": "a1_unit_06_articles",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "",
+   "question_tr": "Bir portakal yiyorum.",
+   "sentence_en": "",
+   "sentence_tr": "Bir portakal yiyorum.",
+   "options": [
+    "I eat a orange.",
+    "I eat an orange.",
+    "I eat an apple.",
+    "I eat the orange."
+   ],
+   "answer": "I eat an orange.",
+   "explanation_tr": "Orange sesli harf sesiyle başladığı için an kullanılır."
+  },
+  {
+   "id": "a1_gram_articles_010",
+   "unit": "a1_unit_06_articles",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "",
+   "question_tr": "Bir köpek görüyorum.",
+   "sentence_en": "",
+   "sentence_tr": "Bir köpek görüyorum.",
+   "options": [
+    "I see a dog.",
+    "I see the dog.",
+    "I see an dog.",
+    "I see dog."
+   ],
+   "answer": "I see a dog.",
+   "explanation_tr": "Dog ünsüz sesiyle başlar; tek ve belirli olmayan bir köpek için a dog denir."
+  },
+  {
+   "id": "a1_gram_articles_011",
+   "unit": "a1_unit_06_articles",
+   "type": "match_pairs",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Eşleştir.",
+   "pairs": [
+    {
+     "en": "a cat",
+     "tr": "bir kedi"
+    },
+    {
+     "en": "an apple",
+     "tr": "bir elma"
+    },
+    {
+     "en": "the book",
+     "tr": "belirli kitap"
+    },
+    {
+     "en": "cats",
+     "tr": "kediler (genel)"
+    },
+    {
+     "en": "an hour",
+     "tr": "bir saat"
+    }
+   ],
+   "explanation_tr": "Tek ve belirli olmayan isimlerde a veya an, bilinen isimlerde the kullanılır. Genel çoğul isimlerin önüne tanımlık gelmez."
+  },
+  {
+   "id": "a1_gram_articles_012",
+   "unit": "a1_unit_06_articles",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "I see an elephants.",
+    "I see a elephant.",
+    "I see an elephant."
+   ],
+   "answer": "I see an elephant.",
+   "explanation_tr": "Elephant sesli harf sesiyle başladığı için an elephant doğrudur. Çoğul isim olan elephants önüne an gelmez."
+  },
+  {
+   "id": "a1_gram_articles_013",
+   "unit": "a1_unit_06_articles",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "I have a cat.",
+   "word_bank": [
+    "cat",
+    "have",
+    "the",
+    "a",
+    "I",
+    "are",
+    "an"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Bir kedim var.",
+   "explanation_tr": "Tekil ve sayılabilen bir isim olan “cat” önünde “a” kullanılır."
+  },
+  {
+   "id": "a1_gram_articles_014",
+   "unit": "a1_unit_06_articles",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "She eats an apple.",
+   "word_bank": [
+    "eats",
+    "an",
+    "apple",
+    "the",
+    "a",
+    "She",
+    "cat"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "O bir elma yer.",
+   "explanation_tr": "“Apple” sesli harfle başladığı için önünde “an” kullanılır."
+  },
+  {
+   "id": "a1_gram_articles_015",
+   "unit": "a1_unit_06_articles",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "The book is on the table.",
+   "word_bank": [
+    "book",
+    "on",
+    "The",
+    "the",
+    "cats",
+    "table",
+    "is",
+    "an",
+    "a"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Kitap masanın üstünde.",
+   "explanation_tr": "Belirli bir kitaptan ve masadan söz edildiği için “the” kullanılır."
+  },
+  {
+   "id": "a1_gram_articles_016",
+   "unit": "a1_unit_06_articles",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Cats are nice animals.",
+   "word_bank": [
+    "an",
+    "is",
+    "nice",
+    "a",
+    "animals",
+    "Cats",
+    "are"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Kediler güzel hayvanlardır.",
+   "explanation_tr": "Genel olarak kedilerden söz ederken çoğul isimden önce tanımlık kullanılmaz."
+  },
+  {
+   "id": "a1_gram_articles_017",
+   "unit": "a1_unit_06_articles",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Ali has an old umbrella.",
+   "word_bank": [
+    "a",
+    "cat",
+    "umbrella",
+    "the",
+    "old",
+    "has",
+    "Ali",
+    "an"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Ali'nin eski bir şemsiyesi var.",
+   "explanation_tr": "“Old” sesli harfle başladığı için “umbrella” önündeki tanımlık “an” olur."
+  },
+  {
+   "id": "a1_gram_articles_018",
+   "unit": "a1_unit_06_articles",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "The sun is hot.",
+   "word_bank": [
+    "hot",
+    "is",
+    "The",
+    "a",
+    "are",
+    "sun",
+    "an"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Güneş sıcaktır.",
+   "explanation_tr": "Tek ve herkesçe bilinen güneşten söz ederken “the” kullanılır."
+  },
+  {
+   "id": "a1_gram_articles_019",
+   "unit": "a1_unit_06_articles",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "An hour are not long.",
+    "An hour is not long.",
+    "A hour is not long."
+   ],
+   "answer": "An hour is not long.",
+   "explanation_tr": "“Hour” kelimesindeki “h” okunmadığı için kelime sesli sesle başlar ve “an” alır."
+  },
+  {
+   "id": "a1_gram_articles_020",
+   "unit": "a1_unit_06_articles",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "A dogs are good pets.",
+    "An dog is a good pet.",
+    "A dog is a good pet."
+   ],
+   "answer": "A dog is a good pet.",
+   "explanation_tr": "“Dog” sessiz sesle başladığı için “a” kullanılır; tekil isimle “a” uyumludur."
+  },
+  {
+   "id": "a1_gram_articles_021",
+   "unit": "a1_unit_06_articles",
+   "type": "dictation",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Duyduğun cümleyi yaz.",
+   "answer": "I see an orange.",
+   "word_bank": [
+    "apple",
+    "see",
+    "I",
+    "an",
+    "orange",
+    "a",
+    "the"
+   ],
+   "accepted_answers": [],
+   "sentence_tr": "Bir portakal görüyorum.",
+   "audio_text": "I see an orange.",
+   "explanation_tr": "“Orange” sesli sesle başladığı için önünde “an” kullanılır."
+  },
+  {
+   "id": "a1_gram_articles_022",
+   "unit": "a1_unit_06_articles",
+   "type": "dictation",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Duyduğun cümleyi yaz.",
+   "answer": "The bus is here.",
+   "word_bank": [
+    "car",
+    "an",
+    "is",
+    "bus",
+    "here",
+    "The",
+    "a"
+   ],
+   "accepted_answers": [],
+   "sentence_tr": "Otobüs burada.",
+   "audio_text": "The bus is here.",
+   "explanation_tr": "Belirli bir otobüsten söz ederken “the” kullanılır."
+  },
+  {
+   "id": "a1_gram_articles_023",
+   "unit": "a1_unit_06_articles",
+   "type": "type_translation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "İngilizceye çevir ve yaz.",
+   "prompt_tr": "Masanın üstünde bir yumurta var.",
+   "answer": "There is an egg on the table.",
+   "accepted_answers": [
+    "An egg is on the table."
+   ],
+   "explanation_tr": "“Egg” sesli sesle başladığı için “an” alır; belirli masanın önünde “the” kullanılır."
+  },
+  {
+   "id": "a1_gram_articles_024",
+   "unit": "a1_unit_06_articles",
+   "type": "type_translation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "İngilizceye çevir ve yaz.",
+   "prompt_tr": "Her sabah bir elma yerim.",
+   "answer": "I eat an apple every morning.",
+   "accepted_answers": [],
+   "explanation_tr": "“Apple” sesli sesle başladığından önünde “an” kullanılır."
+  }
+ ]
+}

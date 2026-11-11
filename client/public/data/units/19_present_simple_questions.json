@@ -1,0 +1,612 @@
+{
+ "unit_id": "a1_unit_19_present_simple_questions",
+ "slug": "present_simple_questions",
+ "order": 19,
+ "module": "m4",
+ "bonus_a1_plus": false,
+ "title_en": "Present simple: questions",
+ "title_tr": "Geniş zaman: soru",
+ "level": "A1",
+ "related_vocab_topics": [
+  "daily_verbs",
+  "question_words_conjunctions"
+ ],
+ "lesson": {
+  "goal_tr": "Bu dersin sonunda geniş zamanda do/does ile soru sorabilir ve kısa cevap verebilirsin.",
+  "sections": [
+   {
+    "heading_tr": "Soru kurma",
+    "explanation_tr": "I, you, we ve they ile do; he, she, it ve tekil isimlerle does kullanılır. Sıra şöyledir: Do/Does + özne + fiilin yalın hâli? Soru kelimesi varsa en başa gelir.",
+    "examples": [
+     {
+      "en": "Do you like coffee?",
+      "tr": "Kahve sever misin?"
+     },
+     {
+      "en": "Does he work?",
+      "tr": "O çalışıyor mu?"
+     },
+     {
+      "en": "Where do you live?",
+      "tr": "Nerede yaşıyorsun?"
+     }
+    ]
+   },
+   {
+    "heading_tr": "Kısa cevaplar",
+    "explanation_tr": "Kısa cevapta do veya does, sorudaki özneye göre seçilir. Olumsuz cevapta don't ya da doesn't kullanılır.",
+    "examples": [
+     {
+      "en": "Yes, I do.",
+      "tr": "Evet."
+     },
+     {
+      "en": "No, she doesn't.",
+      "tr": "Hayır."
+     }
+    ]
+   },
+   {
+    "heading_tr": "Fiilin yalın hâli",
+    "explanation_tr": "Does kullanıldığında ana fiile -s eklenmez; -s, does içinde yer alır. Bu yüzden does'tan sonra fiilin yalın hâlini kullanırız.",
+    "examples": [
+     {
+      "en": "Does she like tea?",
+      "tr": "O çay sever mi?"
+     },
+     {
+      "en": "Does she live in Ankara?",
+      "tr": "O Ankara'da mı yaşıyor?"
+     }
+    ]
+   }
+  ],
+  "key_patterns": [
+   {
+    "pattern": "Do + I/you/we/they + fiilin yalın hâli?",
+    "example_en": "Do you like tea?",
+    "example_tr": "Çay sever misin?"
+   },
+   {
+    "pattern": "Does + he/she/it + fiilin yalın hâli?",
+    "example_en": "Does he play tennis?",
+    "example_tr": "Tenis oynar mı?"
+   },
+   {
+    "pattern": "Soru kelimesi + do/does + özne + fiilin yalın hâli?",
+    "example_en": "What does she eat?",
+    "example_tr": "O ne yer?"
+   },
+   {
+    "pattern": "Yes, + özne + do/does. No, + özne + don't/doesn't.",
+    "example_en": "Yes, I do. No, she doesn't.",
+    "example_tr": "Evet. Hayır."
+   }
+  ],
+  "turkish_speaker_tips_tr": [
+   "Türkçede soru eki genellikle cümlenin sonundadır; İngilizcede do veya does sorunun başına gelir.",
+   "Türkçede fiil çoğunlukla sonda, İngilizcede ise öznenin hemen ardından gelir: Do you like coffee?",
+   "Türkçedeki “o” hem he hem she olabilir. İngilizcede he erkek, she kadın için kullanılır.",
+   "Türkçede soru için ayrı bir yardımcı fiil yoktur; İngilizcede do/does soru kurmaya yardım eder."
+  ],
+  "common_mistakes": [
+   {
+    "wrong": "Does she likes tea?",
+    "correct": "Does she like tea?",
+    "note_tr": "Does'tan sonra ana fiile -s ekleme."
+   },
+   {
+    "wrong": "Do he live in Ankara?",
+    "correct": "Does he live in Ankara?",
+    "note_tr": "He ile do değil, does kullan."
+   },
+   {
+    "wrong": "Yes, she do.",
+    "correct": "Yes, she does.",
+    "note_tr": "Kısa cevapta does, he/she/it ile kullanılır."
+   }
+  ],
+  "mini_dialogue": [
+   {
+    "speaker": "Anna",
+    "en": "Do you like coffee, Ali?",
+    "tr": "Kahve sever misin, Ali?"
+   },
+   {
+    "speaker": "Ali",
+    "en": "Yes, I do. Do you like tea?",
+    "tr": "Evet. Çay sever misin?"
+   },
+   {
+    "speaker": "Anna",
+    "en": "No, I don't. I like coffee.",
+    "tr": "Hayır. Kahve severim."
+   },
+   {
+    "speaker": "Ali",
+    "en": "Does Tom like tea?",
+    "tr": "Tom çay sever mi?"
+   },
+   {
+    "speaker": "Anna",
+    "en": "Yes, he does.",
+    "tr": "Evet."
+   }
+  ]
+ },
+ "exercise_counts": {
+  "fill_blank": 6,
+  "multiple_choice": 4,
+  "match_pairs": 1,
+  "choose_correct_sentence": 3,
+  "build_sentence": 6,
+  "dictation": 2,
+  "type_translation": 2
+ },
+ "exercises": [
+  {
+   "id": "a1_gram_present_simple_questions_001",
+   "unit": "a1_unit_19_present_simple_questions",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "Do you ___ tea?",
+   "sentence_tr": "Çay sever misin?",
+   "options": [
+    "likes",
+    "liking",
+    "liked",
+    "like"
+   ],
+   "answer": "like",
+   "explanation_tr": "Do ile sorulan geniş zaman sorularında fiil yalın hâlde kullanılır."
+  },
+  {
+   "id": "a1_gram_present_simple_questions_002",
+   "unit": "a1_unit_19_present_simple_questions",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "Does Ali ___ tennis?",
+   "sentence_tr": "Ali tenis oynar mı?",
+   "options": [
+    "plays",
+    "played",
+    "play",
+    "playing"
+   ],
+   "answer": "play",
+   "explanation_tr": "Does kullanıldığında ana fiil yalın hâlde kalır; bu nedenle play kullanılır."
+  },
+  {
+   "id": "a1_gram_present_simple_questions_003",
+   "unit": "a1_unit_19_present_simple_questions",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "Where ___ she work?",
+   "sentence_tr": "O nerede çalışır?",
+   "options": [
+    "is",
+    "are",
+    "does",
+    "do"
+   ],
+   "answer": "does",
+   "explanation_tr": "She öznesiyle soru kurarken does kullanılır. Soru kelimesinden sonra does gelir."
+  },
+  {
+   "id": "a1_gram_present_simple_questions_004",
+   "unit": "a1_unit_19_present_simple_questions",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "___ they eat eggs?",
+   "sentence_tr": "Yumurta yerler mi?",
+   "options": [
+    "Are",
+    "Does",
+    "Do",
+    "Is"
+   ],
+   "answer": "Do",
+   "explanation_tr": "They öznesiyle geniş zaman sorusunda do kullanılır."
+  },
+  {
+   "id": "a1_gram_present_simple_questions_005",
+   "unit": "a1_unit_19_present_simple_questions",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "Does he ___ a book?",
+   "sentence_tr": "O kitap okur mu?",
+   "options": [
+    "read",
+    "to read",
+    "reading",
+    "reads"
+   ],
+   "answer": "read",
+   "explanation_tr": "Does yardımcı fiilinden sonra ana fiil yalın hâlde kullanılır."
+  },
+  {
+   "id": "a1_gram_present_simple_questions_006",
+   "unit": "a1_unit_19_present_simple_questions",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "No, she ___.",
+   "sentence_tr": "Hayır, o içmez.",
+   "options": [
+    "aren't",
+    "isn't",
+    "doesn't",
+    "don't"
+   ],
+   "answer": "doesn't",
+   "explanation_tr": "She öznesiyle olumsuz kısa cevapta doesn't kullanılır."
+  },
+  {
+   "id": "a1_gram_present_simple_questions_007",
+   "unit": "a1_unit_19_present_simple_questions",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "Does Tom like music?",
+   "question_tr": "",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Tom müzik sevmez mi?",
+    "Tom müziği nerede sever?",
+    "Tom müzik sever.",
+    "Tom müzik sever mi?"
+   ],
+   "answer": "Tom müzik sever mi?",
+   "explanation_tr": "Does Tom like...? sorusu, Tom'un müzik sevip sevmediğini sorar."
+  },
+  {
+   "id": "a1_gram_present_simple_questions_008",
+   "unit": "a1_unit_19_present_simple_questions",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "Where do you live?",
+   "question_tr": "",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Nerede çalışırsın?",
+    "Nerede yaşar?",
+    "Nerede yaşadın?",
+    "Nerede yaşarsın?"
+   ],
+   "answer": "Nerede yaşarsın?",
+   "explanation_tr": "Where do you live? sorusu, kişinin nerede yaşadığını sorar."
+  },
+  {
+   "id": "a1_gram_present_simple_questions_009",
+   "unit": "a1_unit_19_present_simple_questions",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "",
+   "question_tr": "Lisa kahve içer mi?",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Does Lisa drink coffee?",
+    "Does Lisa drinks coffee?",
+    "Is Lisa drink coffee?",
+    "Do Lisa drink coffee?"
+   ],
+   "answer": "Does Lisa drink coffee?",
+   "explanation_tr": "Lisa için does kullanılır ve drink fiili yalın hâlde kalır."
+  },
+  {
+   "id": "a1_gram_present_simple_questions_010",
+   "unit": "a1_unit_19_present_simple_questions",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "",
+   "question_tr": "Onlar futbol oynar mı?",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Do they plays football?",
+    "Are they play football?",
+    "Does they play football?",
+    "Do they play football?"
+   ],
+   "answer": "Do they play football?",
+   "explanation_tr": "They ile do kullanılır; soru cümlesinde play fiili yalın hâlde olur."
+  },
+  {
+   "id": "a1_gram_present_simple_questions_011",
+   "unit": "a1_unit_19_present_simple_questions",
+   "type": "match_pairs",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Eşleştir.",
+   "pairs": [
+    {
+     "en": "Do you like tea?",
+     "tr": "Çay sever misin?"
+    },
+    {
+     "en": "Does he play tennis?",
+     "tr": "O tenis oynar mı?"
+    },
+    {
+     "en": "What does she eat?",
+     "tr": "O ne yer?"
+    },
+    {
+     "en": "Yes, I do.",
+     "tr": "Evet, severim."
+    },
+    {
+     "en": "No, she doesn't.",
+     "tr": "Hayır, o sevmez."
+    }
+   ],
+   "explanation_tr": "Do ve does soru kurmaya, kısa cevaplarda ise do, does, don't ve doesn't kullanmaya yardımcı olur."
+  },
+  {
+   "id": "a1_gram_present_simple_questions_012",
+   "unit": "a1_unit_19_present_simple_questions",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "What does Emma eat?",
+    "What does Emma eats?",
+    "What do Emma eat?"
+   ],
+   "answer": "What does Emma eat?",
+   "explanation_tr": "Emma için does kullanılır ve does'tan sonra eat fiilinin yalın hâli gelir."
+  },
+  {
+   "id": "a1_gram_present_simple_questions_013",
+   "unit": "a1_unit_19_present_simple_questions",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Do you like tea?",
+   "word_bank": [
+    "doesn't",
+    "you",
+    "tea",
+    "likes",
+    "Do",
+    "liking",
+    "like"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Çayı sever misin?",
+   "explanation_tr": "Do, you öznesiyle soruda kullanılır; ardından fiilin yalın hâli gelir."
+  },
+  {
+   "id": "a1_gram_present_simple_questions_014",
+   "unit": "a1_unit_19_present_simple_questions",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Does he play tennis?",
+   "word_bank": [
+    "he",
+    "play",
+    "plays",
+    "playing",
+    "tennis",
+    "Does",
+    "are"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "O tenis oynar mı?",
+   "explanation_tr": "He ile soruda Does kullanılır ve play yalın hâlde kalır."
+  },
+  {
+   "id": "a1_gram_present_simple_questions_015",
+   "unit": "a1_unit_19_present_simple_questions",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Does Anna eat an apple?",
+   "word_bank": [
+    "Does",
+    "eats",
+    "apple",
+    "eat",
+    "do",
+    "an",
+    "Anna",
+    "eating"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Anna bir elma yer mi?",
+   "explanation_tr": "Anna için Does kullanılır; eat fiiline -s eklenmez."
+  },
+  {
+   "id": "a1_gram_present_simple_questions_016",
+   "unit": "a1_unit_19_present_simple_questions",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "What does she drink?",
+   "word_bank": [
+    "does",
+    "drinks",
+    "What",
+    "are",
+    "drink",
+    "drinking",
+    "she"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "O ne içer?",
+   "explanation_tr": "Soru kelimesinden sonra does ve özne gelir; drink yalın hâlde kullanılır."
+  },
+  {
+   "id": "a1_gram_present_simple_questions_017",
+   "unit": "a1_unit_19_present_simple_questions",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Do they live in London?",
+   "word_bank": [
+    "live",
+    "is",
+    "living",
+    "lives",
+    "London",
+    "they",
+    "Do",
+    "in"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Onlar Londra'da yaşar mı?",
+   "explanation_tr": "They ile Do kullanılır ve live fiili yalın hâlde gelir."
+  },
+  {
+   "id": "a1_gram_present_simple_questions_018",
+   "unit": "a1_unit_19_present_simple_questions",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Where do you work?",
+   "word_bank": [
+    "does",
+    "work",
+    "working",
+    "works",
+    "Where",
+    "do",
+    "you"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Nerede çalışırsın?",
+   "explanation_tr": "Soru kelimesinden sonra do, özne ve fiilin yalın hâli kullanılır."
+  },
+  {
+   "id": "a1_gram_present_simple_questions_019",
+   "unit": "a1_unit_19_present_simple_questions",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "Ofiste çalışır mısın?",
+   "options": [
+    "Do you works in an office?",
+    "Do you work in an office?",
+    "Does you work in an office?"
+   ],
+   "answer": "Do you work in an office?",
+   "explanation_tr": "You ile Do kullanılır ve work fiili yalın hâlde kalır."
+  },
+  {
+   "id": "a1_gram_present_simple_questions_020",
+   "unit": "a1_unit_19_present_simple_questions",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "Hayır, o yapmaz.",
+   "options": [
+    "No, she don't.",
+    "No, she doesn't does.",
+    "No, she doesn't."
+   ],
+   "answer": "No, she doesn't.",
+   "explanation_tr": "She ile olumsuz kısa cevapta doesn't kullanılır."
+  },
+  {
+   "id": "a1_gram_present_simple_questions_021",
+   "unit": "a1_unit_19_present_simple_questions",
+   "type": "dictation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Duyduğun cümleyi yaz.",
+   "answer": "Does Ali play football?",
+   "word_bank": [
+    "football",
+    "are",
+    "do",
+    "Ali",
+    "play",
+    "plays",
+    "Does"
+   ],
+   "accepted_answers": [],
+   "sentence_tr": "Ali futbol oynar mı?",
+   "audio_text": "Does Ali play football?",
+   "explanation_tr": "Ali için Does kullanılır ve play fiili yalın hâlde kalır."
+  },
+  {
+   "id": "a1_gram_present_simple_questions_022",
+   "unit": "a1_unit_19_present_simple_questions",
+   "type": "dictation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Duyduğun cümleyi yaz.",
+   "answer": "Yes, I do.",
+   "word_bank": [
+    "does",
+    "Yes",
+    "am",
+    "I",
+    "don't",
+    "do"
+   ],
+   "accepted_answers": [],
+   "sentence_tr": "Evet, severim.",
+   "audio_text": "Yes, I do.",
+   "explanation_tr": "I öznesiyle olumlu kısa cevapta do kullanılır."
+  },
+  {
+   "id": "a1_gram_present_simple_questions_023",
+   "unit": "a1_unit_19_present_simple_questions",
+   "type": "type_translation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "İngilizceye çevir ve yaz.",
+   "prompt_tr": "Annen ne pişirir?",
+   "answer": "What does your mother cook?",
+   "accepted_answers": [],
+   "explanation_tr": "Soru kelimesinden sonra does ve özne gelir; cook yalın hâlde kullanılır."
+  },
+  {
+   "id": "a1_gram_present_simple_questions_024",
+   "unit": "a1_unit_19_present_simple_questions",
+   "type": "type_translation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "İngilizceye çevir ve yaz.",
+   "prompt_tr": "Hayır, o çay içmez.",
+   "answer": "No, she doesn't drink tea.",
+   "accepted_answers": [
+    "No, she does not drink tea."
+   ],
+   "explanation_tr": "She ile olumsuzda doesn't kullanılır; ardından drink fiilinin yalın hâli gelir."
+  }
+ ]
+}

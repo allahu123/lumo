@@ -1,0 +1,603 @@
+{
+ "unit_id": "a1_unit_18_present_simple_neg",
+ "slug": "present_simple_neg",
+ "order": 18,
+ "module": "m4",
+ "bonus_a1_plus": false,
+ "title_en": "Present simple: negative",
+ "title_tr": "Geniş zaman: olumsuz",
+ "level": "A1",
+ "related_vocab_topics": [
+  "daily_verbs"
+ ],
+ "lesson": {
+  "goal_tr": "Geniş zamanda don’t ve doesn’t kullanarak olumsuz cümleler kurabilir ve olumlu cümlelerle aralarındaki farkı görebilirsin.",
+  "sections": [
+   {
+    "heading_tr": "Olumsuz cümle kurma",
+    "explanation_tr": "I, you, we ve they ile don’t kullanırız. He, she ve it ile doesn’t kullanırız; ardından fiilin yalın hâli gelir.",
+    "examples": [
+     {
+      "en": "I don't like coffee.",
+      "tr": "Kahveyi sevmiyorum."
+     },
+     {
+      "en": "She doesn't work.",
+      "tr": "O çalışmıyor."
+     }
+    ]
+   },
+   {
+    "heading_tr": "Doesn’t sonrası fiil",
+    "explanation_tr": "Doesn’t kullanınca fiile -s eklemeyiz. -s, olumlu cümlede he, she veya it ile kullanılan fiile gelir.",
+    "examples": [
+     {
+      "en": "He works.",
+      "tr": "O çalışır."
+     },
+     {
+      "en": "He doesn't work.",
+      "tr": "O çalışmaz."
+     }
+    ]
+   },
+   {
+    "heading_tr": "Olumlu ve olumsuz anlam",
+    "explanation_tr": "Don’t ve doesn’t, cümleye olumsuz anlam katar. Olumlu cümlede bu yardımcıları kullanmayız.",
+    "examples": [
+     {
+      "en": "We live in London.",
+      "tr": "Londra’da yaşıyoruz."
+     },
+     {
+      "en": "We don't live in London.",
+      "tr": "Londra’da yaşamıyoruz."
+     }
+    ]
+   }
+  ],
+  "key_patterns": [
+   {
+    "pattern": "I / you / we / they + don't + fiilin yalın hâli",
+    "example_en": "They don't like tea.",
+    "example_tr": "Çayı sevmiyorlar."
+   },
+   {
+    "pattern": "He / she / it + doesn't + fiilin yalın hâli",
+    "example_en": "He doesn't work.",
+    "example_tr": "O çalışmıyor."
+   },
+   {
+    "pattern": "He / she / it + fiil-s (olumlu)",
+    "example_en": "She likes coffee.",
+    "example_tr": "O kahveyi sever."
+   }
+  ],
+  "turkish_speaker_tips_tr": [
+   "Türkçede olumsuzluk çoğunlukla fiile eklenir; İngilizcede don’t veya doesn’t fiilden önce gelir.",
+   "Türkçede yüklem genellikle sonda, İngilizcede ise özneden sonra fiil gelir: “I don’t like coffee.”",
+   "Türkçedeki “o” hem kadın hem erkek için kullanılabilir; İngilizcede he ve she ayrımı vardır."
+  ],
+  "common_mistakes": [
+   {
+    "wrong": "He don't work.",
+    "correct": "He doesn't work.",
+    "note_tr": "He ile don’t değil, doesn’t kullanılır."
+   },
+   {
+    "wrong": "She doesn't works.",
+    "correct": "She doesn't work.",
+    "note_tr": "Doesn’t sonrasında fiile -s eklenmez."
+   },
+   {
+    "wrong": "I not like coffee.",
+    "correct": "I don't like coffee.",
+    "note_tr": "Geniş zamanda olumsuz cümle için I ile don’t kullanılır."
+   }
+  ],
+  "mini_dialogue": [
+   {
+    "speaker": "Anna",
+    "en": "I like coffee.",
+    "tr": "Kahveyi severim."
+   },
+   {
+    "speaker": "Ali",
+    "en": "I don't like coffee. I like tea.",
+    "tr": "Kahveyi sevmiyorum. Çayı seviyorum."
+   },
+   {
+    "speaker": "Anna",
+    "en": "Tom likes tea.",
+    "tr": "Tom çayı sever."
+   },
+   {
+    "speaker": "Ali",
+    "en": "He doesn't like tea. He likes coffee.",
+    "tr": "O çayı sevmez. Kahveyi sever."
+   }
+  ]
+ },
+ "exercise_counts": {
+  "fill_blank": 6,
+  "multiple_choice": 4,
+  "match_pairs": 1,
+  "choose_correct_sentence": 3,
+  "build_sentence": 6,
+  "dictation": 2,
+  "type_translation": 2
+ },
+ "exercises": [
+  {
+   "id": "a1_gram_present_simple_neg_001",
+   "unit": "a1_unit_18_present_simple_neg",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "They ___ like tea.",
+   "sentence_tr": "Onlar çayı sevmez.",
+   "options": [
+    "aren't",
+    "doesn't",
+    "isn't",
+    "don't"
+   ],
+   "answer": "don't",
+   "explanation_tr": "They ile olumsuz geniş zamanda don't kullanılır; ardından fiilin yalın hâli gelir."
+  },
+  {
+   "id": "a1_gram_present_simple_neg_002",
+   "unit": "a1_unit_18_present_simple_neg",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "He ___ work here.",
+   "sentence_tr": "O burada çalışmaz.",
+   "options": [
+    "doesn't",
+    "isn't",
+    "don't",
+    "aren't"
+   ],
+   "answer": "doesn't",
+   "explanation_tr": "He ile doesn't kullanılır. Doesn't'tan sonra work yalın hâlde kalır."
+  },
+  {
+   "id": "a1_gram_present_simple_neg_003",
+   "unit": "a1_unit_18_present_simple_neg",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "I ___ like coffee.",
+   "sentence_tr": "Kahveyi sevmem.",
+   "options": [
+    "don't",
+    "aren't",
+    "doesn't",
+    "isn't"
+   ],
+   "answer": "don't",
+   "explanation_tr": "I ile olumsuz geniş zamanda don't kullanılır; like fiiline -s eklenmez."
+  },
+  {
+   "id": "a1_gram_present_simple_neg_004",
+   "unit": "a1_unit_18_present_simple_neg",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "She ___ eat meat.",
+   "sentence_tr": "O et yemez.",
+   "options": [
+    "isn't",
+    "aren't",
+    "doesn't",
+    "don't"
+   ],
+   "answer": "doesn't",
+   "explanation_tr": "She ile doesn't kullanılır ve ardından fiilin yalın hâli gelir: eat."
+  },
+  {
+   "id": "a1_gram_present_simple_neg_005",
+   "unit": "a1_unit_18_present_simple_neg",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "We ___ live in London.",
+   "sentence_tr": "Londra'da yaşamıyoruz.",
+   "options": [
+    "doesn't",
+    "don't",
+    "isn't",
+    "aren't"
+   ],
+   "answer": "don't",
+   "explanation_tr": "We ile don't kullanılır. Olumsuz cümlede live fiili yalın hâldedir."
+  },
+  {
+   "id": "a1_gram_present_simple_neg_006",
+   "unit": "a1_unit_18_present_simple_neg",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "Anna likes tea, but she ___ like coffee.",
+   "sentence_tr": "Anna çayı sever ama kahveyi sevmez.",
+   "options": [
+    "doesn't",
+    "don't",
+    "aren't",
+    "isn't"
+   ],
+   "answer": "doesn't",
+   "explanation_tr": "Olumlu cümlede she ile likes kullanılır; olumsuz cümlede doesn't gelir ve like yalın kalır."
+  },
+  {
+   "id": "a1_gram_present_simple_neg_007",
+   "unit": "a1_unit_18_present_simple_neg",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "She doesn't like tea.",
+   "question_tr": "",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Onlar çayı sevmez.",
+    "O kahveyi sevmez.",
+    "O çayı sever.",
+    "O çayı sevmez."
+   ],
+   "answer": "O çayı sevmez.",
+   "explanation_tr": "She doesn't like tea, “O çayı sevmez” demektir. Doesn't'tan sonra like yalın hâldedir."
+  },
+  {
+   "id": "a1_gram_present_simple_neg_008",
+   "unit": "a1_unit_18_present_simple_neg",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "They don't eat eggs.",
+   "question_tr": "",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Onlar yumurta yemez.",
+    "Onlar ekmek yemez.",
+    "Onlar yumurta yer.",
+    "O yumurta yemez."
+   ],
+   "answer": "Onlar yumurta yemez.",
+   "explanation_tr": "They don't eat eggs, “Onlar yumurta yemez” demektir. They ile don't kullanılır."
+  },
+  {
+   "id": "a1_gram_present_simple_neg_009",
+   "unit": "a1_unit_18_present_simple_neg",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "",
+   "question_tr": "Ali kahveyi sevmez.",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Ali doesn't likes coffee.",
+    "Ali don't like coffee.",
+    "Ali isn't like coffee.",
+    "Ali doesn't like coffee."
+   ],
+   "answer": "Ali doesn't like coffee.",
+   "explanation_tr": "Ali, he gibi tekil bir öznedir ve doesn't alır. Doesn't'tan sonra like yalın hâlde kalır."
+  },
+  {
+   "id": "a1_gram_present_simple_neg_010",
+   "unit": "a1_unit_18_present_simple_neg",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "",
+   "question_tr": "Anna ve Lisa Ankara'da yaşamıyor.",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Anna and Lisa don't lives in Ankara.",
+    "Anna and Lisa aren't live in Ankara.",
+    "Anna and Lisa doesn't live in Ankara.",
+    "Anna and Lisa don't live in Ankara."
+   ],
+   "answer": "Anna and Lisa don't live in Ankara.",
+   "explanation_tr": "Anna and Lisa, they anlamındadır; bu yüzden don't kullanılır. Don't'tan sonra live yalın hâldedir."
+  },
+  {
+   "id": "a1_gram_present_simple_neg_011",
+   "unit": "a1_unit_18_present_simple_neg",
+   "type": "match_pairs",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Eşleştir.",
+   "pairs": [
+    {
+     "en": "don't like tea",
+     "tr": "çayı sevmemek"
+    },
+    {
+     "en": "doesn't work",
+     "tr": "çalışmamak"
+    },
+    {
+     "en": "don't live here",
+     "tr": "burada yaşamamak"
+    },
+    {
+     "en": "doesn't eat meat",
+     "tr": "et yememek"
+    },
+    {
+     "en": "likes coffee",
+     "tr": "kahveyi sever"
+    }
+   ],
+   "explanation_tr": "I, you, we ve they ile don't; he, she ve it ile doesn't kullanılır. Olumlu örnekte she ile fiile -s gelir."
+  },
+  {
+   "id": "a1_gram_present_simple_neg_012",
+   "unit": "a1_unit_18_present_simple_neg",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "She doesn't likes coffee.",
+    "She don't like coffee.",
+    "She doesn't like coffee."
+   ],
+   "answer": "She doesn't like coffee.",
+   "explanation_tr": "She ile doesn't kullanılır. Doesn't'tan sonra fiile -s eklenmez; doğru biçim like'tır."
+  },
+  {
+   "id": "a1_gram_present_simple_neg_013",
+   "unit": "a1_unit_18_present_simple_neg",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "I don't like tea.",
+   "word_bank": [
+    "like",
+    "is",
+    "don't",
+    "I",
+    "works",
+    "tea",
+    "are"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Çayı sevmiyorum.",
+   "explanation_tr": "I ile olumsuz cümlede don't kullanılır; ardından fiilin yalın hâli gelir."
+  },
+  {
+   "id": "a1_gram_present_simple_neg_014",
+   "unit": "a1_unit_18_present_simple_neg",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "They don't work today.",
+   "word_bank": [
+    "doesn't",
+    "work",
+    "They",
+    "are",
+    "don't",
+    "today",
+    "works"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Onlar bugün çalışmıyor.",
+   "explanation_tr": "They ile don't kullanılır ve work fiiline -s eklenmez."
+  },
+  {
+   "id": "a1_gram_present_simple_neg_015",
+   "unit": "a1_unit_18_present_simple_neg",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Mehmet doesn't drink coffee.",
+   "word_bank": [
+    "drinks",
+    "drink",
+    "doesn't",
+    "don't",
+    "is",
+    "Mehmet",
+    "coffee"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Mehmet kahve içmez.",
+   "explanation_tr": "Mehmet için doesn't kullanılır; ardından drink yalın hâlde gelir."
+  },
+  {
+   "id": "a1_gram_present_simple_neg_016",
+   "unit": "a1_unit_18_present_simple_neg",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "She likes tea, but she doesn't like coffee.",
+   "word_bank": [
+    "are",
+    "tea",
+    "likes",
+    "doesn't",
+    "does",
+    "but",
+    "like",
+    "She",
+    "coffee",
+    "don't",
+    "she"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "O çayı sever ama kahveyi sevmez.",
+   "explanation_tr": "Olumlu cümlede She ile likes kullanılır. Olumsuz cümlede doesn't gelir ve like yalın hâlde kalır."
+  },
+  {
+   "id": "a1_gram_present_simple_neg_017",
+   "unit": "a1_unit_18_present_simple_neg",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "We don't live in Ankara.",
+   "word_bank": [
+    "live",
+    "lives",
+    "We",
+    "Ankara",
+    "in",
+    "doesn't",
+    "are",
+    "don't"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Ankara'da yaşamıyoruz.",
+   "explanation_tr": "We ile don't kullanılır; live fiiline -s eklenmez."
+  },
+  {
+   "id": "a1_gram_present_simple_neg_018",
+   "unit": "a1_unit_18_present_simple_neg",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Ali doesn't work in London.",
+   "word_bank": [
+    "in",
+    "is",
+    "doesn't",
+    "London",
+    "works",
+    "Ali",
+    "work",
+    "don't"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Ali Londra'da çalışmaz.",
+   "explanation_tr": "Ali için doesn't kullanılır ve work fiili yalın hâlde kalır."
+  },
+  {
+   "id": "a1_gram_present_simple_neg_019",
+   "unit": "a1_unit_18_present_simple_neg",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "She don't like tea.",
+    "She doesn't likes tea.",
+    "She doesn't like tea."
+   ],
+   "answer": "She doesn't like tea.",
+   "explanation_tr": "She ile olumsuzluk için doesn't kullanılır; ardından like yalın hâlde gelir."
+  },
+  {
+   "id": "a1_gram_present_simple_neg_020",
+   "unit": "a1_unit_18_present_simple_neg",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "They don't lives in London.",
+    "They doesn't live in London.",
+    "They don't live in London."
+   ],
+   "answer": "They don't live in London.",
+   "explanation_tr": "They ile don't kullanılır. Olumsuz cümlede live fiiline -s eklenmez."
+  },
+  {
+   "id": "a1_gram_present_simple_neg_021",
+   "unit": "a1_unit_18_present_simple_neg",
+   "type": "dictation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Duyduğun cümleyi yaz.",
+   "answer": "I don't like coffee.",
+   "word_bank": [
+    "I",
+    "likes",
+    "tea",
+    "doesn't",
+    "coffee",
+    "like",
+    "don't"
+   ],
+   "accepted_answers": [],
+   "sentence_tr": "Kahveyi sevmiyorum.",
+   "audio_text": "I don't like coffee.",
+   "explanation_tr": "I ile olumsuz cümlede don't kullanılır ve like yalın hâlde kalır."
+  },
+  {
+   "id": "a1_gram_present_simple_neg_022",
+   "unit": "a1_unit_18_present_simple_neg",
+   "type": "dictation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Duyduğun cümleyi yaz.",
+   "answer": "They don't work today.",
+   "word_bank": [
+    "tomorrow",
+    "They",
+    "work",
+    "don't",
+    "doesn't",
+    "lives",
+    "today"
+   ],
+   "accepted_answers": [],
+   "sentence_tr": "Onlar bugün çalışmıyor.",
+   "audio_text": "They don't work today.",
+   "explanation_tr": "They ile don't kullanılır; work fiili yalın hâlde yazılır."
+  },
+  {
+   "id": "a1_gram_present_simple_neg_023",
+   "unit": "a1_unit_18_present_simple_neg",
+   "type": "type_translation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "İngilizceye çevir ve yaz.",
+   "prompt_tr": "O (erkek) kahve içmez.",
+   "answer": "He doesn't drink coffee.",
+   "accepted_answers": [
+    "He does not drink coffee."
+   ],
+   "explanation_tr": "He ile doesn't kullanılır ve drink fiili yalın hâlde kalır."
+  },
+  {
+   "id": "a1_gram_present_simple_neg_024",
+   "unit": "a1_unit_18_present_simple_neg",
+   "type": "type_translation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "İngilizceye çevir ve yaz.",
+   "prompt_tr": "Anna çayı sever ama kahveyi sevmez.",
+   "answer": "Anna likes tea, but she doesn't like coffee.",
+   "accepted_answers": [
+    "Anna likes tea, but she does not like coffee."
+   ],
+   "explanation_tr": "Olumlu cümlede Anna ile likes kullanılır; olumsuz cümlede doesn't ardından like gelir."
+  }
+ ]
+}

@@ -1,0 +1,630 @@
+{
+ "unit_id": "a1_unit_03_be_negative_questions",
+ "slug": "be_negative_questions",
+ "order": 3,
+ "module": "m1",
+ "bonus_a1_plus": false,
+ "title_en": "Verb to be: negatives and questions",
+ "title_tr": "To be fiili: olumsuz ve soru",
+ "level": "A1",
+ "related_vocab_topics": [
+  "pronouns_grammar",
+  "question_words_conjunctions"
+ ],
+ "lesson": {
+  "goal_tr": "Bu dersin sonunda am not, isn't ve aren't ile olumsuz cümleler kurabilir, be fiiliyle soru sorup kısa cevap verebilirsin.",
+  "sections": [
+   {
+    "heading_tr": "Olumsuz cümleler",
+    "explanation_tr": "Olumsuzluk için am, is veya are'den sonra not gelir. Kısa biçimler is not → isn't ve are not → aren't şeklindedir; “I am not” için “I'm not” denir.",
+    "examples": [
+     {
+      "en": "I am not tired.",
+      "tr": "Yorgun değilim."
+     },
+     {
+      "en": "He isn't happy.",
+      "tr": "O mutlu değil."
+     },
+     {
+      "en": "They aren't at home.",
+      "tr": "Onlar evde değil."
+     }
+    ]
+   },
+   {
+    "heading_tr": "Soru cümleleri",
+    "explanation_tr": "Soru yaparken am, is veya are öznenin önüne gelir. İngilizcede soru sırası genellikle be fiili + özne + cümlenin geri kalanı şeklindedir.",
+    "examples": [
+     {
+      "en": "Am I late?",
+      "tr": "Geç mi kaldım?"
+     },
+     {
+      "en": "Is she a teacher?",
+      "tr": "O öğretmen mi?"
+     },
+     {
+      "en": "Are you ready?",
+      "tr": "Hazır mısın?"
+     }
+    ]
+   },
+   {
+    "heading_tr": "Kısa cevaplar",
+    "explanation_tr": "Kısa cevapta yes veya no'dan sonra özne ve uygun be fiili kullanılır. Olumlu cevapta fiili kısaltmayız: “Yes, I am.”",
+    "examples": [
+     {
+      "en": "Are you a student? Yes, I am.",
+      "tr": "Öğrenci misin? Evet, öğrenciyim."
+     },
+     {
+      "en": "Is he at home? No, he isn't.",
+      "tr": "O evde mi? Hayır, evde değil."
+     },
+     {
+      "en": "Are they ready? No, they aren't.",
+      "tr": "Onlar hazır mı? Hayır, hazır değiller."
+     }
+    ]
+   }
+  ],
+  "key_patterns": [
+   {
+    "pattern": "I + am not + ...",
+    "example_en": "I am not tired.",
+    "example_tr": "Yorgun değilim."
+   },
+   {
+    "pattern": "He / She / It + isn't + ...",
+    "example_en": "She isn't at home.",
+    "example_tr": "O evde değil."
+   },
+   {
+    "pattern": "You / We / They + aren't + ...",
+    "example_en": "We aren't busy.",
+    "example_tr": "Meşgul değiliz."
+   },
+   {
+    "pattern": "Am / Is / Are + özne + ...?",
+    "example_en": "Are you happy?",
+    "example_tr": "Mutlu musun?"
+   },
+   {
+    "pattern": "Yes / No + özne + uygun be fiili",
+    "example_en": "No, he isn't.",
+    "example_tr": "Hayır, o değil."
+   }
+  ],
+  "turkish_speaker_tips_tr": [
+   "Türkçede “Mutluyum” derken ayrı bir “olmak” sözcüğü kullanmayız; İngilizcede ise “I am happy” gibi am/is/are gerekir.",
+   "Türkçede yüklem genellikle cümlenin sonundadır; İngilizcede “Are you happy?” sorusunda be fiili öznenin önüne geçer.",
+   "Türkçedeki “o” kadın ve erkek için aynıdır; İngilizcede kadın için she, erkek için he kullanılır.",
+   "Tekil sayılabilen bir mesleğin önünde genellikle a/an gerekir: “I am a teacher.”"
+  ],
+  "common_mistakes": [
+   {
+    "wrong": "I not happy.",
+    "correct": "I am not happy.",
+    "note_tr": "İngilizcede olumsuz cümlede am/is/are atlanmaz."
+   },
+   {
+    "wrong": "Is you a student?",
+    "correct": "Are you a student?",
+    "note_tr": "You ile soru kurarken are kullanılır."
+   },
+   {
+    "wrong": "Yes, I are.",
+    "correct": "Yes, I am.",
+    "note_tr": "I öznesiyle am kullanılır; kısa cevapta da fiil özneye uyar."
+   },
+   {
+    "wrong": "He aren't happy.",
+    "correct": "He isn't happy.",
+    "note_tr": "He ile is veya isn't kullanılır; aren't, you, we ve they ile kullanılır."
+   }
+  ],
+  "mini_dialogue": [
+   {
+    "speaker": "Anna",
+    "en": "Are you a student?",
+    "tr": "Öğrenci misin?"
+   },
+   {
+    "speaker": "Ali",
+    "en": "Yes, I am. Are you a student?",
+    "tr": "Evet, öğrenciyim. Sen öğrenci misin?"
+   },
+   {
+    "speaker": "Anna",
+    "en": "No, I'm not. I'm a teacher.",
+    "tr": "Hayır, değilim. Öğretmenim."
+   },
+   {
+    "speaker": "Ali",
+    "en": "Is Tom your brother?",
+    "tr": "Tom senin erkek kardeşin mi?"
+   },
+   {
+    "speaker": "Anna",
+    "en": "No, he isn't. He is my friend.",
+    "tr": "Hayır, değil. O benim arkadaşım."
+   }
+  ]
+ },
+ "exercise_counts": {
+  "fill_blank": 6,
+  "multiple_choice": 4,
+  "match_pairs": 1,
+  "choose_correct_sentence": 3,
+  "build_sentence": 6,
+  "dictation": 2,
+  "type_translation": 2
+ },
+ "exercises": [
+  {
+   "id": "a1_gram_be_negative_questions_001",
+   "unit": "a1_unit_03_be_negative_questions",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "I ___ tired.",
+   "sentence_tr": "Yorgun değilim.",
+   "options": [
+    "am not",
+    "aren't",
+    "isn't",
+    "not"
+   ],
+   "answer": "am not",
+   "explanation_tr": "I öznesiyle olumsuz be fiili “am not” olur."
+  },
+  {
+   "id": "a1_gram_be_negative_questions_002",
+   "unit": "a1_unit_03_be_negative_questions",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "She ___ at home.",
+   "sentence_tr": "O evde değil.",
+   "options": [
+    "am not",
+    "isn't",
+    "don't",
+    "aren't"
+   ],
+   "answer": "isn't",
+   "explanation_tr": "She ile be fiilinin olumsuz kısa biçimi “isn't” kullanılır."
+  },
+  {
+   "id": "a1_gram_be_negative_questions_003",
+   "unit": "a1_unit_03_be_negative_questions",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "We ___ busy.",
+   "sentence_tr": "Meşgul değiliz.",
+   "options": [
+    "don't",
+    "aren't",
+    "am not",
+    "isn't"
+   ],
+   "answer": "aren't",
+   "explanation_tr": "We öznesiyle olumsuz be fiilinin kısa biçimi “aren't” olur."
+  },
+  {
+   "id": "a1_gram_be_negative_questions_004",
+   "unit": "a1_unit_03_be_negative_questions",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "___ you happy?",
+   "sentence_tr": "Mutlu musun?",
+   "options": [
+    "Do",
+    "Are",
+    "Is",
+    "Am"
+   ],
+   "answer": "Are",
+   "explanation_tr": "You ile soru kurarken “Are” öznenin önüne gelir."
+  },
+  {
+   "id": "a1_gram_be_negative_questions_005",
+   "unit": "a1_unit_03_be_negative_questions",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "My brother ___ hungry.",
+   "sentence_tr": "Erkek kardeşim aç değil.",
+   "options": [
+    "isn't",
+    "am not",
+    "aren't",
+    "don't"
+   ],
+   "answer": "isn't",
+   "explanation_tr": "My brother tekil bir öznedir; onunla “isn't” kullanılır."
+  },
+  {
+   "id": "a1_gram_be_negative_questions_006",
+   "unit": "a1_unit_03_be_negative_questions",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "___ they at home?",
+   "sentence_tr": "Onlar evde mi?",
+   "options": [
+    "Do",
+    "Am",
+    "Are",
+    "Is"
+   ],
+   "answer": "Are",
+   "explanation_tr": "They öznesiyle soru başında “Are” kullanılır."
+  },
+  {
+   "id": "a1_gram_be_negative_questions_007",
+   "unit": "a1_unit_03_be_negative_questions",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "Is he tired?",
+   "question_tr": "",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Ben yorgun muyum?",
+    "O yorgun mu?",
+    "O yorgun değil.",
+    "Onlar yorgun mu?"
+   ],
+   "answer": "O yorgun mu?",
+   "explanation_tr": "“Is he ...?” sorusu Türkçede “O ... mı?” anlamına gelir."
+  },
+  {
+   "id": "a1_gram_be_negative_questions_008",
+   "unit": "a1_unit_03_be_negative_questions",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "We aren't at home.",
+   "question_tr": "",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Evde değiliz.",
+    "Evde değil mi?",
+    "Evdeyiz.",
+    "Evde değiller."
+   ],
+   "answer": "Evde değiliz.",
+   "explanation_tr": "“We aren't” ifadesi “biz ... değiliz” anlamını verir."
+  },
+  {
+   "id": "a1_gram_be_negative_questions_009",
+   "unit": "a1_unit_03_be_negative_questions",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "",
+   "question_tr": "Onlar meşgul mü?",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "They are busy?",
+    "Are they is busy?",
+    "Is they busy?",
+    "Are they busy?"
+   ],
+   "answer": "Are they busy?",
+   "explanation_tr": "They ile soru kurarken “Are” başa gelir, ardından özne ve sıfat kullanılır."
+  },
+  {
+   "id": "a1_gram_be_negative_questions_010",
+   "unit": "a1_unit_03_be_negative_questions",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "",
+   "question_tr": "Hayır, Ali evde değil.",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "No, Ali aren't at home.",
+    "Yes, Ali isn't at home.",
+    "No, Ali isn't at home.",
+    "No, Ali am not at home."
+   ],
+   "answer": "No, Ali isn't at home.",
+   "explanation_tr": "Ali tekil bir öznedir; olumsuz kısa cevapta “isn't” kullanılır. “No” olumsuz cevabı belirtir."
+  },
+  {
+   "id": "a1_gram_be_negative_questions_011",
+   "unit": "a1_unit_03_be_negative_questions",
+   "type": "match_pairs",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Eşleştir.",
+   "pairs": [
+    {
+     "en": "I am not",
+     "tr": "Ben değilim"
+    },
+    {
+     "en": "He isn't",
+     "tr": "O değil"
+    },
+    {
+     "en": "We aren't",
+     "tr": "Biz değiliz"
+    },
+    {
+     "en": "Are you happy?",
+     "tr": "Mutlu musun?"
+    },
+    {
+     "en": "Yes, I am.",
+     "tr": "Evet, öyleyim."
+    }
+   ],
+   "explanation_tr": "Olumsuz biçimlerde özneye uygun be fiili kullanılır. Sorularda be fiili özneden önce gelir."
+  },
+  {
+   "id": "a1_gram_be_negative_questions_012",
+   "unit": "a1_unit_03_be_negative_questions",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "Are they at home?",
+    "Are they is at home?",
+    "Is they at home?"
+   ],
+   "answer": "Are they at home?",
+   "explanation_tr": "They ile soru başında “Are” kullanılır; ardından özne ve cümlenin devamı gelir."
+  },
+  {
+   "id": "a1_gram_be_negative_questions_013",
+   "unit": "a1_unit_03_be_negative_questions",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "I am not tired.",
+   "word_bank": [
+    "am",
+    "tired",
+    "not",
+    "is",
+    "very",
+    "are",
+    "I"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Ben yorgun değilim.",
+   "explanation_tr": "I öznesiyle am kullanılır. Olumsuzluk için am not deriz."
+  },
+  {
+   "id": "a1_gram_be_negative_questions_014",
+   "unit": "a1_unit_03_be_negative_questions",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Anna isn't at home.",
+   "word_bank": [
+    "am",
+    "home",
+    "aren't",
+    "Anna",
+    "happy",
+    "at",
+    "isn't"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Anna evde değil.",
+   "explanation_tr": "Anna, she gibi tekil bir öznedir; bu nedenle isn't kullanılır."
+  },
+  {
+   "id": "a1_gram_be_negative_questions_015",
+   "unit": "a1_unit_03_be_negative_questions",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "We aren't busy today.",
+   "word_bank": [
+    "isn't",
+    "We",
+    "aren't",
+    "tired",
+    "busy",
+    "am",
+    "today"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Biz bugün meşgul değiliz.",
+   "explanation_tr": "We öznesiyle olumsuz biçimde aren't kullanılır."
+  },
+  {
+   "id": "a1_gram_be_negative_questions_016",
+   "unit": "a1_unit_03_be_negative_questions",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Are you happy today?",
+   "word_bank": [
+    "is",
+    "happy",
+    "you",
+    "he",
+    "tired",
+    "Are",
+    "today"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Sen bugün mutlu musun?",
+   "explanation_tr": "Soru cümlesinde Are, you öznesinden önce gelir."
+  },
+  {
+   "id": "a1_gram_be_negative_questions_017",
+   "unit": "a1_unit_03_be_negative_questions",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Is Ali tired?",
+   "word_bank": [
+    "Ali",
+    "happy",
+    "Is",
+    "tired",
+    "am",
+    "are"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Ali yorgun mu?",
+   "explanation_tr": "Ali tekil bir öznedir; soruda Is özneden önce kullanılır."
+  },
+  {
+   "id": "a1_gram_be_negative_questions_018",
+   "unit": "a1_unit_03_be_negative_questions",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Are they at school?",
+   "word_bank": [
+    "they",
+    "is",
+    "am",
+    "at",
+    "tired",
+    "Are",
+    "school"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Onlar okulda mı?",
+   "explanation_tr": "They öznesiyle soru Are ile başlar."
+  },
+  {
+   "id": "a1_gram_be_negative_questions_019",
+   "unit": "a1_unit_03_be_negative_questions",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "You are happy?",
+    "Are you happy?",
+    "Are happy you?"
+   ],
+   "answer": "Are you happy?",
+   "explanation_tr": "Be fiiliyle soru kurarken Are, you öznesinden önce gelir."
+  },
+  {
+   "id": "a1_gram_be_negative_questions_020",
+   "unit": "a1_unit_03_be_negative_questions",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "No, he aren't.",
+    "No, he isn't.",
+    "No, he not."
+   ],
+   "answer": "No, he isn't.",
+   "explanation_tr": "He ile kısa olumsuz cevapta isn't kullanılır."
+  },
+  {
+   "id": "a1_gram_be_negative_questions_021",
+   "unit": "a1_unit_03_be_negative_questions",
+   "type": "dictation",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Duyduğun cümleyi yaz.",
+   "answer": "She isn't at home.",
+   "word_bank": [
+    "tired",
+    "She",
+    "isn't",
+    "today",
+    "home",
+    "at",
+    "are"
+   ],
+   "accepted_answers": [],
+   "sentence_tr": "O evde değil.",
+   "audio_text": "She isn't at home.",
+   "explanation_tr": "She ile olumsuz be biçimi isn't olur."
+  },
+  {
+   "id": "a1_gram_be_negative_questions_022",
+   "unit": "a1_unit_03_be_negative_questions",
+   "type": "dictation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Duyduğun cümleyi yaz.",
+   "answer": "We aren't busy today.",
+   "word_bank": [
+    "aren't",
+    "happy",
+    "busy",
+    "isn't",
+    "at",
+    "We",
+    "today"
+   ],
+   "accepted_answers": [],
+   "sentence_tr": "Biz bugün meşgul değiliz.",
+   "audio_text": "We aren't busy today.",
+   "explanation_tr": "We öznesinin olumsuz biçimi aren't şeklindedir."
+  },
+  {
+   "id": "a1_gram_be_negative_questions_023",
+   "unit": "a1_unit_03_be_negative_questions",
+   "type": "type_translation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "İngilizceye çevir ve yaz.",
+   "prompt_tr": "Tom ve Anna bugün mutlu değil.",
+   "answer": "Tom and Anna aren't happy today.",
+   "accepted_answers": [
+    "Tom and Anna are not happy today."
+   ],
+   "explanation_tr": "Tom and Anna çoğul bir öznedir; olumsuz cümlede aren't kullanılır."
+  },
+  {
+   "id": "a1_gram_be_negative_questions_024",
+   "unit": "a1_unit_03_be_negative_questions",
+   "type": "type_translation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "İngilizceye çevir ve yaz.",
+   "prompt_tr": "Ben şimdi okulda mıyım?",
+   "answer": "Am I at school now?",
+   "accepted_answers": [
+    "Am I in school now?"
+   ],
+   "explanation_tr": "I öznesiyle soru kurarken Am öznenin önüne gelir."
+  }
+ ]
+}

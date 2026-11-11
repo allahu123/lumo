@@ -1,0 +1,612 @@
+{
+ "unit_id": "a1_unit_02_be_affirmative",
+ "slug": "be_affirmative",
+ "order": 2,
+ "module": "m1",
+ "bonus_a1_plus": false,
+ "title_en": "Verb to be: I am, you are, he is",
+ "title_tr": "To be fiili: olumlu cümleler",
+ "level": "A1",
+ "related_vocab_topics": [
+  "pronouns_grammar"
+ ],
+ "lesson": {
+  "goal_tr": "Bu dersin sonunda kişi ve şeyleri isim, meslek, sıfat veya yer belirterek basit olumlu cümlelerle anlatabilirsin.",
+  "sections": [
+   {
+    "heading_tr": "Özneye göre am, is, are",
+    "explanation_tr": "I ile am; he, she ve it ile is; you, we ve they ile are kullanılır. İngilizcede olumlu cümlede özne genellikle fiilden önce, am/is/are ise özneden sonra gelir.",
+    "examples": [
+     {
+      "en": "I am happy.",
+      "tr": "Mutluyum."
+     },
+     {
+      "en": "They are in London.",
+      "tr": "Londra'dalar."
+     }
+    ]
+   },
+   {
+    "heading_tr": "Neler anlatabiliriz?",
+    "explanation_tr": "Am/is/are sonrasında bir isimle kim olduğunu veya mesleğini, bir sıfatla nasıl olduğunu, bir yer ifadesiyle nerede olduğunu anlatabilirsin. Tekil bir meslekten söz ederken genellikle meslek adından önce a veya an gelir.",
+    "examples": [
+     {
+      "en": "Anna is a teacher.",
+      "tr": "Anna öğretmen."
+     },
+     {
+      "en": "He is tall.",
+      "tr": "O uzun boylu."
+     },
+     {
+      "en": "We are in Ankara.",
+      "tr": "Ankara'dayız."
+     }
+    ]
+   },
+   {
+    "heading_tr": "Kısa biçimler",
+    "explanation_tr": "Konuşmada ve günlük yazışmalarda am, is ve are çoğu zaman özneyle birleşir: I'm, you're, he's, she's, it's, we're, they're. İsimlerle de is kullanabilirsin: Tom is a doctor.",
+    "examples": [
+     {
+      "en": "I'm a student.",
+      "tr": "Öğrenciyim."
+     },
+     {
+      "en": "They're happy.",
+      "tr": "Mutlular."
+     }
+    ]
+   }
+  ],
+  "key_patterns": [
+   {
+    "pattern": "I + am + a + meslek",
+    "example_en": "I am a teacher.",
+    "example_tr": "Öğretmenim."
+   },
+   {
+    "pattern": "He/She/It + is + sıfat",
+    "example_en": "She is happy.",
+    "example_tr": "O mutlu."
+   },
+   {
+    "pattern": "We/They + are + in + yer",
+    "example_en": "We are in London.",
+    "example_tr": "Londra'dayız."
+   }
+  ],
+  "turkish_speaker_tips_tr": [
+   "Türkçede “Mutluyum” derken ayrı bir “olmak” fiili kullanmayız; İngilizcede ise I am happy demen gerekir.",
+   "Türkçede temel sıra çoğunlukla özne + nesne + fiildir; bu İngilizce cümlelerde özne + am/is/are + tamamlayıcı sırasını kullan.",
+   "Türkçedeki “o” hem he hem she hem de it olabilir. İngilizcede he erkek kişiler, she kadın kişiler, it ise genellikle şeyler ve hayvanlar için kullanılır.",
+   "İngilizcede tekil meslek adından önce a veya an kullanılır: a teacher. Türkçede bunun karşılığı olan ayrı bir sözcük yoktur."
+  ],
+  "common_mistakes": [
+   {
+    "wrong": "I is happy.",
+    "correct": "I am happy.",
+    "note_tr": "I ile is değil, am kullanılır."
+   },
+   {
+    "wrong": "She are a doctor.",
+    "correct": "She is a doctor.",
+    "note_tr": "She ile is kullanılır."
+   },
+   {
+    "wrong": "They is in Ankara.",
+    "correct": "They are in Ankara.",
+    "note_tr": "They ile are kullanılır."
+   },
+   {
+    "wrong": "I happy.",
+    "correct": "I am happy.",
+    "note_tr": "İngilizcede sıfatın önüne özneye uygun am, is veya are gelmelidir."
+   }
+  ],
+  "mini_dialogue": [
+   {
+    "speaker": "Anna",
+    "en": "Hello, Ali. I'm Anna.",
+    "tr": "Merhaba Ali. Ben Anna."
+   },
+   {
+    "speaker": "Ali",
+    "en": "Hi, Anna. I'm Ali.",
+    "tr": "Merhaba Anna. Ben Ali."
+   },
+   {
+    "speaker": "Anna",
+    "en": "I'm a teacher in Ankara.",
+    "tr": "Ankara'da öğretmenim."
+   },
+   {
+    "speaker": "Ali",
+    "en": "I'm a student in Ankara.",
+    "tr": "Ankara'da öğrenciyim."
+   },
+   {
+    "speaker": "Anna",
+    "en": "We're friends.",
+    "tr": "Arkadaşız."
+   }
+  ]
+ },
+ "exercise_counts": {
+  "fill_blank": 6,
+  "multiple_choice": 4,
+  "match_pairs": 1,
+  "choose_correct_sentence": 3,
+  "build_sentence": 6,
+  "dictation": 2,
+  "type_translation": 2
+ },
+ "exercises": [
+  {
+   "id": "a1_gram_be_affirmative_001",
+   "unit": "a1_unit_02_be_affirmative",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "I ___ a teacher.",
+   "sentence_tr": "Ben öğretmenim.",
+   "options": [
+    "is",
+    "are",
+    "am",
+    "be"
+   ],
+   "answer": "am",
+   "explanation_tr": "“I” zamiriyle “am” kullanılır."
+  },
+  {
+   "id": "a1_gram_be_affirmative_002",
+   "unit": "a1_unit_02_be_affirmative",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "You ___ happy.",
+   "sentence_tr": "Sen mutlusun.",
+   "options": [
+    "are",
+    "be",
+    "is",
+    "am"
+   ],
+   "answer": "are",
+   "explanation_tr": "“You” zamiriyle “are” kullanılır."
+  },
+  {
+   "id": "a1_gram_be_affirmative_003",
+   "unit": "a1_unit_02_be_affirmative",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "He ___ in London.",
+   "sentence_tr": "O, Londra'da.",
+   "options": [
+    "be",
+    "am",
+    "are",
+    "is"
+   ],
+   "answer": "is",
+   "explanation_tr": "“He” zamiriyle “is” kullanılır."
+  },
+  {
+   "id": "a1_gram_be_affirmative_004",
+   "unit": "a1_unit_02_be_affirmative",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "We ___ friends.",
+   "sentence_tr": "Biz arkadaşız.",
+   "options": [
+    "am",
+    "are",
+    "be",
+    "is"
+   ],
+   "answer": "are",
+   "explanation_tr": "“We” zamiriyle “are” kullanılır."
+  },
+  {
+   "id": "a1_gram_be_affirmative_005",
+   "unit": "a1_unit_02_be_affirmative",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "Anna ___ a doctor.",
+   "sentence_tr": "Anna doktor.",
+   "options": [
+    "are",
+    "be",
+    "is",
+    "am"
+   ],
+   "answer": "is",
+   "explanation_tr": "Tek bir kişinin adıyla “is” kullanılır."
+  },
+  {
+   "id": "a1_gram_be_affirmative_006",
+   "unit": "a1_unit_02_be_affirmative",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "They're ___ in Ankara.",
+   "sentence_tr": "Onlar Ankara'dalar.",
+   "options": [
+    "on",
+    "at",
+    "to",
+    "in"
+   ],
+   "answer": "in",
+   "explanation_tr": "“In Ankara” Ankara'da anlamına gelir; “they're” ise “they are” kısaltmasıdır."
+  },
+  {
+   "id": "a1_gram_be_affirmative_007",
+   "unit": "a1_unit_02_be_affirmative",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "She's a teacher.",
+   "question_tr": "",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "O mutlu.",
+    "O öğretmen değil.",
+    "Onlar öğretmen.",
+    "O bir öğretmen."
+   ],
+   "answer": "O bir öğretmen.",
+   "explanation_tr": "“She's”, “she is” kısaltmasıdır; cümlede bir kişinin öğretmen olduğu söylenir."
+  },
+  {
+   "id": "a1_gram_be_affirmative_008",
+   "unit": "a1_unit_02_be_affirmative",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "We're in London.",
+   "question_tr": "",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Ben Londra'dayım.",
+    "Onlar Londra'dalar.",
+    "Biz Londra'dayız.",
+    "Biz Ankara'dayız."
+   ],
+   "answer": "Biz Londra'dayız.",
+   "explanation_tr": "“We're”, “we are” demektir; “in London” ise Londra'da anlamına gelir."
+  },
+  {
+   "id": "a1_gram_be_affirmative_009",
+   "unit": "a1_unit_02_be_affirmative",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "",
+   "question_tr": "Ben mutluyum.",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "I happy.",
+    "I are happy.",
+    "I am happy.",
+    "I is happy."
+   ],
+   "answer": "I am happy.",
+   "explanation_tr": "“I” zamiriyle “am” kullanılır; sıfat olan “happy” değişmeden gelir."
+  },
+  {
+   "id": "a1_gram_be_affirmative_010",
+   "unit": "a1_unit_02_be_affirmative",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "",
+   "question_tr": "Ali ve Mehmet İstanbul'dalar.",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "They are in Istanbul.",
+    "They is in Istanbul.",
+    "They are at Istanbul.",
+    "We are in Istanbul."
+   ],
+   "answer": "They are in Istanbul.",
+   "explanation_tr": "İki kişiden söz ederken “they” kullanılır ve “they” ile “are” gelir."
+  },
+  {
+   "id": "a1_gram_be_affirmative_011",
+   "unit": "a1_unit_02_be_affirmative",
+   "type": "match_pairs",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Eşleştir.",
+   "pairs": [
+    {
+     "en": "I'm happy.",
+     "tr": "Mutluyum."
+    },
+    {
+     "en": "He's a teacher.",
+     "tr": "O öğretmen."
+    },
+    {
+     "en": "We are in London.",
+     "tr": "Biz Londra'dayız."
+    },
+    {
+     "en": "They are friends.",
+     "tr": "Onlar arkadaş."
+    },
+    {
+     "en": "You're a doctor.",
+     "tr": "Sen doktorsun."
+    }
+   ],
+   "explanation_tr": "“Am”, “is” ve “are” özneye göre değişir; eşleştirmelerde bu yapılar Türkçe anlamlarıyla verilmiştir."
+  },
+  {
+   "id": "a1_gram_be_affirmative_012",
+   "unit": "a1_unit_02_be_affirmative",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "She are happy.",
+    "She is happy.",
+    "She am happy."
+   ],
+   "answer": "She is happy.",
+   "explanation_tr": "“She” zamiriyle “is” kullanılır; bu yüzden doğru cümle “She is happy.” olur."
+  },
+  {
+   "id": "a1_gram_be_affirmative_013",
+   "unit": "a1_unit_02_be_affirmative",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "I am a teacher.",
+   "word_bank": [
+    "a",
+    "teacher",
+    "the",
+    "is",
+    "I",
+    "am",
+    "happy"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Ben öğretmenim.",
+   "explanation_tr": "I öznesiyle am kullanılır. Meslekten önce a gelir."
+  },
+  {
+   "id": "a1_gram_be_affirmative_014",
+   "unit": "a1_unit_02_be_affirmative",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "You are very happy.",
+   "word_bank": [
+    "a",
+    "in",
+    "are",
+    "very",
+    "am",
+    "happy",
+    "You"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Çok mutlusun.",
+   "explanation_tr": "You öznesiyle are kullanılır. Very, happy sıfatını güçlendirir."
+  },
+  {
+   "id": "a1_gram_be_affirmative_015",
+   "unit": "a1_unit_02_be_affirmative",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "He is in London.",
+   "word_bank": [
+    "He",
+    "is",
+    "in",
+    "are",
+    "happy",
+    "a",
+    "London"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "O Londra'da.",
+   "explanation_tr": "He öznesiyle is kullanılır. Bir yerde bulunmayı anlatırken in kullanılır."
+  },
+  {
+   "id": "a1_gram_be_affirmative_016",
+   "unit": "a1_unit_02_be_affirmative",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "She is a teacher.",
+   "word_bank": [
+    "an",
+    "is",
+    "are",
+    "She",
+    "a",
+    "teacher",
+    "in"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "O öğretmen.",
+   "explanation_tr": "She öznesiyle is kullanılır. Meslekten önce a gelir."
+  },
+  {
+   "id": "a1_gram_be_affirmative_017",
+   "unit": "a1_unit_02_be_affirmative",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "We are in Ankara.",
+   "word_bank": [
+    "are",
+    "a",
+    "they",
+    "We",
+    "Ankara",
+    "is",
+    "in"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Ankara'dayız.",
+   "explanation_tr": "We öznesiyle are kullanılır. Bir yerde bulunmayı anlatırken in kullanılır."
+  },
+  {
+   "id": "a1_gram_be_affirmative_018",
+   "unit": "a1_unit_02_be_affirmative",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "It is very cold today.",
+   "word_bank": [
+    "very",
+    "in",
+    "today",
+    "a",
+    "is",
+    "It",
+    "cold",
+    "are"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Bugün hava çok soğuk.",
+   "explanation_tr": "It öznesiyle is kullanılır. Very, cold sıfatını güçlendirir."
+  },
+  {
+   "id": "a1_gram_be_affirmative_019",
+   "unit": "a1_unit_02_be_affirmative",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "I is a student.",
+    "I are a student.",
+    "I'm a student."
+   ],
+   "answer": "I'm a student.",
+   "explanation_tr": "I'm, I am kısaltmasıdır. I öznesiyle am kullanılır."
+  },
+  {
+   "id": "a1_gram_be_affirmative_020",
+   "unit": "a1_unit_02_be_affirmative",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "They am happy.",
+    "They are happy.",
+    "They is happy."
+   ],
+   "answer": "They are happy.",
+   "explanation_tr": "They öznesiyle are kullanılır; is ve am kullanılmaz."
+  },
+  {
+   "id": "a1_gram_be_affirmative_021",
+   "unit": "a1_unit_02_be_affirmative",
+   "type": "dictation",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Duyduğun cümleyi yaz.",
+   "answer": "It's a cold day.",
+   "word_bank": [
+    "day",
+    "It's",
+    "a",
+    "happy",
+    "in",
+    "are",
+    "cold"
+   ],
+   "accepted_answers": [],
+   "sentence_tr": "Soğuk bir gün.",
+   "audio_text": "It's a cold day.",
+   "explanation_tr": "It's, it is kısaltmasıdır. It öznesiyle is kullanılır."
+  },
+  {
+   "id": "a1_gram_be_affirmative_022",
+   "unit": "a1_unit_02_be_affirmative",
+   "type": "dictation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Duyduğun cümleyi yaz.",
+   "answer": "We're in London.",
+   "word_bank": [
+    "a",
+    "happy",
+    "in",
+    "London",
+    "am",
+    "We're"
+   ],
+   "accepted_answers": [],
+   "sentence_tr": "Londra'dayız.",
+   "audio_text": "We're in London.",
+   "explanation_tr": "We're, we are kısaltmasıdır. We öznesiyle are kullanılır."
+  },
+  {
+   "id": "a1_gram_be_affirmative_023",
+   "unit": "a1_unit_02_be_affirmative",
+   "type": "type_translation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "İngilizceye çevir ve yaz.",
+   "prompt_tr": "Ben mutluyum.",
+   "answer": "I am happy.",
+   "accepted_answers": [
+    "I'm happy."
+   ],
+   "explanation_tr": "I öznesiyle am kullanılır; sıfat olan happy, be fiilinden sonra gelir."
+  },
+  {
+   "id": "a1_gram_be_affirmative_024",
+   "unit": "a1_unit_02_be_affirmative",
+   "type": "type_translation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "İngilizceye çevir ve yaz.",
+   "prompt_tr": "Anna Ankara'da.",
+   "answer": "Anna is in Ankara.",
+   "accepted_answers": [
+    "Anna's in Ankara."
+   ],
+   "explanation_tr": "Anna tekil bir isim olduğu için is kullanılır. Bir yerde bulunmayı anlatırken in kullanılır."
+  }
+ ]
+}

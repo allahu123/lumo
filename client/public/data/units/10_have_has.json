@@ -1,0 +1,607 @@
+{
+ "unit_id": "a1_unit_10_have_has",
+ "slug": "have_has",
+ "order": 10,
+ "module": "m2",
+ "bonus_a1_plus": false,
+ "title_en": "Have and has",
+ "title_tr": "Have / has (sahip olmak)",
+ "level": "A1",
+ "related_vocab_topics": [
+  "family_people",
+  "general_nouns"
+ ],
+ "lesson": {
+  "goal_tr": "Bu dersin sonunda sahip olduğun şeyleri ve yaptığın bazı günlük etkinlikleri have/has ile anlatabilirsin.",
+  "sections": [
+   {
+    "heading_tr": "Have mi, has mi?",
+    "explanation_tr": "I, you, we ve they ile have kullanılır. He, she ve it ile has kullanılır.",
+    "examples": [
+     {
+      "en": "I have a brother.",
+      "tr": "Bir erkek kardeşim var."
+     },
+     {
+      "en": "She has a cat.",
+      "tr": "Onun bir kedisi var."
+     }
+    ]
+   },
+   {
+    "heading_tr": "Neler için kullanılır?",
+    "explanation_tr": "Have/has; aile üyelerinden, evcil hayvanlardan ve eşyalardan söz ederken kullanılır. Ayrıca kahvaltı etmek veya duş almak gibi bazı günlük etkinlikleri anlatır.",
+    "examples": [
+     {
+      "en": "We have breakfast at eight.",
+      "tr": "Saat sekizde kahvaltı ederiz."
+     },
+     {
+      "en": "He has a shower in the morning.",
+      "tr": "Sabah duş alır."
+     }
+    ]
+   },
+   {
+    "heading_tr": "Olumsuz cümleler",
+    "explanation_tr": "Olumsuz cümlelerde I, you, we ve they ile don't; he, she ve it ile doesn't kullanılır. Don't veya doesn't sonrasında has değil, have gelir.",
+    "examples": [
+     {
+      "en": "I don't have a sister.",
+      "tr": "Bir kız kardeşim yok."
+     },
+     {
+      "en": "He doesn't have a dog.",
+      "tr": "Onun bir köpeği yok."
+     }
+    ]
+   }
+  ],
+  "key_patterns": [
+   {
+    "pattern": "I/you/we/they + have + a thing",
+    "example_en": "They have a car.",
+    "example_tr": "Onların bir arabası var."
+   },
+   {
+    "pattern": "He/she/it + has + a thing",
+    "example_en": "He has a book.",
+    "example_tr": "Onun bir kitabı var."
+   },
+   {
+    "pattern": "I/you/we/they + don't + have + a thing; he/she/it + doesn't + have + a thing",
+    "example_en": "She doesn't have a dog.",
+    "example_tr": "Onun bir köpeği yok."
+   }
+  ],
+  "turkish_speaker_tips_tr": [
+   "Türkçedeki “Bir kedim var” cümlesi İngilizcede “I have a cat” olur; have, öznenin ardından gelir.",
+   "Türkçede “o” kadın ya da erkek için kullanılabilir; İngilizcede kadın için she, erkek için he, eşya veya hayvan için çoğunlukla it kullanılır.",
+   "İngilizcede tekil sayılabilen isimlerin önünde çoğunlukla a/an gerekir: a cat, a book."
+  ],
+  "common_mistakes": [
+   {
+    "wrong": "He have a dog.",
+    "correct": "He has a dog.",
+    "note_tr": "He ile have değil, has kullanılır."
+   },
+   {
+    "wrong": "She doesn't has a cat.",
+    "correct": "She doesn't have a cat.",
+    "note_tr": "Doesn't kullanıldığında ardından have gelir."
+   },
+   {
+    "wrong": "I have cat.",
+    "correct": "I have a cat.",
+    "note_tr": "Tekil sayılabilen cat kelimesinden önce a gerekir."
+   }
+  ],
+  "mini_dialogue": [
+   {
+    "speaker": "Anna",
+    "en": "Hi, Ali.",
+    "tr": "Merhaba, Ali."
+   },
+   {
+    "speaker": "Ali",
+    "en": "Hi, Anna. Do you have a pet?",
+    "tr": "Merhaba, Anna. Evcil hayvanın var mı?"
+   },
+   {
+    "speaker": "Anna",
+    "en": "Yes, I have a cat.",
+    "tr": "Evet, bir kedim var."
+   },
+   {
+    "speaker": "Ali",
+    "en": "Do you have a brother?",
+    "tr": "Bir erkek kardeşin var mı?"
+   },
+   {
+    "speaker": "Anna",
+    "en": "Yes. He has a dog.",
+    "tr": "Evet. Onun bir köpeği var."
+   }
+  ]
+ },
+ "exercise_counts": {
+  "fill_blank": 6,
+  "multiple_choice": 4,
+  "match_pairs": 1,
+  "choose_correct_sentence": 3,
+  "build_sentence": 6,
+  "dictation": 2,
+  "type_translation": 2
+ },
+ "exercises": [
+  {
+   "id": "a1_gram_have_has_001",
+   "unit": "a1_unit_10_have_has",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "I ___ a brother.",
+   "sentence_tr": "Bir erkek kardeşim var.",
+   "options": [
+    "has",
+    "have",
+    "is",
+    "does"
+   ],
+   "answer": "have",
+   "explanation_tr": "I ile have kullanılır. Have, sahip olduğumuzu anlatır."
+  },
+  {
+   "id": "a1_gram_have_has_002",
+   "unit": "a1_unit_10_have_has",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "She ___ a cat.",
+   "sentence_tr": "Onun bir kedisi var.",
+   "options": [
+    "is",
+    "have",
+    "do",
+    "has"
+   ],
+   "answer": "has",
+   "explanation_tr": "She ile has kullanılır. He, she ve it öznelerinden sonra has gelir."
+  },
+  {
+   "id": "a1_gram_have_has_003",
+   "unit": "a1_unit_10_have_has",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "They ___ breakfast at home.",
+   "sentence_tr": "Onlar evde kahvaltı yapıyor.",
+   "options": [
+    "has",
+    "is",
+    "does",
+    "have"
+   ],
+   "answer": "have",
+   "explanation_tr": "They ile have kullanılır. İngilizcede kahvaltı yapmak için have breakfast denir."
+  },
+  {
+   "id": "a1_gram_have_has_004",
+   "unit": "a1_unit_10_have_has",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "He ___ a shower every day.",
+   "sentence_tr": "O her gün duş alır.",
+   "options": [
+    "is",
+    "has",
+    "do",
+    "have"
+   ],
+   "answer": "has",
+   "explanation_tr": "He ile has kullanılır. Duş almak için have a shower ifadesi kullanılır."
+  },
+  {
+   "id": "a1_gram_have_has_005",
+   "unit": "a1_unit_10_have_has",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "We ___ have a car.",
+   "sentence_tr": "Bizim arabamız yok.",
+   "options": [
+    "hasn't",
+    "doesn't",
+    "isn't",
+    "don't"
+   ],
+   "answer": "don't",
+   "explanation_tr": "We ile olumsuzluk yapmak için don't kullanılır. Don't sonrasında have yalın hâlde kalır."
+  },
+  {
+   "id": "a1_gram_have_has_006",
+   "unit": "a1_unit_10_have_has",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "Zeynep ___ have a brother.",
+   "sentence_tr": "Zeynep'in bir erkek kardeşi yok.",
+   "options": [
+    "isn't",
+    "doesn't",
+    "don't",
+    "hasn't"
+   ],
+   "answer": "doesn't",
+   "explanation_tr": "Zeynep tekil bir kişi olduğu için doesn't kullanılır. Doesn't sonrasında has değil, have gelir."
+  },
+  {
+   "id": "a1_gram_have_has_007",
+   "unit": "a1_unit_10_have_has",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "Tom has a black dog.",
+   "question_tr": "",
+   "sentence_en": "Tom has a black dog.",
+   "sentence_tr": "",
+   "options": [
+    "Tom'un siyah bir kedisi var.",
+    "Tom'un siyah bir köpeği var.",
+    "Tom'un beyaz bir köpeği var.",
+    "Tom'un siyah bir köpeği yok."
+   ],
+   "answer": "Tom'un siyah bir köpeği var.",
+   "explanation_tr": "Tom tekil bir kişi olduğu için has kullanılır. Cümlede siyah bir köpeğe sahip olduğu söyleniyor."
+  },
+  {
+   "id": "a1_gram_have_has_008",
+   "unit": "a1_unit_10_have_has",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "Ali and Ayse have a small apartment.",
+   "question_tr": "",
+   "sentence_en": "Ali and Ayse have a small apartment.",
+   "sentence_tr": "",
+   "options": [
+    "Ali ve Ayşe'nin büyük bir dairesi var.",
+    "Ali ve Ayşe'nin küçük bir evi var.",
+    "Ali ve Ayşe'nin küçük bir dairesi yok.",
+    "Ali ve Ayşe'nin küçük bir dairesi var."
+   ],
+   "answer": "Ali ve Ayşe'nin küçük bir dairesi var.",
+   "explanation_tr": "Ali and Ayse çoğul bir özne olduğu için have kullanılır. Cümlede küçük bir daireleri olduğu anlatılır."
+  },
+  {
+   "id": "a1_gram_have_has_009",
+   "unit": "a1_unit_10_have_has",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "",
+   "question_tr": "Emma'nın bir kız kardeşi var.",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Emma is a sister.",
+    "Emma has a sister.",
+    "Emma has sister.",
+    "Emma have a sister."
+   ],
+   "answer": "Emma has a sister.",
+   "explanation_tr": "Emma tekil bir isim olduğu için has kullanılır. Sister sözcüğünden önce a gelir."
+  },
+  {
+   "id": "a1_gram_have_has_010",
+   "unit": "a1_unit_10_have_has",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "",
+   "question_tr": "John'un arabası yok.",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "John doesn't have a car.",
+    "John don't have a car.",
+    "John doesn't has a car.",
+    "John isn't have a car."
+   ],
+   "answer": "John doesn't have a car.",
+   "explanation_tr": "John tekil olduğu için olumsuzlukta doesn't kullanılır. Doesn't sonrasında have yalın hâlde kullanılır."
+  },
+  {
+   "id": "a1_gram_have_has_011",
+   "unit": "a1_unit_10_have_has",
+   "type": "match_pairs",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Eşleştir.",
+   "pairs": [
+    {
+     "en": "have a sister",
+     "tr": "bir kız kardeşi olmak"
+    },
+    {
+     "en": "has a dog",
+     "tr": "bir köpeği olmak"
+    },
+    {
+     "en": "have breakfast",
+     "tr": "kahvaltı yapmak"
+    },
+    {
+     "en": "have a shower",
+     "tr": "duş almak"
+    },
+    {
+     "en": "don't have a car",
+     "tr": "arabası olmamak"
+    }
+   ],
+   "explanation_tr": "Have ve has sahip olmayı anlatır; bazı günlük etkinliklerde de have kullanılır. Olumsuzlukta don't have biçimi kullanılır."
+  },
+  {
+   "id": "a1_gram_have_has_012",
+   "unit": "a1_unit_10_have_has",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "Mark have a green bike.",
+    "Mark has a green bike.",
+    "Mark doesn't has a green bike."
+   ],
+   "answer": "Mark has a green bike.",
+   "explanation_tr": "Mark tekil olduğu için olumlu cümlede has kullanılır. Olumsuz cümlede doesn't sonrasında have gelirdi."
+  },
+  {
+   "id": "a1_gram_have_has_013",
+   "unit": "a1_unit_10_have_has",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "I have a red car.",
+   "word_bank": [
+    "dog",
+    "car",
+    "I",
+    "a",
+    "have",
+    "has",
+    "blue",
+    "red"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Kırmızı bir arabam var.",
+   "explanation_tr": "I ile have kullanılır. Have’den sonra sahip olunan şey gelir."
+  },
+  {
+   "id": "a1_gram_have_has_014",
+   "unit": "a1_unit_10_have_has",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "They have two cats.",
+   "word_bank": [
+    "has",
+    "a",
+    "dog",
+    "cats",
+    "have",
+    "two",
+    "They"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Onların iki kedisi var.",
+   "explanation_tr": "They ile have kullanılır. İki kedi için cats denir."
+  },
+  {
+   "id": "a1_gram_have_has_015",
+   "unit": "a1_unit_10_have_has",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "She has a new book.",
+   "word_bank": [
+    "a",
+    "has",
+    "car",
+    "old",
+    "book",
+    "new",
+    "have",
+    "She"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Onun yeni bir kitabı var. (kadın)",
+   "explanation_tr": "She ile has kullanılır. Tekil bir nesneden önce a gelir."
+  },
+  {
+   "id": "a1_gram_have_has_016",
+   "unit": "a1_unit_10_have_has",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "We don't have a television.",
+   "word_bank": [
+    "television",
+    "has",
+    "doesn't",
+    "have",
+    "car",
+    "a",
+    "We",
+    "don't"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Bizim televizyonumuz yok.",
+   "explanation_tr": "We ile olumsuzlukta don't have kullanılır. Don't’tan sonra have gelir."
+  },
+  {
+   "id": "a1_gram_have_has_017",
+   "unit": "a1_unit_10_have_has",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "He doesn't have a dog.",
+   "word_bank": [
+    "has",
+    "dog",
+    "don't",
+    "a",
+    "He",
+    "cat",
+    "have",
+    "doesn't"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Onun bir köpeği yok. (erkek)",
+   "explanation_tr": "He ile olumsuzlukta doesn't kullanılır. Doesn't’tan sonra has değil, have gelir."
+  },
+  {
+   "id": "a1_gram_have_has_018",
+   "unit": "a1_unit_10_have_has",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Anna and Ali have a small house.",
+   "word_bank": [
+    "and",
+    "house",
+    "have",
+    "has",
+    "Ali",
+    "big",
+    "car",
+    "small",
+    "Anna",
+    "a"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Anna ve Ali'nin küçük bir evi var.",
+   "explanation_tr": "Anna ve Ali birden fazla kişi olduğu için have kullanılır. Small house, küçük ev demektir."
+  },
+  {
+   "id": "a1_gram_have_has_019",
+   "unit": "a1_unit_10_have_has",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "He has brother.",
+    "He have a brother.",
+    "He has a brother."
+   ],
+   "answer": "He has a brother.",
+   "explanation_tr": "He ile has kullanılır. Brother tekil olduğu için önünde a bulunur."
+  },
+  {
+   "id": "a1_gram_have_has_020",
+   "unit": "a1_unit_10_have_has",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "She has blue bag.",
+    "She has a blue bag.",
+    "She have a blue bag."
+   ],
+   "answer": "She has a blue bag.",
+   "explanation_tr": "She ile has kullanılır. Tekil sayılabilen bag kelimesinden önce a gerekir."
+  },
+  {
+   "id": "a1_gram_have_has_021",
+   "unit": "a1_unit_10_have_has",
+   "type": "dictation",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Duyduğun cümleyi yaz.",
+   "answer": "I have a sister.",
+   "word_bank": [
+    "sister",
+    "I",
+    "two",
+    "a",
+    "has",
+    "have",
+    "brother"
+   ],
+   "accepted_answers": [],
+   "sentence_tr": "Bir kız kardeşim var.",
+   "audio_text": "I have a sister.",
+   "explanation_tr": "I öznesiyle have kullanılır. Sister, kız kardeş demektir."
+  },
+  {
+   "id": "a1_gram_have_has_022",
+   "unit": "a1_unit_10_have_has",
+   "type": "dictation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Duyduğun cümleyi yaz.",
+   "answer": "He doesn't have a bike.",
+   "word_bank": [
+    "bike",
+    "has",
+    "He",
+    "car",
+    "doesn't",
+    "have",
+    "a",
+    "don't"
+   ],
+   "accepted_answers": [],
+   "sentence_tr": "Onun bir bisikleti yok. (erkek)",
+   "audio_text": "He doesn't have a bike.",
+   "explanation_tr": "He ile olumsuzlukta doesn't have kullanılır. Olumsuz yardımcı fiilden sonra have gelir."
+  },
+  {
+   "id": "a1_gram_have_has_023",
+   "unit": "a1_unit_10_have_has",
+   "type": "type_translation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "İngilizceye çevir ve yaz.",
+   "prompt_tr": "Ailemin yeni bir evi var.",
+   "answer": "My family has a new house.",
+   "accepted_answers": [],
+   "explanation_tr": "Family tekil bir isim olarak kullanıldığı için has alır. Yeni bir ev için a new house denir."
+  },
+  {
+   "id": "a1_gram_have_has_024",
+   "unit": "a1_unit_10_have_has",
+   "type": "type_translation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "İngilizceye çevir ve yaz.",
+   "prompt_tr": "Onlar sabah kahvaltı yapar.",
+   "answer": "They have breakfast in the morning.",
+   "accepted_answers": [],
+   "explanation_tr": "They ile have kullanılır. İngilizcede kahvaltı yapmak için have breakfast denir."
+  }
+ ]
+}

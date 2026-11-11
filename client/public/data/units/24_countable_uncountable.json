@@ -1,0 +1,616 @@
+{
+ "unit_id": "a1_unit_24_countable_uncountable",
+ "slug": "countable_uncountable",
+ "order": 24,
+ "module": "m5",
+ "bonus_a1_plus": false,
+ "title_en": "Countable and uncountable nouns",
+ "title_tr": "Sayılabilir ve sayılamayan isimler",
+ "level": "A1",
+ "related_vocab_topics": [
+  "food_drink",
+  "shopping_money"
+ ],
+ "lesson": {
+  "goal_tr": "Bu dersin sonunda sayılabilen ve sayılamayan isimlerle a/an, some/any, a lot of, much/many ve How much/How many yapılarını kullanabilirsin.",
+  "sections": [
+   {
+    "heading_tr": "1. Sayılabilen isimler: a/an ve çoğul",
+    "explanation_tr": "Tekil sayılabilen bir isimden önce a veya an kullanılır: a banana, an apple. Seçim yazılışa değil, kelimenin ilk sesine göre yapılır; birden fazla şeyden söz ederken isme genellikle -s eklenir.",
+    "examples": [
+     {
+      "en": "I have an apple.",
+      "tr": "Bir elmam var."
+     },
+     {
+      "en": "I have two bananas.",
+      "tr": "İki muzum var."
+     }
+    ]
+   },
+   {
+    "heading_tr": "2. Sayılamayan isimler",
+    "explanation_tr": "Water, milk, rice, money, time ve information sayılamayan isimlerdir. Bunların önüne a/an getirmeyiz ve genellikle çoğul -s eki eklemeyiz. Olumlu cümlelerde some veya hem sayılabilen hem sayılamayan isimlerle kullanılabilen a lot of tercih edilebilir.",
+    "examples": [
+     {
+      "en": "I have some water.",
+      "tr": "Biraz suyum var."
+     },
+     {
+      "en": "There is a lot of rice.",
+      "tr": "Çok pirinç var."
+     }
+    ]
+   },
+   {
+    "heading_tr": "3. Sorular ve olumsuz cümleler",
+    "explanation_tr": "Sayılabilen çoğul isimlerle many, sayılamayan isimlerle much kullanılır; özellikle soru ve olumsuz cümlelerde yaygındırlar. How many sayılabilen isimleri, How much sayılamayan isimleri sormak için kullanılır. Sorularda ve olumsuz cümlelerde genellikle any, olumlu cümlelerde ise some kullanılır.",
+    "examples": [
+     {
+      "en": "How many books do you have?",
+      "tr": "Kaç kitabın var?"
+     },
+     {
+      "en": "How much time do you have?",
+      "tr": "Ne kadar zamanın var?"
+     },
+     {
+      "en": "I don't have much milk.",
+      "tr": "Çok sütüm yok."
+     }
+    ]
+   }
+  ],
+  "key_patterns": [
+   {
+    "pattern": "a/an + [tekil sayılabilen isim]",
+    "example_en": "I have an apple.",
+    "example_tr": "Bir elmam var."
+   },
+   {
+    "pattern": "some + [çoğul sayılabilen isim / sayılamayan isim]",
+    "example_en": "I have some apples. I have some water.",
+    "example_tr": "Birkaç elmam var. Biraz suyum var."
+   },
+   {
+    "pattern": "a lot of + [çoğul sayılabilen isim / sayılamayan isim]",
+    "example_en": "There are a lot of apples. There is a lot of milk.",
+    "example_tr": "Çok elma var. Çok süt var."
+   },
+   {
+    "pattern": "How many + [çoğul sayılabilen isim] / How much + [sayılamayan isim]",
+    "example_en": "How many eggs do you have? How much water do you have?",
+    "example_tr": "Kaç yumurtan var? Ne kadar suyun var?"
+   }
+  ],
+  "turkish_speaker_tips_tr": [
+   "Türkçede isimlerin önüne a/an gibi bir artikel gelmez; İngilizcede tekil sayılabilen bir isimle genellikle a veya an gerekir: an apple.",
+   "Türkçede “biraz su” deriz; İngilizcede water sayılamayan isim olduğu için “a water” değil, “some water” deriz.",
+   "İngilizcede soru yaparken kelime sırası değişir: How many apples do you have? Türkçedeki gibi fiili sona bırakmayız.",
+   "Much sayılamayan, many sayılabilen çoğul isimlerle kullanılır. Türkçedeki “ne kadar/ne kadar çok” ayrımını düşünmek yardımcı olabilir."
+  ],
+  "common_mistakes": [
+   {
+    "wrong": "I have a water.",
+    "correct": "I have some water.",
+    "note_tr": "Water sayılamaz; önüne a/an getirilmez."
+   },
+   {
+    "wrong": "How much apples do you have?",
+    "correct": "How many apples do you have?",
+    "note_tr": "Apples sayılabilen ve çoğul bir isimdir; bu yüzden many kullanılır."
+   },
+   {
+    "wrong": "I have an banana.",
+    "correct": "I have a banana.",
+    "note_tr": "Banana kelimesi sessiz bir sesle başladığı için a kullanılır."
+   }
+  ],
+  "mini_dialogue": [
+   {
+    "speaker": "Anna",
+    "en": "How many apples do you have?",
+    "tr": "Kaç elman var?"
+   },
+   {
+    "speaker": "Ali",
+    "en": "I have some apples.",
+    "tr": "Birkaç elmam var."
+   },
+   {
+    "speaker": "Anna",
+    "en": "How much water do you have?",
+    "tr": "Ne kadar suyun var?"
+   },
+   {
+    "speaker": "Ali",
+    "en": "I have a lot of water.",
+    "tr": "Çok suyum var."
+   }
+  ]
+ },
+ "exercise_counts": {
+  "fill_blank": 6,
+  "multiple_choice": 4,
+  "match_pairs": 1,
+  "choose_correct_sentence": 3,
+  "build_sentence": 6,
+  "dictation": 2,
+  "type_translation": 2
+ },
+ "exercises": [
+  {
+   "id": "a1_gram_countable_uncountable_001",
+   "unit": "a1_unit_24_countable_uncountable",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "I have ___ apple.",
+   "sentence_tr": "Bir elmam var.",
+   "options": [
+    "much",
+    "a",
+    "many",
+    "an"
+   ],
+   "answer": "an",
+   "explanation_tr": "Apple tekil ve sayılabilen bir isimdir; sesli harfle başladığı için önünde “an” kullanılır."
+  },
+  {
+   "id": "a1_gram_countable_uncountable_002",
+   "unit": "a1_unit_24_countable_uncountable",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "She has ___ banana.",
+   "sentence_tr": "Onun bir muzu var.",
+   "options": [
+    "a",
+    "an",
+    "many",
+    "much"
+   ],
+   "answer": "a",
+   "explanation_tr": "Banana tekil ve sayılabilen bir isimdir; önünde “a” kullanılır."
+  },
+  {
+   "id": "a1_gram_countable_uncountable_003",
+   "unit": "a1_unit_24_countable_uncountable",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "We have ___ rice.",
+   "sentence_tr": "Biraz pirincimiz var.",
+   "options": [
+    "some",
+    "a",
+    "an",
+    "many"
+   ],
+   "answer": "some",
+   "explanation_tr": "Rice sayılamayan bir isimdir; olumlu cümlede “some” kullanılabilir."
+  },
+  {
+   "id": "a1_gram_countable_uncountable_004",
+   "unit": "a1_unit_24_countable_uncountable",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "How ___ eggs do you have?",
+   "sentence_tr": "Kaç yumurtan var?",
+   "options": [
+    "some",
+    "a lot",
+    "much",
+    "many"
+   ],
+   "answer": "many",
+   "explanation_tr": "Eggs çoğul ve sayılabilen bir isimdir; miktar sormak için “How many” kullanılır."
+  },
+  {
+   "id": "a1_gram_countable_uncountable_005",
+   "unit": "a1_unit_24_countable_uncountable",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "How ___ water do you have?",
+   "sentence_tr": "Ne kadar suyun var?",
+   "options": [
+    "a lot",
+    "some",
+    "much",
+    "many"
+   ],
+   "answer": "much",
+   "explanation_tr": "Water sayılamayan bir isimdir; miktar sormak için “How much” kullanılır."
+  },
+  {
+   "id": "a1_gram_countable_uncountable_006",
+   "unit": "a1_unit_24_countable_uncountable",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "I have ___ money.",
+   "sentence_tr": "Çok param var.",
+   "options": [
+    "a lot of",
+    "a",
+    "many",
+    "an"
+   ],
+   "answer": "a lot of",
+   "explanation_tr": "Money sayılamayan bir isimdir; büyük bir miktarı anlatmak için “a lot of” kullanılır."
+  },
+  {
+   "id": "a1_gram_countable_uncountable_007",
+   "unit": "a1_unit_24_countable_uncountable",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "There is a lot of milk.",
+   "question_tr": "",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Çok fazla süt içiyorum.",
+    "Sütün içinde çok şey var.",
+    "Biraz süt istiyorum.",
+    "Çok süt var."
+   ],
+   "answer": "Çok süt var.",
+   "explanation_tr": "“A lot of milk” çok süt demektir; milk sayılamayan bir isimdir."
+  },
+  {
+   "id": "a1_gram_countable_uncountable_008",
+   "unit": "a1_unit_24_countable_uncountable",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "How many books do you have?",
+   "question_tr": "",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Kaç kitabın var?",
+    "Kitapların nerede?",
+    "Ne kadar kitabın var?",
+    "Kaç kitap istiyorsun?"
+   ],
+   "answer": "Kaç kitabın var?",
+   "explanation_tr": "Books sayılabilen ve çoğul bir isimdir; sayısını sormak için “How many” kullanılır."
+  },
+  {
+   "id": "a1_gram_countable_uncountable_009",
+   "unit": "a1_unit_24_countable_uncountable",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "",
+   "question_tr": "Biraz suyum var.",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "I have many water.",
+    "I have some water.",
+    "I have an water.",
+    "I have a water."
+   ],
+   "answer": "I have some water.",
+   "explanation_tr": "Water sayılamayan bir isim olduğu için “some water” denir; önüne “a” veya “an” getirilmez."
+  },
+  {
+   "id": "a1_gram_countable_uncountable_010",
+   "unit": "a1_unit_24_countable_uncountable",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "",
+   "question_tr": "Ne kadar zamanın var?",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "How much times do you have?",
+    "How many time do you have?",
+    "How many times do you have?",
+    "How much time do you have?"
+   ],
+   "answer": "How much time do you have?",
+   "explanation_tr": "Time bu anlamda sayılamayan bir isimdir; miktarını sormak için “How much time” kullanılır."
+  },
+  {
+   "id": "a1_gram_countable_uncountable_011",
+   "unit": "a1_unit_24_countable_uncountable",
+   "type": "match_pairs",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Eşleştir.",
+   "pairs": [
+    {
+     "en": "water",
+     "tr": "su"
+    },
+    {
+     "en": "milk",
+     "tr": "süt"
+    },
+    {
+     "en": "rice",
+     "tr": "pirinç"
+    },
+    {
+     "en": "money",
+     "tr": "para"
+    },
+    {
+     "en": "information",
+     "tr": "bilgi"
+    }
+   ],
+   "explanation_tr": "Bu kelimeler sayılamayan isimlerdir; İngilizcede önlerinde doğrudan “a” veya “an” kullanılmaz."
+  },
+  {
+   "id": "a1_gram_countable_uncountable_012",
+   "unit": "a1_unit_24_countable_uncountable",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "How many milk do you have?",
+    "There are a lot of milk.",
+    "There is a lot of milk."
+   ],
+   "answer": "There is a lot of milk.",
+   "explanation_tr": "Milk sayılamayan bir isimdir; “a lot of milk” ile tekil “There is” kullanılır. “How many” ise sayılabilen çoğul isimlerle kullanılır."
+  },
+  {
+   "id": "a1_gram_countable_uncountable_013",
+   "unit": "a1_unit_24_countable_uncountable",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "I have an apple.",
+   "word_bank": [
+    "rice",
+    "an",
+    "apple",
+    "a",
+    "I",
+    "some",
+    "have"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Bir elmam var.",
+   "explanation_tr": "Apple tekil ve sayılabilen bir isimdir; sesli sesle başladığı için önünde “an” kullanılır."
+  },
+  {
+   "id": "a1_gram_countable_uncountable_014",
+   "unit": "a1_unit_24_countable_uncountable",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "She has some rice.",
+   "word_bank": [
+    "an",
+    "has",
+    "She",
+    "rice",
+    "some",
+    "many",
+    "apples"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Biraz pirinci var.",
+   "explanation_tr": "Rice sayılamayan bir isimdir; olumlu cümlede “some” ile kullanılabilir."
+  },
+  {
+   "id": "a1_gram_countable_uncountable_015",
+   "unit": "a1_unit_24_countable_uncountable",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "There is some water.",
+   "word_bank": [
+    "eggs",
+    "any",
+    "There",
+    "is",
+    "are",
+    "some",
+    "water"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Biraz su var.",
+   "explanation_tr": "Water sayılamayan bir isimdir; “some water” denir. Bu isimle “there is” kullanılır."
+  },
+  {
+   "id": "a1_gram_countable_uncountable_016",
+   "unit": "a1_unit_24_countable_uncountable",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "How many eggs do you have?",
+   "word_bank": [
+    "much",
+    "eggs",
+    "is",
+    "milk",
+    "have",
+    "you",
+    "do",
+    "How",
+    "many"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Kaç yumurtan var?",
+   "explanation_tr": "Eggs çoğul ve sayılabilen bir isimdir; sayısını sormak için “How many” kullanılır."
+  },
+  {
+   "id": "a1_gram_countable_uncountable_017",
+   "unit": "a1_unit_24_countable_uncountable",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "How much water do they have?",
+   "word_bank": [
+    "much",
+    "have",
+    "water",
+    "eggs",
+    "many",
+    "is",
+    "do",
+    "they",
+    "How"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Ne kadar suları var?",
+   "explanation_tr": "Water sayılamayan bir isimdir; miktarını sormak için “How much” kullanılır."
+  },
+  {
+   "id": "a1_gram_countable_uncountable_018",
+   "unit": "a1_unit_24_countable_uncountable",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "There are a lot of apples.",
+   "word_bank": [
+    "apples",
+    "of",
+    "an",
+    "much",
+    "a",
+    "are",
+    "is",
+    "lot",
+    "There"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Çok elma var.",
+   "explanation_tr": "Apples çoğul ve sayılabilen bir isimdir; “a lot of” ile çok sayıda olduğunu anlatabiliriz."
+  },
+  {
+   "id": "a1_gram_countable_uncountable_019",
+   "unit": "a1_unit_24_countable_uncountable",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "There are any eggs.",
+    "There are some eggs.",
+    "There is some eggs."
+   ],
+   "answer": "There are some eggs.",
+   "explanation_tr": "Eggs çoğul bir isim olduğu için “there are” kullanılır. Olumlu cümlede “some” uygundur."
+  },
+  {
+   "id": "a1_gram_countable_uncountable_020",
+   "unit": "a1_unit_24_countable_uncountable",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "How many milk do you have?",
+    "How much eggs do you have?",
+    "How much milk do you have?"
+   ],
+   "answer": "How much milk do you have?",
+   "explanation_tr": "Milk sayılamayan, eggs ise sayılabilen çoğul bir isimdir. Bu nedenle milk ile “How much” kullanılır."
+  },
+  {
+   "id": "a1_gram_countable_uncountable_021",
+   "unit": "a1_unit_24_countable_uncountable",
+   "type": "dictation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Duyduğun cümleyi yaz.",
+   "answer": "I need some milk.",
+   "word_bank": [
+    "milk",
+    "a",
+    "need",
+    "many",
+    "I",
+    "eggs",
+    "some"
+   ],
+   "accepted_answers": [],
+   "sentence_tr": "Biraz süte ihtiyacım var.",
+   "audio_text": "I need some milk.",
+   "explanation_tr": "Milk sayılamayan bir isimdir; olumlu cümlede miktarı belirsizken “some” kullanılır."
+  },
+  {
+   "id": "a1_gram_countable_uncountable_022",
+   "unit": "a1_unit_24_countable_uncountable",
+   "type": "dictation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Duyduğun cümleyi yaz.",
+   "answer": "We have a lot of time.",
+   "word_bank": [
+    "water",
+    "a",
+    "We",
+    "time",
+    "lot",
+    "an",
+    "of",
+    "many",
+    "have"
+   ],
+   "accepted_answers": [],
+   "sentence_tr": "Çok zamanımız var.",
+   "audio_text": "We have a lot of time.",
+   "explanation_tr": "Time sayılamayan bir isimdir; çok miktarını anlatmak için “a lot of” kullanılır."
+  },
+  {
+   "id": "a1_gram_countable_uncountable_023",
+   "unit": "a1_unit_24_countable_uncountable",
+   "type": "type_translation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "İngilizceye çevir ve yaz.",
+   "prompt_tr": "Ne kadar bilgin var?",
+   "answer": "How much information do you have?",
+   "accepted_answers": [
+    "How much information have you got?"
+   ],
+   "explanation_tr": "Information sayılamayan bir isimdir; miktarını sorarken “How much” kullanılır."
+  },
+  {
+   "id": "a1_gram_countable_uncountable_024",
+   "unit": "a1_unit_24_countable_uncountable",
+   "type": "type_translation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "İngilizceye çevir ve yaz.",
+   "prompt_tr": "Ne kadar paran var?",
+   "answer": "How much money do you have?",
+   "accepted_answers": [
+    "How much money have you got?"
+   ],
+   "explanation_tr": "Money sayılamayan bir isimdir; bu yüzden miktarını sormak için “How much” kullanılır."
+  }
+ ]
+}

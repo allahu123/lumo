@@ -1,0 +1,614 @@
+{
+ "unit_id": "a1_unit_04_pronouns_possessives",
+ "slug": "pronouns_possessives",
+ "order": 4,
+ "module": "m1",
+ "bonus_a1_plus": false,
+ "title_en": "Subject pronouns and possessive adjectives",
+ "title_tr": "Özne zamirleri ve iyelik sıfatları",
+ "level": "A1",
+ "related_vocab_topics": [
+  "pronouns_grammar",
+  "family_people"
+ ],
+ "lesson": {
+  "goal_tr": "Bu dersin sonunda kişi ve eşyalar için doğru özne zamirini ve iyelik sıfatını seçebilirsin.",
+  "sections": [
+   {
+    "heading_tr": "Özne zamirleri",
+    "explanation_tr": "I (ben), you (sen/siz), he (erkek için o), she (kadın için o), it (eşya veya hayvan için o), we (biz) ve they (onlar) cümlede özne olarak kullanılır. Özne genellikle fiilden önce gelir: I read.",
+    "examples": [
+     {
+      "en": "She is happy.",
+      "tr": "O mutlu."
+     },
+     {
+      "en": "They are here.",
+      "tr": "Onlar burada."
+     }
+    ]
+   },
+   {
+    "heading_tr": "İyelik sıfatları",
+    "explanation_tr": "Eşleşmeler şöyledir: I–my, you–your, he–his, she–her, it–its, we–our, they–their. İyelik sıfatı, sahip olunan isimden önce gelir.",
+    "examples": [
+     {
+      "en": "My name is Ali.",
+      "tr": "Benim adım Ali."
+     },
+     {
+      "en": "Her sister is here.",
+      "tr": "Onun kız kardeşi burada."
+     }
+    ]
+   },
+   {
+    "heading_tr": "Doğru biçimi seçme ve yazım",
+    "explanation_tr": "Özne zamirini kişi ya da şeye göre, iyelik sıfatını ise sahip olan kişiye göre seç. Aynı iyelik sıfatı tekil ve çoğul isimlerle kullanılabilir: his book, his books. Its iyelik bildirir; it’s ise it is kısaltmasıdır.",
+    "examples": [
+     {
+      "en": "He is my brother.",
+      "tr": "O benim erkek kardeşim."
+     },
+     {
+      "en": "Its name is Tom.",
+      "tr": "Onun adı Tom."
+     }
+    ]
+   }
+  ],
+  "key_patterns": [
+   {
+    "pattern": "Özne zamiri + be fiili + isim",
+    "example_en": "She is my sister.",
+    "example_tr": "O benim kız kardeşim."
+   },
+   {
+    "pattern": "İyelik sıfatı + isim",
+    "example_en": "Their house is big.",
+    "example_tr": "Onların evi büyük."
+   },
+   {
+    "pattern": "Özne zamiri + be fiili + iyelik sıfatı + isim",
+    "example_en": "He is our friend.",
+    "example_tr": "O bizim arkadaşımız."
+   }
+  ],
+  "turkish_speaker_tips_tr": [
+   "Türkçedeki “o” kadın, erkek ve eşyalar için kullanılabilir; İngilizcede insanlar için genellikle he veya she, eşyalar için it kullanılır.",
+   "Türkçede iyelik çoğu zaman ismin sonuna eklenir; İngilizcede my, your, his gibi kelimeler isimden önce gelir.",
+   "Türkçede özne sık sık söylenmeden bırakılabilir. İngilizcede ise özneyi genellikle açıkça kullanırız: I read."
+  ],
+  "common_mistakes": [
+   {
+    "wrong": "He is my sister.",
+    "correct": "She is my sister.",
+    "note_tr": "Kız kardeş için she kullanılır; Türkçedeki “o” İngilizcedeki bu ayrımı göstermez."
+   },
+   {
+    "wrong": "I name is Ali.",
+    "correct": "My name is Ali.",
+    "note_tr": "İsimden önce özne zamiri I değil, iyelik sıfatı my kullanılır."
+   },
+   {
+    "wrong": "She is he sister.",
+    "correct": "She is his sister.",
+    "note_tr": "Bir erkeğe ait olan şeyi belirtirken he değil, his kullanılır."
+   }
+  ],
+  "mini_dialogue": [
+   {
+    "speaker": "Anna",
+    "en": "Is this your book?",
+    "tr": "Bu senin kitabın mı?"
+   },
+   {
+    "speaker": "Ali",
+    "en": "Yes. It is my book.",
+    "tr": "Evet. O benim kitabım."
+   },
+   {
+    "speaker": "Anna",
+    "en": "Is your sister here?",
+    "tr": "Kız kardeşin burada mı?"
+   },
+   {
+    "speaker": "Ali",
+    "en": "Yes. She is here. Her name is Sara.",
+    "tr": "Evet. O burada. Onun adı Sara."
+   },
+   {
+    "speaker": "Anna",
+    "en": "Is Tom your brother?",
+    "tr": "Tom senin erkek kardeşin mi?"
+   },
+   {
+    "speaker": "Ali",
+    "en": "No. He is my friend. His name is Tom.",
+    "tr": "Hayır. O benim arkadaşım. Onun adı Tom."
+   }
+  ]
+ },
+ "exercise_counts": {
+  "fill_blank": 6,
+  "multiple_choice": 4,
+  "match_pairs": 1,
+  "choose_correct_sentence": 3,
+  "build_sentence": 6,
+  "dictation": 2,
+  "type_translation": 2
+ },
+ "exercises": [
+  {
+   "id": "a1_gram_pronouns_possessives_001",
+   "unit": "a1_unit_04_pronouns_possessives",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "___ am a student.",
+   "sentence_tr": "Ben bir öğrenciyim.",
+   "options": [
+    "They",
+    "He",
+    "She",
+    "I"
+   ],
+   "answer": "I",
+   "explanation_tr": "“I” özne zamiri “ben” demektir. “Am” fiili “I” ile kullanılır."
+  },
+  {
+   "id": "a1_gram_pronouns_possessives_002",
+   "unit": "a1_unit_04_pronouns_possessives",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "I have a book. It is ___ book.",
+   "sentence_tr": "Bir kitabım var. O benim kitabım.",
+   "options": [
+    "his",
+    "their",
+    "my",
+    "your"
+   ],
+   "answer": "my",
+   "explanation_tr": "Kitap konuşana ait olduğu için “my” kullanılır. “My” isimden önce gelen iyelik sıfatıdır."
+  },
+  {
+   "id": "a1_gram_pronouns_possessives_003",
+   "unit": "a1_unit_04_pronouns_possessives",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "Anna is my sister. ___ is nice.",
+   "sentence_tr": "Anna benim kız kardeşim. O iyi biridir.",
+   "options": [
+    "They",
+    "It",
+    "He",
+    "She"
+   ],
+   "answer": "She",
+   "explanation_tr": "Anna bir kadın olduğu için özne zamiri olarak “she” kullanılır. İngilizcede kadınlar için “she”, erkekler için “he” kullanılır."
+  },
+  {
+   "id": "a1_gram_pronouns_possessives_004",
+   "unit": "a1_unit_04_pronouns_possessives",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "Tom has a dog. ___ dog is brown.",
+   "sentence_tr": "Tom'un bir köpeği var. Onun köpeği kahverengi.",
+   "options": [
+    "Their",
+    "Its",
+    "Her",
+    "His"
+   ],
+   "answer": "His",
+   "explanation_tr": "Köpek Tom'a ait olduğu için “his” kullanılır. İyelik sıfatı olan “his”, isimden önce gelir."
+  },
+  {
+   "id": "a1_gram_pronouns_possessives_005",
+   "unit": "a1_unit_04_pronouns_possessives",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "We love ___ mother.",
+   "sentence_tr": "Annemizi seviyoruz.",
+   "options": [
+    "their",
+    "our",
+    "your",
+    "his"
+   ],
+   "answer": "our",
+   "explanation_tr": "“We” öznesinin iyelik sıfatı “our”dur. “Our mother” burada “annemiz” demektir."
+  },
+  {
+   "id": "a1_gram_pronouns_possessives_006",
+   "unit": "a1_unit_04_pronouns_possessives",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "This is Ali and Ayse. ___ are friends.",
+   "sentence_tr": "Bunlar Ali ve Ayşe. Onlar arkadaş.",
+   "options": [
+    "She",
+    "They",
+    "He",
+    "We"
+   ],
+   "answer": "They",
+   "explanation_tr": "Ali ve Ayşe iki kişi olduğu için çoğul özne zamiri “they” kullanılır. “They” Türkçede “onlar” demektir."
+  },
+  {
+   "id": "a1_gram_pronouns_possessives_007",
+   "unit": "a1_unit_04_pronouns_possessives",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "I see him.",
+   "question_tr": "",
+   "sentence_en": "I see him.",
+   "sentence_tr": "",
+   "options": [
+    "Onu görüyorum.",
+    "Onlar onu görüyor.",
+    "O beni görüyor.",
+    "Onu görmüyorum."
+   ],
+   "answer": "Onu görüyorum.",
+   "explanation_tr": "“I” öznesi “ben”, nesne zamiri “him” ise “onu” demektir. Cümlenin anlamı “Onu görüyorum”dur."
+  },
+  {
+   "id": "a1_gram_pronouns_possessives_008",
+   "unit": "a1_unit_04_pronouns_possessives",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "We love our family.",
+   "question_tr": "",
+   "sentence_en": "We love our family.",
+   "sentence_tr": "",
+   "options": [
+    "Ailemi seviyorum.",
+    "Ailelerini seviyorlar.",
+    "Ailemizi seviyoruz.",
+    "Ailenizi seviyorsunuz."
+   ],
+   "answer": "Ailemizi seviyoruz.",
+   "explanation_tr": "“We” “biz”, “our” ise “bizim” anlamı verir. Bu nedenle cümlenin çevirisi “Ailemizi seviyoruz” olur."
+  },
+  {
+   "id": "a1_gram_pronouns_possessives_009",
+   "unit": "a1_unit_04_pronouns_possessives",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "",
+   "question_tr": "O (erkek) benim kardeşim.",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "It is my brother.",
+    "He is his brother.",
+    "He is my brother.",
+    "She is my brother."
+   ],
+   "answer": "He is my brother.",
+   "explanation_tr": "Erkek bir kişi için özne zamiri “he” kullanılır. “My brother” da “erkek kardeşim” demektir."
+  },
+  {
+   "id": "a1_gram_pronouns_possessives_010",
+   "unit": "a1_unit_04_pronouns_possessives",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "",
+   "question_tr": "Onlarla gel.",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Come with they.",
+    "Come with us.",
+    "Come with them.",
+    "Come to them."
+   ],
+   "answer": "Come with them.",
+   "explanation_tr": "“With” edatından sonra nesne zamiri “them” kullanılır; “they” özne zamiridir. “Come with them” “Onlarla gel” demektir."
+  },
+  {
+   "id": "a1_gram_pronouns_possessives_011",
+   "unit": "a1_unit_04_pronouns_possessives",
+   "type": "match_pairs",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Eşleştir.",
+   "pairs": [
+    {
+     "en": "I",
+     "tr": "ben"
+    },
+    {
+     "en": "she",
+     "tr": "o (kadın)"
+    },
+    {
+     "en": "it",
+     "tr": "o (eşya veya hayvan)"
+    },
+    {
+     "en": "our",
+     "tr": "bizim"
+    },
+    {
+     "en": "their",
+     "tr": "onların"
+    }
+   ],
+   "explanation_tr": "Özne zamirleri kişiyi veya şeyi özne olarak belirtir; iyelik sıfatları ise sahiplik bildirir. İngilizcede “she” ve “it” Türkçedeki “o” zamirinin farklı kullanımlarını karşılar."
+  },
+  {
+   "id": "a1_gram_pronouns_possessives_012",
+   "unit": "a1_unit_04_pronouns_possessives",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "Give it to he.",
+    "Give it to me.",
+    "Give it to I."
+   ],
+   "answer": "Give it to me.",
+   "explanation_tr": "“To” edatından sonra nesne zamiri “me” kullanılır. “I” ve “he” özne zamirleridir; bu cümlede doğru biçimler değildir."
+  },
+  {
+   "id": "a1_gram_pronouns_possessives_013",
+   "unit": "a1_unit_04_pronouns_possessives",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "This is my bag.",
+   "word_bank": [
+    "bag",
+    "my",
+    "This",
+    "is",
+    "your",
+    "his",
+    "our"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Bu benim çantam.",
+   "explanation_tr": "“Benim” için iyelik sıfatı “my” kullanılır. “This is” ile “Bu …” anlamı verilir."
+  },
+  {
+   "id": "a1_gram_pronouns_possessives_014",
+   "unit": "a1_unit_04_pronouns_possessives",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Anna likes his small dog.",
+   "word_bank": [
+    "his",
+    "Anna",
+    "likes",
+    "my",
+    "small",
+    "our",
+    "dog",
+    "they"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Anna onun (erkek) küçük köpeğini seviyor.",
+   "explanation_tr": "Bir isimden önce gelen “onun” iyelik sıfatı burada “his” olur. “Likes” fiili “Anna” ile uyumludur."
+  },
+  {
+   "id": "a1_gram_pronouns_possessives_015",
+   "unit": "a1_unit_04_pronouns_possessives",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "We see them at school.",
+   "word_bank": [
+    "see",
+    "them",
+    "at",
+    "school",
+    "We",
+    "your",
+    "her",
+    "him"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Biz onları okulda görüyoruz.",
+   "explanation_tr": "“Biz” özne zamiri “we”, “onları” nesne zamiri “them” olur."
+  },
+  {
+   "id": "a1_gram_pronouns_possessives_016",
+   "unit": "a1_unit_04_pronouns_possessives",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Come with us today.",
+   "word_bank": [
+    "him",
+    "us",
+    "Come",
+    "with",
+    "their",
+    "them",
+    "today"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Bugün bizimle gel.",
+   "explanation_tr": "“With” edatından sonra özne zamiri değil, nesne zamiri “us” kullanılır."
+  },
+  {
+   "id": "a1_gram_pronouns_possessives_017",
+   "unit": "a1_unit_04_pronouns_possessives",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "They give it to me.",
+   "word_bank": [
+    "she",
+    "give",
+    "to",
+    "They",
+    "it",
+    "me",
+    "him"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Onlar onu bana veriyor.",
+   "explanation_tr": "Cümlenin öznesi “they” olur. “To” edatından sonra nesne zamiri “me” kullanılır."
+  },
+  {
+   "id": "a1_gram_pronouns_possessives_018",
+   "unit": "a1_unit_04_pronouns_possessives",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Their house is near our school.",
+   "word_bank": [
+    "they",
+    "school",
+    "house",
+    "her",
+    "our",
+    "near",
+    "his",
+    "is",
+    "Their"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Onların evi bizim okulumuzun yakınında.",
+   "explanation_tr": "“Onların” için “their”, “bizim” için “our” kullanılır; bu iyelik sıfatları isimlerden önce gelir."
+  },
+  {
+   "id": "a1_gram_pronouns_possessives_019",
+   "unit": "a1_unit_04_pronouns_possessives",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "I see her with Tom.",
+    "I see she with Tom.",
+    "Me see her with Tom."
+   ],
+   "answer": "I see her with Tom.",
+   "explanation_tr": "“See” fiilinden sonra nesne zamiri “her” gelir. “She” özne zamiridir ve burada kullanılamaz."
+  },
+  {
+   "id": "a1_gram_pronouns_possessives_020",
+   "unit": "a1_unit_04_pronouns_possessives",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "This is their room.",
+    "These is their room.",
+    "This is them room."
+   ],
+   "answer": "This is their room.",
+   "explanation_tr": "Bir isimden önce “onların” anlamında iyelik sıfatı “their” kullanılır; “them” nesne zamiridir."
+  },
+  {
+   "id": "a1_gram_pronouns_possessives_021",
+   "unit": "a1_unit_04_pronouns_possessives",
+   "type": "dictation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Duyduğun cümleyi yaz.",
+   "answer": "Give it to her, please.",
+   "word_bank": [
+    "our",
+    "it",
+    "her",
+    "to",
+    "they",
+    "him",
+    "Give",
+    "please"
+   ],
+   "accepted_answers": [],
+   "sentence_tr": "Lütfen onu ona ver.",
+   "audio_text": "Give it to her, please.",
+   "explanation_tr": "“To” edatından sonra nesne zamiri “her” kullanılır. “It” verilen şeyi belirtir."
+  },
+  {
+   "id": "a1_gram_pronouns_possessives_022",
+   "unit": "a1_unit_04_pronouns_possessives",
+   "type": "dictation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Duyduğun cümleyi yaz.",
+   "answer": "They are with us today.",
+   "word_bank": [
+    "them",
+    "They",
+    "are",
+    "she",
+    "with",
+    "us",
+    "their",
+    "today"
+   ],
+   "accepted_answers": [],
+   "sentence_tr": "Bugün bizimle birlikteler.",
+   "audio_text": "They are with us today.",
+   "explanation_tr": "Cümlenin öznesi “they”, “with” sonrasında kullanılan nesne zamiri ise “us” olur."
+  },
+  {
+   "id": "a1_gram_pronouns_possessives_023",
+   "unit": "a1_unit_04_pronouns_possessives",
+   "type": "type_translation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "İngilizceye çevir ve yaz.",
+   "prompt_tr": "Anna'nın çantası mavi.",
+   "answer": "Her bag is blue.",
+   "accepted_answers": [
+    "Anna's bag is blue."
+   ],
+   "explanation_tr": "Anna için “her” iyelik sıfatı kullanılır ve isimden önce gelir: “her bag”."
+  },
+  {
+   "id": "a1_gram_pronouns_possessives_024",
+   "unit": "a1_unit_04_pronouns_possessives",
+   "type": "type_translation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "İngilizceye çevir ve yaz.",
+   "prompt_tr": "Onların evi bizim okulumuzun yakınında.",
+   "answer": "Their house is near our school.",
+   "accepted_answers": [
+    "Their home is near our school."
+   ],
+   "explanation_tr": "“Onların” ve “bizim” anlamlarını isimlerden önce gelen “their” ve “our” iyelik sıfatları verir."
+  }
+ ]
+}

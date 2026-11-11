@@ -1,0 +1,623 @@
+{
+ "unit_id": "a1_unit_32_past_simple",
+ "slug": "past_simple",
+ "order": 32,
+ "module": "m8",
+ "bonus_a1_plus": true,
+ "title_en": "Past simple (bonus A1+)",
+ "title_tr": "Geçmiş zaman (bonus A1+)",
+ "level": "A1",
+ "related_vocab_topics": [
+  "daily_verbs"
+ ],
+ "lesson": {
+  "goal_tr": "Bu dersin sonunda geçmişte yaptıklarınızı ve yapmadıklarınızı anlatabilir, basit geçmiş zaman soruları sorabilirsiniz.",
+  "sections": [
+   {
+    "heading_tr": "Olumlu cümleler",
+    "explanation_tr": "Geçmişte başlayıp bitmiş işler için geçmiş zaman kullanırız. Düzenli fiillere genellikle -ed eklenir: play → played. go → went gibi sık kullanılan düzensiz fiillerin biçimlerini öğrenmek gerekir.",
+    "examples": [
+     {
+      "en": "I played football yesterday.",
+      "tr": "Dün futbol oynadım."
+     },
+     {
+      "en": "We went to London last year.",
+      "tr": "Geçen yıl Londra'ya gittik."
+     }
+    ]
+   },
+   {
+    "heading_tr": "Olumsuz ve soru cümleleri",
+    "explanation_tr": "Olumsuz cümlede didn't, soruda Did kullanılır; ardından fiilin yalın hâli gelir. Did veya didn't kullanıldığında ana fiile -ed eklemeyiz ve düzensiz geçmiş biçimini de kullanmayız.",
+    "examples": [
+     {
+      "en": "I didn't eat breakfast.",
+      "tr": "Kahvaltı yapmadım."
+     },
+     {
+      "en": "Did you see Anna?",
+      "tr": "Anna'yı gördün mü?"
+     }
+    ]
+   },
+   {
+    "heading_tr": "Zaman ifadeleri ve yazım",
+    "explanation_tr": "yesterday “dün”, last “geçen” anlamında kullanılır; ago ise süre ifadesinden sonra gelir. Düzenli fiillerde çoğunlukla -ed eklenir; fiil zaten e ile bitiyorsa yalnızca -d eklenir: visit → visited, live → lived.",
+    "examples": [
+     {
+      "en": "She visited her aunt two days ago.",
+      "tr": "İki gün önce teyzesini ziyaret etti."
+     },
+     {
+      "en": "He watched TV last night.",
+      "tr": "Dün gece televizyon izledi."
+     }
+    ]
+   }
+  ],
+  "key_patterns": [
+   {
+    "pattern": "Özne + fiilin geçmiş hâli",
+    "example_en": "I watched TV yesterday.",
+    "example_tr": "Dün televizyon izledim."
+   },
+   {
+    "pattern": "Özne + didn't + fiilin yalın hâli",
+    "example_en": "We didn't go home.",
+    "example_tr": "Eve gitmedik."
+   },
+   {
+    "pattern": "Did + özne + fiilin yalın hâli?",
+    "example_en": "Did you buy a book?",
+    "example_tr": "Bir kitap aldın mı?"
+   },
+   {
+    "pattern": "Özne + geçmiş zaman fiili + süre + ago",
+    "example_en": "I came here two days ago.",
+    "example_tr": "İki gün önce buraya geldim."
+   }
+  ],
+  "turkish_speaker_tips_tr": [
+   "Türkçede geçmiş zaman eki fiile gelir; İngilizcede olumsuz ve sorularda did veya didn't kullanılır.",
+   "Did ve didn't varsa ana fiili yalın kullanın: “Did you go?”, “I didn't go.”",
+   "İngilizcede özneyi genellikle yazmak gerekir: “Went home” değil, “I went home.”",
+   "İngilizce cümlede fiil genellikle özneden sonra gelir: “I watched TV.” Türkçede fiil çoğunlukla cümlenin sonundadır."
+  ],
+  "common_mistakes": [
+   {
+    "wrong": "I didn't went home.",
+    "correct": "I didn't go home.",
+    "note_tr": "Didn't sonrasında fiilin yalın hâli kullanılır."
+   },
+   {
+    "wrong": "Did you played football?",
+    "correct": "Did you play football?",
+    "note_tr": "Did sorusunda ana fiile -ed eklenmez."
+   },
+   {
+    "wrong": "I go to London yesterday.",
+    "correct": "I went to London yesterday.",
+    "note_tr": "Geçmiş zaman gereken bu cümlede go fiilinin geçmiş hâli went olur."
+   }
+  ],
+  "mini_dialogue": [
+   {
+    "speaker": "Anna",
+    "en": "Did you go to the park yesterday?",
+    "tr": "Dün parka gittin mi?"
+   },
+   {
+    "speaker": "Ali",
+    "en": "Yes, I went with my sister.",
+    "tr": "Evet, kız kardeşimle gittim."
+   },
+   {
+    "speaker": "Anna",
+    "en": "What did you do?",
+    "tr": "Ne yaptın?"
+   },
+   {
+    "speaker": "Ali",
+    "en": "We played football and ate pizza.",
+    "tr": "Futbol oynadık ve pizza yedik."
+   },
+   {
+    "speaker": "Anna",
+    "en": "Did you see Tom?",
+    "tr": "Tom'u gördün mü?"
+   },
+   {
+    "speaker": "Ali",
+    "en": "No, I didn't see him.",
+    "tr": "Hayır, onu görmedim."
+   }
+  ]
+ },
+ "exercise_counts": {
+  "fill_blank": 6,
+  "multiple_choice": 4,
+  "match_pairs": 1,
+  "choose_correct_sentence": 3,
+  "build_sentence": 6,
+  "dictation": 2,
+  "type_translation": 2
+ },
+ "exercises": [
+  {
+   "id": "a1_gram_past_simple_001",
+   "unit": "a1_unit_32_past_simple",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "I ___ tennis yesterday.",
+   "sentence_tr": "Dün tenis oynadım.",
+   "options": [
+    "playing",
+    "plays",
+    "play",
+    "played"
+   ],
+   "answer": "played",
+   "explanation_tr": "Dün yapılan eylemler için fiilin geçmiş hâli kullanılır. “Play” fiilinin geçmiş hâli “played” olur."
+  },
+  {
+   "id": "a1_gram_past_simple_002",
+   "unit": "a1_unit_32_past_simple",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "She ___ TV last night.",
+   "sentence_tr": "Dün gece televizyon izledi.",
+   "options": [
+    "watches",
+    "watch",
+    "watched",
+    "watching"
+   ],
+   "answer": "watched",
+   "explanation_tr": "“Last night” geçmiş zamanı belirtir. Düzenli “watch” fiiline “-ed” eklenir."
+  },
+  {
+   "id": "a1_gram_past_simple_003",
+   "unit": "a1_unit_32_past_simple",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "We didn't ___ home yesterday.",
+   "sentence_tr": "Dün eve gitmedik.",
+   "options": [
+    "goes",
+    "went",
+    "going",
+    "go"
+   ],
+   "answer": "go",
+   "explanation_tr": "Olumsuz geçmiş zamanda “didn't” sonrasında fiilin yalın hâli kullanılır. Bu yüzden “go” doğrudur."
+  },
+  {
+   "id": "a1_gram_past_simple_004",
+   "unit": "a1_unit_32_past_simple",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "Did you ___ a book?",
+   "sentence_tr": "Bir kitap aldın mı?",
+   "options": [
+    "buying",
+    "buy",
+    "bought",
+    "buys"
+   ],
+   "answer": "buy",
+   "explanation_tr": "“Did” ile başlayan sorularda fiil yalın hâlde kalır. “Buy” fiilinin geçmiş hâli burada kullanılmaz."
+  },
+  {
+   "id": "a1_gram_past_simple_005",
+   "unit": "a1_unit_32_past_simple",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "Ali ___ to Ankara two days ago.",
+   "sentence_tr": "Ali iki gün önce Ankara'ya geldi.",
+   "options": [
+    "came",
+    "coming",
+    "come",
+    "comes"
+   ],
+   "answer": "came",
+   "explanation_tr": "“Two days ago” geçmiş zamanı belirtir. “Come” fiilinin geçmiş hâli “came”dir."
+  },
+  {
+   "id": "a1_gram_past_simple_006",
+   "unit": "a1_unit_32_past_simple",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "They ___ dinner yesterday.",
+   "sentence_tr": "Dün akşam yemeğini hazırladılar.",
+   "options": [
+    "makes",
+    "making",
+    "made",
+    "make"
+   ],
+   "answer": "made",
+   "explanation_tr": "Geçmişte tamamlanan eylem için geçmiş zaman kullanılır. “Make” fiilinin geçmiş hâli “made”dir."
+  },
+  {
+   "id": "a1_gram_past_simple_007",
+   "unit": "a1_unit_32_past_simple",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "I saw a bird yesterday.",
+   "question_tr": "",
+   "sentence_en": "I saw a bird yesterday.",
+   "sentence_tr": "",
+   "options": [
+    "Dün bir kuş aldım.",
+    "Dün bir kuş yedim.",
+    "Dün bir kuş gördüm.",
+    "Yarın bir kuş göreceğim."
+   ],
+   "answer": "Dün bir kuş gördüm.",
+   "explanation_tr": "“Saw”, “see” fiilinin geçmiş hâlidir ve “gördüm” anlamına gelir. “Yesterday” ise “dün” demektir."
+  },
+  {
+   "id": "a1_gram_past_simple_008",
+   "unit": "a1_unit_32_past_simple",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "We didn't go home last night.",
+   "question_tr": "",
+   "sentence_en": "We didn't go home last night.",
+   "sentence_tr": "",
+   "options": [
+    "Dün gece eve gittik.",
+    "Dün gece eve gelmedik.",
+    "Bu gece eve gitmiyoruz.",
+    "Dün gece eve gitmedik."
+   ],
+   "answer": "Dün gece eve gitmedik.",
+   "explanation_tr": "“Didn't go” geçmiş zamanda olumsuzluk bildirir. “Last night” geçmişteki “dün gece” anlamındadır."
+  },
+  {
+   "id": "a1_gram_past_simple_009",
+   "unit": "a1_unit_32_past_simple",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "",
+   "question_tr": "Mehmet dün bir elma yedi.",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Mehmet eat an apple yesterday.",
+    "Mehmet ate an apple tomorrow.",
+    "Mehmet did ate an apple yesterday.",
+    "Mehmet ate an apple yesterday."
+   ],
+   "answer": "Mehmet ate an apple yesterday.",
+   "explanation_tr": "“Eat” fiilinin geçmiş hâli “ate”dir. “Yesterday” ile geçmişteki eylem anlatılır."
+  },
+  {
+   "id": "a1_gram_past_simple_010",
+   "unit": "a1_unit_32_past_simple",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "",
+   "question_tr": "Geçen hafta müzeyi ziyaret ettik.",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "We did visited the museum last week.",
+    "We visited the museum next week.",
+    "We visited the museum last week.",
+    "We visit the museum last week."
+   ],
+   "answer": "We visited the museum last week.",
+   "explanation_tr": "“Visit” düzenli bir fiildir; geçmiş hâli “visited” olur. “Last week” geçmiş zamana işaret eder."
+  },
+  {
+   "id": "a1_gram_past_simple_011",
+   "unit": "a1_unit_32_past_simple",
+   "type": "match_pairs",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Eşleştir.",
+   "pairs": [
+    {
+     "en": "played",
+     "tr": "oynadı"
+    },
+    {
+     "en": "went",
+     "tr": "gitti"
+    },
+    {
+     "en": "bought",
+     "tr": "satın aldı"
+    },
+    {
+     "en": "saw",
+     "tr": "gördü"
+    },
+    {
+     "en": "wrote",
+     "tr": "yazdı"
+    }
+   ],
+   "explanation_tr": "Bu sözcükler sırasıyla “play”, “go”, “buy”, “see” ve “write” fiillerinin geçmiş hâlleridir."
+  },
+  {
+   "id": "a1_gram_past_simple_012",
+   "unit": "a1_unit_32_past_simple",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "I didn't watching TV yesterday.",
+    "I didn't watch TV yesterday.",
+    "I didn't watched TV yesterday."
+   ],
+   "answer": "I didn't watch TV yesterday.",
+   "explanation_tr": "“Didn't” sonrasında fiilin yalın hâli kullanılır. Bu nedenle “watch” doğrudur; “watched” ve “watching” yanlıştır."
+  },
+  {
+   "id": "a1_gram_past_simple_013",
+   "unit": "a1_unit_32_past_simple",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Tom swam yesterday.",
+   "word_bank": [
+    "last",
+    "to",
+    "did",
+    "yesterday",
+    "Tom",
+    "swam"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Tom dün yüzdü.",
+   "explanation_tr": "Dün yapılan eylemler için fiilin geçmiş hâli kullanılır. “Swim” fiilinin geçmiş hâli “swam”dır."
+  },
+  {
+   "id": "a1_gram_past_simple_014",
+   "unit": "a1_unit_32_past_simple",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Ali went to school yesterday.",
+   "word_bank": [
+    "school",
+    "Ali",
+    "yesterday",
+    "the",
+    "to",
+    "did",
+    "ago",
+    "went"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Ali dün okula gitti.",
+   "explanation_tr": "“Go” fiilinin geçmiş hâli “went”tir. Olumlu geçmiş zaman cümlesinde fiilin geçmiş hâli kullanılır."
+  },
+  {
+   "id": "a1_gram_past_simple_015",
+   "unit": "a1_unit_32_past_simple",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "We didn't play tennis last week.",
+   "word_bank": [
+    "play",
+    "last",
+    "didn't",
+    "to",
+    "tennis",
+    "We",
+    "week",
+    "ago",
+    "played"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Geçen hafta tenis oynamadık.",
+   "explanation_tr": "Olumsuz geçmiş zamanda “didn't” sonrasında fiilin yalın hâli gelir: “play”."
+  },
+  {
+   "id": "a1_gram_past_simple_016",
+   "unit": "a1_unit_32_past_simple",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Did Anna buy a book yesterday?",
+   "word_bank": [
+    "yesterday",
+    "Anna",
+    "bought",
+    "book",
+    "buy",
+    "a",
+    "Did",
+    "last",
+    "does"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Anna dün bir kitap aldı mı?",
+   "explanation_tr": "Geçmiş zaman soruları “Did” ile başlar. “Did” sonrasında fiilin yalın hâli olan “buy” kullanılır."
+  },
+  {
+   "id": "a1_gram_past_simple_017",
+   "unit": "a1_unit_32_past_simple",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "I came here two days ago.",
+   "word_bank": [
+    "ago",
+    "did",
+    "come",
+    "came",
+    "two",
+    "I",
+    "last",
+    "here",
+    "days"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "İki gün önce buraya geldim.",
+   "explanation_tr": "“Come” fiilinin geçmiş hâli “came”dir. “Ago” geçmişte ne kadar önce olduğunu belirtir."
+  },
+  {
+   "id": "a1_gram_past_simple_018",
+   "unit": "a1_unit_32_past_simple",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "They made a cake last night.",
+   "word_bank": [
+    "cake",
+    "ago",
+    "did",
+    "They",
+    "a",
+    "make",
+    "made",
+    "night",
+    "last"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Dün gece bir kek yaptılar.",
+   "explanation_tr": "“Make” fiilinin geçmiş hâli “made”dir. “Last night” geçmiş zamanı belirtir."
+  },
+  {
+   "id": "a1_gram_past_simple_019",
+   "unit": "a1_unit_32_past_simple",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "Did he went to the park yesterday.",
+    "He went to the park yesterday.",
+    "He go to the park yesterday."
+   ],
+   "answer": "He went to the park yesterday.",
+   "explanation_tr": "Olumlu geçmiş zaman cümlesinde “go” yerine “went” kullanılır. “Did” ile başlayan soruda ise fiil yalın hâlde olmalıdır."
+  },
+  {
+   "id": "a1_gram_past_simple_020",
+   "unit": "a1_unit_32_past_simple",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "Sara doesn't eat breakfast yesterday.",
+    "Sara didn't ate breakfast yesterday.",
+    "Sara didn't eat breakfast yesterday."
+   ],
+   "answer": "Sara didn't eat breakfast yesterday.",
+   "explanation_tr": "“Didn't” sonrasında fiilin yalın hâli kullanılır: “eat”. “Doesn't” ise geçmiş zamanı anlatmaz."
+  },
+  {
+   "id": "a1_gram_past_simple_021",
+   "unit": "a1_unit_32_past_simple",
+   "type": "dictation",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Duyduğun cümleyi yaz.",
+   "answer": "Tom read a book yesterday.",
+   "word_bank": [
+    "last",
+    "read",
+    "did",
+    "Tom",
+    "yesterday",
+    "a",
+    "book",
+    "to"
+   ],
+   "accepted_answers": [],
+   "sentence_tr": "Tom dün bir kitap okudu.",
+   "audio_text": "Tom read a book yesterday.",
+   "explanation_tr": "“Yesterday” geçmiş zamanı gösterir. “Read” fiilinin yazılışı geçmiş zamanda değişmez; geçmiş okunuşu kullanılır."
+  },
+  {
+   "id": "a1_gram_past_simple_022",
+   "unit": "a1_unit_32_past_simple",
+   "type": "dictation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Duyduğun cümleyi yaz.",
+   "answer": "We saw a big bird.",
+   "word_bank": [
+    "a",
+    "did",
+    "ago",
+    "We",
+    "see",
+    "big",
+    "saw",
+    "bird"
+   ],
+   "accepted_answers": [],
+   "sentence_tr": "Büyük bir kuş gördük.",
+   "audio_text": "We saw a big bird.",
+   "explanation_tr": "“See” fiilinin geçmiş hâli “saw”dır. Olumlu geçmiş zaman cümlesinde bu geçmiş hâli kullanılır."
+  },
+  {
+   "id": "a1_gram_past_simple_023",
+   "unit": "a1_unit_32_past_simple",
+   "type": "type_translation",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "İngilizceye çevir ve yaz.",
+   "prompt_tr": "Dün akşam televizyon izledik.",
+   "answer": "We watched TV last night.",
+   "accepted_answers": [
+    "We watched television last night."
+   ],
+   "explanation_tr": "Düzenli “watch” fiili geçmiş zamanda “watched” olur. “Last night” dün akşam anlamına gelir."
+  },
+  {
+   "id": "a1_gram_past_simple_024",
+   "unit": "a1_unit_32_past_simple",
+   "type": "type_translation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "İngilizceye çevir ve yaz.",
+   "prompt_tr": "Mehmet dün yeni bir çanta aldı.",
+   "answer": "Mehmet got a new bag yesterday.",
+   "accepted_answers": [
+    "Mehmet bought a new bag yesterday."
+   ],
+   "explanation_tr": "“Get” fiilinin geçmiş hâli “got”tır. “Buy” fiilinin geçmiş hâli “bought” da bu cümlede doğru bir karşılıktır."
+  }
+ ]
+}

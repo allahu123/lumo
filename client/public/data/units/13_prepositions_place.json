@@ -1,0 +1,651 @@
+{
+ "unit_id": "a1_unit_13_prepositions_place",
+ "slug": "prepositions_place",
+ "order": 13,
+ "module": "m3",
+ "bonus_a1_plus": false,
+ "title_en": "Prepositions of place",
+ "title_tr": "Yer edatları",
+ "level": "A1",
+ "related_vocab_topics": [
+  "prepositions_place",
+  "home_furniture"
+ ],
+ "lesson": {
+  "goal_tr": "Bu dersin sonunda bir şeyin nerede olduğunu sorabilir ve yer edatlarıyla cevap verebilirsin.",
+  "sections": [
+   {
+    "heading_tr": "Cümle yapısı",
+    "explanation_tr": "Yer bildiren cümlede genellikle özne + is/are + yer edatı + yer gelir: The cat is in the box. Tekil özneyle is, çoğul özneyle are kullanılır.",
+    "examples": [
+     {
+      "en": "The cat + is + in + the box. → The cat is in the box.",
+      "tr": "Kedi kutunun içinde."
+     },
+     {
+      "en": "The cat + is + on + the table. → The cat is on the table.",
+      "tr": "Kedi masanın üstünde."
+     },
+     {
+      "en": "The cat + is + under + the table. → The cat is under the table.",
+      "tr": "Kedi masanın altında."
+     }
+    ]
+   },
+   {
+    "heading_tr": "Yer edatlarının anlamı",
+    "explanation_tr": "In = içinde, on = üstünde, under = altında; next to = yanında, between = iki şeyin arasında, behind = arkasında. Opposite = karşısında, near = yakınında, in front of = önünde.",
+    "examples": [
+     {
+      "en": "The cat + is + next to + the door. → The cat is next to the door.",
+      "tr": "Kedi kapının yanında."
+     },
+     {
+      "en": "The cat + is + between + the box + and + the bed. → The cat is between the box and the bed.",
+      "tr": "Kedi kutu ile yatağın arasında."
+     },
+     {
+      "en": "The cat + is + behind + the box. → The cat is behind the box.",
+      "tr": "Kedi kutunun arkasında."
+     },
+     {
+      "en": "The cat + is + opposite + the dog. → The cat is opposite the dog.",
+      "tr": "Kedi köpeğin karşısında."
+     },
+     {
+      "en": "The cat + is + near + the door. → The cat is near the door.",
+      "tr": "Kedi kapının yakınında."
+     }
+    ]
+   },
+   {
+    "heading_tr": "Yer sorma ve at",
+    "explanation_tr": "Bir şeyin yerini sormak için Where is ...? kullanılır; çoğul öznede Where are ...? denir. At, bir konumu ya da belirli bir noktayı söyler: The cat is at the door.",
+    "examples": [
+     {
+      "en": "Where + is + the + cat? → Where is the cat?",
+      "tr": "Kedi nerede?"
+     },
+     {
+      "en": "The cat + is + in front of + the box. → The cat is in front of the box.",
+      "tr": "Kedi kutunun önünde."
+     },
+     {
+      "en": "Ali + is + at + the door. → Ali is at the door.",
+      "tr": "Ali kapıda."
+     }
+    ]
+   }
+  ],
+  "key_patterns": [
+   {
+    "pattern": "Özne + is/are + yer edatı + yer",
+    "example_en": "The cat + is + on + the table. → The cat is on the table.",
+    "example_tr": "Kedi masanın üstünde."
+   },
+   {
+    "pattern": "Where + is/are + özne?",
+    "example_en": "Where + is + the + cat? → Where is the cat?",
+    "example_tr": "Kedi nerede?"
+   },
+   {
+    "pattern": "Özne + is + between + iki yer + and + iki yer",
+    "example_en": "The cat + is + between + the box + and + the bed. → The cat is between the box and the bed.",
+    "example_tr": "Kedi kutu ile yatağın arasında."
+   },
+   {
+    "pattern": "Özne + is + at + konum",
+    "example_en": "Ali + is + at + the door. → Ali is at the door.",
+    "example_tr": "Ali kapıda."
+   }
+  ],
+  "turkish_speaker_tips_tr": [
+   "Türkçedeki -da/-de eki birçok yer anlamında kullanılabilir; İngilizcede konuma göre in, on, under gibi farklı edatlar seçilir.",
+   "İngilizcede yer bildiren cümlede is/are gerekir; Türkçede bu anlam çoğu zaman ayrı bir sözcük olmadan verilir.",
+   "İngilizce soru sırası Where is the cat? şeklindedir; is, özneden önce gelir."
+  ],
+  "common_mistakes": [
+   {
+    "wrong": "The cat in the box.",
+    "correct": "The cat is in the box.",
+    "note_tr": "Cümlede is kullanmayı unutma."
+   },
+   {
+    "wrong": "Where the cat?",
+    "correct": "Where is the cat?",
+    "note_tr": "Yer sorusunda is, özneden önce gelir."
+   },
+   {
+    "wrong": "The cat is next the box.",
+    "correct": "The cat is next to the box.",
+    "note_tr": "Next to kalıbında to sözcüğünü de kullan."
+   },
+   {
+    "wrong": "The cat is in the table.",
+    "correct": "The cat is on the table.",
+    "note_tr": "Masanın üstündeki bir şey için on kullanılır."
+   }
+  ],
+  "mini_dialogue": [
+   {
+    "speaker": "Anna",
+    "en": "Where is the cat?",
+    "tr": "Kedi nerede?"
+   },
+   {
+    "speaker": "Ali",
+    "en": "It's under the table.",
+    "tr": "Masanın altında."
+   },
+   {
+    "speaker": "Anna",
+    "en": "Where is the dog?",
+    "tr": "Köpek nerede?"
+   },
+   {
+    "speaker": "Ali",
+    "en": "It's next to the door.",
+    "tr": "Kapının yanında."
+   },
+   {
+    "speaker": "Anna",
+    "en": "Is the cat in the box?",
+    "tr": "Kedi kutunun içinde mi?"
+   },
+   {
+    "speaker": "Ali",
+    "en": "No, it's behind the box.",
+    "tr": "Hayır, kutunun arkasında."
+   }
+  ]
+ },
+ "exercise_counts": {
+  "fill_blank": 6,
+  "multiple_choice": 4,
+  "match_pairs": 1,
+  "choose_correct_sentence": 3,
+  "build_sentence": 6,
+  "dictation": 2,
+  "type_translation": 2
+ },
+ "exercises": [
+  {
+   "id": "a1_gram_prepositions_place_001",
+   "unit": "a1_unit_13_prepositions_place",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "The book is ___ the table.",
+   "sentence_tr": "Kitap masanın üstünde.",
+   "options": [
+    "on",
+    "behind",
+    "in",
+    "under"
+   ],
+   "answer": "on",
+   "explanation_tr": "Bir şeyin bir yüzeyin üstünde olduğunu söylerken “on” kullanılır."
+  },
+  {
+   "id": "a1_gram_prepositions_place_002",
+   "unit": "a1_unit_13_prepositions_place",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "The cat is ___ the box and the bed, with the box on one side and the bed on the other.",
+   "sentence_tr": "Kedi kutu ile yatağın arasında; kutu bir yanında, yatak diğer yanında.",
+   "options": [
+    "between",
+    "under",
+    "near",
+    "behind"
+   ],
+   "answer": "between",
+   "explanation_tr": "İki şeyin arasındaki konumu anlatmak için “between” kullanılır."
+  },
+  {
+   "id": "a1_gram_prepositions_place_003",
+   "unit": "a1_unit_13_prepositions_place",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "Ali is ___ the door, waiting to open it.",
+   "sentence_tr": "Ali kapıda, onu açmayı bekliyor.",
+   "options": [
+    "in",
+    "on",
+    "under",
+    "at"
+   ],
+   "answer": "at",
+   "explanation_tr": "Bir kişinin bulunduğu noktayı belirtirken “at” kullanılabilir; “at the door” kapıda demektir."
+  },
+  {
+   "id": "a1_gram_prepositions_place_004",
+   "unit": "a1_unit_13_prepositions_place",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "Where ___ the cat?",
+   "sentence_tr": "Kedi nerede?",
+   "options": [
+    "am",
+    "is",
+    "be",
+    "are"
+   ],
+   "answer": "is",
+   "explanation_tr": "“The cat” tekil olduğu için “Where” sorusunda “is” kullanılır."
+  },
+  {
+   "id": "a1_gram_prepositions_place_005",
+   "unit": "a1_unit_13_prepositions_place",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "The ball is ___ the box; it is inside the box.",
+   "sentence_tr": "Top kutunun içinde; kutunun iç tarafında.",
+   "options": [
+    "under",
+    "in",
+    "behind",
+    "on"
+   ],
+   "answer": "in",
+   "explanation_tr": "Bir şeyin başka bir şeyin içinde olduğunu anlatmak için “in” kullanılır."
+  },
+  {
+   "id": "a1_gram_prepositions_place_006",
+   "unit": "a1_unit_13_prepositions_place",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "The cafe is ___ the bank, side by side with it.",
+   "sentence_tr": "Kafe bankanın yanında, onunla yan yana.",
+   "options": [
+    "behind",
+    "opposite",
+    "under",
+    "next to"
+   ],
+   "answer": "next to",
+   "explanation_tr": "Yan yana olan iki yer için “next to” kullanılır."
+  },
+  {
+   "id": "a1_gram_prepositions_place_007",
+   "unit": "a1_unit_13_prepositions_place",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "The dog is behind the door.",
+   "question_tr": "",
+   "sentence_en": "The dog is behind the door.",
+   "sentence_tr": "",
+   "options": [
+    "Köpek kapının yanında.",
+    "Köpek kapının arkasında.",
+    "Köpek kapının önünde.",
+    "Köpek kapının altında."
+   ],
+   "answer": "Köpek kapının arkasında.",
+   "explanation_tr": "“Behind” bir şeyin arkasında olmayı anlatır."
+  },
+  {
+   "id": "a1_gram_prepositions_place_008",
+   "unit": "a1_unit_13_prepositions_place",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "Where is the bag? It is under the chair.",
+   "question_tr": "",
+   "sentence_en": "Where is the bag? It is under the chair.",
+   "sentence_tr": "",
+   "options": [
+    "Çanta nerede? Sandalyenin altında.",
+    "Çanta nerede? Sandalyenin üstünde.",
+    "Çanta nerede? Sandalyenin yanında.",
+    "Çanta nerede? Sandalyenin arkasında."
+   ],
+   "answer": "Çanta nerede? Sandalyenin altında.",
+   "explanation_tr": "“Under” bir şeyin altında olmayı anlatır; “Where is the bag?” ise “Çanta nerede?” demektir."
+  },
+  {
+   "id": "a1_gram_prepositions_place_009",
+   "unit": "a1_unit_13_prepositions_place",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "",
+   "question_tr": "Kedi yatağın yanında.",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "The cat are next to the bed.",
+    "The cat is under the bed.",
+    "The cat is next to the bed.",
+    "The cat is next the bed."
+   ],
+   "answer": "The cat is next to the bed.",
+   "explanation_tr": "Tekil özne “the cat” ile “is” kullanılır; “next to” yanında demektir."
+  },
+  {
+   "id": "a1_gram_prepositions_place_010",
+   "unit": "a1_unit_13_prepositions_place",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "",
+   "question_tr": "Banka parkın karşısında.",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "The bank is opposite the park.",
+    "The bank are opposite the park.",
+    "The bank is between the park.",
+    "The bank is in front of the park."
+   ],
+   "answer": "The bank is opposite the park.",
+   "explanation_tr": "“Opposite” karşısında demektir. “The bank” tekil olduğu için “is” kullanılır."
+  },
+  {
+   "id": "a1_gram_prepositions_place_011",
+   "unit": "a1_unit_13_prepositions_place",
+   "type": "match_pairs",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Eşleştir.",
+   "pairs": [
+    {
+     "en": "on the table",
+     "tr": "masanın üstünde"
+    },
+    {
+     "en": "under the bed",
+     "tr": "yatağın altında"
+    },
+    {
+     "en": "next to the door",
+     "tr": "kapının yanında"
+    },
+    {
+     "en": "behind the house",
+     "tr": "evin arkasında"
+    },
+    {
+     "en": "in front of the school",
+     "tr": "okulun önünde"
+    }
+   ],
+   "explanation_tr": "Bu ifadelerdeki yer edatları, bir şeyin başka bir yere göre konumunu belirtir."
+  },
+  {
+   "id": "a1_gram_prepositions_place_012",
+   "unit": "a1_unit_13_prepositions_place",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "The ball is in front of the door.",
+    "The ball are in front of the door.",
+    "The ball is in front the door."
+   ],
+   "answer": "The ball is in front of the door.",
+   "explanation_tr": "Tekil özne “the ball” ile “is” kullanılır. “In front of” ifadesinde “of” mutlaka bulunur."
+  },
+  {
+   "id": "a1_gram_prepositions_place_013",
+   "unit": "a1_unit_13_prepositions_place",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "The cat is on the table.",
+   "word_bank": [
+    "table",
+    "on",
+    "under",
+    "the",
+    "cat",
+    "is",
+    "The",
+    "are",
+    "near"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Kedi masanın üstünde.",
+   "explanation_tr": "Tek bir şeyden söz ederken “is” kullanılır. “On”, bir şeyin üstünde olduğunu belirtir."
+  },
+  {
+   "id": "a1_gram_prepositions_place_014",
+   "unit": "a1_unit_13_prepositions_place",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "The box is under the bed.",
+   "word_bank": [
+    "bed",
+    "The",
+    "box",
+    "in",
+    "under",
+    "at",
+    "on",
+    "the",
+    "is"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Kutu yatağın altında.",
+   "explanation_tr": "“Under”, bir şeyin altında olduğunu belirtir. Tekil özne “box” ile “is” kullanılır."
+  },
+  {
+   "id": "a1_gram_prepositions_place_015",
+   "unit": "a1_unit_13_prepositions_place",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Ali is next to the door.",
+   "word_bank": [
+    "Ali",
+    "to",
+    "door",
+    "near",
+    "is",
+    "next",
+    "the",
+    "are",
+    "behind"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Ali kapının yanında.",
+   "explanation_tr": "“Next to”, “yanında” anlamına gelir. Ali tekil olduğu için “is” kullanılır."
+  },
+  {
+   "id": "a1_gram_prepositions_place_016",
+   "unit": "a1_unit_13_prepositions_place",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "The cat is between the box and the bed.",
+   "word_bank": [
+    "the",
+    "the",
+    "near",
+    "between",
+    "under",
+    "box",
+    "bed",
+    "and",
+    "cat",
+    "is",
+    "The",
+    "in"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Kedi kutu ile yatak arasında.",
+   "explanation_tr": "İki yerin arasında olmayı anlatırken “between” ve iki öğeyi bağlamak için “and” kullanılır."
+  },
+  {
+   "id": "a1_gram_prepositions_place_017",
+   "unit": "a1_unit_13_prepositions_place",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Anna is near the window.",
+   "word_bank": [
+    "window",
+    "are",
+    "near",
+    "under",
+    "the",
+    "behind",
+    "is",
+    "Anna"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Anna pencerenin yakınında.",
+   "explanation_tr": "“Near”, “yakınında” anlamına gelir. Anna tekil olduğu için “is” kullanılır."
+  },
+  {
+   "id": "a1_gram_prepositions_place_018",
+   "unit": "a1_unit_13_prepositions_place",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "The bag is opposite the door.",
+   "word_bank": [
+    "door",
+    "the",
+    "are",
+    "under",
+    "bag",
+    "The",
+    "near",
+    "opposite",
+    "is"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Çanta kapının karşısında.",
+   "explanation_tr": "“Opposite”, bir şeyin karşısında olduğunu anlatır. Tekil özne “bag” ile “is” kullanılır."
+  },
+  {
+   "id": "a1_gram_prepositions_place_019",
+   "unit": "a1_unit_13_prepositions_place",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "Where is the book?",
+    "Where are the book?",
+    "Where the book is?"
+   ],
+   "answer": "Where is the book?",
+   "explanation_tr": "Tekil bir nesnenin yerini sorarken “Where is” kullanılır. Soruda “is” özneden önce gelir."
+  },
+  {
+   "id": "a1_gram_prepositions_place_020",
+   "unit": "a1_unit_13_prepositions_place",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "The dog is behind the chair.",
+    "The dog is behind chair.",
+    "The dog are behind the chair."
+   ],
+   "answer": "The dog is behind the chair.",
+   "explanation_tr": "Tekil özne “dog” ile “is” kullanılır. “Chair” tekil sayılabilir bir isim olduğu için önünde “the” bulunur."
+  },
+  {
+   "id": "a1_gram_prepositions_place_021",
+   "unit": "a1_unit_13_prepositions_place",
+   "type": "dictation",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Duyduğun cümleyi yaz.",
+   "answer": "The ball is in the box.",
+   "word_bank": [
+    "is",
+    "under",
+    "The",
+    "ball",
+    "behind",
+    "box",
+    "in",
+    "the",
+    "on"
+   ],
+   "accepted_answers": [],
+   "sentence_tr": "Top kutunun içinde.",
+   "audio_text": "The ball is in the box.",
+   "explanation_tr": "“In”, bir şeyin içinde olduğunu belirtir. Tekil özne “ball” ile “is” kullanılır."
+  },
+  {
+   "id": "a1_gram_prepositions_place_022",
+   "unit": "a1_unit_13_prepositions_place",
+   "type": "dictation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Duyduğun cümleyi yaz.",
+   "answer": "Mark is at the door.",
+   "word_bank": [
+    "Mark",
+    "in",
+    "at",
+    "door",
+    "near",
+    "is",
+    "the",
+    "on"
+   ],
+   "accepted_answers": [],
+   "sentence_tr": "Mark kapıda.",
+   "audio_text": "Mark is at the door.",
+   "explanation_tr": "Bir kişinin belirli bir konumda olduğunu söylerken “at” kullanılır. Mark tekil olduğu için “is” gelir."
+  },
+  {
+   "id": "a1_gram_prepositions_place_023",
+   "unit": "a1_unit_13_prepositions_place",
+   "type": "type_translation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "İngilizceye çevir ve yaz.",
+   "prompt_tr": "Kedi nerede?",
+   "answer": "Where is the cat?",
+   "accepted_answers": [],
+   "explanation_tr": "Yer sorularında “Where” kullanılır. Tekil özne “the cat” için “is” özneden önce gelir."
+  },
+  {
+   "id": "a1_gram_prepositions_place_024",
+   "unit": "a1_unit_13_prepositions_place",
+   "type": "type_translation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "İngilizceye çevir ve yaz.",
+   "prompt_tr": "Ali yatak ile kutu arasında.",
+   "answer": "Ali is between the bed and the box.",
+   "accepted_answers": [],
+   "explanation_tr": "İki yer arasındaki konumu anlatmak için “between” ve iki yeri bağlamak için “and” kullanılır."
+  }
+ ]
+}

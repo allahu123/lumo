@@ -1,0 +1,635 @@
+{
+ "unit_id": "a1_unit_27_conjunctions",
+ "slug": "conjunctions",
+ "order": 27,
+ "module": "m6",
+ "bonus_a1_plus": false,
+ "title_en": "And, but, or, because, so",
+ "title_tr": "And, but, or, because, so",
+ "level": "A1",
+ "related_vocab_topics": [
+  "question_words_conjunctions"
+ ],
+ "lesson": {
+  "goal_tr": "Bu dersin sonunda fikirleri and, but, or, because ve so ile birleştirebilirsin.",
+  "sections": [
+   {
+    "heading_tr": "Bağlaçları seç",
+    "explanation_tr": "and benzer fikirleri, but karşıt fikirleri birleştirir; or seçenek sunar. because bir neden, so ise bu nedenin sonucunu anlatır.",
+    "examples": [
+     {
+      "en": "I like tea and coffee.",
+      "tr": "Çayı ve kahveyi severim."
+     },
+     {
+      "en": "Do you want tea or coffee?",
+      "tr": "Çay mı, kahve mi istersin?"
+     },
+     {
+      "en": "I am happy because you are here.",
+      "tr": "Burada olduğun için mutluyum."
+     }
+    ]
+   },
+   {
+    "heading_tr": "İki fikri cümlede birleştir",
+    "explanation_tr": "Bağlaçtan önce ve sonra tam bir fikir gelebilir. but ve so iki tam cümleyi bağlıyorsa genellikle bağlaçtan önce virgül kullanırız.",
+    "examples": [
+     {
+      "en": "I like tea, but I don't like coffee.",
+      "tr": "Çayı severim ama kahveyi sevmem."
+     },
+     {
+      "en": "I am tired, so I am at home.",
+      "tr": "Yorgunum, bu yüzden evdeyim."
+     }
+    ]
+   },
+   {
+    "heading_tr": "Neden mi, sonuç mu?",
+    "explanation_tr": "because, “neden?” sorusunun yanıtını verir. so, bir durumdan çıkan sonucu anlatır; aynı fikir için because ve so'yu birlikte kullanmayız.",
+    "examples": [
+     {
+      "en": "I am hungry because I don't eat.",
+      "tr": "Yemek yemediğim için açım."
+     },
+     {
+      "en": "I don't eat, so I am hungry.",
+      "tr": "Yemek yemiyorum, bu yüzden açım."
+     }
+    ]
+   }
+  ],
+  "key_patterns": [
+   {
+    "pattern": "I + like + ..., but + I + don't like + ...",
+    "example_en": "I like tea, but I don't like coffee.",
+    "example_tr": "Çayı severim ama kahveyi sevmem."
+   },
+   {
+    "pattern": "I + ... because + I + ...",
+    "example_en": "I am happy because you are here.",
+    "example_tr": "Burada olduğun için mutluyum."
+   },
+   {
+    "pattern": "I + ..., so + I + ...",
+    "example_en": "I am tired, so I am at home.",
+    "example_tr": "Yorgunum, bu yüzden evdeyim."
+   }
+  ],
+  "turkish_speaker_tips_tr": [
+   "İngilizcede temel sıra özne + fiildir; Türkçedeki özne + nesne + fiil sırasını İngilizceye taşımamaya çalış.",
+   "Türkçede “çünkü ... o yüzden ...” birlikte duyulabilir; İngilizcede aynı neden-sonuç ilişkisini genellikle because ya da so ile kurarız.",
+   "and, but, or, because ve so cümlede fikirleri birbirine bağlar; kelime sırasını değiştirmez."
+  ],
+  "common_mistakes": [
+   {
+    "wrong": "Because I am hungry, so I eat.",
+    "correct": "I am hungry, so I eat.",
+    "note_tr": "Aynı neden-sonuç ilişkisi için because ve so'yu birlikte kullanma."
+   },
+   {
+    "wrong": "I am tired so, I am at home.",
+    "correct": "I am tired, so I am at home.",
+    "note_tr": "İki tam fikri so ile bağlarken virgül so'dan önce gelir."
+   },
+   {
+    "wrong": "I hungry, so I eat.",
+    "correct": "I am hungry, so I eat.",
+    "note_tr": "İngilizcede hungry gibi sıfatlardan önce am gerekir."
+   }
+  ],
+  "mini_dialogue": [
+   {
+    "speaker": "Anna",
+    "en": "Do you like tea or coffee?",
+    "tr": "Çayı mı, kahveyi mi seversin?"
+   },
+   {
+    "speaker": "Ali",
+    "en": "I like tea, but I don't like coffee.",
+    "tr": "Çayı severim ama kahveyi sevmem."
+   },
+   {
+    "speaker": "Anna",
+    "en": "Why?",
+    "tr": "Neden?"
+   },
+   {
+    "speaker": "Ali",
+    "en": "I am tired because I work.",
+    "tr": "Çalıştığım için yorgunum."
+   },
+   {
+    "speaker": "Anna",
+    "en": "I am tired, so I am at home.",
+    "tr": "Yorgunum, bu yüzden evdeyim."
+   }
+  ]
+ },
+ "exercise_counts": {
+  "fill_blank": 6,
+  "multiple_choice": 4,
+  "match_pairs": 1,
+  "choose_correct_sentence": 3,
+  "build_sentence": 6,
+  "dictation": 2,
+  "type_translation": 2
+ },
+ "exercises": [
+  {
+   "id": "a1_gram_conjunctions_001",
+   "unit": "a1_unit_27_conjunctions",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "I like tea, but I ___ like coffee.",
+   "sentence_tr": "Çayı severim ama kahveyi sevmem.",
+   "options": [
+    "isn't",
+    "doesn't",
+    "don't",
+    "am not"
+   ],
+   "answer": "don't",
+   "explanation_tr": "I ile olumsuz cümlede don't kullanılır. But, iki zıt düşünceyi birleştirir."
+  },
+  {
+   "id": "a1_gram_conjunctions_002",
+   "unit": "a1_unit_27_conjunctions",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "Anna is happy ___ Tom is here.",
+   "sentence_tr": "Tom burada olduğu için Anna mutlu.",
+   "options": [
+    "so",
+    "but",
+    "or",
+    "because"
+   ],
+   "answer": "because",
+   "explanation_tr": "Because bir nedeni açıklar: Anna'nın mutlu olmasının nedeni Tom'un burada olmasıdır."
+  },
+  {
+   "id": "a1_gram_conjunctions_003",
+   "unit": "a1_unit_27_conjunctions",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "I am tired, ___ I am at home.",
+   "sentence_tr": "Yorgunum, bu yüzden evdeyim.",
+   "options": [
+    "but",
+    "or",
+    "because",
+    "so"
+   ],
+   "answer": "so",
+   "explanation_tr": "So bir sonucu belirtir. Yorgun olmamın sonucu evde olmamdır."
+  },
+  {
+   "id": "a1_gram_conjunctions_004",
+   "unit": "a1_unit_27_conjunctions",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "We like apples, ___ we don't like onions.",
+   "sentence_tr": "Elmaları severiz ama soğanları sevmeyiz.",
+   "options": [
+    "but",
+    "or",
+    "so",
+    "because"
+   ],
+   "answer": "but",
+   "explanation_tr": "But, sevilen ve sevilmeyen şeyler arasındaki zıtlığı gösterir."
+  },
+  {
+   "id": "a1_gram_conjunctions_005",
+   "unit": "a1_unit_27_conjunctions",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "I am at home ___ it is cold.",
+   "sentence_tr": "Hava soğuk olduğu için evdeyim.",
+   "options": [
+    "but",
+    "so",
+    "because",
+    "and"
+   ],
+   "answer": "because",
+   "explanation_tr": "Because, evde olmanın nedenini verir: havanın soğuk olması."
+  },
+  {
+   "id": "a1_gram_conjunctions_006",
+   "unit": "a1_unit_27_conjunctions",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "It is late, ___ we are at home.",
+   "sentence_tr": "Geç oldu, bu yüzden evdeyiz.",
+   "options": [
+    "because",
+    "so",
+    "but",
+    "or"
+   ],
+   "answer": "so",
+   "explanation_tr": "So, geç olmasının sonucunu anlatır. But zıtlık, because ise neden bildirir."
+  },
+  {
+   "id": "a1_gram_conjunctions_007",
+   "unit": "a1_unit_27_conjunctions",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "Anna is happy because Ali is here.",
+   "question_tr": "",
+   "sentence_en": "Anna is happy because Ali is here.",
+   "sentence_tr": "",
+   "options": [
+    "Anna mutlu, bu yüzden Ali burada.",
+    "Anna mutlu ama Ali burada.",
+    "Ali burada olduğu için Anna mutlu.",
+    "Ali, Anna burada olduğu için mutlu."
+   ],
+   "answer": "Ali burada olduğu için Anna mutlu.",
+   "explanation_tr": "Because, Anna'nın mutlu olma nedenini açıklar: Ali'nin burada olması."
+  },
+  {
+   "id": "a1_gram_conjunctions_008",
+   "unit": "a1_unit_27_conjunctions",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "I like apples, but I don't like onions.",
+   "question_tr": "",
+   "sentence_en": "I like apples, but I don't like onions.",
+   "sentence_tr": "",
+   "options": [
+    "Elmaları severim, bu yüzden soğanları sevmem.",
+    "Elmaları severim ama soğanları sevmem.",
+    "Soğanları severim ama elmaları sevmem.",
+    "Elmaları severim çünkü soğanları sevmem."
+   ],
+   "answer": "Elmaları severim ama soğanları sevmem.",
+   "explanation_tr": "But, elmayı sevmek ile soğanı sevmemek arasındaki zıtlığı belirtir."
+  },
+  {
+   "id": "a1_gram_conjunctions_009",
+   "unit": "a1_unit_27_conjunctions",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "",
+   "question_tr": "Yorgunum, bu yüzden evdeyim.",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "I am tired, so I am at home.",
+    "I am tired because I am at home.",
+    "I am tired, and I am at home.",
+    "I am tired, but I am at home."
+   ],
+   "answer": "I am tired, so I am at home.",
+   "explanation_tr": "Bu cümlede evde olmak, yorgun olmanın sonucudur; bu yüzden so kullanılır."
+  },
+  {
+   "id": "a1_gram_conjunctions_010",
+   "unit": "a1_unit_27_conjunctions",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "",
+   "question_tr": "Anna kahveyi seviyor ama çayı sevmiyor.",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Anna likes coffee, but she doesn't like tea.",
+    "Anna like coffee, but she doesn't like tea.",
+    "Anna likes coffee, but she don't like tea.",
+    "Anna likes coffee, so she doesn't like tea."
+   ],
+   "answer": "Anna likes coffee, but she doesn't like tea.",
+   "explanation_tr": "But zıtlığı gösterir. Anna he olduğu için olumlu cümlede likes, olumsuz cümlede doesn't kullanılır."
+  },
+  {
+   "id": "a1_gram_conjunctions_011",
+   "unit": "a1_unit_27_conjunctions",
+   "type": "match_pairs",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Eşleştir.",
+   "pairs": [
+    {
+     "en": "and",
+     "tr": "ve"
+    },
+    {
+     "en": "but",
+     "tr": "ama"
+    },
+    {
+     "en": "or",
+     "tr": "veya"
+    },
+    {
+     "en": "because",
+     "tr": "çünkü"
+    },
+    {
+     "en": "so",
+     "tr": "bu yüzden"
+    }
+   ],
+   "explanation_tr": "And fikirleri ekler, but zıtlık kurar, or seçenek sunar. Because neden, so ise sonuç bildirir."
+  },
+  {
+   "id": "a1_gram_conjunctions_012",
+   "unit": "a1_unit_27_conjunctions",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "I like tea, but I doesn't like coffee.",
+    "I like tea, but I don't like coffee.",
+    "I like tea but, I don't like coffee."
+   ],
+   "answer": "I like tea, but I don't like coffee.",
+   "explanation_tr": "But'tan önce virgül kullanılır. I ile olumsuz cümlede doesn't değil, don't kullanılır."
+  },
+  {
+   "id": "a1_gram_conjunctions_013",
+   "unit": "a1_unit_27_conjunctions",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "I like tea, but I don't like coffee.",
+   "word_bank": [
+    "I",
+    "I",
+    "yellow",
+    "like",
+    "don't",
+    "tea",
+    "but",
+    "elephant",
+    "coffee",
+    "window",
+    "like"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Çayı severim ama kahveyi sevmem.",
+   "explanation_tr": "İki zıt fikri birleştirmek için “but” kullanılır."
+  },
+  {
+   "id": "a1_gram_conjunctions_014",
+   "unit": "a1_unit_27_conjunctions",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "I am happy because you are here.",
+   "word_bank": [
+    "you",
+    "are",
+    "happy",
+    "I",
+    "elephant",
+    "yellow",
+    "because",
+    "am",
+    "window",
+    "here"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Sen burada olduğun için mutluyum.",
+   "explanation_tr": "“Because” bir nedeni açıklar; burada mutlu olmanın nedeni senin burada olmandır."
+  },
+  {
+   "id": "a1_gram_conjunctions_015",
+   "unit": "a1_unit_27_conjunctions",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "I am tired, so I am at home.",
+   "word_bank": [
+    "am",
+    "yellow",
+    "so",
+    "am",
+    "at",
+    "window",
+    "home",
+    "tired",
+    "I",
+    "I",
+    "elephant"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Yorgunum, bu yüzden evdeyim.",
+   "explanation_tr": "“So” bir sonucu anlatır; evde olmak yorgun olmanın sonucudur."
+  },
+  {
+   "id": "a1_gram_conjunctions_016",
+   "unit": "a1_unit_27_conjunctions",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "We can walk, or we can take a bus.",
+   "word_bank": [
+    "elephant",
+    "a",
+    "take",
+    "window",
+    "or",
+    "bus",
+    "yellow",
+    "can",
+    "we",
+    "can",
+    "walk",
+    "We"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Yürüyebiliriz ya da otobüse binebiliriz.",
+   "explanation_tr": "“Or” iki seçenek arasında tercih bildirir."
+  },
+  {
+   "id": "a1_gram_conjunctions_017",
+   "unit": "a1_unit_27_conjunctions",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Anna is tired, but she is happy.",
+   "word_bank": [
+    "she",
+    "happy",
+    "window",
+    "but",
+    "Anna",
+    "elephant",
+    "tired",
+    "is",
+    "yellow",
+    "is"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Anna yorgun ama mutlu.",
+   "explanation_tr": "“But” zıt fikirleri birleştirir; “tired” ve “happy” burada karşıtlık oluşturur."
+  },
+  {
+   "id": "a1_gram_conjunctions_018",
+   "unit": "a1_unit_27_conjunctions",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "I like music because it is fun.",
+   "word_bank": [
+    "because",
+    "music",
+    "I",
+    "like",
+    "elephant",
+    "it",
+    "yellow",
+    "window",
+    "is",
+    "fun"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Müziği severim çünkü eğlencelidir.",
+   "explanation_tr": "Bir neden belirtirken “because” kullanılır."
+  },
+  {
+   "id": "a1_gram_conjunctions_019",
+   "unit": "a1_unit_27_conjunctions",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "I like tea, but I don't like coffee.",
+    "I like tea, but I doesn't like coffee.",
+    "I like tea, but I not like coffee."
+   ],
+   "answer": "I like tea, but I don't like coffee.",
+   "explanation_tr": "“But” zıtlık kurar. “I” ile olumsuzluk için “don't” kullanılır."
+  },
+  {
+   "id": "a1_gram_conjunctions_020",
+   "unit": "a1_unit_27_conjunctions",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "I am happy because you is here.",
+    "I am happy because you are here.",
+    "I am happy because are you here."
+   ],
+   "answer": "I am happy because you are here.",
+   "explanation_tr": "“Because” sonrasında özne ve fiil sırası kullanılır; “you are” doğrudur."
+  },
+  {
+   "id": "a1_gram_conjunctions_021",
+   "unit": "a1_unit_27_conjunctions",
+   "type": "dictation",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Duyduğun cümleyi yaz.",
+   "answer": "I am happy because you are here.",
+   "word_bank": [
+    "yellow",
+    "are",
+    "happy",
+    "because",
+    "am",
+    "you",
+    "I",
+    "bedroom",
+    "elephant",
+    "here"
+   ],
+   "accepted_answers": [],
+   "sentence_tr": "Sen burada olduğun için mutluyum.",
+   "audio_text": "I am happy because you are here.",
+   "explanation_tr": "“Because” mutluluğun nedenini belirtir."
+  },
+  {
+   "id": "a1_gram_conjunctions_022",
+   "unit": "a1_unit_27_conjunctions",
+   "type": "dictation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Duyduğun cümleyi yaz.",
+   "answer": "We are at home, so we are happy.",
+   "word_bank": [
+    "are",
+    "window",
+    "happy",
+    "we",
+    "so",
+    "We",
+    "orange",
+    "at",
+    "elephant",
+    "home",
+    "are"
+   ],
+   "accepted_answers": [],
+   "sentence_tr": "Evdeyiz, bu yüzden mutluyuz.",
+   "audio_text": "We are at home, so we are happy.",
+   "explanation_tr": "“So” sonuç bildirir; mutlu olmamız, evde olmamızın sonucudur."
+  },
+  {
+   "id": "a1_gram_conjunctions_023",
+   "unit": "a1_unit_27_conjunctions",
+   "type": "type_translation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "İngilizceye çevir ve yaz.",
+   "prompt_tr": "Elmaları severim ama muzları sevmem.",
+   "answer": "I like apples, but I don't like bananas.",
+   "accepted_answers": [
+    "I like apples, but I do not like bananas."
+   ],
+   "explanation_tr": "Zıt iki düşünceyi bağlamak için “but” kullanılır; “don't” olumsuzluk bildirir."
+  },
+  {
+   "id": "a1_gram_conjunctions_024",
+   "unit": "a1_unit_27_conjunctions",
+   "type": "type_translation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "İngilizceye çevir ve yaz.",
+   "prompt_tr": "Hava soğuk, bu yüzden evdeyiz.",
+   "answer": "It is cold, so we are at home.",
+   "accepted_answers": [
+    "It's cold, so we're at home."
+   ],
+   "explanation_tr": "“So” bir sonucu belirtir; soğuk hava nedeniyle evdeyiz."
+  }
+ ]
+}

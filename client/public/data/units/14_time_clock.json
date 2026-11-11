@@ -1,0 +1,618 @@
+{
+ "unit_id": "a1_unit_14_time_clock",
+ "slug": "time_clock",
+ "order": 14,
+ "module": "m3",
+ "bonus_a1_plus": false,
+ "title_en": "Telling the time",
+ "title_tr": "Saati söyleme",
+ "level": "A1",
+ "related_vocab_topics": [
+  "numbers_time"
+ ],
+ "lesson": {
+  "goal_tr": "Saatin kaç olduğunu söyleyebilir ve birinin günlük bir işi saat kaçta yaptığını sorabilirsiniz.",
+  "sections": [
+   {
+    "heading_tr": "Saatin kaç olduğunu sorma ve söyleme",
+    "explanation_tr": "Saat sormak için “What time is it?” deyin. Cevaba “It’s” ile başlayın: “It’s seven o’clock.” tam saati, “It’s half past seven.” yedi buçuğu anlatır.",
+    "examples": [
+     {
+      "en": "What time is it?",
+      "tr": "Saat kaç?"
+     },
+     {
+      "en": "It's seven o'clock.",
+      "tr": "Saat yedi."
+     },
+     {
+      "en": "It's half past seven.",
+      "tr": "Saat yedi buçuk."
+     }
+    ]
+   },
+   {
+    "heading_tr": "Geçen ve kalan dakikalar",
+    "explanation_tr": "“Past”, saati geçen dakikaları; “to”, bir sonraki saate kalan dakikaları anlatır. Çeyrek geçe için “a quarter past”, çeyrek kala için “a quarter to” kullanın.",
+    "examples": [
+     {
+      "en": "It's ten past seven.",
+      "tr": "Saat yediyi on geçiyor."
+     },
+     {
+      "en": "It's a quarter past seven.",
+      "tr": "Saat yediyi çeyrek geçiyor."
+     },
+     {
+      "en": "It's a quarter to eight.",
+      "tr": "Saat sekize çeyrek var."
+     }
+    ]
+   },
+   {
+    "heading_tr": "Bir işi hangi saatte yaptığını sorma",
+    "explanation_tr": "Birinin bir işi saat kaçta yaptığını “What time do you ...?” ile sorun. Bir işin saatini belirtirken saatin önüne “at” koyun.",
+    "examples": [
+     {
+      "en": "What time do you get up?",
+      "tr": "Saat kaçta kalkarsın?"
+     },
+     {
+      "en": "I get up at seven o'clock.",
+      "tr": "Saat yedide kalkarım."
+     },
+     {
+      "en": "I have breakfast at eight o'clock.",
+      "tr": "Saat sekizde kahvaltı yaparım."
+     }
+    ]
+   }
+  ],
+  "key_patterns": [
+   {
+    "pattern": "What time + is + it?",
+    "example_en": "What time is it?",
+    "example_tr": "Saat kaç?"
+   },
+   {
+    "pattern": "It + is + saat ifadesi",
+    "example_en": "It's half past seven.",
+    "example_tr": "Saat yedi buçuk."
+   },
+   {
+    "pattern": "What time + do + you + fiil?",
+    "example_en": "What time do you get up?",
+    "example_tr": "Saat kaçta kalkarsın?"
+   },
+   {
+    "pattern": "Özne + fiil + at + saat",
+    "example_en": "I get up at seven o'clock.",
+    "example_tr": "Saat yedide kalkarım."
+   }
+  ],
+  "turkish_speaker_tips_tr": [
+   "Türkçede “Saat kaç?” deriz; İngilizcede soruda “it” gerekir: “What time is it?”",
+   "Türkçede “yedide” demek için ek kullanırız; İngilizcede saatin önüne “at” gelir: “at seven o'clock”.",
+   "İngilizce soruda “do” yardımcı fiili özneden önce gelir: “What time do you get up?”"
+  ],
+  "common_mistakes": [
+   {
+    "wrong": "What time it is?",
+    "correct": "What time is it?",
+    "note_tr": "Soruda “is”, “it” öznesinden önce gelir."
+   },
+   {
+    "wrong": "I get up in seven o'clock.",
+    "correct": "I get up at seven o'clock.",
+    "note_tr": "Belirli bir saati söylerken “in” değil, “at” kullanılır."
+   },
+   {
+    "wrong": "What time you get up?",
+    "correct": "What time do you get up?",
+    "note_tr": "Bu soruda “you”dan önce “do” gerekir."
+   }
+  ],
+  "mini_dialogue": [
+   {
+    "speaker": "Anna",
+    "en": "What time is it?",
+    "tr": "Saat kaç?"
+   },
+   {
+    "speaker": "Ali",
+    "en": "It's a quarter past seven.",
+    "tr": "Saat yediyi çeyrek geçiyor."
+   },
+   {
+    "speaker": "Anna",
+    "en": "What time do you get up?",
+    "tr": "Saat kaçta kalkarsın?"
+   },
+   {
+    "speaker": "Ali",
+    "en": "I get up at seven o'clock.",
+    "tr": "Saat yedide kalkarım."
+   }
+  ]
+ },
+ "exercise_counts": {
+  "fill_blank": 6,
+  "multiple_choice": 4,
+  "match_pairs": 1,
+  "choose_correct_sentence": 3,
+  "build_sentence": 6,
+  "dictation": 2,
+  "type_translation": 2
+ },
+ "exercises": [
+  {
+   "id": "a1_gram_time_clock_001",
+   "unit": "a1_unit_14_time_clock",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "It's ___ o'clock.",
+   "sentence_tr": "Saat yedi.",
+   "options": [
+    "seven",
+    "half",
+    "at",
+    "past"
+   ],
+   "answer": "seven",
+   "explanation_tr": "Saat başını söylerken sayıdan sonra “o’clock” kullanılır."
+  },
+  {
+   "id": "a1_gram_time_clock_002",
+   "unit": "a1_unit_14_time_clock",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "It's half ___ seven.",
+   "sentence_tr": "Saat yedi buçuk.",
+   "options": [
+    "to",
+    "o'clock",
+    "past",
+    "at"
+   ],
+   "answer": "past",
+   "explanation_tr": "“Half past seven”, saat yedi buçuk demektir."
+  },
+  {
+   "id": "a1_gram_time_clock_003",
+   "unit": "a1_unit_14_time_clock",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "What time ___ you get up?",
+   "sentence_tr": "Saat kaçta kalkarsın?",
+   "options": [
+    "are",
+    "is",
+    "do",
+    "does"
+   ],
+   "answer": "do",
+   "explanation_tr": "“You” ile soru kurarken “do” kullanılır: “What time do you …?”"
+  },
+  {
+   "id": "a1_gram_time_clock_004",
+   "unit": "a1_unit_14_time_clock",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "I get up ___ seven o'clock.",
+   "sentence_tr": "Saat yedide kalkarım.",
+   "options": [
+    "to",
+    "on",
+    "in",
+    "at"
+   ],
+   "answer": "at",
+   "explanation_tr": "Belirli bir saatten önce “at” kullanılır."
+  },
+  {
+   "id": "a1_gram_time_clock_005",
+   "unit": "a1_unit_14_time_clock",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "___ time is it?",
+   "sentence_tr": "Saat kaç?",
+   "options": [
+    "How",
+    "When",
+    "Where",
+    "What"
+   ],
+   "answer": "What",
+   "explanation_tr": "Saati sormak için “What time is it?” kalıbı kullanılır."
+  },
+  {
+   "id": "a1_gram_time_clock_006",
+   "unit": "a1_unit_14_time_clock",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "It ___ quarter past eight.",
+   "sentence_tr": "Saat sekizi çeyrek geçiyor.",
+   "options": [
+    "are",
+    "does",
+    "do",
+    "is"
+   ],
+   "answer": "is",
+   "explanation_tr": "Saat söylerken “It is” kullanılır; “It’s” bunun kısaltmasıdır."
+  },
+  {
+   "id": "a1_gram_time_clock_007",
+   "unit": "a1_unit_14_time_clock",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "What time do you have breakfast?",
+   "question_tr": "",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Saat kaçta akşam yemeği yersin?",
+    "Saat kaçta kahvaltı hazırlarsın?",
+    "Kahvaltıda ne yersin?",
+    "Saat kaçta kahvaltı yaparsın?"
+   ],
+   "answer": "Saat kaçta kahvaltı yaparsın?",
+   "explanation_tr": "“What time do you …?” bir etkinliğin saatini sorar."
+  },
+  {
+   "id": "a1_gram_time_clock_008",
+   "unit": "a1_unit_14_time_clock",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "Anna goes to bed at half past nine.",
+   "question_tr": "",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Anna saat dokuz buçukta yatağa gider.",
+    "Anna saat dokuz buçukta kalkar.",
+    "Anna saat sekiz buçukta yatağa gider.",
+    "Anna saat dokuzu çeyrek geçe yatağa gider."
+   ],
+   "answer": "Anna saat dokuz buçukta yatağa gider.",
+   "explanation_tr": "“At half past nine” saat dokuz buçukta demektir."
+  },
+  {
+   "id": "a1_gram_time_clock_009",
+   "unit": "a1_unit_14_time_clock",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "",
+   "question_tr": "Mark saat on ikide öğle yemeği yer.",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Mark have lunch at twelve o'clock.",
+    "Mark has lunch at twelve past o'clock.",
+    "Mark has lunch at twelve o'clock.",
+    "Mark has lunch at half past twelve."
+   ],
+   "answer": "Mark has lunch at twelve o'clock.",
+   "explanation_tr": "“Mark” ile fiile “-s” gelir; belirli bir saatten önce “at” kullanılır."
+  },
+  {
+   "id": "a1_gram_time_clock_010",
+   "unit": "a1_unit_14_time_clock",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "",
+   "question_tr": "Ben saat sekize çeyrek kala okula giderim.",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "I go to school at quarter to eight.",
+    "I goes to school at quarter to eight.",
+    "I go school at quarter to eight.",
+    "I go to school at quarter past eight."
+   ],
+   "answer": "I go to school at quarter to eight.",
+   "explanation_tr": "“Quarter to eight” saat sekize çeyrek kala demektir; “I” ile “go” kullanılır."
+  },
+  {
+   "id": "a1_gram_time_clock_011",
+   "unit": "a1_unit_14_time_clock",
+   "type": "match_pairs",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Eşleştir.",
+   "pairs": [
+    {
+     "en": "seven o'clock",
+     "tr": "Saat yedi"
+    },
+    {
+     "en": "half past seven",
+     "tr": "Saat yedi buçuk"
+    },
+    {
+     "en": "quarter past eight",
+     "tr": "Saat sekizi çeyrek geçiyor"
+    },
+    {
+     "en": "quarter to nine",
+     "tr": "Saat dokuza çeyrek var"
+    },
+    {
+     "en": "ten past six",
+     "tr": "Saat altıyı on geçiyor"
+    }
+   ],
+   "explanation_tr": "Saat ifadelerinde “past” geçen dakikaların geçtiğini, “to” ise bir sonraki saate kalan süreyi belirtir."
+  },
+  {
+   "id": "a1_gram_time_clock_012",
+   "unit": "a1_unit_14_time_clock",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "What time does you go to bed?",
+    "What time do you go to bed?",
+    "What time are you go to bed?"
+   ],
+   "answer": "What time do you go to bed?",
+   "explanation_tr": "“You” ile saat sorusu kurarken “What time do you …?” kalıbı kullanılır."
+  },
+  {
+   "id": "a1_gram_time_clock_013",
+   "unit": "a1_unit_14_time_clock",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "It is seven o'clock.",
+   "word_bank": [
+    "It",
+    "at",
+    "half",
+    "do",
+    "o'clock",
+    "seven",
+    "is"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Saat yedi.",
+   "explanation_tr": "Saatleri söylerken “It is” yapısını kullanırız. Tam saatlerde saatten sonra “o’clock” gelir."
+  },
+  {
+   "id": "a1_gram_time_clock_014",
+   "unit": "a1_unit_14_time_clock",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "It's half past seven.",
+   "word_bank": [
+    "seven",
+    "do",
+    "at",
+    "quarter",
+    "It's",
+    "past",
+    "half"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Saat yedi buçuk.",
+   "explanation_tr": "Buçuk saatleri söylemek için “half past” kullanılır. “It's” burada “It is” anlamına gelir."
+  },
+  {
+   "id": "a1_gram_time_clock_015",
+   "unit": "a1_unit_14_time_clock",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "It's quarter past eight.",
+   "word_bank": [
+    "past",
+    "eight",
+    "half",
+    "It's",
+    "do",
+    "quarter",
+    "at"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Saat sekizi çeyrek geçiyor.",
+   "explanation_tr": "Saatten çeyrek sonra için “quarter past” deriz. Saat ifadesinden önce “It's” kullanılır."
+  },
+  {
+   "id": "a1_gram_time_clock_016",
+   "unit": "a1_unit_14_time_clock",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "It's quarter to nine.",
+   "word_bank": [
+    "quarter",
+    "past",
+    "at",
+    "nine",
+    "to",
+    "do",
+    "It's"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Saat dokuza çeyrek var.",
+   "explanation_tr": "Bir sonraki saate çeyrek kala “quarter to” kullanılır. Bu yüzden “quarter to nine” dokuzdan önceki çeyrek saattir."
+  },
+  {
+   "id": "a1_gram_time_clock_017",
+   "unit": "a1_unit_14_time_clock",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "It's ten past ten.",
+   "word_bank": [
+    "past",
+    "at",
+    "ten",
+    "ten",
+    "It's",
+    "do",
+    "quarter"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Saat ona on geçiyor.",
+   "explanation_tr": "Saatten on dakika sonrası için “ten past” kullanılır. İlk “ten” dakika, ikinci “ten” saattir."
+  },
+  {
+   "id": "a1_gram_time_clock_018",
+   "unit": "a1_unit_14_time_clock",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "What time do you get up?",
+   "word_bank": [
+    "is",
+    "do",
+    "up",
+    "time",
+    "What",
+    "the",
+    "at",
+    "get",
+    "you"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Ne zaman kalkarsın?",
+   "explanation_tr": "Birine ne zaman bir şey yaptığını sorarken “What time do you” yapısını kullanırız. “Get up” kalkmak demektir."
+  },
+  {
+   "id": "a1_gram_time_clock_019",
+   "unit": "a1_unit_14_time_clock",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "What time it is?",
+    "What time is it?",
+    "What time does it?"
+   ],
+   "answer": "What time is it?",
+   "explanation_tr": "Saatin kaç olduğunu sormak için “What time is it?” deriz. Bu soruda “is” özne “it”ten önce gelir."
+  },
+  {
+   "id": "a1_gram_time_clock_020",
+   "unit": "a1_unit_14_time_clock",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "I get up at seven o'clock.",
+    "I get up in seven o'clock.",
+    "I gets up at seven o'clock."
+   ],
+   "answer": "I get up at seven o'clock.",
+   "explanation_tr": "Bir eylemin saatini söylerken “at” kullanılır. “I” öznesiyle fiilin yalın hâli olan “get” gelir."
+  },
+  {
+   "id": "a1_gram_time_clock_021",
+   "unit": "a1_unit_14_time_clock",
+   "type": "dictation",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Duyduğun cümleyi yaz.",
+   "answer": "It's half past six.",
+   "word_bank": [
+    "six",
+    "half",
+    "past",
+    "at",
+    "do",
+    "It's",
+    "quarter"
+   ],
+   "accepted_answers": [],
+   "sentence_tr": "Saat altı buçuk.",
+   "audio_text": "It's half past six.",
+   "explanation_tr": "Buçuk saatleri söylemek için “half past” kullanılır. Cümle “It's” ile başlar."
+  },
+  {
+   "id": "a1_gram_time_clock_022",
+   "unit": "a1_unit_14_time_clock",
+   "type": "dictation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Duyduğun cümleyi yaz.",
+   "answer": "I go to bed at ten.",
+   "word_bank": [
+    "to",
+    "is",
+    "half",
+    "ten",
+    "I",
+    "go",
+    "in",
+    "bed",
+    "at"
+   ],
+   "accepted_answers": [],
+   "sentence_tr": "Saat onda yatağa giderim.",
+   "audio_text": "I go to bed at ten.",
+   "explanation_tr": "Bir eylemin hangi saatte yapıldığını söylerken “at” kullanırız. “I” öznesinden sonra “go” fiili gelir."
+  },
+  {
+   "id": "a1_gram_time_clock_023",
+   "unit": "a1_unit_14_time_clock",
+   "type": "type_translation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "İngilizceye çevir ve yaz.",
+   "prompt_tr": "Saat kaçta kahvaltı yaparsın?",
+   "answer": "What time do you have breakfast?",
+   "accepted_answers": [
+    "At what time do you have breakfast?"
+   ],
+   "explanation_tr": "Birinin bir eylemi hangi saatte yaptığını sormak için “What time do you” kullanılır. “Have breakfast” kahvaltı yapmak demektir."
+  },
+  {
+   "id": "a1_gram_time_clock_024",
+   "unit": "a1_unit_14_time_clock",
+   "type": "type_translation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "İngilizceye çevir ve yaz.",
+   "prompt_tr": "Saat sekiz.",
+   "answer": "It's eight o'clock.",
+   "accepted_answers": [
+    "It is eight o'clock."
+   ],
+   "explanation_tr": "Tam saatleri söylemek için “It is” yapısını ve saatten sonra “o'clock” kelimesini kullanırız."
+  }
+ ]
+}

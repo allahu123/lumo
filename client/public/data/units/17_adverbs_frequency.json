@@ -1,0 +1,615 @@
+{
+ "unit_id": "a1_unit_17_adverbs_frequency",
+ "slug": "adverbs_frequency",
+ "order": 17,
+ "module": "m4",
+ "bonus_a1_plus": false,
+ "title_en": "Adverbs of frequency",
+ "title_tr": "Sıklık zarfları",
+ "level": "A1",
+ "related_vocab_topics": [
+  "adverbs_frequency",
+  "daily_verbs"
+ ],
+ "lesson": {
+  "goal_tr": "Bu dersin sonunda alışkanlıkların ne sıklıkta olduğunu söyleyebilir ve başkalarına sorabilirsin.",
+  "sections": [
+   {
+    "heading_tr": "Sıklık zarfları",
+    "explanation_tr": "always “her zaman”, usually “genellikle”, often “sık sık”, sometimes “bazen”, never ise “asla/hiç” anlamına gelir. Bu kelimeler bir şeyin ne sıklıkta olduğunu anlatır.",
+    "examples": [
+     {
+      "en": "I often eat breakfast.",
+      "tr": "Sık sık kahvaltı yaparım."
+     },
+     {
+      "en": "I never drink coffee.",
+      "tr": "Hiç kahve içmem."
+     }
+    ]
+   },
+   {
+    "heading_tr": "Cümledeki yerleri",
+    "explanation_tr": "Sıklık zarfı çoğunlukla asıl fiilden önce gelir: “I usually eat.” “Be” fiilinden sonra gelir: “I am usually happy.”",
+    "examples": [
+     {
+      "en": "She sometimes plays tennis.",
+      "tr": "Bazen tenis oynar."
+     },
+     {
+      "en": "He is often tired.",
+      "tr": "Sık sık yorgundur."
+     }
+    ]
+   },
+   {
+    "heading_tr": "Ne sıklıkta? How often?",
+    "explanation_tr": "Bir şeyin ne sıklıkta olduğunu sormak için “How often...?” kullanılır. Cevapta “once a week” haftada bir kez, “twice a week” haftada iki kez demektir.",
+    "examples": [
+     {
+      "en": "How often do you play tennis? I play tennis twice a week.",
+      "tr": "Ne sıklıkta tenis oynarsın? Haftada iki kez tenis oynarım."
+     },
+     {
+      "en": "How often do you walk? I walk once a week.",
+      "tr": "Ne sıklıkta yürüyüş yaparsın? Haftada bir kez yürüyüş yaparım."
+     }
+    ]
+   }
+  ],
+  "key_patterns": [
+   {
+    "pattern": "I + usually + eat + breakfast.",
+    "example_en": "I usually eat breakfast.",
+    "example_tr": "Genellikle kahvaltı yaparım."
+   },
+   {
+    "pattern": "She + be + often + adjective.",
+    "example_en": "She is often happy.",
+    "example_tr": "Sık sık mutlu olur."
+   },
+   {
+    "pattern": "How often + do + you + verb? — I + verb + once/twice a week.",
+    "example_en": "How often do you play tennis? I play tennis once a week.",
+    "example_tr": "Ne sıklıkta tenis oynarsın? Haftada bir kez tenis oynarım."
+   }
+  ],
+  "turkish_speaker_tips_tr": [
+   "Türkçede fiil genellikle cümlenin sonunda, İngilizcede ise özne-fiil-nesne sırasındadır: “I play tennis.”",
+   "Sıklık zarfı İngilizcede asıl fiilden önce, “be” fiilinden sonra gelir.",
+   "Türkçede “haftada iki kez” deriz; İngilizcede “twice a week” ifadesini kullanırız."
+  ],
+  "common_mistakes": [
+   {
+    "wrong": "I play usually tennis.",
+    "correct": "I usually play tennis.",
+    "note_tr": "Sıklık zarfı asıl fiilden önce gelir."
+   },
+   {
+    "wrong": "I am usually eat breakfast.",
+    "correct": "I usually eat breakfast.",
+    "note_tr": "“Eat” asıl fiildir; bu cümlede “am” kullanılmaz."
+   },
+   {
+    "wrong": "I am late never.",
+    "correct": "I am never late.",
+    "note_tr": "“Be” fiili kullanıldığında sıklık zarfı “be” fiilinden sonra gelir."
+   },
+   {
+    "wrong": "How many do you play tennis?",
+    "correct": "How often do you play tennis?",
+    "note_tr": "Ne sıklıkta olduğunu sormak için “How often?” kullanılır."
+   }
+  ],
+  "mini_dialogue": [
+   {
+    "speaker": "Anna",
+    "en": "How often do you play tennis?",
+    "tr": "Ne sıklıkta tenis oynarsın?"
+   },
+   {
+    "speaker": "Ali",
+    "en": "I play tennis twice a week.",
+    "tr": "Haftada iki kez tenis oynarım."
+   },
+   {
+    "speaker": "Anna",
+    "en": "Do you always play tennis in the evening?",
+    "tr": "Her zaman akşamları mı tenis oynarsın?"
+   },
+   {
+    "speaker": "Ali",
+    "en": "No, I sometimes play in the afternoon.",
+    "tr": "Hayır, bazen öğleden sonra oynarım."
+   }
+  ]
+ },
+ "exercise_counts": {
+  "fill_blank": 6,
+  "multiple_choice": 4,
+  "match_pairs": 1,
+  "choose_correct_sentence": 3,
+  "build_sentence": 6,
+  "dictation": 2,
+  "type_translation": 2
+ },
+ "exercises": [
+  {
+   "id": "a1_gram_adverbs_frequency_001",
+   "unit": "a1_unit_17_adverbs_frequency",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "I ___ eat breakfast; I eat it seven days a week.",
+   "sentence_tr": "Her zaman kahvaltı ederim; haftanın yedi günü kahvaltı ederim.",
+   "options": [
+    "often",
+    "usually",
+    "always",
+    "sometimes"
+   ],
+   "answer": "always",
+   "explanation_tr": "“Always”, eylemin her zaman yapıldığını belirtir. Sıklık zarfı ana fiilden önce gelir."
+  },
+  {
+   "id": "a1_gram_adverbs_frequency_002",
+   "unit": "a1_unit_17_adverbs_frequency",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "Anna is ___ happy; she is sad every day.",
+   "sentence_tr": "Anna hiç mutlu değildir; her gün üzgündür.",
+   "options": [
+    "always",
+    "never",
+    "sometimes",
+    "often"
+   ],
+   "answer": "never",
+   "explanation_tr": "“Never” hiçbir zaman anlamına gelir. “Be” fiilinden sonra kullanılır."
+  },
+  {
+   "id": "a1_gram_adverbs_frequency_003",
+   "unit": "a1_unit_17_adverbs_frequency",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "Tom plays tennis ___; he plays on one day each week.",
+   "sentence_tr": "Tom haftada bir kez tenis oynar; haftanın bir günü oynar.",
+   "options": [
+    "once a week",
+    "never",
+    "every day",
+    "twice a week"
+   ],
+   "answer": "once a week",
+   "explanation_tr": "“Once a week”, haftada bir kez demektir. Cümlede haftanın yalnızca bir gününden söz ediliyor."
+  },
+  {
+   "id": "a1_gram_adverbs_frequency_004",
+   "unit": "a1_unit_17_adverbs_frequency",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "How often ___ you play tennis?",
+   "sentence_tr": "Ne sıklıkla tenis oynarsın?",
+   "options": [
+    "does",
+    "do",
+    "are",
+    "is"
+   ],
+   "answer": "do",
+   "explanation_tr": "“You” ile “How often” sorusunda yardımcı fiil olarak “do” kullanılır."
+  },
+  {
+   "id": "a1_gram_adverbs_frequency_005",
+   "unit": "a1_unit_17_adverbs_frequency",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "We are ___ tired; this happens on one or two days each month.",
+   "sentence_tr": "Bazen yorgun oluruz; bu, ayda bir ya da iki gün olur.",
+   "options": [
+    "sometimes",
+    "usually",
+    "always",
+    "never"
+   ],
+   "answer": "sometimes",
+   "explanation_tr": "“Sometimes”, bazen anlamına gelir. “Be” fiilinden sonra kullanılır."
+  },
+  {
+   "id": "a1_gram_adverbs_frequency_006",
+   "unit": "a1_unit_17_adverbs_frequency",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "Mehmet ___ drinks tea; he drinks tea six days a week.",
+   "sentence_tr": "Mehmet genellikle çay içer; haftada altı gün çay içer.",
+   "options": [
+    "always",
+    "sometimes",
+    "never",
+    "usually"
+   ],
+   "answer": "usually",
+   "explanation_tr": "“Usually”, genellikle anlamına gelir ve ana fiilden önce kullanılır. Haftada altı gün, bu kullanım için uygundur."
+  },
+  {
+   "id": "a1_gram_adverbs_frequency_007",
+   "unit": "a1_unit_17_adverbs_frequency",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "How often do you play tennis? I play tennis twice a week.",
+   "question_tr": "",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Ne sıklıkla tenis oynarsın? Haftada bir kez tenis oynarım.",
+    "Ne sıklıkla tenis oynarsın? Haftada iki kez tenis oynarım.",
+    "Ne sıklıkla tenis oynarsın? Tenisi hiç oynamam.",
+    "Her gün tenis oynarsın. Haftada iki kez oynarım."
+   ],
+   "answer": "Ne sıklıkla tenis oynarsın? Haftada iki kez tenis oynarım.",
+   "explanation_tr": "“How often” ne sıklıkla anlamına gelir. “Twice a week”, haftada iki kez demektir."
+  },
+  {
+   "id": "a1_gram_adverbs_frequency_008",
+   "unit": "a1_unit_17_adverbs_frequency",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "Lisa is often happy.",
+   "question_tr": "",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Lisa sık sık mutlu olur.",
+    "Lisa her zaman mutludur.",
+    "Lisa bazen üzgündür.",
+    "Lisa hiç mutlu değildir."
+   ],
+   "answer": "Lisa sık sık mutlu olur.",
+   "explanation_tr": "“Often”, sık sık anlamına gelir. “Be” fiilinden sonra gelir."
+  },
+  {
+   "id": "a1_gram_adverbs_frequency_009",
+   "unit": "a1_unit_17_adverbs_frequency",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "",
+   "question_tr": "Haftada bir kez kitap okurum.",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "I never read a book.",
+    "I reads a book once a week.",
+    "I read a book twice a week.",
+    "I read a book once a week."
+   ],
+   "answer": "I read a book once a week.",
+   "explanation_tr": "“Once a week”, haftada bir kez demektir. “I” öznesinden sonra fiilin yalın hâli olan “read” kullanılır."
+  },
+  {
+   "id": "a1_gram_adverbs_frequency_010",
+   "unit": "a1_unit_17_adverbs_frequency",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "",
+   "question_tr": "Mark genellikle akşam yemeği yer.",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Mark usually eat dinner.",
+    "Mark eats usually dinner.",
+    "Mark usually eats dinner.",
+    "Mark never eats dinner."
+   ],
+   "answer": "Mark usually eats dinner.",
+   "explanation_tr": "“Usually”, ana fiil olan “eats”ten önce gelir. “Mark” ile fiile “-s” eklenir."
+  },
+  {
+   "id": "a1_gram_adverbs_frequency_011",
+   "unit": "a1_unit_17_adverbs_frequency",
+   "type": "match_pairs",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Eşleştir.",
+   "pairs": [
+    {
+     "en": "always",
+     "tr": "her zaman"
+    },
+    {
+     "en": "usually",
+     "tr": "genellikle"
+    },
+    {
+     "en": "often",
+     "tr": "sık sık"
+    },
+    {
+     "en": "sometimes",
+     "tr": "bazen"
+    },
+    {
+     "en": "never",
+     "tr": "hiçbir zaman"
+    }
+   ],
+   "explanation_tr": "Bu sıklık zarfları bir eylemin ne kadar sık yapıldığını anlatır."
+  },
+  {
+   "id": "a1_gram_adverbs_frequency_012",
+   "unit": "a1_unit_17_adverbs_frequency",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "She often read a book.",
+    "She often reads a book.",
+    "She reads often a book."
+   ],
+   "answer": "She often reads a book.",
+   "explanation_tr": "Sıklık zarfı ana fiilden önce gelir. “She” ile geniş zamanda fiile “-s” eklenir."
+  },
+  {
+   "id": "a1_gram_adverbs_frequency_013",
+   "unit": "a1_unit_17_adverbs_frequency",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "I usually eat breakfast.",
+   "word_bank": [
+    "breakfast",
+    "never",
+    "am",
+    "I",
+    "usually",
+    "eat",
+    "often"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Ben genellikle kahvaltı yaparım.",
+   "explanation_tr": "Sıklık zarfı usually, ana fiil eat'ten önce gelir."
+  },
+  {
+   "id": "a1_gram_adverbs_frequency_014",
+   "unit": "a1_unit_17_adverbs_frequency",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "She is often happy.",
+   "word_bank": [
+    "often",
+    "She",
+    "always",
+    "sad",
+    "be",
+    "is",
+    "happy"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "O sık sık mutlu olur.",
+   "explanation_tr": "Be fiilinden sonra sıklık zarfı, sıfattan önce gelir."
+  },
+  {
+   "id": "a1_gram_adverbs_frequency_015",
+   "unit": "a1_unit_17_adverbs_frequency",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "We sometimes play tennis after school.",
+   "word_bank": [
+    "after",
+    "the",
+    "We",
+    "play",
+    "sometimes",
+    "school",
+    "is",
+    "never",
+    "tennis"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Biz bazen okuldan sonra tenis oynarız.",
+   "explanation_tr": "Sometimes, ana fiil play'den önce kullanılır."
+  },
+  {
+   "id": "a1_gram_adverbs_frequency_016",
+   "unit": "a1_unit_17_adverbs_frequency",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Mehmet usually reads a book at night.",
+   "word_bank": [
+    "usually",
+    "book",
+    "is",
+    "never",
+    "Mehmet",
+    "night",
+    "at",
+    "reads",
+    "often",
+    "a"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Mehmet genellikle gece bir kitap okur.",
+   "explanation_tr": "Usually, ana fiil reads'ten önce gelir."
+  },
+  {
+   "id": "a1_gram_adverbs_frequency_017",
+   "unit": "a1_unit_17_adverbs_frequency",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "How often do you play tennis?",
+   "word_bank": [
+    "play",
+    "you",
+    "does",
+    "the",
+    "often",
+    "How",
+    "always",
+    "tennis",
+    "do"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Ne sıklıkla tenis oynarsın?",
+   "explanation_tr": "Ne sıklıkla diye sormak için How often do you kalıbı kullanılır."
+  },
+  {
+   "id": "a1_gram_adverbs_frequency_018",
+   "unit": "a1_unit_17_adverbs_frequency",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "I visit my aunt twice a week.",
+   "word_bank": [
+    "visit",
+    "the",
+    "week",
+    "aunt",
+    "does",
+    "I",
+    "twice",
+    "a",
+    "often",
+    "my"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Teyzemi haftada iki kez ziyaret ederim.",
+   "explanation_tr": "Bir etkinliğin sıklığını belirtmek için twice a week kullanılır."
+  },
+  {
+   "id": "a1_gram_adverbs_frequency_019",
+   "unit": "a1_unit_17_adverbs_frequency",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "Ali sometimes busy.",
+    "Ali are sometimes busy.",
+    "Ali is sometimes busy."
+   ],
+   "answer": "Ali is sometimes busy.",
+   "explanation_tr": "Be fiili is, sıklık zarfı sometimes'tan önce gelir."
+  },
+  {
+   "id": "a1_gram_adverbs_frequency_020",
+   "unit": "a1_unit_17_adverbs_frequency",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "I usually eat breakfast.",
+    "I eat usually breakfast.",
+    "I usually eats breakfast."
+   ],
+   "answer": "I usually eat breakfast.",
+   "explanation_tr": "I ile fiil eat biçiminde kullanılır; usually ana fiilden önce gelir."
+  },
+  {
+   "id": "a1_gram_adverbs_frequency_021",
+   "unit": "a1_unit_17_adverbs_frequency",
+   "type": "dictation",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Duyduğun cümleyi yaz.",
+   "answer": "We often walk to school.",
+   "word_bank": [
+    "read",
+    "never",
+    "often",
+    "We",
+    "school",
+    "to",
+    "walk",
+    "usually"
+   ],
+   "accepted_answers": [],
+   "sentence_tr": "Okula sık sık yürürüz.",
+   "audio_text": "We often walk to school.",
+   "explanation_tr": "Often, ana fiil walk'tan önce gelir."
+  },
+  {
+   "id": "a1_gram_adverbs_frequency_022",
+   "unit": "a1_unit_17_adverbs_frequency",
+   "type": "dictation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Duyduğun cümleyi yaz.",
+   "answer": "Anna is always happy.",
+   "word_bank": [
+    "Anna",
+    "always",
+    "happy",
+    "often",
+    "busy",
+    "sad",
+    "is"
+   ],
+   "accepted_answers": [],
+   "sentence_tr": "Anna her zaman mutludur.",
+   "audio_text": "Anna is always happy.",
+   "explanation_tr": "Be fiili is'ten sonra always, sıfattan önce gelir."
+  },
+  {
+   "id": "a1_gram_adverbs_frequency_023",
+   "unit": "a1_unit_17_adverbs_frequency",
+   "type": "type_translation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "İngilizceye çevir ve yaz.",
+   "prompt_tr": "Ali haftada bir kez tenis oynar.",
+   "answer": "Ali plays tennis once a week.",
+   "accepted_answers": [
+    "Ali plays tennis one time a week."
+   ],
+   "explanation_tr": "Once a week, haftada bir kez anlamına gelir."
+  },
+  {
+   "id": "a1_gram_adverbs_frequency_024",
+   "unit": "a1_unit_17_adverbs_frequency",
+   "type": "type_translation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "İngilizceye çevir ve yaz.",
+   "prompt_tr": "Ben asla kahve içmem.",
+   "answer": "I never drink coffee.",
+   "accepted_answers": [
+    "I do not ever drink coffee.",
+    "I don't ever drink coffee."
+   ],
+   "explanation_tr": "Never, bir şeyi hiç yapmadığımızı anlatır ve ana fiilden önce gelir."
+  }
+ ]
+}

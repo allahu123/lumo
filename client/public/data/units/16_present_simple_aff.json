@@ -1,0 +1,613 @@
+{
+ "unit_id": "a1_unit_16_present_simple_aff",
+ "slug": "present_simple_aff",
+ "order": 16,
+ "module": "m4",
+ "bonus_a1_plus": false,
+ "title_en": "Present simple: affirmative",
+ "title_tr": "Geniş zaman: olumlu",
+ "level": "A1",
+ "related_vocab_topics": [
+  "daily_verbs"
+ ],
+ "lesson": {
+  "goal_tr": "Bu dersin sonunda günlük alışkanlıklarınızı ve genel gerçekleri geniş zamanın olumlu biçimiyle anlatabilirsiniz.",
+  "sections": [
+   {
+    "heading_tr": "Cümle yapısı",
+    "explanation_tr": "Olumlu cümlede özne fiilden önce gelir. I/you/we/they ile fiilin yalın hâlini, he/she/it ile fiile ek almış hâlini kullanırız. I work every day. (Her gün çalışırım.) He works every day. (Her gün çalışır.)",
+    "examples": [
+     {
+      "en": "I work every day.",
+      "tr": "Her gün çalışırım."
+     },
+     {
+      "en": "He works every day.",
+      "tr": "Her gün çalışır."
+     }
+    ]
+   },
+   {
+    "heading_tr": "Kullanım",
+    "explanation_tr": "Geniş zamanı günlük rutinler, alışkanlıklar ve genel gerçekler için kullanırız. I eat breakfast every day. (Her gün kahvaltı ederim.) Birds fly. (Kuşlar uçar.)",
+    "examples": [
+     {
+      "en": "I eat breakfast every day.",
+      "tr": "Her gün kahvaltı ederim."
+     },
+     {
+      "en": "Birds fly.",
+      "tr": "Kuşlar uçar."
+     }
+    ]
+   },
+   {
+    "heading_tr": "Yazım değişiklikleri",
+    "explanation_tr": "He/she/it ile çoğu fiile -s eklenir; sonu -o, -ch, -sh veya -x olan fiillere genellikle -es gelir. Sessiz harften sonra gelen -y, -ies olur; sesli harften sonra gelen -y ise değişmez, yalnızca -s alır. He goes to school. (Okula gider.) She watches TV. (TV izler.) She studies at home. (Evde ders çalışır.)",
+    "examples": [
+     {
+      "en": "He goes to school.",
+      "tr": "Okula gider."
+     },
+     {
+      "en": "She watches TV.",
+      "tr": "TV izler."
+     },
+     {
+      "en": "She studies at home.",
+      "tr": "Evde ders çalışır."
+     }
+    ]
+   }
+  ],
+  "key_patterns": [
+   {
+    "pattern": "I/you/we/they + work",
+    "example_en": "I work every day.",
+    "example_tr": "Her gün çalışırım."
+   },
+   {
+    "pattern": "he/she/it + fiil-s",
+    "example_en": "He works every day.",
+    "example_tr": "Her gün çalışır."
+   },
+   {
+    "pattern": "go → goes; watch → watches; study → studies",
+    "example_en": "She studies at home.",
+    "example_tr": "Evde ders çalışır."
+   }
+  ],
+  "turkish_speaker_tips_tr": [
+   "Türkçede özne çoğu zaman söylenmez; İngilizcede olumlu cümlede özneyi genellikle kullanırız.",
+   "Türkçede fiil çoğunlukla cümlenin sonunda, İngilizcede ise özne-fiil sırasıyla gelir.",
+   "Türkçedeki “o”, İngilizcede kişiye ya da şeye göre he, she veya it olur.",
+   "Türkçede geniş zaman ekleri özneye göre değişebilir; İngilizcede fiile -s eki yalnızca he, she ve it ile gelir."
+  ],
+  "common_mistakes": [
+   {
+    "wrong": "He work every day.",
+    "correct": "He works every day.",
+    "note_tr": "He ile fiile -s eklemeyi unutmayın."
+   },
+   {
+    "wrong": "She go to school.",
+    "correct": "She goes to school.",
+    "note_tr": "Go fiili he/she/it ile goes olur."
+   },
+   {
+    "wrong": "They works at a bank.",
+    "correct": "They work at a bank.",
+    "note_tr": "They ile fiil yalın hâlde kullanılır; -s eklenmez."
+   }
+  ],
+  "mini_dialogue": [
+   {
+    "speaker": "Anna",
+    "en": "I work at a school.",
+    "tr": "Bir okulda çalışırım."
+   },
+   {
+    "speaker": "Ali",
+    "en": "I work at a bank.",
+    "tr": "Bir bankada çalışırım."
+   },
+   {
+    "speaker": "Anna",
+    "en": "My sister studies at a university.",
+    "tr": "Kız kardeşim bir üniversitede okur."
+   },
+   {
+    "speaker": "Ali",
+    "en": "She lives in Ankara.",
+    "tr": "Ankara'da yaşar."
+   }
+  ]
+ },
+ "exercise_counts": {
+  "fill_blank": 6,
+  "multiple_choice": 4,
+  "match_pairs": 1,
+  "choose_correct_sentence": 3,
+  "build_sentence": 6,
+  "dictation": 2,
+  "type_translation": 2
+ },
+ "exercises": [
+  {
+   "id": "a1_gram_present_simple_aff_001",
+   "unit": "a1_unit_16_present_simple_aff",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "I ___ my room every day.",
+   "sentence_tr": "Her gün odamı temizlerim.",
+   "options": [
+    "is clean",
+    "clean",
+    "cleans",
+    "am clean"
+   ],
+   "answer": "clean",
+   "explanation_tr": "I ile fiilin yalın hâli kullanılır: clean."
+  },
+  {
+   "id": "a1_gram_present_simple_aff_002",
+   "unit": "a1_unit_16_present_simple_aff",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "He ___ home after work.",
+   "sentence_tr": "İşten sonra eve gider.",
+   "options": [
+    "goes",
+    "is go",
+    "going",
+    "go"
+   ],
+   "answer": "goes",
+   "explanation_tr": "He ile fiile -s gelir; go fiili goes olur."
+  },
+  {
+   "id": "a1_gram_present_simple_aff_003",
+   "unit": "a1_unit_16_present_simple_aff",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "We ___ TV in the evening.",
+   "sentence_tr": "Akşamları televizyon izleriz.",
+   "options": [
+    "watch",
+    "watches",
+    "are watch",
+    "watching"
+   ],
+   "answer": "watch",
+   "explanation_tr": "We ile fiilin yalın hâli kullanılır: watch."
+  },
+  {
+   "id": "a1_gram_present_simple_aff_004",
+   "unit": "a1_unit_16_present_simple_aff",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "She ___ at home.",
+   "sentence_tr": "Evde ders çalışır.",
+   "options": [
+    "studies",
+    "studying",
+    "study",
+    "is studies"
+   ],
+   "answer": "studies",
+   "explanation_tr": "She ile study fiilinin sonundaki y, -ies olur: studies."
+  },
+  {
+   "id": "a1_gram_present_simple_aff_005",
+   "unit": "a1_unit_16_present_simple_aff",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "They ___ in Ankara.",
+   "sentence_tr": "Ankara'da yaşarlar.",
+   "options": [
+    "lives",
+    "living",
+    "live",
+    "is live"
+   ],
+   "answer": "live",
+   "explanation_tr": "They ile fiilin yalın hâli kullanılır: live."
+  },
+  {
+   "id": "a1_gram_present_simple_aff_006",
+   "unit": "a1_unit_16_present_simple_aff",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "My brother ___ coffee every morning.",
+   "sentence_tr": "Erkek kardeşim her sabah kahve içer.",
+   "options": [
+    "drink",
+    "drinking",
+    "drinks",
+    "is drinks"
+   ],
+   "answer": "drinks",
+   "explanation_tr": "My brother, he anlamındadır; bu nedenle fiile -s gelir: drinks."
+  },
+  {
+   "id": "a1_gram_present_simple_aff_007",
+   "unit": "a1_unit_16_present_simple_aff",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "Anna watches TV at night.",
+   "question_tr": "",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Anna geceleri televizyon izlemem.",
+    "Anna geceleri televizyon izler.",
+    "Anna geceleri televizyon izlerler.",
+    "Anna geceleri televizyon izlemek."
+   ],
+   "answer": "Anna geceleri televizyon izler.",
+   "explanation_tr": "Anna için watches kullanılır; bu, düzenli yaptığı bir eylemi anlatır."
+  },
+  {
+   "id": "a1_gram_present_simple_aff_008",
+   "unit": "a1_unit_16_present_simple_aff",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "I drink coffee in the morning.",
+   "question_tr": "",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Sabahları kahve içerim.",
+    "Sabahları kahve içer.",
+    "Sabahları kahve içersin.",
+    "Sabahları kahve içmeyiz."
+   ],
+   "answer": "Sabahları kahve içerim.",
+   "explanation_tr": "I drink, “kahve içerim” demektir; I ile drink yalın hâlde kalır."
+  },
+  {
+   "id": "a1_gram_present_simple_aff_009",
+   "unit": "a1_unit_16_present_simple_aff",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "",
+   "question_tr": "Ali her gün evde çalışır.",
+   "sentence_en": "",
+   "sentence_tr": "Ali her gün evde çalışır.",
+   "options": [
+    "Ali works at home every day.",
+    "Ali work at home every day.",
+    "Ali works at home every days.",
+    "Ali is work at home every day."
+   ],
+   "answer": "Ali works at home every day.",
+   "explanation_tr": "Ali, he anlamındadır; work fiiline -s eklenir: works."
+  },
+  {
+   "id": "a1_gram_present_simple_aff_010",
+   "unit": "a1_unit_16_present_simple_aff",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "",
+   "question_tr": "Zeynep hafta sonları müzik dinler.",
+   "sentence_en": "",
+   "sentence_tr": "Zeynep hafta sonları müzik dinler.",
+   "options": [
+    "Zeynep listens to music on weekends.",
+    "Zeynep listen to music on weekends.",
+    "Zeynep listens to musics on weekends.",
+    "Zeynep listens music on weekends."
+   ],
+   "answer": "Zeynep listens to music on weekends.",
+   "explanation_tr": "Zeynep için listen fiiline -s gelir; listen to music ifadesinde to kullanılır."
+  },
+  {
+   "id": "a1_gram_present_simple_aff_011",
+   "unit": "a1_unit_16_present_simple_aff",
+   "type": "match_pairs",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Eşleştir.",
+   "pairs": [
+    {
+     "en": "work every day",
+     "tr": "her gün çalışmak"
+    },
+    {
+     "en": "go home",
+     "tr": "eve gitmek"
+    },
+    {
+     "en": "watch TV",
+     "tr": "televizyon izlemek"
+    },
+    {
+     "en": "study at home",
+     "tr": "evde ders çalışmak"
+    },
+    {
+     "en": "drink water",
+     "tr": "su içmek"
+    }
+   ],
+   "explanation_tr": "Bu ifadeler günlük rutinlerde kullanılan fiil ve kısa söz öbekleridir."
+  },
+  {
+   "id": "a1_gram_present_simple_aff_012",
+   "unit": "a1_unit_16_present_simple_aff",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "He go to work every day.",
+    "He goes to works every day.",
+    "He goes to work every day."
+   ],
+   "answer": "He goes to work every day.",
+   "explanation_tr": "He ile go fiili goes olur; to work ifadesinde work yalın kalır."
+  },
+  {
+   "id": "a1_gram_present_simple_aff_013",
+   "unit": "a1_unit_16_present_simple_aff",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "I drink tea every morning.",
+   "word_bank": [
+    "she",
+    "drink",
+    "I",
+    "tea",
+    "morning",
+    "every",
+    "yesterday",
+    "drinks"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Her sabah çay içerim.",
+   "explanation_tr": "“I” öznesiyle fiilin yalın hâli kullanılır: “drink”."
+  },
+  {
+   "id": "a1_gram_present_simple_aff_014",
+   "unit": "a1_unit_16_present_simple_aff",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "They play football after school.",
+   "word_bank": [
+    "he",
+    "play",
+    "plays",
+    "school",
+    "They",
+    "football",
+    "yesterday",
+    "after"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Okuldan sonra futbol oynarlar.",
+   "explanation_tr": "“They” öznesinden sonra fiilin yalın hâli gelir: “play”."
+  },
+  {
+   "id": "a1_gram_present_simple_aff_015",
+   "unit": "a1_unit_16_present_simple_aff",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Anna goes to work by bus.",
+   "word_bank": [
+    "bus",
+    "car",
+    "go",
+    "work",
+    "Anna",
+    "by",
+    "she",
+    "goes",
+    "to"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Anna işe otobüsle gider.",
+   "explanation_tr": "“Anna” üçüncü tekil şahıstır; “go” fiili bu özneyle “goes” olur."
+  },
+  {
+   "id": "a1_gram_present_simple_aff_016",
+   "unit": "a1_unit_16_present_simple_aff",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "He watches television in the evening.",
+   "word_bank": [
+    "they",
+    "in",
+    "television",
+    "watch",
+    "the",
+    "He",
+    "morning",
+    "watches",
+    "evening"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Akşamları televizyon izler.",
+   "explanation_tr": "“He” ile fiile “-s” eklenir; “watch” fiili “-es” alarak “watches” olur."
+  },
+  {
+   "id": "a1_gram_present_simple_aff_017",
+   "unit": "a1_unit_16_present_simple_aff",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "My sister studies English at home.",
+   "word_bank": [
+    "at",
+    "school",
+    "English",
+    "study",
+    "home",
+    "studies",
+    "sister",
+    "My",
+    "he"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Kız kardeşim evde İngilizce çalışır.",
+   "explanation_tr": "“Study” fiili “-y” ile bittiği için üçüncü tekil şahısta “-ies” olur: “studies”."
+  },
+  {
+   "id": "a1_gram_present_simple_aff_018",
+   "unit": "a1_unit_16_present_simple_aff",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "We visit our grandmother every Sunday.",
+   "word_bank": [
+    "tomorrow",
+    "We",
+    "visit",
+    "grandmother",
+    "she",
+    "every",
+    "Sunday",
+    "visits",
+    "our"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Her pazar büyükannemizi ziyaret ederiz.",
+   "explanation_tr": "“We” öznesiyle fiilin yalın hâli kullanılır: “visit”."
+  },
+  {
+   "id": "a1_gram_present_simple_aff_019",
+   "unit": "a1_unit_16_present_simple_aff",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "She study at home every day.",
+    "She studies at home every day.",
+    "They studies at home every day."
+   ],
+   "answer": "She studies at home every day.",
+   "explanation_tr": "“She” üçüncü tekil şahıs olduğu için fiil “studies” olmalıdır."
+  },
+  {
+   "id": "a1_gram_present_simple_aff_020",
+   "unit": "a1_unit_16_present_simple_aff",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "He watch TV every night.",
+    "He watches TV every night.",
+    "They watches TV every night."
+   ],
+   "answer": "He watches TV every night.",
+   "explanation_tr": "“He” ile “watch” fiili “-es” alır: “watches”."
+  },
+  {
+   "id": "a1_gram_present_simple_aff_021",
+   "unit": "a1_unit_16_present_simple_aff",
+   "type": "dictation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Duyduğun cümleyi yaz.",
+   "answer": "Tom works every day.",
+   "word_bank": [
+    "works",
+    "Tom",
+    "work",
+    "home",
+    "he",
+    "day",
+    "every"
+   ],
+   "accepted_answers": [],
+   "sentence_tr": "Tom her gün çalışır.",
+   "audio_text": "Tom works every day.",
+   "explanation_tr": "“Tom” üçüncü tekil şahıs olduğu için “work” fiili “works” olur."
+  },
+  {
+   "id": "a1_gram_present_simple_aff_022",
+   "unit": "a1_unit_16_present_simple_aff",
+   "type": "dictation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Duyduğun cümleyi yaz.",
+   "answer": "My father works in Ankara.",
+   "word_bank": [
+    "they",
+    "in",
+    "father",
+    "works",
+    "school",
+    "Ankara",
+    "work",
+    "My"
+   ],
+   "accepted_answers": [],
+   "sentence_tr": "Babam Ankara'da çalışır.",
+   "audio_text": "My father works in Ankara.",
+   "explanation_tr": "“My father” üçüncü tekil şahıstır; bu nedenle “work” fiiline “-s” eklenir."
+  },
+  {
+   "id": "a1_gram_present_simple_aff_023",
+   "unit": "a1_unit_16_present_simple_aff",
+   "type": "type_translation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "İngilizceye çevir ve yaz.",
+   "prompt_tr": "Annem her gün akşam yemeği pişirir.",
+   "answer": "My mother cooks dinner every day.",
+   "accepted_answers": [
+    "My mum cooks dinner every day."
+   ],
+   "explanation_tr": "“My mother” üçüncü tekil şahıs olduğu için “cook” fiili “cooks” olur."
+  },
+  {
+   "id": "a1_gram_present_simple_aff_024",
+   "unit": "a1_unit_16_present_simple_aff",
+   "type": "type_translation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "İngilizceye çevir ve yaz.",
+   "prompt_tr": "Zeynep her akşam İngilizce çalışır.",
+   "answer": "Zeynep studies English every evening.",
+   "accepted_answers": [
+    "Zeynep studies English each evening."
+   ],
+   "explanation_tr": "“Zeynep” üçüncü tekil şahıstır; “study” fiili “-y” yerine “-ies” alır."
+  }
+ ]
+}

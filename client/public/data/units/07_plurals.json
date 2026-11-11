@@ -1,0 +1,619 @@
+{
+ "unit_id": "a1_unit_07_plurals",
+ "slug": "plurals",
+ "order": 7,
+ "module": "m2",
+ "bonus_a1_plus": false,
+ "title_en": "Plural nouns",
+ "title_tr": "Çoğul isimler",
+ "level": "A1",
+ "related_vocab_topics": [
+  "general_nouns"
+ ],
+ "lesson": {
+  "goal_tr": "Bu dersin sonunda düzenli ve düzensiz isimlerin çoğul biçimlerini kullanabilir, sayılarla doğru çoğul ismi kurabilirsin.",
+  "sections": [
+   {
+    "heading_tr": "1. Düzenli çoğul: -s",
+    "explanation_tr": "Çoğu ismin çoğulunu yapmak için sonuna -s eklenir. Bir isimden bir tane varsa tekil, birden fazla varsa çoğul biçimi kullanılır.",
+    "examples": [
+     {
+      "en": "one cat → two cats",
+      "tr": "bir kedi → iki kedi"
+     },
+     {
+      "en": "I have two cats.",
+      "tr": "İki kedim var."
+     }
+    ]
+   },
+   {
+    "heading_tr": "2. Yazım değişiklikleri: -es ve -ies",
+    "explanation_tr": "Sonu s, sh, ch, x veya z ile biten isimlere genellikle -es eklenir. İsim sessiz harf + y ile bitiyorsa y düşer, yerine -ies gelir.",
+    "examples": [
+     {
+      "en": "one box → two boxes",
+      "tr": "bir kutu → iki kutu"
+     },
+     {
+      "en": "one bus → two buses",
+      "tr": "bir otobüs → iki otobüs"
+     },
+     {
+      "en": "one city → two cities",
+      "tr": "bir şehir → iki şehir"
+     }
+    ]
+   },
+   {
+    "heading_tr": "3. Düzensiz çoğullar ve sayılar",
+    "explanation_tr": "Bazı isimlerin çoğulu kurala uymaz; bu biçimleri öğrenmek gerekir. Birden fazla sayılarla çoğul isim kullanılır: İngilizcede sayıdan sonra isim çoğul olur.",
+    "examples": [
+     {
+      "en": "one child → two children",
+      "tr": "bir çocuk → iki çocuk"
+     },
+     {
+      "en": "one man → two men; one woman → two women",
+      "tr": "bir erkek → iki erkek; bir kadın → iki kadın"
+     },
+     {
+      "en": "one foot → two feet; one tooth → two teeth",
+      "tr": "bir ayak → iki ayak; bir diş → iki diş"
+     },
+     {
+      "en": "one person → two people",
+      "tr": "bir kişi → iki kişi"
+     }
+    ]
+   }
+  ],
+  "key_patterns": [
+   {
+    "pattern": "one + cat → one cat; two + cat → two cats",
+    "example_en": "I have two cats.",
+    "example_tr": "İki kedim var."
+   },
+   {
+    "pattern": "one + box → one box; two + box → two boxes",
+    "example_en": "I have two boxes.",
+    "example_tr": "İki kutum var."
+   },
+   {
+    "pattern": "one + city → one city; two + city → two cities",
+    "example_en": "Two cities.",
+    "example_tr": "İki şehir."
+   },
+   {
+    "pattern": "one + child → one child; two + child → two children",
+    "example_en": "There are two children.",
+    "example_tr": "İki çocuk var."
+   }
+  ],
+  "turkish_speaker_tips_tr": [
+   "Türkçede sayıdan sonra isim genellikle tekil kalır: “iki kedi”. İngilizcede sayı birden fazlaysa isim çoğul olur: “two cats”.",
+   "Türkçede çoğul eki -lar/-ler, İngilizcede ise çoğu isimde -s kullanılır; ancak -es, -ies ve düzensiz biçimlere dikkat et."
+  ],
+  "common_mistakes": [
+   {
+    "wrong": "Two cat.",
+    "correct": "Two cats.",
+    "note_tr": "İngilizcede birden büyük sayıdan sonra isim çoğul olur."
+   },
+   {
+    "wrong": "Three box.",
+    "correct": "Three boxes.",
+    "note_tr": "Sonu x ile biten isimlere çoğul yaparken -es eklenir."
+   },
+   {
+    "wrong": "Two citys.",
+    "correct": "Two cities.",
+    "note_tr": "Sessiz harf + y ile biten city sözcüğünde y düşer ve -ies gelir."
+   },
+   {
+    "wrong": "Two childs.",
+    "correct": "Two children.",
+    "note_tr": "Child düzensizdir; çoğulu children olur."
+   }
+  ],
+  "mini_dialogue": [
+   {
+    "speaker": "Anna",
+    "en": "How many children are there?",
+    "tr": "Kaç çocuk var?"
+   },
+   {
+    "speaker": "Ali",
+    "en": "There are two children.",
+    "tr": "İki çocuk var."
+   },
+   {
+    "speaker": "Anna",
+    "en": "How many buses are there?",
+    "tr": "Kaç otobüs var?"
+   },
+   {
+    "speaker": "Ali",
+    "en": "There are three buses.",
+    "tr": "Üç otobüs var."
+   }
+  ]
+ },
+ "exercise_counts": {
+  "fill_blank": 6,
+  "multiple_choice": 4,
+  "match_pairs": 1,
+  "choose_correct_sentence": 3,
+  "build_sentence": 6,
+  "dictation": 2,
+  "type_translation": 2
+ },
+ "exercises": [
+  {
+   "id": "a1_gram_plurals_001",
+   "unit": "a1_unit_07_plurals",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "I have two ___.",
+   "sentence_tr": "İki kedim var.",
+   "options": [
+    "caties",
+    "cats",
+    "cat's",
+    "cat"
+   ],
+   "answer": "cats",
+   "explanation_tr": "İki gibi bir sayıdan sonra isim çoğul olur. Cat kelimesi düzenli olarak -s alır: cats."
+  },
+  {
+   "id": "a1_gram_plurals_002",
+   "unit": "a1_unit_07_plurals",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "There are three ___.",
+   "sentence_tr": "Üç kutu var.",
+   "options": [
+    "boxeses",
+    "box",
+    "boxes",
+    "boxs"
+   ],
+   "answer": "boxes",
+   "explanation_tr": "Box kelimesi -x ile bittiği için çoğul yaparken -es alır: boxes."
+  },
+  {
+   "id": "a1_gram_plurals_003",
+   "unit": "a1_unit_07_plurals",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "Two ___ are in Turkey.",
+   "sentence_tr": "Türkiye'de iki şehir var.",
+   "options": [
+    "city",
+    "citys",
+    "cities",
+    "cityes"
+   ],
+   "answer": "cities",
+   "explanation_tr": "Ünsüz + y ile biten city kelimesinde y düşer ve -ies gelir: cities."
+  },
+  {
+   "id": "a1_gram_plurals_004",
+   "unit": "a1_unit_07_plurals",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "There are two ___ in the room.",
+   "sentence_tr": "Odada iki çocuk var.",
+   "options": [
+    "childs",
+    "childrens",
+    "children",
+    "child"
+   ],
+   "answer": "children",
+   "explanation_tr": "Child kelimesinin çoğulu düzensizdir: children. Bu nedenle -s eklemeyiz."
+  },
+  {
+   "id": "a1_gram_plurals_005",
+   "unit": "a1_unit_07_plurals",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "Two ___ are on the bus.",
+   "sentence_tr": "Otobüste iki erkek var.",
+   "options": [
+    "mens",
+    "men",
+    "man",
+    "mans"
+   ],
+   "answer": "men",
+   "explanation_tr": "Man kelimesinin düzensiz çoğulu men'dir. İki kişi olduğu için çoğul biçim gerekir."
+  },
+  {
+   "id": "a1_gram_plurals_006",
+   "unit": "a1_unit_07_plurals",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "I have two ___.",
+   "sentence_tr": "İki ayağım var.",
+   "options": [
+    "feet",
+    "foot",
+    "feets",
+    "foots"
+   ],
+   "answer": "feet",
+   "explanation_tr": "Foot kelimesinin düzensiz çoğulu feet'tir. Bu yüzden two ile feet kullanılır."
+  },
+  {
+   "id": "a1_gram_plurals_007",
+   "unit": "a1_unit_07_plurals",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "I see four buses.",
+   "question_tr": "",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Bir otobüs görüyorum.",
+    "Dört otobüs görüyorum.",
+    "Dört otobüs görüyor.",
+    "Dört kutu görüyorum."
+   ],
+   "answer": "Dört otobüs görüyorum.",
+   "explanation_tr": "Buses, bus kelimesinin çoğuludur ve “otobüsler” anlamına gelir. Four ise dört demektir."
+  },
+  {
+   "id": "a1_gram_plurals_008",
+   "unit": "a1_unit_07_plurals",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "There are two people.",
+   "question_tr": "",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "İki çocuk var.",
+    "İki kişi var.",
+    "Bir kişi var.",
+    "İki kadın var."
+   ],
+   "answer": "İki kişi var.",
+   "explanation_tr": "People, person kelimesinin düzensiz çoğuludur ve “insanlar/kişiler” demektir."
+  },
+  {
+   "id": "a1_gram_plurals_009",
+   "unit": "a1_unit_07_plurals",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "",
+   "question_tr": "Üç kutu var.",
+   "sentence_en": "",
+   "sentence_tr": "Üç kutu var.",
+   "options": [
+    "There are three box.",
+    "There are three boxs.",
+    "There are three boxes.",
+    "There is three boxes."
+   ],
+   "answer": "There are three boxes.",
+   "explanation_tr": "Three sayısından sonra box çoğul kullanılır. Box kelimesinin doğru çoğulu boxes'tır."
+  },
+  {
+   "id": "a1_gram_plurals_010",
+   "unit": "a1_unit_07_plurals",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "",
+   "question_tr": "İki kadın ve iki erkek var.",
+   "sentence_en": "",
+   "sentence_tr": "İki kadın ve iki erkek var.",
+   "options": [
+    "There are two women and two men.",
+    "There are two womens and two mens.",
+    "There are two woman and two man.",
+    "There is two women and two men."
+   ],
+   "answer": "There are two women and two men.",
+   "explanation_tr": "Woman ve man kelimelerinin düzensiz çoğulları women ve men'dir. Çoğul öznelerle there are kullanılır."
+  },
+  {
+   "id": "a1_gram_plurals_011",
+   "unit": "a1_unit_07_plurals",
+   "type": "match_pairs",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Eşleştir.",
+   "pairs": [
+    {
+     "en": "boxes",
+     "tr": "kutular"
+    },
+    {
+     "en": "cities",
+     "tr": "şehirler"
+    },
+    {
+     "en": "children",
+     "tr": "çocuklar"
+    },
+    {
+     "en": "feet",
+     "tr": "ayaklar"
+    },
+    {
+     "en": "people",
+     "tr": "insanlar"
+    }
+   ],
+   "explanation_tr": "Bu kelimeler, verilen İngilizce isimlerin çoğul biçimleridir. Bazıları düzenli, bazıları düzensiz çoğul oluşturur."
+  },
+  {
+   "id": "a1_gram_plurals_012",
+   "unit": "a1_unit_07_plurals",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "One children has two feet.",
+    "One child have two foot.",
+    "One child has two feet."
+   ],
+   "answer": "One child has two feet.",
+   "explanation_tr": "One ile tekil child kullanılır ve tekil öznede has gelir. Foot kelimesinin çoğulu feet'tir."
+  },
+  {
+   "id": "a1_gram_plurals_013",
+   "unit": "a1_unit_07_plurals",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "I have two cats.",
+   "word_bank": [
+    "two",
+    "is",
+    "cats",
+    "a",
+    "I",
+    "have",
+    "cat"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "İki kedim var.",
+   "explanation_tr": "İki gibi bir sayıdan sonra sayılabilen isim çoğul olur: cat → cats."
+  },
+  {
+   "id": "a1_gram_plurals_014",
+   "unit": "a1_unit_07_plurals",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "There are two boxes.",
+   "word_bank": [
+    "box",
+    "are",
+    "two",
+    "is",
+    "a",
+    "There",
+    "boxes"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "İki kutu var.",
+   "explanation_tr": "Box kelimesi -x ile bittiği için çoğuluna -es eklenir: boxes."
+  },
+  {
+   "id": "a1_gram_plurals_015",
+   "unit": "a1_unit_07_plurals",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Tom has three books.",
+   "word_bank": [
+    "book",
+    "three",
+    "have",
+    "a",
+    "books",
+    "has",
+    "Tom"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Tom'un üç kitabı var.",
+   "explanation_tr": "Üç kitaptan söz ederken book çoğul yapılır: books."
+  },
+  {
+   "id": "a1_gram_plurals_016",
+   "unit": "a1_unit_07_plurals",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Two cities are big.",
+   "word_bank": [
+    "are",
+    "big",
+    "is",
+    "Two",
+    "cities",
+    "a",
+    "city"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "İki şehir büyük.",
+   "explanation_tr": "City, sessiz harf + y ile bittiği için çoğulda y düşer ve -ies gelir: cities."
+  },
+  {
+   "id": "a1_gram_plurals_017",
+   "unit": "a1_unit_07_plurals",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "There are two children.",
+   "word_bank": [
+    "child",
+    "a",
+    "children",
+    "There",
+    "two",
+    "are",
+    "is"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "İki çocuk var.",
+   "explanation_tr": "Child kelimesinin düzensiz çoğulu children'dır; two ile çoğul biçim kullanılır."
+  },
+  {
+   "id": "a1_gram_plurals_018",
+   "unit": "a1_unit_07_plurals",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "The women have two bags.",
+   "word_bank": [
+    "women",
+    "two",
+    "bags",
+    "The",
+    "has",
+    "a",
+    "woman",
+    "have"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Kadınların iki çantası var.",
+   "explanation_tr": "Woman kelimesinin düzensiz çoğulu women'dır. Birden fazla çanta için bag de çoğul olur."
+  },
+  {
+   "id": "a1_gram_plurals_019",
+   "unit": "a1_unit_07_plurals",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "There is three buses.",
+    "There are three buses.",
+    "There are three bus."
+   ],
+   "answer": "There are three buses.",
+   "explanation_tr": "Bus kelimesi -s ile bittiği için çoğuluna -es eklenir; çoğul özneyle are kullanılır."
+  },
+  {
+   "id": "a1_gram_plurals_020",
+   "unit": "a1_unit_07_plurals",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "There are two foot.",
+    "There is two feet.",
+    "There are two feet."
+   ],
+   "answer": "There are two feet.",
+   "explanation_tr": "Foot kelimesinin düzensiz çoğulu feet'tir. Two ile çoğul fiil are kullanılır."
+  },
+  {
+   "id": "a1_gram_plurals_021",
+   "unit": "a1_unit_07_plurals",
+   "type": "dictation",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Duyduğun cümleyi yaz.",
+   "answer": "I see three people.",
+   "word_bank": [
+    "people",
+    "three",
+    "a",
+    "see",
+    "sees",
+    "person",
+    "I"
+   ],
+   "accepted_answers": [],
+   "sentence_tr": "Üç kişi görüyorum.",
+   "audio_text": "I see three people.",
+   "explanation_tr": "Person kelimesinin düzensiz çoğulu people'dır; three ile people kullanılır."
+  },
+  {
+   "id": "a1_gram_plurals_022",
+   "unit": "a1_unit_07_plurals",
+   "type": "dictation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Duyduğun cümleyi yaz.",
+   "answer": "The children are happy.",
+   "word_bank": [
+    "child",
+    "a",
+    "children",
+    "The",
+    "are",
+    "happy",
+    "is"
+   ],
+   "accepted_answers": [],
+   "sentence_tr": "Çocuklar mutlu.",
+   "audio_text": "The children are happy.",
+   "explanation_tr": "Child kelimesinin çoğulu children'dır ve çoğul özneyle are kullanılır."
+  },
+  {
+   "id": "a1_gram_plurals_023",
+   "unit": "a1_unit_07_plurals",
+   "type": "type_translation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "İngilizceye çevir ve yaz.",
+   "prompt_tr": "İki adam ve bir kadın var.",
+   "answer": "There are two men and one woman.",
+   "accepted_answers": [
+    "There is one woman and two men."
+   ],
+   "explanation_tr": "Man kelimesinin düzensiz çoğulu men'dir. There are, cümledeki çoğul isimlerle uyumludur."
+  },
+  {
+   "id": "a1_gram_plurals_024",
+   "unit": "a1_unit_07_plurals",
+   "type": "type_translation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "İngilizceye çevir ve yaz.",
+   "prompt_tr": "İki şehir ve üç otobüs var.",
+   "answer": "There are two cities and three buses.",
+   "accepted_answers": [
+    "There are three buses and two cities."
+   ],
+   "explanation_tr": "City → cities ve bus → buses biçimlerinde çoğul ekleri farklıdır; sayıdan sonra çoğul isim kullanılır."
+  }
+ ]
+}

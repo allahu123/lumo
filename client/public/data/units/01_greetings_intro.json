@@ -1,0 +1,632 @@
+{
+ "unit_id": "a1_unit_01_greetings_intro",
+ "slug": "greetings_intro",
+ "order": 1,
+ "module": "m1",
+ "bonus_a1_plus": false,
+ "title_en": "Greetings and introductions",
+ "title_tr": "Selamlaşma ve tanışma",
+ "level": "A1",
+ "related_vocab_topics": [
+  "greetings_social"
+ ],
+ "lesson": {
+  "goal_tr": "Bu dersin sonunda selamlaşabilir, kendinizi tanıtabilir, birinin nasıl olduğunu ve nereli olduğunu sorup cevaplayabilirsiniz.",
+  "sections": [
+   {
+    "heading_tr": "Selamlaşma ve vedalaşma",
+    "explanation_tr": "Karşılaşınca “Hello” veya “Hi” diyebilirsiniz. Ayrılırken “Goodbye” ya da “See you” kullanabilirsiniz.",
+    "examples": [
+     {
+      "en": "Hello!",
+      "tr": "Merhaba!"
+     },
+     {
+      "en": "See you!",
+      "tr": "Görüşürüz!"
+     }
+    ]
+   },
+   {
+    "heading_tr": "İsim söyleme ve tanışma",
+    "explanation_tr": "İsminizi söylemek için “My name is…” veya “I'm…” kalıbını kullanın. Tanıştığınız kişiye “Nice to meet you” diyebilirsiniz.",
+    "examples": [
+     {
+      "en": "My name is Ali.",
+      "tr": "Benim adım Ali."
+     },
+     {
+      "en": "I'm Anna.",
+      "tr": "Ben Anna."
+     },
+     {
+      "en": "Nice to meet you.",
+      "tr": "Tanıştığımıza memnun oldum."
+     }
+    ]
+   },
+   {
+    "heading_tr": "Hâl hatır ve nereli olduğunu sorma",
+    "explanation_tr": "“How are you?” diye sorabilirsiniz; “I'm fine, thanks. And you?” ile cevap verebilirsiniz. Nereli olduğunu sormak için “Where are you from?”, cevap vermek için “I'm from Turkey” kullanın.",
+    "examples": [
+     {
+      "en": "How are you?",
+      "tr": "Nasılsın?"
+     },
+     {
+      "en": "I'm fine, thanks. And you?",
+      "tr": "İyiyim, teşekkürler. Ya sen?"
+     },
+     {
+      "en": "Where are you from?",
+      "tr": "Nerelisin?"
+     },
+     {
+      "en": "I'm from Turkey.",
+      "tr": "Türkiye'denim."
+     }
+    ]
+   }
+  ],
+  "key_patterns": [
+   {
+    "pattern": "My name + is + name",
+    "example_en": "My name is Ali.",
+    "example_tr": "Benim adım Ali."
+   },
+   {
+    "pattern": "I + am + name → I'm + name",
+    "example_en": "I'm Anna.",
+    "example_tr": "Ben Anna."
+   },
+   {
+    "pattern": "How + are + you?",
+    "example_en": "How are you?",
+    "example_tr": "Nasılsın?"
+   },
+   {
+    "pattern": "I + am + from + place → I'm + from + place",
+    "example_en": "I'm from Turkey.",
+    "example_tr": "Türkiye'denim."
+   }
+  ],
+  "turkish_speaker_tips_tr": [
+   "Türkçede “İyiyim” derken özneyi söylemeyebilirsiniz; İngilizcede “I'm fine” derken “I” gerekir.",
+   "Türkçede “Benim adım Ali” deriz. İngilizcede sıra “My name is Ali” şeklindedir.",
+   "Bu kalıpta ülke adından önce “the” gelmez: “I'm from Turkey.”"
+  ],
+  "common_mistakes": [
+   {
+    "wrong": "I from Turkey.",
+    "correct": "I'm from Turkey.",
+    "note_tr": "İngilizcede “I” ile “from” arasında “am” gerekir."
+   },
+   {
+    "wrong": "My name Ali.",
+    "correct": "My name is Ali.",
+    "note_tr": "Bu kalıpta “name” ile isim arasına “is” gelir."
+   },
+   {
+    "wrong": "How you are?",
+    "correct": "How are you?",
+    "note_tr": "Soruda “are”, “you”dan önce gelir."
+   },
+   {
+    "wrong": "I'm from the Turkey.",
+    "correct": "I'm from Turkey.",
+    "note_tr": "Bu kalıpta “Turkey” önüne “the” eklemeyin."
+   }
+  ],
+  "mini_dialogue": [
+   {
+    "speaker": "Anna",
+    "en": "Hello, Ali. My name is Anna.",
+    "tr": "Merhaba Ali. Benim adım Anna."
+   },
+   {
+    "speaker": "Ali",
+    "en": "Hi, Anna. I'm Ali. Nice to meet you.",
+    "tr": "Merhaba Anna. Ben Ali. Tanıştığımıza memnun oldum."
+   },
+   {
+    "speaker": "Anna",
+    "en": "Nice to meet you, too. Where are you from?",
+    "tr": "Ben de tanıştığımıza memnun oldum. Nerelisin?"
+   },
+   {
+    "speaker": "Ali",
+    "en": "I'm from Turkey. How are you?",
+    "tr": "Türkiye'denim. Nasılsın?"
+   },
+   {
+    "speaker": "Anna",
+    "en": "I'm fine, thanks. And you?",
+    "tr": "İyiyim, teşekkürler. Ya sen?"
+   },
+   {
+    "speaker": "Ali",
+    "en": "I'm fine, thanks. Goodbye!",
+    "tr": "İyiyim, teşekkürler. Hoşça kal!"
+   }
+  ]
+ },
+ "exercise_counts": {
+  "fill_blank": 6,
+  "multiple_choice": 4,
+  "match_pairs": 1,
+  "choose_correct_sentence": 3,
+  "build_sentence": 6,
+  "dictation": 2,
+  "type_translation": 2
+ },
+ "exercises": [
+  {
+   "id": "a1_gram_greetings_intro_001",
+   "unit": "a1_unit_01_greetings_intro",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "My name ___ Ali.",
+   "sentence_tr": "Benim adım Ali.",
+   "options": [
+    "be",
+    "am",
+    "is",
+    "are"
+   ],
+   "answer": "is",
+   "explanation_tr": "“My name” tekildir, bu yüzden ardından “is” gelir."
+  },
+  {
+   "id": "a1_gram_greetings_intro_002",
+   "unit": "a1_unit_01_greetings_intro",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "I ___ Anna.",
+   "sentence_tr": "Ben Anna'yım.",
+   "options": [
+    "is",
+    "are",
+    "am",
+    "be"
+   ],
+   "answer": "am",
+   "explanation_tr": "“I” öznesiyle “am” kullanılır; “I am” kısaca “I'm” olur."
+  },
+  {
+   "id": "a1_gram_greetings_intro_003",
+   "unit": "a1_unit_01_greetings_intro",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "How ___ you?",
+   "sentence_tr": "Nasılsın?",
+   "options": [
+    "am",
+    "is",
+    "are",
+    "be"
+   ],
+   "answer": "are",
+   "explanation_tr": "“You” öznesiyle “are” kullanılır. “How are you?” “Nasılsın?” demektir."
+  },
+  {
+   "id": "a1_gram_greetings_intro_004",
+   "unit": "a1_unit_01_greetings_intro",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "Where are you ___?",
+   "sentence_tr": "Nerelisin?",
+   "options": [
+    "from",
+    "is",
+    "are",
+    "am"
+   ],
+   "answer": "from",
+   "explanation_tr": "Bir kişinin nereli olduğunu sormak için “Where are you from?” kalıbı kullanılır."
+  },
+  {
+   "id": "a1_gram_greetings_intro_005",
+   "unit": "a1_unit_01_greetings_intro",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "Nice to ___ you.",
+   "sentence_tr": "Tanıştığıma memnun oldum.",
+   "options": [
+    "meeting",
+    "met",
+    "meet",
+    "meets"
+   ],
+   "answer": "meet",
+   "explanation_tr": "“To” kelimesinden sonra fiilin yalın hâli gelir: “to meet”."
+  },
+  {
+   "id": "a1_gram_greetings_intro_006",
+   "unit": "a1_unit_01_greetings_intro",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "See you ___.",
+   "sentence_tr": "Yakında görüşürüz.",
+   "options": [
+    "am",
+    "soon",
+    "is",
+    "are"
+   ],
+   "answer": "soon",
+   "explanation_tr": "“See you soon” vedalaşırken “Yakında görüşürüz” anlamında kullanılan bir kalıptır."
+  },
+  {
+   "id": "a1_gram_greetings_intro_007",
+   "unit": "a1_unit_01_greetings_intro",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "How are you?",
+   "question_tr": "",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Adın ne?",
+    "Tanıştığıma memnun oldum.",
+    "Nerelisin?",
+    "Nasılsın?"
+   ],
+   "answer": "Nasılsın?",
+   "explanation_tr": "“How are you?” bir kişinin nasıl olduğunu sormak için kullanılır."
+  },
+  {
+   "id": "a1_gram_greetings_intro_008",
+   "unit": "a1_unit_01_greetings_intro",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "I'm from Turkey.",
+   "question_tr": "",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Benim adım Türkiye.",
+    "Türkiye'ye gidiyorum.",
+    "Türkiye'denim.",
+    "Türkiye'deyim."
+   ],
+   "answer": "Türkiye'denim.",
+   "explanation_tr": "“I'm from Turkey” kişinin Türkiye'den olduğunu belirtir."
+  },
+  {
+   "id": "a1_gram_greetings_intro_009",
+   "unit": "a1_unit_01_greetings_intro",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "",
+   "question_tr": "Benim adım Zeynep.",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "My name is from Zeynep.",
+    "I name is Zeynep.",
+    "My name is Zeynep.",
+    "My name am Zeynep."
+   ],
+   "answer": "My name is Zeynep.",
+   "explanation_tr": "“Benim adım...” demek için “My name is...” kalıbı kullanılır."
+  },
+  {
+   "id": "a1_gram_greetings_intro_010",
+   "unit": "a1_unit_01_greetings_intro",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "",
+   "question_tr": "Tanıştığıma memnun oldum.",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Nice to meet you.",
+    "Nice meet you.",
+    "Nice to meets you.",
+    "Nice to meet I."
+   ],
+   "answer": "Nice to meet you.",
+   "explanation_tr": "Tanışırken kullanılan doğru kalıp “Nice to meet you.” şeklindedir."
+  },
+  {
+   "id": "a1_gram_greetings_intro_011",
+   "unit": "a1_unit_01_greetings_intro",
+   "type": "match_pairs",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Eşleştir.",
+   "pairs": [
+    {
+     "en": "Hello",
+     "tr": "Merhaba"
+    },
+    {
+     "en": "Hi",
+     "tr": "Selam"
+    },
+    {
+     "en": "Goodbye",
+     "tr": "Hoşça kal"
+    },
+    {
+     "en": "See you",
+     "tr": "Görüşürüz"
+    },
+    {
+     "en": "Nice to meet you",
+     "tr": "Tanıştığıma memnun oldum"
+    }
+   ],
+   "explanation_tr": "Bu ifadeler selamlaşma, tanışma ve vedalaşma sırasında kullanılır."
+  },
+  {
+   "id": "a1_gram_greetings_intro_012",
+   "unit": "a1_unit_01_greetings_intro",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "I'm are from Ankara.",
+    "I'm from Ankara.",
+    "I from Ankara."
+   ],
+   "answer": "I'm from Ankara.",
+   "explanation_tr": "“I'm” ifadesi “I am” demektir; nereli olduğunu belirtirken “I'm from...” kullanılır."
+  },
+  {
+   "id": "a1_gram_greetings_intro_013",
+   "unit": "a1_unit_01_greetings_intro",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "My name is Ali.",
+   "word_bank": [
+    "My",
+    "name",
+    "is",
+    "you",
+    "Ali",
+    "from",
+    "I'm"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Benim adım Ali.",
+   "explanation_tr": "İsim belirtirken “My name is + isim” kalıbı kullanılır."
+  },
+  {
+   "id": "a1_gram_greetings_intro_014",
+   "unit": "a1_unit_01_greetings_intro",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "I am from Ankara, Turkey.",
+   "word_bank": [
+    "am",
+    "your",
+    "Turkey",
+    "are",
+    "Ankara",
+    "name",
+    "I",
+    "from"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Ben Türkiye'nin Ankara şehrindenim.",
+   "explanation_tr": "Nereli olduğunu söylemek için “I am from + yer” kalıbı kullanılır."
+  },
+  {
+   "id": "a1_gram_greetings_intro_015",
+   "unit": "a1_unit_01_greetings_intro",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "How are you today?",
+   "word_bank": [
+    "you",
+    "today",
+    "from",
+    "am",
+    "How",
+    "are",
+    "name"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Bugün nasılsın?",
+   "explanation_tr": "“How are you?” birinin nasıl olduğunu sormak için kullanılır; “today” bugün anlamına gelir."
+  },
+  {
+   "id": "a1_gram_greetings_intro_016",
+   "unit": "a1_unit_01_greetings_intro",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Nice to meet you, Anna.",
+   "word_bank": [
+    "from",
+    "meet",
+    "is",
+    "Nice",
+    "Anna",
+    "to",
+    "you",
+    "how"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Tanıştığıma memnun oldum, Anna.",
+   "explanation_tr": "“Nice to meet you” tanışırken söylenen doğal bir ifadedir."
+  },
+  {
+   "id": "a1_gram_greetings_intro_017",
+   "unit": "a1_unit_01_greetings_intro",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "I'm fine, thanks. And you?",
+   "word_bank": [
+    "hello",
+    "you",
+    "I'm",
+    "name",
+    "fine",
+    "And",
+    "from",
+    "thanks"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "İyiyim, teşekkürler. Ya sen?",
+   "explanation_tr": "“I'm fine, thanks” iyilik durumuna cevap verir; “And you?” karşı tarafa aynı soruyu yöneltir."
+  },
+  {
+   "id": "a1_gram_greetings_intro_018",
+   "unit": "a1_unit_01_greetings_intro",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Goodbye, see you tomorrow.",
+   "word_bank": [
+    "see",
+    "you",
+    "tomorrow",
+    "name",
+    "how",
+    "am",
+    "Goodbye"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Hoşça kal, yarın görüşürüz.",
+   "explanation_tr": "“Goodbye” hoşça kal, “see you tomorrow” ise yarın görüşürüz demektir."
+  },
+  {
+   "id": "a1_gram_greetings_intro_019",
+   "unit": "a1_unit_01_greetings_intro",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "My name are Zeynep.",
+    "My name is Zeynep.",
+    "I name is Zeynep."
+   ],
+   "answer": "My name is Zeynep.",
+   "explanation_tr": "“My name” tekil olduğu için ardından “is” gelir."
+  },
+  {
+   "id": "a1_gram_greetings_intro_020",
+   "unit": "a1_unit_01_greetings_intro",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "How you are?",
+    "How is you?",
+    "How are you?"
+   ],
+   "answer": "How are you?",
+   "explanation_tr": "Bu soruda kelime sırası “How + are + you” şeklindedir."
+  },
+  {
+   "id": "a1_gram_greetings_intro_021",
+   "unit": "a1_unit_01_greetings_intro",
+   "type": "dictation",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Duyduğun cümleyi yaz.",
+   "answer": "Hello, my name is Tom.",
+   "word_bank": [
+    "is",
+    "are",
+    "Hello",
+    "Tom",
+    "from",
+    "you",
+    "name",
+    "my"
+   ],
+   "accepted_answers": [],
+   "sentence_tr": "Merhaba, benim adım Tom.",
+   "audio_text": "Hello, my name is Tom.",
+   "explanation_tr": "İsim tanıtırken “My name is + isim” kalıbı kullanılır."
+  },
+  {
+   "id": "a1_gram_greetings_intro_022",
+   "unit": "a1_unit_01_greetings_intro",
+   "type": "dictation",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Duyduğun cümleyi yaz.",
+   "answer": "Hi, I'm Emma.",
+   "word_bank": [
+    "Hi",
+    "name",
+    "from",
+    "are",
+    "Emma",
+    "I'm"
+   ],
+   "accepted_answers": [],
+   "sentence_tr": "Merhaba, ben Emma.",
+   "audio_text": "Hi, I'm Emma.",
+   "explanation_tr": "“I'm”, “I am” ifadesinin kısaltmasıdır ve kişinin adını söylemek için kullanılabilir."
+  },
+  {
+   "id": "a1_gram_greetings_intro_023",
+   "unit": "a1_unit_01_greetings_intro",
+   "type": "type_translation",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "İngilizceye çevir ve yaz.",
+   "prompt_tr": "Türkiye'denim.",
+   "answer": "I'm from Turkey.",
+   "accepted_answers": [
+    "I am from Turkey."
+   ],
+   "explanation_tr": "Nereli olduğunu belirtmek için “I'm from + yer” denir; “I'm”, “I am” ifadesinin kısaltmasıdır."
+  },
+  {
+   "id": "a1_gram_greetings_intro_024",
+   "unit": "a1_unit_01_greetings_intro",
+   "type": "type_translation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "İngilizceye çevir ve yaz.",
+   "prompt_tr": "Görüşürüz, Sara.",
+   "answer": "See you, Sara.",
+   "accepted_answers": [
+    "Goodbye, Sara."
+   ],
+   "explanation_tr": "“See you” vedalaşırken kullanılan doğal bir ifadedir."
+  }
+ ]
+}

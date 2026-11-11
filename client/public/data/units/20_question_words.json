@@ -1,0 +1,657 @@
+{
+ "unit_id": "a1_unit_20_question_words",
+ "slug": "question_words",
+ "order": 20,
+ "module": "m4",
+ "bonus_a1_plus": false,
+ "title_en": "Question words",
+ "title_tr": "Soru kelimeleri",
+ "level": "A1",
+ "related_vocab_topics": [
+  "question_words_conjunctions"
+ ],
+ "lesson": {
+  "goal_tr": "Bu dersin sonunda kişi, temel soru kelimeleriyle soru sorabilir ve neden sorularına because ile cevap verebilir.",
+  "sections": [
+   {
+    "heading_tr": "Soru kelimesi ve be",
+    "explanation_tr": "What, where, who, when ve why sırasıyla ne, nerede, kim, ne zaman ve neden anlamına gelir. be ile soru kurarken am, is veya are öznenin önüne gelir; soru kelimesi en başta kullanılır. Örneğin yaş sorarken how old, saat sorarken what time kullanılır.",
+    "examples": [
+     {
+      "en": "What is this?",
+      "tr": "Bu ne?"
+     },
+     {
+      "en": "Where are you?",
+      "tr": "Neredesin?"
+     },
+     {
+      "en": "How old are you?",
+      "tr": "Kaç yaşındasın?"
+     },
+     {
+      "en": "What time is it?",
+      "tr": "Saat kaç?"
+     }
+    ]
+   },
+   {
+    "heading_tr": "Soru kelimesi ve do/does",
+    "explanation_tr": "Hareket veya tercih bildiren fiillerle soru kurarken do ya da does kullanılır: I, you, we ve they ile do; he, she ve it ile does gelir. Does kullanıldığında asıl fiil yalın hâlde kalır. Soru kelimesi do veya does sözcüğünden önce gelir.",
+    "examples": [
+     {
+      "en": "What do you want?",
+      "tr": "Ne istiyorsun?"
+     },
+     {
+      "en": "Why does she like tea?",
+      "tr": "Çayı neden seviyor?"
+     },
+     {
+      "en": "When do they arrive?",
+      "tr": "Ne zaman varıyorlar?"
+     }
+    ]
+   },
+   {
+    "heading_tr": "Seçim, miktar ve sayı",
+    "explanation_tr": "Bir seçenek sorarken which kullanılır. Sayılabilen çoğul isimlerle how many, sayılamayan isimlerle how much kullanılır; fiyat sormak için de how much denebilir. Why sorusuna neden belirtirken because ile cevap verilir.",
+    "examples": [
+     {
+      "en": "Which book do you like?",
+      "tr": "Hangi kitabı seviyorsun?"
+     },
+     {
+      "en": "How many books do you have?",
+      "tr": "Kaç kitabın var?"
+     },
+     {
+      "en": "How much water do you drink?",
+      "tr": "Ne kadar su içiyorsun?"
+     },
+     {
+      "en": "Why are you happy?",
+      "tr": "Neden mutlusun?"
+     },
+     {
+      "en": "Because I like tea.",
+      "tr": "Çünkü çayı seviyorum."
+     }
+    ]
+   }
+  ],
+  "key_patterns": [
+   {
+    "pattern": "What + is + this?",
+    "example_en": "What is this?",
+    "example_tr": "Bu ne?"
+   },
+   {
+    "pattern": "Where + are + you?",
+    "example_en": "Where are you?",
+    "example_tr": "Neredesin?"
+   },
+   {
+    "pattern": "Question word + do + you + like + ...?",
+    "example_en": "Why do you like tea?",
+    "example_tr": "Çayı neden seviyorsun?"
+   },
+   {
+    "pattern": "How many + plural noun + do + you + have?",
+    "example_en": "How many books do you have?",
+    "example_tr": "Kaç kitabın var?"
+   },
+   {
+    "pattern": "How much + uncountable noun + do + you + drink?",
+    "example_en": "How much water do you drink?",
+    "example_tr": "Ne kadar su içiyorsun?"
+   },
+   {
+    "pattern": "Because + reason.",
+    "example_en": "Because I like tea.",
+    "example_tr": "Çünkü çayı seviyorum."
+   }
+  ],
+  "turkish_speaker_tips_tr": [
+   "Türkçede soru kelimesi cümle içinde farklı yerlere gelebilir; İngilizcede genellikle cümlenin başına konur.",
+   "Türkçede fiil çoğunlukla sonda, İngilizcede ise özneden sonra gelir: “Where do you live?” sorusunda live, you sözcüğünden sonra gelir.",
+   "Türkçede “o” kadın ve erkek için aynıdır; İngilizcede he ve she ayrımı yapılır. Bu nedenle soru kurarken he/she ile does kullanılır.",
+   "Türkçede yaş söylerken “var” kullanılır; İngilizcede yaş sorusu be ile kurulur: “How old are you?”"
+  ],
+  "common_mistakes": [
+   {
+    "wrong": "Where you are?",
+    "correct": "Where are you?",
+    "note_tr": "be ile soruda am, is veya are özneden önce gelir."
+   },
+   {
+    "wrong": "Why you like tea?",
+    "correct": "Why do you like tea?",
+    "note_tr": "Asıl fiille kurulan bu soruda you ile do gerekir."
+   },
+   {
+    "wrong": "How many water do you drink?",
+    "correct": "How much water do you drink?",
+    "note_tr": "Water sayılamayan bir isimdir; bu yüzden how much kullanılır."
+   },
+   {
+    "wrong": "How old have you?",
+    "correct": "How old are you?",
+    "note_tr": "İngilizcede yaş sormak için have değil, be kullanılır."
+   }
+  ],
+  "mini_dialogue": [
+   {
+    "speaker": "Anna",
+    "en": "What time is it?",
+    "tr": "Saat kaç?"
+   },
+   {
+    "speaker": "Ali",
+    "en": "It is ten o'clock.",
+    "tr": "Saat on."
+   },
+   {
+    "speaker": "Anna",
+    "en": "Where do you live?",
+    "tr": "Nerede yaşıyorsun?"
+   },
+   {
+    "speaker": "Ali",
+    "en": "I live in Ankara.",
+    "tr": "Ankara'da yaşıyorum."
+   },
+   {
+    "speaker": "Anna",
+    "en": "Why do you like Ankara?",
+    "tr": "Ankara'yı neden seviyorsun?"
+   },
+   {
+    "speaker": "Ali",
+    "en": "Because it is beautiful.",
+    "tr": "Çünkü güzel."
+   }
+  ]
+ },
+ "exercise_counts": {
+  "fill_blank": 6,
+  "multiple_choice": 4,
+  "match_pairs": 1,
+  "choose_correct_sentence": 3,
+  "build_sentence": 6,
+  "dictation": 2,
+  "type_translation": 2
+ },
+ "exercises": [
+  {
+   "id": "a1_gram_question_words_001",
+   "unit": "a1_unit_20_question_words",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "___ is this?",
+   "sentence_tr": "Bu nedir?",
+   "options": [
+    "What",
+    "Why",
+    "Who",
+    "Where"
+   ],
+   "answer": "What",
+   "explanation_tr": "Bir şeyin ne olduğunu sormak için “What” kullanılır."
+  },
+  {
+   "id": "a1_gram_question_words_002",
+   "unit": "a1_unit_20_question_words",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "Where ___ you?",
+   "sentence_tr": "Neredesin?",
+   "options": [
+    "are",
+    "am",
+    "is",
+    "does"
+   ],
+   "answer": "are",
+   "explanation_tr": "“You” öznesiyle “be” fiilinin soru biçimi “are” kullanılır."
+  },
+  {
+   "id": "a1_gram_question_words_003",
+   "unit": "a1_unit_20_question_words",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "___ is your teacher?",
+   "sentence_tr": "Öğretmenin kim?",
+   "options": [
+    "Who",
+    "When",
+    "What",
+    "Where"
+   ],
+   "answer": "Who",
+   "explanation_tr": "Bir kişinin kim olduğunu sormak için “Who” kullanılır."
+  },
+  {
+   "id": "a1_gram_question_words_004",
+   "unit": "a1_unit_20_question_words",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "___ old is Ali?",
+   "sentence_tr": "Ali kaç yaşında?",
+   "options": [
+    "When",
+    "How",
+    "What",
+    "Where"
+   ],
+   "answer": "How",
+   "explanation_tr": "Yaş sormak için “How old” kalıbı kullanılır."
+  },
+  {
+   "id": "a1_gram_question_words_005",
+   "unit": "a1_unit_20_question_words",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "How many books ___ you have?",
+   "sentence_tr": "Kaç kitabın var?",
+   "options": [
+    "are",
+    "is",
+    "do",
+    "does"
+   ],
+   "answer": "do",
+   "explanation_tr": "“You” öznesiyle geniş zamanda soru kurarken “do” kullanılır."
+  },
+  {
+   "id": "a1_gram_question_words_006",
+   "unit": "a1_unit_20_question_words",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "I like tea ___ it is good.",
+   "sentence_tr": "Çayı seviyorum çünkü güzel.",
+   "options": [
+    "when",
+    "who",
+    "because",
+    "where"
+   ],
+   "answer": "because",
+   "explanation_tr": "Bir neden belirtirken “because” kullanılır."
+  },
+  {
+   "id": "a1_gram_question_words_007",
+   "unit": "a1_unit_20_question_words",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "When is your birthday?",
+   "question_tr": "",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Doğum günün kim?",
+    "Doğum günün ne zaman?",
+    "Doğum günün nerede?",
+    "Doğum günün neden?"
+   ],
+   "answer": "Doğum günün ne zaman?",
+   "explanation_tr": "“When” zaman sormak için kullanılır; “ne zaman” anlamına gelir."
+  },
+  {
+   "id": "a1_gram_question_words_008",
+   "unit": "a1_unit_20_question_words",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "How much water do you drink?",
+   "question_tr": "",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Kaç şişe su içersin?",
+    "Suyu nerede içersin?",
+    "Suyu neden içersin?",
+    "Ne kadar su içersin?"
+   ],
+   "answer": "Ne kadar su içersin?",
+   "explanation_tr": "Sayılamayan isimlerle miktar sormak için “How much” kullanılır."
+  },
+  {
+   "id": "a1_gram_question_words_009",
+   "unit": "a1_unit_20_question_words",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "",
+   "question_tr": "Saat kaç?",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "What is time?",
+    "When is it?",
+    "What time is it?",
+    "Where is it?"
+   ],
+   "answer": "What time is it?",
+   "explanation_tr": "Saati sormak için “What time is it?” kalıbı kullanılır."
+  },
+  {
+   "id": "a1_gram_question_words_010",
+   "unit": "a1_unit_20_question_words",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "",
+   "question_tr": "Hangi kitabı istiyorsun?",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Which book do you want?",
+    "Which book does you want?",
+    "Who book do you want?",
+    "Which book you want?"
+   ],
+   "answer": "Which book do you want?",
+   "explanation_tr": "Bir seçenek veya belirli bir kitap hakkında soru sorarken “Which” kullanılır; “you” ile “do” gelir."
+  },
+  {
+   "id": "a1_gram_question_words_011",
+   "unit": "a1_unit_20_question_words",
+   "type": "match_pairs",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Eşleştir.",
+   "pairs": [
+    {
+     "en": "what",
+     "tr": "ne"
+    },
+    {
+     "en": "where",
+     "tr": "nerede"
+    },
+    {
+     "en": "who",
+     "tr": "kim"
+    },
+    {
+     "en": "when",
+     "tr": "ne zaman"
+    },
+    {
+     "en": "why",
+     "tr": "neden"
+    }
+   ],
+   "explanation_tr": "Bu soru kelimeleri farklı bilgi türlerini sorar: kişi, yer, zaman, neden veya şey."
+  },
+  {
+   "id": "a1_gram_question_words_012",
+   "unit": "a1_unit_20_question_words",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "How much apples do you have?",
+    "How many apples do you have?",
+    "How many apples does you have?"
+   ],
+   "answer": "How many apples do you have?",
+   "explanation_tr": "“Apples” çoğul ve sayılabilen bir isimdir; bu yüzden “How many” kullanılır. “You” ile soru yardımcısı “do” olur."
+  },
+  {
+   "id": "a1_gram_question_words_013",
+   "unit": "a1_unit_20_question_words",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "What is this book?",
+   "word_bank": [
+    "where",
+    "your",
+    "this",
+    "do",
+    "What",
+    "book",
+    "is"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Bu kitap ne?",
+   "explanation_tr": "“What” nesneleri sormak için kullanılır. “What is this book?” doğru soru dizilimidir."
+  },
+  {
+   "id": "a1_gram_question_words_014",
+   "unit": "a1_unit_20_question_words",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Where are you now?",
+   "word_bank": [
+    "when",
+    "you",
+    "now",
+    "Where",
+    "are",
+    "what",
+    "is"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Şimdi neredesin?",
+   "explanation_tr": "“Where” yer sormak için kullanılır. “You” ile “are” gelir."
+  },
+  {
+   "id": "a1_gram_question_words_015",
+   "unit": "a1_unit_20_question_words",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Who is your teacher?",
+   "word_bank": [
+    "teacher",
+    "where",
+    "are",
+    "Who",
+    "is",
+    "your",
+    "when"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Öğretmenin kim?",
+   "explanation_tr": "“Who” kişileri sormak için kullanılır. “Your” ile tekil “teacher” hakkında “is” kullanılır."
+  },
+  {
+   "id": "a1_gram_question_words_016",
+   "unit": "a1_unit_20_question_words",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "When do you eat lunch?",
+   "word_bank": [
+    "lunch",
+    "where",
+    "is",
+    "does",
+    "you",
+    "eat",
+    "do",
+    "When"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Ne zaman öğle yemeği yersin?",
+   "explanation_tr": "“When” zaman sorar. “You” ile geniş zamanda soru kurarken “do” kullanılır."
+  },
+  {
+   "id": "a1_gram_question_words_017",
+   "unit": "a1_unit_20_question_words",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Why do you like tea?",
+   "word_bank": [
+    "tea",
+    "are",
+    "what",
+    "you",
+    "do",
+    "does",
+    "like",
+    "Why"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Neden çayı seversin?",
+   "explanation_tr": "“Why” neden sorar. “You” ile soru yapısında “do” kullanılır."
+  },
+  {
+   "id": "a1_gram_question_words_018",
+   "unit": "a1_unit_20_question_words",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "How many books do you have?",
+   "word_bank": [
+    "How",
+    "water",
+    "does",
+    "you",
+    "do",
+    "many",
+    "books",
+    "have",
+    "much"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Kaç kitabın var?",
+   "explanation_tr": "Sayılabilen çoğul isimlerle “How many” kullanılır. “You” ile soru yapısında “do” gelir."
+  },
+  {
+   "id": "a1_gram_question_words_019",
+   "unit": "a1_unit_20_question_words",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "How many water do you drink?",
+    "How much water do you drink?",
+    "How much waters do you drink?"
+   ],
+   "answer": "How much water do you drink?",
+   "explanation_tr": "“Water” sayılamayan bir isimdir; bu yüzden miktar sorarken “How much” kullanılır."
+  },
+  {
+   "id": "a1_gram_question_words_020",
+   "unit": "a1_unit_20_question_words",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "What time it is?",
+    "What time are it?",
+    "What time is it?"
+   ],
+   "answer": "What time is it?",
+   "explanation_tr": "Saat sorarken “What time is it?” denir. “Be” fiili özneden önce gelir."
+  },
+  {
+   "id": "a1_gram_question_words_021",
+   "unit": "a1_unit_20_question_words",
+   "type": "dictation",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Duyduğun cümleyi yaz.",
+   "answer": "Because I like tea.",
+   "word_bank": [
+    "I",
+    "tea",
+    "Because",
+    "where",
+    "when",
+    "like",
+    "do"
+   ],
+   "accepted_answers": [],
+   "sentence_tr": "Çünkü çayı severim.",
+   "audio_text": "Because I like tea.",
+   "explanation_tr": "Bir soruya neden belirterek cevap verirken “Because” ile başlanabilir."
+  },
+  {
+   "id": "a1_gram_question_words_022",
+   "unit": "a1_unit_20_question_words",
+   "type": "dictation",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Duyduğun cümleyi yaz.",
+   "answer": "How old is your brother?",
+   "word_bank": [
+    "How",
+    "is",
+    "brother",
+    "old",
+    "do",
+    "your",
+    "when",
+    "where"
+   ],
+   "accepted_answers": [],
+   "sentence_tr": "Erkek kardeşin kaç yaşında?",
+   "audio_text": "How old is your brother?",
+   "explanation_tr": "Yaş sorarken “How old” kullanılır. Tekil “brother” ile “is” gelir."
+  },
+  {
+   "id": "a1_gram_question_words_023",
+   "unit": "a1_unit_20_question_words",
+   "type": "type_translation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "İngilizceye çevir ve yaz.",
+   "prompt_tr": "Bu ne?",
+   "answer": "What is this?",
+   "accepted_answers": [
+    "What's this?"
+   ],
+   "explanation_tr": "“What” bir nesnenin ne olduğunu sormak için kullanılır. “What's” ifadesi “What is” kısaltmasıdır."
+  },
+  {
+   "id": "a1_gram_question_words_024",
+   "unit": "a1_unit_20_question_words",
+   "type": "type_translation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "İngilizceye çevir ve yaz.",
+   "prompt_tr": "Kaç yaşındasın?",
+   "answer": "How old are you?",
+   "accepted_answers": [
+    "What is your age?"
+   ],
+   "explanation_tr": "Yaş sorusu için “How old are you?” kullanılır. “You” öznesiyle “are” gelir."
+  }
+ ]
+}

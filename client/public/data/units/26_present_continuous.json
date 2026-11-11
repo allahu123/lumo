@@ -1,0 +1,640 @@
+{
+ "unit_id": "a1_unit_26_present_continuous",
+ "slug": "present_continuous",
+ "order": 26,
+ "module": "m6",
+ "bonus_a1_plus": false,
+ "title_en": "Present continuous",
+ "title_tr": "Şimdiki zaman (Present continuous)",
+ "level": "A1",
+ "related_vocab_topics": [
+  "daily_verbs",
+  "weather_seasons"
+ ],
+ "lesson": {
+  "goal_tr": "Bu dersin sonunda şu anda yapılan işleri olumlu, olumsuz ve soru cümleleriyle anlatabilir, kısa cevaplar verebilirsin.",
+  "sections": [
+   {
+    "heading_tr": "Kuruluş: am / is / are + fiil-ing",
+    "explanation_tr": "Şu anda yapılan bir işi anlatırken öznenin ardından am, is veya are, sonra da fiilin -ing biçimi gelir. Olumsuz cümlede am, is veya are'dan sonra not kullanılır. Soruda am, is veya are cümlenin başına geçer; kısa cevapta yardımcı fiili tekrar ederiz.",
+    "examples": [
+     {
+      "en": "I am reading a book now.",
+      "tr": "Şu anda bir kitap okuyorum."
+     },
+     {
+      "en": "She is not cooking now.",
+      "tr": "O, şu anda yemek yapmıyor."
+     },
+     {
+      "en": "Are you writing a letter?",
+      "tr": "Bir mektup mu yazıyorsun?"
+     },
+     {
+      "en": "Yes, I am. / No, I am not.",
+      "tr": "Evet. / Hayır."
+     }
+    ]
+   },
+   {
+    "heading_tr": "Ne zaman kullanılır?",
+    "explanation_tr": "Present continuous, genellikle konuşma anında veya şu sıralarda devam eden işler için kullanılır. Now ve at the moment, “şimdi” ve “şu anda” anlamı verir. Her gün tekrarlanan işler için genellikle geniş zaman kullanılır.",
+    "examples": [
+     {
+      "en": "Tom is running at the moment.",
+      "tr": "Tom şu anda koşuyor."
+     },
+     {
+      "en": "I read a book every day.",
+      "tr": "Her gün bir kitap okurum."
+     }
+    ]
+   },
+   {
+    "heading_tr": "Yazım: -ing ekleme",
+    "explanation_tr": "Çoğu fiile doğrudan -ing eklenir. Fiil sondaki sessiz bir e harfiyle bitiyorsa e düşer; kısa ünlü ve tek sessiz harfle biten bazı fiillerde son sessiz harf çift yazılır.",
+    "examples": [
+     {
+      "en": "read → reading",
+      "tr": "read fiili reading olur."
+     },
+     {
+      "en": "make → making; write → writing",
+      "tr": "make fiilinde sondaki e düşer; write fiilinde de aynı kural uygulanır."
+     },
+     {
+      "en": "run → running",
+      "tr": "run fiilinde son harf çift yazılır."
+     }
+    ]
+   }
+  ],
+  "key_patterns": [
+   {
+    "pattern": "I + am + [reading]",
+    "example_en": "I am reading a book now.",
+    "example_tr": "Şu anda bir kitap okuyorum."
+   },
+   {
+    "pattern": "She + is + not + [cooking]",
+    "example_en": "She is not cooking now.",
+    "example_tr": "O, şu anda yemek yapmıyor."
+   },
+   {
+    "pattern": "Are + you + [reading] ...?",
+    "example_en": "Are you reading a book?",
+    "example_tr": "Bir kitap mı okuyorsun?"
+   },
+   {
+    "pattern": "Yes, + I + am. / No, + I + am + not.",
+    "example_en": "Yes, I am. / No, I am not.",
+    "example_tr": "Evet. / Hayır."
+   },
+   {
+    "pattern": "every day + geniş zaman",
+    "example_en": "I read a book every day.",
+    "example_tr": "Her gün bir kitap okurum."
+   }
+  ],
+  "turkish_speaker_tips_tr": [
+   "Türkçede “okuyorum” tek kelimeyken İngilizcede I am reading gibi özne, am/is/are ve fiilin -ing biçimi birlikte kullanılır.",
+   "İngilizcede cümle sırası genellikle özne + fiil şeklindedir: I am reading. Türkçede fiil çoğunlukla cümlenin sonunda bulunur.",
+   "İngilizcede soru kurarken am, is veya are başa geçer: Are you reading? Türkçede soru eki ayrı bir kelime sırası oluşturmaz.",
+   "İngilizcedeki he ve she ayrımı cinsiyet belirtir; Türkçedeki “o” ise kadın ve erkek için aynıdır."
+  ],
+  "common_mistakes": [
+   {
+    "wrong": "I reading a book now.",
+    "correct": "I am reading a book now.",
+    "note_tr": "Fiil-ing biçiminden önce özneye uygun am, is veya are gerekir."
+   },
+   {
+    "wrong": "She are cooking now.",
+    "correct": "She is cooking now.",
+    "note_tr": "She ile is kullanılır; are kullanılmaz."
+   },
+   {
+    "wrong": "Are you read a book now?",
+    "correct": "Are you reading a book now?",
+    "note_tr": "Soruda am/is/are başa gelir; ardından fiilin -ing biçimi kullanılır."
+   },
+   {
+    "wrong": "I am make a cake now.",
+    "correct": "I am making a cake now.",
+    "note_tr": "Present continuous yapısında ana fiil -ing biçiminde olmalıdır; make fiilinde sondaki e düşer."
+   }
+  ],
+  "mini_dialogue": [
+   {
+    "speaker": "Anna",
+    "en": "Are you reading a book now?",
+    "tr": "Şu anda kitap mı okuyorsun?"
+   },
+   {
+    "speaker": "Ali",
+    "en": "Yes, I am.",
+    "tr": "Evet."
+   },
+   {
+    "speaker": "Anna",
+    "en": "Is Tom cooking at the moment?",
+    "tr": "Tom şu anda yemek mi yapıyor?"
+   },
+   {
+    "speaker": "Ali",
+    "en": "No, he isn't.",
+    "tr": "Hayır."
+   },
+   {
+    "speaker": "Ali",
+    "en": "He is writing a letter.",
+    "tr": "Bir mektup yazıyor."
+   }
+  ]
+ },
+ "exercise_counts": {
+  "fill_blank": 6,
+  "multiple_choice": 4,
+  "match_pairs": 1,
+  "choose_correct_sentence": 3,
+  "build_sentence": 6,
+  "dictation": 2,
+  "type_translation": 2
+ },
+ "exercises": [
+  {
+   "id": "a1_gram_present_continuous_001",
+   "unit": "a1_unit_26_present_continuous",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "I ___ reading a book now.",
+   "sentence_tr": "Şu anda bir kitap okuyorum.",
+   "options": [
+    "am",
+    "do",
+    "is",
+    "are"
+   ],
+   "answer": "am",
+   "explanation_tr": "I ile şimdiki zamanda am kullanılır; fiile -ing eki gelir."
+  },
+  {
+   "id": "a1_gram_present_continuous_002",
+   "unit": "a1_unit_26_present_continuous",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "She ___ not cooking now.",
+   "sentence_tr": "O şu anda yemek yapmıyor.",
+   "options": [
+    "is",
+    "are",
+    "does",
+    "am"
+   ],
+   "answer": "is",
+   "explanation_tr": "She ile is kullanılır. Olumsuz cümlede is not + fiil-ing yapısı gerekir."
+  },
+  {
+   "id": "a1_gram_present_continuous_003",
+   "unit": "a1_unit_26_present_continuous",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "___ you reading a book?",
+   "sentence_tr": "Bir kitap mı okuyorsun?",
+   "options": [
+    "Is",
+    "Am",
+    "Do",
+    "Are"
+   ],
+   "answer": "Are",
+   "explanation_tr": "You ile are kullanılır. Şimdiki zaman sorusunda are cümlenin başına gelir."
+  },
+  {
+   "id": "a1_gram_present_continuous_004",
+   "unit": "a1_unit_26_present_continuous",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "They ___ running in the park now.",
+   "sentence_tr": "Onlar şu anda parkta koşuyorlar.",
+   "options": [
+    "do",
+    "am",
+    "is",
+    "are"
+   ],
+   "answer": "are",
+   "explanation_tr": "They ile are kullanılır. Run fiili -ing alırken son harfi çiftlenir: running."
+  },
+  {
+   "id": "a1_gram_present_continuous_005",
+   "unit": "a1_unit_26_present_continuous",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "He is ___ a letter at the moment.",
+   "sentence_tr": "O şu anda bir mektup yazıyor.",
+   "options": [
+    "writes",
+    "writting",
+    "writing",
+    "write"
+   ],
+   "answer": "writing",
+   "explanation_tr": "Şimdiki zamanda fiil -ing alır. Write fiilinin sonundaki e düşer: writing."
+  },
+  {
+   "id": "a1_gram_present_continuous_006",
+   "unit": "a1_unit_26_present_continuous",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "We ___ making dinner now.",
+   "sentence_tr": "Şu anda akşam yemeği hazırlıyoruz.",
+   "options": [
+    "are",
+    "is",
+    "do",
+    "am"
+   ],
+   "answer": "are",
+   "explanation_tr": "We ile are kullanılır. Şimdiki zaman yapısı are + fiil-ing şeklindedir."
+  },
+  {
+   "id": "a1_gram_present_continuous_007",
+   "unit": "a1_unit_26_present_continuous",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "Anna is having breakfast now.",
+   "question_tr": "",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Anna her gün kahvaltı yapıyor.",
+    "Anna şu anda kahvaltı yapıyor.",
+    "Anna şu anda kahvaltı yapmıyor.",
+    "Anna dün kahvaltı yaptı."
+   ],
+   "answer": "Anna şu anda kahvaltı yapıyor.",
+   "explanation_tr": "Now, eylemin şu anda gerçekleştiğini gösterir; is having şimdiki zamandır."
+  },
+  {
+   "id": "a1_gram_present_continuous_008",
+   "unit": "a1_unit_26_present_continuous",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "I read a book every day.",
+   "question_tr": "",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Şu anda bir kitap okuyorum.",
+    "Her gün bir kitap okurum.",
+    "Her gün bir kitap yazıyorum.",
+    "Dün bir kitap okudum."
+   ],
+   "answer": "Her gün bir kitap okurum.",
+   "explanation_tr": "Every day alışkanlık bildirir; bu nedenle geniş zaman kullanılır."
+  },
+  {
+   "id": "a1_gram_present_continuous_009",
+   "unit": "a1_unit_26_present_continuous",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "",
+   "question_tr": "Tom şu anda yüzüyor.",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Tom swims now.",
+    "Tom are swimming now.",
+    "Tom is swim now.",
+    "Tom is swimming now."
+   ],
+   "answer": "Tom is swimming now.",
+   "explanation_tr": "Tom için is kullanılır ve swim fiili şimdiki zamanda swimming olur."
+  },
+  {
+   "id": "a1_gram_present_continuous_010",
+   "unit": "a1_unit_26_present_continuous",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "",
+   "question_tr": "Onlar her gün kahve içer.",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "They drink coffee every day.",
+    "They drinks coffee every day.",
+    "They drinking coffee every day.",
+    "They are drink coffee every day."
+   ],
+   "answer": "They drink coffee every day.",
+   "explanation_tr": "Every day alışkanlık anlatır, bu yüzden geniş zaman kullanılır. They ile fiil yalın hâlde kalır."
+  },
+  {
+   "id": "a1_gram_present_continuous_011",
+   "unit": "a1_unit_26_present_continuous",
+   "type": "match_pairs",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Eşleştir.",
+   "pairs": [
+    {
+     "en": "at the moment",
+     "tr": "şu anda"
+    },
+    {
+     "en": "every day",
+     "tr": "her gün"
+    },
+    {
+     "en": "making dinner",
+     "tr": "akşam yemeği hazırlamak"
+    },
+    {
+     "en": "writing a letter",
+     "tr": "bir mektup yazmak"
+    },
+    {
+     "en": "running",
+     "tr": "koşmak"
+    }
+   ],
+   "explanation_tr": "Bu ifadeler şimdiki zamanla ilgili zaman sözlerini ve fiil biçimlerini tanımaya yardımcı olur."
+  },
+  {
+   "id": "a1_gram_present_continuous_012",
+   "unit": "a1_unit_26_present_continuous",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "Does she reading a book now?",
+    "Is she reading a book now?",
+    "Is she read a book now?"
+   ],
+   "answer": "Is she reading a book now?",
+   "explanation_tr": "Şimdiki zaman sorusunda is başa gelir ve özne she'den sonra fiil -ing alır."
+  },
+  {
+   "id": "a1_gram_present_continuous_013",
+   "unit": "a1_unit_26_present_continuous",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "I am reading a book now.",
+   "word_bank": [
+    "they",
+    "I",
+    "am",
+    "now",
+    "is",
+    "a",
+    "book",
+    "reading",
+    "cook"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Ben şimdi kitap okuyorum.",
+   "explanation_tr": "Şu anda yapılan bir eylem için am + fiil-ing kullanılır."
+  },
+  {
+   "id": "a1_gram_present_continuous_014",
+   "unit": "a1_unit_26_present_continuous",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "She is not cooking now.",
+   "word_bank": [
+    "am",
+    "every",
+    "now",
+    "not",
+    "She",
+    "cooking",
+    "is",
+    "read"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "O şimdi yemek yapmıyor.",
+   "explanation_tr": "She ile is kullanılır; olumsuzluk için is not eklenir."
+  },
+  {
+   "id": "a1_gram_present_continuous_015",
+   "unit": "a1_unit_26_present_continuous",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Are you writing a letter now?",
+   "word_bank": [
+    "read",
+    "a",
+    "Are",
+    "every",
+    "is",
+    "letter",
+    "you",
+    "now",
+    "writing"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Şu anda bir mektup yazıyor musun?",
+   "explanation_tr": "Şimdiki zaman sorularında Are, özneden önce gelir ve fiil -ing alır."
+  },
+  {
+   "id": "a1_gram_present_continuous_016",
+   "unit": "a1_unit_26_present_continuous",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Tom is running in the park.",
+   "word_bank": [
+    "every",
+    "park",
+    "the",
+    "is",
+    "Tom",
+    "are",
+    "read",
+    "in",
+    "running"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Tom parkta koşuyor.",
+   "explanation_tr": "Tom tekil olduğu için is kullanılır. Run fiili -ing alırken son harfi çiftlenir: running."
+  },
+  {
+   "id": "a1_gram_present_continuous_017",
+   "unit": "a1_unit_26_present_continuous",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "I read a book every day.",
+   "word_bank": [
+    "now",
+    "day",
+    "reading",
+    "book",
+    "read",
+    "am",
+    "I",
+    "a",
+    "every"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Her gün bir kitap okurum.",
+   "explanation_tr": "Every day düzenli yapılan bir eylemi anlatır; bu nedenle geniş zaman kullanılır."
+  },
+  {
+   "id": "a1_gram_present_continuous_018",
+   "unit": "a1_unit_26_present_continuous",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "They are making a cake now.",
+   "word_bank": [
+    "is",
+    "are",
+    "make",
+    "now",
+    "cake",
+    "every",
+    "They",
+    "making",
+    "a"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Onlar şimdi kek yapıyorlar.",
+   "explanation_tr": "They ile are kullanılır. Make fiili -ing alırken sondaki e düşer: making."
+  },
+  {
+   "id": "a1_gram_present_continuous_019",
+   "unit": "a1_unit_26_present_continuous",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "She is read a book now.",
+    "She is reading a book now.",
+    "She are reading a book now."
+   ],
+   "answer": "She is reading a book now.",
+   "explanation_tr": "She ile is kullanılır ve şimdiki zamanda ana fiil -ing alır."
+  },
+  {
+   "id": "a1_gram_present_continuous_020",
+   "unit": "a1_unit_26_present_continuous",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "Do you watching TV now?",
+    "Are you watching TV now?",
+    "Are you watch TV now?"
+   ],
+   "answer": "Are you watching TV now?",
+   "explanation_tr": "Şimdiki zaman sorusunda Are kullanılır; ana fiil watching şeklinde -ing alır."
+  },
+  {
+   "id": "a1_gram_present_continuous_021",
+   "unit": "a1_unit_26_present_continuous",
+   "type": "dictation",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Duyduğun cümleyi yaz.",
+   "answer": "I am reading now.",
+   "word_bank": [
+    "every",
+    "reading",
+    "is",
+    "now",
+    "am",
+    "book",
+    "I"
+   ],
+   "accepted_answers": [],
+   "sentence_tr": "Şimdi okuyorum.",
+   "audio_text": "I am reading now.",
+   "explanation_tr": "I öznesiyle am kullanılır; devam eden eylem reading olur."
+  },
+  {
+   "id": "a1_gram_present_continuous_022",
+   "unit": "a1_unit_26_present_continuous",
+   "type": "dictation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Duyduğun cümleyi yaz.",
+   "answer": "Are they running now?",
+   "word_bank": [
+    "is",
+    "read",
+    "now",
+    "they",
+    "every",
+    "Are",
+    "running"
+   ],
+   "accepted_answers": [],
+   "sentence_tr": "Onlar şimdi koşuyorlar mı?",
+   "audio_text": "Are they running now?",
+   "explanation_tr": "Are ile başlayan soruda they öznesi gelir; running, şimdiki zaman fiilidir."
+  },
+  {
+   "id": "a1_gram_present_continuous_023",
+   "unit": "a1_unit_26_present_continuous",
+   "type": "type_translation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "İngilizceye çevir ve yaz.",
+   "prompt_tr": "Ali şu anda yemek yemiyor.",
+   "answer": "Ali is not eating now.",
+   "accepted_answers": [
+    "Ali isn't eating now."
+   ],
+   "explanation_tr": "Ali ile is kullanılır; olumsuz şimdiki zaman için is not + fiil-ing gerekir."
+  },
+  {
+   "id": "a1_gram_present_continuous_024",
+   "unit": "a1_unit_26_present_continuous",
+   "type": "type_translation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "İngilizceye çevir ve yaz.",
+   "prompt_tr": "Her gün kahve içerim.",
+   "answer": "I drink coffee every day.",
+   "accepted_answers": [],
+   "explanation_tr": "Every day düzenli yapılan bir eylemi belirtir; bu yüzden geniş zaman kullanılır."
+  }
+ ]
+}

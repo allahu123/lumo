@@ -1,0 +1,635 @@
+{
+ "unit_id": "a1_unit_12_there_is_are",
+ "slug": "there_is_are",
+ "order": 12,
+ "module": "m3",
+ "bonus_a1_plus": false,
+ "title_en": "There is and there are",
+ "title_tr": "There is / there are",
+ "level": "A1",
+ "related_vocab_topics": [
+  "home_furniture",
+  "places_town"
+ ],
+ "lesson": {
+  "goal_tr": "Bir odada, sınıfta veya kasabada nelerin bulunduğunu söyleyip bunlarla ilgili soru sorabileceksin.",
+  "sections": [
+   {
+    "heading_tr": "Olumlu cümleler",
+    "explanation_tr": "Tek bir şeyden söz ederken “There is”, birden fazla şeyden söz ederken “There are” kullanılır. Tekil isimden önce genellikle “a” veya “an”, çoğul isimden önce “some” gelir.",
+    "examples": [
+     {
+      "en": "There is a bed in the bedroom.",
+      "tr": "Yatak odasında bir yatak var."
+     },
+     {
+      "en": "There are some chairs in the classroom.",
+      "tr": "Sınıfta birkaç sandalye var."
+     }
+    ]
+   },
+   {
+    "heading_tr": "Olumsuz cümleler",
+    "explanation_tr": "Tekil isimle “There isn't”, çoğul isimle “There aren't” kullanılır. Çoğul olumsuz cümlelerde “any” sık kullanılır.",
+    "examples": [
+     {
+      "en": "There isn't a television in the bedroom.",
+      "tr": "Yatak odasında televizyon yok."
+     },
+     {
+      "en": "There aren't any windows in the room.",
+      "tr": "Odada hiç pencere yok."
+     }
+    ]
+   },
+   {
+    "heading_tr": "Sorular ve kısa cevaplar",
+    "explanation_tr": "Soru yapmak için “is” veya “are” ifadesini “there” sözcüğünün önüne getir. Tekil isimle “Is there a...?”, çoğul isimle “Are there any...?” kullanılır; kısa cevapta da is veya are ile devam edilir.",
+    "examples": [
+     {
+      "en": "Is there a park in the town?",
+      "tr": "Kasabada bir park var mı?"
+     },
+     {
+      "en": "Are there any cafes in the city?",
+      "tr": "Şehirde hiç kafe var mı?"
+     },
+     {
+      "en": "Yes, there is. / No, there isn't.",
+      "tr": "Evet, var. / Hayır, yok."
+     },
+     {
+      "en": "Yes, there are. / No, there aren't.",
+      "tr": "Evet, var. / Hayır, yok."
+     }
+    ]
+   }
+  ],
+  "key_patterns": [
+   {
+    "pattern": "There + is + a + bed",
+    "example_en": "There is a bed in the bedroom.",
+    "example_tr": "Yatak odasında bir yatak var."
+   },
+   {
+    "pattern": "There + are + some + chairs",
+    "example_en": "There are some chairs in the classroom.",
+    "example_tr": "Sınıfta birkaç sandalye var."
+   },
+   {
+    "pattern": "There + isn't + a + television",
+    "example_en": "There isn't a television in the bedroom.",
+    "example_tr": "Yatak odasında televizyon yok."
+   },
+   {
+    "pattern": "There + aren't + any + windows",
+    "example_en": "There aren't any windows in the room.",
+    "example_tr": "Odada hiç pencere yok."
+   },
+   {
+    "pattern": "Is + there + a + park?",
+    "example_en": "Is there a park in the town?",
+    "example_tr": "Kasabada bir park var mı?"
+   },
+   {
+    "pattern": "Are + there + any + cafes?",
+    "example_en": "Are there any cafes in the city?",
+    "example_tr": "Şehirde hiç kafe var mı?"
+   }
+  ],
+  "turkish_speaker_tips_tr": [
+   "Türkçedeki “Odada bir yatak var” cümlesinde İngilizcede olduğu gibi ayrı bir “there” sözcüğü yoktur. İngilizcede bu anlam için cümleye “There is” veya “There are” ile başla.",
+   "Türkçe cümlede yüklem genellikle sonda olur; İngilizcede ise “There is/are” ifadesi başta gelir: “There is a bed in the bedroom.”",
+   "“Is” tek bir şeyle, “are” birden fazla şeyle kullanılır. Bu seçim Türkçedeki “var” sözcüğüne değil, İngilizce isimlerin tekil ya da çoğul olmasına göre yapılır."
+  ],
+  "common_mistakes": [
+   {
+    "wrong": "There are a bed in the bedroom.",
+    "correct": "There is a bed in the bedroom.",
+    "note_tr": "“Bed” tekil olduğu için “are” değil, “is” kullanılır."
+   },
+   {
+    "wrong": "There isn't any chairs in the room.",
+    "correct": "There aren't any chairs in the room.",
+    "note_tr": "“Chairs” çoğul olduğu için olumsuz cümlede “aren't” kullanılır."
+   },
+   {
+    "wrong": "Are there a park in the town?",
+    "correct": "Is there a park in the town?",
+    "note_tr": "“A park” tekil olduğu için soru “Is there...?” ile başlar."
+   }
+  ],
+  "mini_dialogue": [
+   {
+    "speaker": "Anna",
+    "en": "Is there a park in the town?",
+    "tr": "Kasabada bir park var mı?"
+   },
+   {
+    "speaker": "Ali",
+    "en": "Yes, there is. There is a park near the school.",
+    "tr": "Evet, var. Okulun yakınında bir park var."
+   },
+   {
+    "speaker": "Anna",
+    "en": "Are there any cafes in the town?",
+    "tr": "Kasabada hiç kafe var mı?"
+   },
+   {
+    "speaker": "Ali",
+    "en": "Yes, there are. There are some cafes near the park.",
+    "tr": "Evet, var. Parkın yakınında birkaç kafe var."
+   }
+  ]
+ },
+ "exercise_counts": {
+  "fill_blank": 6,
+  "multiple_choice": 4,
+  "match_pairs": 1,
+  "choose_correct_sentence": 3,
+  "build_sentence": 6,
+  "dictation": 2,
+  "type_translation": 2
+ },
+ "exercises": [
+  {
+   "id": "a1_gram_there_is_are_001",
+   "unit": "a1_unit_12_there_is_are",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "There ___ a bed in the bedroom.",
+   "sentence_tr": "Yatak odasında bir yatak var.",
+   "options": [
+    "are",
+    "be",
+    "is",
+    "am"
+   ],
+   "answer": "is",
+   "explanation_tr": "Tekil bir isimden önce “there is” kullanılır."
+  },
+  {
+   "id": "a1_gram_there_is_are_002",
+   "unit": "a1_unit_12_there_is_are",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "There are ___ chairs in the classroom.",
+   "sentence_tr": "Sınıfta birkaç sandalye var.",
+   "options": [
+    "any",
+    "an",
+    "some",
+    "a"
+   ],
+   "answer": "some",
+   "explanation_tr": "Olumlu cümlede çoğul isimlerle “there are some” kullanılır."
+  },
+  {
+   "id": "a1_gram_there_is_are_003",
+   "unit": "a1_unit_12_there_is_are",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "There ___ a television in the bedroom.",
+   "sentence_tr": "Yatak odasında televizyon yok.",
+   "options": [
+    "aren't",
+    "are",
+    "isn't",
+    "be"
+   ],
+   "answer": "isn't",
+   "explanation_tr": "Tekil “a television” ile olumsuz yapıda “there isn't” kullanılır."
+  },
+  {
+   "id": "a1_gram_there_is_are_004",
+   "unit": "a1_unit_12_there_is_are",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "There ___ any windows in the room.",
+   "sentence_tr": "Odada hiç pencere yok.",
+   "options": [
+    "am",
+    "aren't",
+    "isn't",
+    "is"
+   ],
+   "answer": "aren't",
+   "explanation_tr": "Çoğul “windows” ile olumsuz yapıda “there aren't any” kullanılır."
+  },
+  {
+   "id": "a1_gram_there_is_are_005",
+   "unit": "a1_unit_12_there_is_are",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "___ there a park in the town?",
+   "sentence_tr": "Kasabada bir park var mı?",
+   "options": [
+    "Isn't",
+    "Are",
+    "Is",
+    "There"
+   ],
+   "answer": "Is",
+   "explanation_tr": "Tekil bir şeyin var olup olmadığını sorarken “Is there a...?” kullanılır."
+  },
+  {
+   "id": "a1_gram_there_is_are_006",
+   "unit": "a1_unit_12_there_is_are",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "___ there any cafes in the city?",
+   "sentence_tr": "Şehirde hiç kafe var mı?",
+   "options": [
+    "Is",
+    "Are",
+    "There",
+    "Aren't"
+   ],
+   "answer": "Are",
+   "explanation_tr": "Çoğul isimlerle soru kalıbı “Are there any...?” şeklindedir."
+  },
+  {
+   "id": "a1_gram_there_is_are_007",
+   "unit": "a1_unit_12_there_is_are",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "There is a chair in the kitchen.",
+   "question_tr": "",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Sınıfta bir sandalye var.",
+    "Mutfakta bir sandalye var.",
+    "Mutfakta birkaç sandalye var.",
+    "Mutfakta bir sandalye yok."
+   ],
+   "answer": "Mutfakta bir sandalye var.",
+   "explanation_tr": "“There is a” tekil bir şeyin var olduğunu belirtir."
+  },
+  {
+   "id": "a1_gram_there_is_are_008",
+   "unit": "a1_unit_12_there_is_are",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "There aren't any windows in the classroom.",
+   "question_tr": "",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Sınıfta birkaç pencere var.",
+    "Sınıfta hiç pencere yok.",
+    "Sınıfta bir pencere yok.",
+    "Odada hiç pencere yok."
+   ],
+   "answer": "Sınıfta hiç pencere yok.",
+   "explanation_tr": "“There aren't any” çoğul şeylerin hiç olmadığını anlatır."
+  },
+  {
+   "id": "a1_gram_there_is_are_009",
+   "unit": "a1_unit_12_there_is_are",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "",
+   "question_tr": "Sınıfta birkaç masa var.",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "There aren't any desks in the classroom.",
+    "There are a desk in the classroom.",
+    "There are some desks in the classroom.",
+    "There is some desks in the classroom."
+   ],
+   "answer": "There are some desks in the classroom.",
+   "explanation_tr": "“Desks” çoğul olduğu için “there are some” kullanılır."
+  },
+  {
+   "id": "a1_gram_there_is_are_010",
+   "unit": "a1_unit_12_there_is_are",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "",
+   "question_tr": "Ankara'da bir müze var mı?",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Is there any museums in Ankara?",
+    "Is there a museum in Ankara?",
+    "Are there a museum in Ankara?",
+    "There is a museum in Ankara?"
+   ],
+   "answer": "Is there a museum in Ankara?",
+   "explanation_tr": "Tekil “a museum” ile soru “Is there a...?” şeklinde kurulur."
+  },
+  {
+   "id": "a1_gram_there_is_are_011",
+   "unit": "a1_unit_12_there_is_are",
+   "type": "match_pairs",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Eşleştir.",
+   "pairs": [
+    {
+     "en": "bedroom",
+     "tr": "yatak odası"
+    },
+    {
+     "en": "classroom",
+     "tr": "sınıf"
+    },
+    {
+     "en": "town",
+     "tr": "kasaba"
+    },
+    {
+     "en": "window",
+     "tr": "pencere"
+    },
+    {
+     "en": "chair",
+     "tr": "sandalye"
+    }
+   ],
+   "explanation_tr": "Bu eşleştirmelerde oda, yer ve sınıf eşyalarının İngilizce-Türkçe karşılıklarını bulursun."
+  },
+  {
+   "id": "a1_gram_there_is_are_012",
+   "unit": "a1_unit_12_there_is_are",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "Is there any parks in Ankara?",
+    "Are there any parks in Ankara?",
+    "Are there a park in Ankara?"
+   ],
+   "answer": "Are there any parks in Ankara?",
+   "explanation_tr": "“Parks” çoğul olduğu için soruda “Are there any” kullanılır."
+  },
+  {
+   "id": "a1_gram_there_is_are_013",
+   "unit": "a1_unit_12_there_is_are",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "There is a bed in the bedroom.",
+   "word_bank": [
+    "in",
+    "bed",
+    "a",
+    "park",
+    "is",
+    "bedroom",
+    "chairs",
+    "There",
+    "the",
+    "are"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Yatak odasında bir yatak var.",
+   "explanation_tr": "Tekil bir isimden önce “There is a” kullanılır."
+  },
+  {
+   "id": "a1_gram_there_is_are_014",
+   "unit": "a1_unit_12_there_is_are",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "There are some chairs in the classroom.",
+   "word_bank": [
+    "There",
+    "are",
+    "the",
+    "bed",
+    "chairs",
+    "is",
+    "window",
+    "classroom",
+    "some",
+    "in"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Sınıfta birkaç sandalye var.",
+   "explanation_tr": "Çoğul isimlerle “There are some” kullanılır."
+  },
+  {
+   "id": "a1_gram_there_is_are_015",
+   "unit": "a1_unit_12_there_is_are",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "There isn't a television in the room.",
+   "word_bank": [
+    "television",
+    "the",
+    "are",
+    "some",
+    "in",
+    "isn't",
+    "room",
+    "a",
+    "There",
+    "park"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Odada televizyon yok.",
+   "explanation_tr": "Tekil isimli olumsuz cümlede “There isn't a” kullanılır."
+  },
+  {
+   "id": "a1_gram_there_is_are_016",
+   "unit": "a1_unit_12_there_is_are",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "There aren't any windows in the house.",
+   "word_bank": [
+    "chairs",
+    "isn't",
+    "There",
+    "house",
+    "windows",
+    "in",
+    "any",
+    "aren't",
+    "some",
+    "the"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Evde hiç pencere yok.",
+   "explanation_tr": "Çoğul isimli olumsuz cümlede “There aren't any” kullanılır."
+  },
+  {
+   "id": "a1_gram_there_is_are_017",
+   "unit": "a1_unit_12_there_is_are",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Is there a park in the town?",
+   "word_bank": [
+    "bedroom",
+    "in",
+    "are",
+    "park",
+    "a",
+    "town",
+    "the",
+    "Is",
+    "there",
+    "any"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Kasabada bir park var mı?",
+   "explanation_tr": "Tekil bir şeyin varlığını sorarken “Is there a” kullanılır."
+  },
+  {
+   "id": "a1_gram_there_is_are_018",
+   "unit": "a1_unit_12_there_is_are",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Are there any cafes in the city?",
+   "word_bank": [
+    "Are",
+    "city",
+    "the",
+    "some",
+    "in",
+    "any",
+    "there",
+    "classroom",
+    "is",
+    "cafes"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Şehirde hiç kafe var mı?",
+   "explanation_tr": "Çoğul şeylerin varlığını sorarken “Are there any” kullanılır."
+  },
+  {
+   "id": "a1_gram_there_is_are_019",
+   "unit": "a1_unit_12_there_is_are",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "There are some chairs in the classroom.",
+    "There are a chairs in the classroom.",
+    "There is some chairs in the classroom."
+   ],
+   "answer": "There are some chairs in the classroom.",
+   "explanation_tr": "“Chairs” çoğul olduğu için “There are some” gerekir."
+  },
+  {
+   "id": "a1_gram_there_is_are_020",
+   "unit": "a1_unit_12_there_is_are",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "Is there any cafes in the city?",
+    "Are there a cafes in the city?",
+    "Are there any cafes in the city?"
+   ],
+   "answer": "Are there any cafes in the city?",
+   "explanation_tr": "“Cafes” çoğul olduğundan soru “Are there any” ile kurulur."
+  },
+  {
+   "id": "a1_gram_there_is_are_021",
+   "unit": "a1_unit_12_there_is_are",
+   "type": "dictation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Duyduğun cümleyi yaz.",
+   "answer": "There is a park.",
+   "word_bank": [
+    "room",
+    "a",
+    "There",
+    "are",
+    "is",
+    "park",
+    "any"
+   ],
+   "accepted_answers": [],
+   "sentence_tr": "Bir park var.",
+   "audio_text": "There is a park.",
+   "explanation_tr": "“Park” tekil olduğu için “There is a” kullanılır."
+  },
+  {
+   "id": "a1_gram_there_is_are_022",
+   "unit": "a1_unit_12_there_is_are",
+   "type": "dictation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Duyduğun cümleyi yaz.",
+   "answer": "Are there any cafes?",
+   "word_bank": [
+    "cafes",
+    "Are",
+    "any",
+    "there",
+    "is",
+    "some",
+    "bed"
+   ],
+   "accepted_answers": [],
+   "sentence_tr": "Hiç kafe var mı?",
+   "audio_text": "Are there any cafes?",
+   "explanation_tr": "Çoğul şeyleri sorarken “Are there any” kullanılır."
+  },
+  {
+   "id": "a1_gram_there_is_are_023",
+   "unit": "a1_unit_12_there_is_are",
+   "type": "type_translation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "İngilizceye çevir ve yaz.",
+   "prompt_tr": "Yatak odasında yatak yok.",
+   "answer": "There isn't a bed in the bedroom.",
+   "accepted_answers": [],
+   "explanation_tr": "Tekil isimli olumsuz cümlede “There isn't a” kullanılır."
+  },
+  {
+   "id": "a1_gram_there_is_are_024",
+   "unit": "a1_unit_12_there_is_are",
+   "type": "type_translation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "İngilizceye çevir ve yaz.",
+   "prompt_tr": "Sınıfta hiç pencere yok.",
+   "answer": "There aren't any windows in the classroom.",
+   "accepted_answers": [],
+   "explanation_tr": "Çoğul isimli olumsuz cümlede “There aren't any” kullanılır."
+  }
+ ]
+}

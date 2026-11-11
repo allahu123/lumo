@@ -1,0 +1,624 @@
+{
+ "unit_id": "a1_unit_28_ordering_shopping",
+ "slug": "ordering_shopping",
+ "order": 28,
+ "module": "m7",
+ "bonus_a1_plus": false,
+ "title_en": "Practical English: food, shops and requests",
+ "title_tr": "Pratik İngilizce: yemek ve alışveriş",
+ "level": "A1",
+ "related_vocab_topics": [
+  "food_drink",
+  "shopping_money"
+ ],
+ "lesson": {
+  "goal_tr": "Bu dersin sonunda kafede veya dükkânda kibarca bir şey isteyebilir, fiyat sorabilir ve yakında bir yer olup olmadığını sorabilirsiniz.",
+  "sections": [
+   {
+    "heading_tr": "Kibarca bir şey isteme",
+    "explanation_tr": "Bir şey isterken “Can I have + ürün?” veya “I’d like + ürün” kullanın. “I’d like” daha nazik bir istek kalıbıdır; lütfen eklemek için “please” diyebilirsiniz.",
+    "examples": [
+     {
+      "en": "Can I have a coffee, please?",
+      "tr": "Bir kahve alabilir miyim, lütfen?"
+     },
+     {
+      "en": "I'd like a sandwich, please.",
+      "tr": "Bir sandviç istiyorum, lütfen."
+     }
+    ]
+   },
+   {
+    "heading_tr": "Ürün, fiyat ve ödeme",
+    "explanation_tr": "Tek bir sayılabilir üründen söz ederken genellikle “a” veya “an” kullanılır: “a cake”, “an apple”. Fiyat sormak için “How much is it?” deyin; hesabı istemek için “The bill, please.” ifadesini kullanın.",
+    "examples": [
+     {
+      "en": "How much is it?",
+      "tr": "Ne kadar?"
+     },
+     {
+      "en": "The bill, please.",
+      "tr": "Hesap, lütfen."
+     }
+    ]
+   },
+   {
+    "heading_tr": "Bir yerin olup olmadığını sorma",
+    "explanation_tr": "Bir yerde bir şey olup olmadığını sormak için “Is there + a/an + yer?” kalıbını kullanın. Satıcı “Anything else?” diyerek başka bir şey isteyip istemediğinizi sorabilir; ürünü verirken “Here you are.” der.",
+    "examples": [
+     {
+      "en": "Is there a supermarket?",
+      "tr": "Bir süpermarket var mı?"
+     },
+     {
+      "en": "Anything else?",
+      "tr": "Başka bir şey?"
+     },
+     {
+      "en": "Here you are.",
+      "tr": "Buyurun."
+     }
+    ]
+   }
+  ],
+  "key_patterns": [
+   {
+    "pattern": "Can I have + a/an + [thing]?",
+    "example_en": "Can I have an apple, please?",
+    "example_tr": "Bir elma alabilir miyim, lütfen?"
+   },
+   {
+    "pattern": "I'd like + a/an + [thing].",
+    "example_en": "I'd like a cake, please.",
+    "example_tr": "Bir pasta istiyorum, lütfen."
+   },
+   {
+    "pattern": "How much + is + it?",
+    "example_en": "How much is it?",
+    "example_tr": "Ne kadar?"
+   },
+   {
+    "pattern": "Is + there + a/an + [place]?",
+    "example_en": "Is there a cafe?",
+    "example_tr": "Bir kafe var mı?"
+   }
+  ],
+  "turkish_speaker_tips_tr": [
+   "Türkçede “Bir kahve alabilir miyim?” deriz; İngilizcede sayılabilir tek bir ürün için “a” veya “an” gerekir: “a coffee”, “an apple”.",
+   "Türkçede fiil genellikle sonda, İngilizcede ise özneden sonra gelir. Soru yaparken “How much is it?” ve “Is there a cafe?” örneklerindeki kelime sırasına dikkat edin.",
+   "“Here you are.” kelime kelime çevrilmez; bir şeyi uzatırken Türkçedeki “Buyurun.” anlamında kullanılır."
+  ],
+  "common_mistakes": [
+   {
+    "wrong": "Can I have apple, please?",
+    "correct": "Can I have an apple, please?",
+    "note_tr": "Tek bir sayılabilir ürünü isterken “an” gerekir; “apple” sesli harfle başladığı için “an” kullanılır."
+   },
+   {
+    "wrong": "How much it is?",
+    "correct": "How much is it?",
+    "note_tr": "İngilizce soruda “is”, “it” öznesinden önce gelir."
+   },
+   {
+    "wrong": "Is there supermarket?",
+    "correct": "Is there a supermarket?",
+    "note_tr": "Tek bir sayılabilir yerden söz ederken “a” kullanılır."
+   }
+  ],
+  "mini_dialogue": [
+   {
+    "speaker": "Ali",
+    "en": "Can I have a coffee, please?",
+    "tr": "Bir kahve alabilir miyim, lütfen?"
+   },
+   {
+    "speaker": "Waiter",
+    "en": "Anything else?",
+    "tr": "Başka bir şey?"
+   },
+   {
+    "speaker": "Ali",
+    "en": "I'd like a cake, please.",
+    "tr": "Bir pasta istiyorum, lütfen."
+   },
+   {
+    "speaker": "Waiter",
+    "en": "Here you are.",
+    "tr": "Buyurun."
+   },
+   {
+    "speaker": "Ali",
+    "en": "Thank you. The bill, please.",
+    "tr": "Teşekkür ederim. Hesap, lütfen."
+   },
+   {
+    "speaker": "Waiter",
+    "en": "It is five pounds.",
+    "tr": "Beş pound."
+   }
+  ]
+ },
+ "exercise_counts": {
+  "fill_blank": 6,
+  "multiple_choice": 4,
+  "match_pairs": 1,
+  "choose_correct_sentence": 3,
+  "build_sentence": 6,
+  "dictation": 2,
+  "type_translation": 2
+ },
+ "exercises": [
+  {
+   "id": "a1_gram_ordering_shopping_001",
+   "unit": "a1_unit_28_ordering_shopping",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "Can I ___ an apple, please?",
+   "sentence_tr": "Bir elma alabilir miyim, lütfen?",
+   "options": [
+    "am",
+    "is",
+    "has",
+    "have"
+   ],
+   "answer": "have",
+   "explanation_tr": "“Can I” ifadesinden sonra fiilin yalın hâli kullanılır; bu nedenle “have” doğrudur."
+  },
+  {
+   "id": "a1_gram_ordering_shopping_002",
+   "unit": "a1_unit_28_ordering_shopping",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "I'd ___ a cake, please.",
+   "sentence_tr": "Bir pasta istiyorum, lütfen.",
+   "options": [
+    "liked",
+    "likes",
+    "liking",
+    "like"
+   ],
+   "answer": "like",
+   "explanation_tr": "Bir şeyi kibarca istemek için “I'd like” kullanılır. “Would” sonrasında fiil yalın hâlde olur."
+  },
+  {
+   "id": "a1_gram_ordering_shopping_003",
+   "unit": "a1_unit_28_ordering_shopping",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "How much ___ it?",
+   "sentence_tr": "Bu ne kadar?",
+   "options": [
+    "are",
+    "can",
+    "is",
+    "do"
+   ],
+   "answer": "is",
+   "explanation_tr": "“It” ile “is” kullanılır. Bir şeyin fiyatını sormak için “How much is it?” deriz."
+  },
+  {
+   "id": "a1_gram_ordering_shopping_004",
+   "unit": "a1_unit_28_ordering_shopping",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "Anything ___?",
+   "sentence_tr": "Başka bir şey var mı?",
+   "options": [
+    "another",
+    "other",
+    "else",
+    "any"
+   ],
+   "answer": "else",
+   "explanation_tr": "“Anything else?” alışverişte veya sipariş alırken “Başka bir şey?” anlamında kullanılan doğal ifadedir."
+  },
+  {
+   "id": "a1_gram_ordering_shopping_005",
+   "unit": "a1_unit_28_ordering_shopping",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "The bill, ___.",
+   "sentence_tr": "Hesap, lütfen.",
+   "options": [
+    "a",
+    "much",
+    "else",
+    "please"
+   ],
+   "answer": "please",
+   "explanation_tr": "Bir şeyi kibarca istemek için “please” kullanılır. “The bill, please.” restoranda hesabı istemenin doğal yoludur."
+  },
+  {
+   "id": "a1_gram_ordering_shopping_006",
+   "unit": "a1_unit_28_ordering_shopping",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "Is there ___ cafe near here?",
+   "sentence_tr": "Yakınlarda bir kafe var mı?",
+   "options": [
+    "do",
+    "an",
+    "a",
+    "are"
+   ],
+   "answer": "a",
+   "explanation_tr": "Tekil ve sayılabilen “cafe” kelimesinden önce “a” gelir. “Is there” ile bir yerin olup olmadığını sorarız."
+  },
+  {
+   "id": "a1_gram_ordering_shopping_007",
+   "unit": "a1_unit_28_ordering_shopping",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "Can I have a cup of tea, please?",
+   "question_tr": "",
+   "sentence_en": "Can I have a cup of tea, please?",
+   "sentence_tr": "",
+   "options": [
+    "Bir fincan kahve alabilir miyim, lütfen?",
+    "Bir fincan çay ister misin, lütfen?",
+    "Bir fincan çayın fiyatı ne kadar?",
+    "Bir fincan çay alabilir miyim, lütfen?"
+   ],
+   "answer": "Bir fincan çay alabilir miyim, lütfen?",
+   "explanation_tr": "“Can I have...?” bir şeyi kibarca istemek için kullanılır. “A cup of tea” ise “bir fincan çay” demektir."
+  },
+  {
+   "id": "a1_gram_ordering_shopping_008",
+   "unit": "a1_unit_28_ordering_shopping",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "Here you are.",
+   "question_tr": "",
+   "sentence_en": "Here you are.",
+   "sentence_tr": "",
+   "options": [
+    "Buyurun.",
+    "Hesap, lütfen.",
+    "Başka bir şey var mı?",
+    "Teşekkür ederim."
+   ],
+   "answer": "Buyurun.",
+   "explanation_tr": "Birine istediği şeyi verirken “Here you are.” deriz. Türkçede bu ifade “Buyurun.” anlamına gelir."
+  },
+  {
+   "id": "a1_gram_ordering_shopping_009",
+   "unit": "a1_unit_28_ordering_shopping",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "",
+   "question_tr": "Bu kahve ne kadar?",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "How many is the coffee?",
+    "How much is the coffee?",
+    "How much are the coffee?",
+    "How much coffee is there?"
+   ],
+   "answer": "How much is the coffee?",
+   "explanation_tr": "Fiyat sormak için “How much” kullanılır. “The coffee” tekil olduğu için “is” gerekir."
+  },
+  {
+   "id": "a1_gram_ordering_shopping_010",
+   "unit": "a1_unit_28_ordering_shopping",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "",
+   "question_tr": "Bir elma istiyorum, lütfen.",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "I'd like a apple, please.",
+    "I'd like an apple, please.",
+    "I'd likes an apple, please.",
+    "I like a apple, please."
+   ],
+   "answer": "I'd like an apple, please.",
+   "explanation_tr": "Kibarca istemek için “I'd like” kullanılır. “Apple” sesli harfle başladığı için önünde “an” gelir."
+  },
+  {
+   "id": "a1_gram_ordering_shopping_011",
+   "unit": "a1_unit_28_ordering_shopping",
+   "type": "match_pairs",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Eşleştir.",
+   "pairs": [
+    {
+     "en": "Can I have...?",
+     "tr": "Alabilir miyim...?"
+    },
+    {
+     "en": "I'd like...",
+     "tr": "...istiyorum."
+    },
+    {
+     "en": "How much is it?",
+     "tr": "Bu ne kadar?"
+    },
+    {
+     "en": "Anything else?",
+     "tr": "Başka bir şey var mı?"
+    },
+    {
+     "en": "The bill, please.",
+     "tr": "Hesap, lütfen."
+    }
+   ],
+   "explanation_tr": "Bu ifadeler kafe, restoran ve alışverişte kullanılan temel kalıplardır; eşleştirmeler anlamlarına göre yapılır."
+  },
+  {
+   "id": "a1_gram_ordering_shopping_012",
+   "unit": "a1_unit_28_ordering_shopping",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "Is there a supermarket?",
+    "Are there a supermarket?",
+    "Is there an supermarket?"
+   ],
+   "answer": "Is there a supermarket?",
+   "explanation_tr": "“Supermarket” kelimesi sessiz harfle başladığı için önünde “a” kullanılır. Tekil yerin varlığını sorarken “Is there” deriz."
+  },
+  {
+   "id": "a1_gram_ordering_shopping_013",
+   "unit": "a1_unit_28_ordering_shopping",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Can I have an apple, please?",
+   "word_bank": [
+    "I",
+    "please",
+    "have",
+    "an",
+    "apple",
+    "Can",
+    "the",
+    "a",
+    "is"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Lütfen bir elma alabilir miyim?",
+   "explanation_tr": "Rica ederken “Can I have + a/an + nesne” kalıbını kullanırız. “Apple” sesli harfle başladığı için önünde “an” gelir."
+  },
+  {
+   "id": "a1_gram_ordering_shopping_014",
+   "unit": "a1_unit_28_ordering_shopping",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "I'd like a cake, please.",
+   "word_bank": [
+    "have",
+    "like",
+    "cake",
+    "a",
+    "please",
+    "it",
+    "an",
+    "I'd"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Bir kek istiyorum, lütfen.",
+   "explanation_tr": "Kibarca bir şey istemek için “I'd like + a/an + nesne” deriz. “Cake” önünde “a” kullanılır."
+  },
+  {
+   "id": "a1_gram_ordering_shopping_015",
+   "unit": "a1_unit_28_ordering_shopping",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Is there a supermarket?",
+   "word_bank": [
+    "supermarket",
+    "a",
+    "there",
+    "Is",
+    "it",
+    "an",
+    "have"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Bir süpermarket var mı?",
+   "explanation_tr": "Bir yerin var olup olmadığını sormak için “Is there + a/an + yer?” kalıbını kullanırız."
+  },
+  {
+   "id": "a1_gram_ordering_shopping_016",
+   "unit": "a1_unit_28_ordering_shopping",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "How much is the coffee?",
+   "word_bank": [
+    "the",
+    "a",
+    "How",
+    "there",
+    "coffee",
+    "is",
+    "much",
+    "are"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Kahve ne kadar?",
+   "explanation_tr": "Fiyat sormak için “How much is...?” kullanılır. “Coffee” burada “the” ile belirtilmiştir."
+  },
+  {
+   "id": "a1_gram_ordering_shopping_017",
+   "unit": "a1_unit_28_ordering_shopping",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Can I have a menu, please?",
+   "word_bank": [
+    "please",
+    "a",
+    "an",
+    "menu",
+    "Can",
+    "have",
+    "is",
+    "I",
+    "it"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Bir menü alabilir miyim, lütfen?",
+   "explanation_tr": "Bir şeyi kibarca istemek için “Can I have + a/an + nesne, please?” diyebiliriz."
+  },
+  {
+   "id": "a1_gram_ordering_shopping_018",
+   "unit": "a1_unit_28_ordering_shopping",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "I'd like a sandwich, please.",
+   "word_bank": [
+    "sandwich",
+    "I'd",
+    "have",
+    "an",
+    "a",
+    "please",
+    "like",
+    "there"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Bir sandviç istiyorum, lütfen.",
+   "explanation_tr": "“I'd like” kibar bir istek belirtir. “Sandwich” sessiz harfle başladığı için önünde “a” kullanılır."
+  },
+  {
+   "id": "a1_gram_ordering_shopping_019",
+   "unit": "a1_unit_28_ordering_shopping",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "Can I has an orange, please?",
+    "Can I have a orange, please?",
+    "Can I have an orange, please?"
+   ],
+   "answer": "Can I have an orange, please?",
+   "explanation_tr": "“Can” sonrasında fiilin yalın hâli olan “have” gelir. “Orange” sesli harfle başladığı için “an” kullanılır."
+  },
+  {
+   "id": "a1_gram_ordering_shopping_020",
+   "unit": "a1_unit_28_ordering_shopping",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "I'd like a coffee, please.",
+    "I'd like an coffee, please.",
+    "I'd like a coffees, please."
+   ],
+   "answer": "I'd like a coffee, please.",
+   "explanation_tr": "“Coffee” sessiz harfle başladığı için “a” alır. Tek bir içecek isterken “a coffee” deriz."
+  },
+  {
+   "id": "a1_gram_ordering_shopping_021",
+   "unit": "a1_unit_28_ordering_shopping",
+   "type": "dictation",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Duyduğun cümleyi yaz.",
+   "answer": "Here you are.",
+   "word_bank": [
+    "you",
+    "thanks",
+    "Here",
+    "are",
+    "please",
+    "bill"
+   ],
+   "accepted_answers": [],
+   "sentence_tr": "Buyurun.",
+   "audio_text": "Here you are.",
+   "explanation_tr": "“Here you are” birine istediği şeyi verirken kullanılan doğal bir ifadedir."
+  },
+  {
+   "id": "a1_gram_ordering_shopping_022",
+   "unit": "a1_unit_28_ordering_shopping",
+   "type": "dictation",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Duyduğun cümleyi yaz.",
+   "answer": "Thank you very much.",
+   "word_bank": [
+    "cafe",
+    "Thank",
+    "very",
+    "menu",
+    "you",
+    "much",
+    "please"
+   ],
+   "accepted_answers": [],
+   "sentence_tr": "Çok teşekkür ederim.",
+   "audio_text": "Thank you very much.",
+   "explanation_tr": "“Thank you very much” güçlü ve nazik bir teşekkür ifadesidir."
+  },
+  {
+   "id": "a1_gram_ordering_shopping_023",
+   "unit": "a1_unit_28_ordering_shopping",
+   "type": "type_translation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "İngilizceye çevir ve yaz.",
+   "prompt_tr": "Hesap, lütfen.",
+   "answer": "The bill, please.",
+   "accepted_answers": [
+    "Can I have the bill, please?",
+    "I'd like the bill, please."
+   ],
+   "explanation_tr": "Restoranda hesabı istemek için “The bill, please” diyebiliriz. “Can I have...” ve “I'd like...” kalıpları da kibar istek bildirir."
+  },
+  {
+   "id": "a1_gram_ordering_shopping_024",
+   "unit": "a1_unit_28_ordering_shopping",
+   "type": "type_translation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "İngilizceye çevir ve yaz.",
+   "prompt_tr": "Bir kek ne kadar?",
+   "answer": "How much is a cake?",
+   "accepted_answers": [
+    "How much does a cake cost?"
+   ],
+   "explanation_tr": "Fiyat sormak için “How much is...?” kalıbını kullanırız. “How much does ... cost?” da aynı anlamı verir."
+  }
+ ]
+}

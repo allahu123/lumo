@@ -1,0 +1,470 @@
+{
+ "level": "A1",
+ "module_count": 8,
+ "unit_count": 32,
+ "exercise_total": 768,
+ "dialogue_total": 14,
+ "modules": [
+  {
+   "module_id": "m1",
+   "title_tr": "Tanışma ve To Be",
+   "goal_tr": "Kendini tanıt, kim olduğunu ve nerede olduğunu söyle",
+   "units": [
+    {
+     "unit_id": "a1_unit_01_greetings_intro",
+     "slug": "greetings_intro",
+     "order": 1,
+     "title_en": "Greetings and introductions",
+     "title_tr": "Selamlaşma ve tanışma",
+     "exercise_count": 24,
+     "file": "units/01_greetings_intro.json",
+     "related_vocab_topics": [
+      "greetings_social"
+     ]
+    },
+    {
+     "unit_id": "a1_unit_02_be_affirmative",
+     "slug": "be_affirmative",
+     "order": 2,
+     "title_en": "Verb to be: I am, you are, he is",
+     "title_tr": "To be fiili: olumlu cümleler",
+     "exercise_count": 24,
+     "file": "units/02_be_affirmative.json",
+     "related_vocab_topics": [
+      "pronouns_grammar"
+     ]
+    },
+    {
+     "unit_id": "a1_unit_03_be_negative_questions",
+     "slug": "be_negative_questions",
+     "order": 3,
+     "title_en": "Verb to be: negatives and questions",
+     "title_tr": "To be fiili: olumsuz ve soru",
+     "exercise_count": 24,
+     "file": "units/03_be_negative_questions.json",
+     "related_vocab_topics": [
+      "pronouns_grammar",
+      "question_words_conjunctions"
+     ]
+    },
+    {
+     "unit_id": "a1_unit_04_pronouns_possessives",
+     "slug": "pronouns_possessives",
+     "order": 4,
+     "title_en": "Subject pronouns and possessive adjectives",
+     "title_tr": "Özne zamirleri ve iyelik sıfatları",
+     "exercise_count": 24,
+     "file": "units/04_pronouns_possessives.json",
+     "related_vocab_topics": [
+      "pronouns_grammar",
+      "family_people"
+     ]
+    },
+    {
+     "unit_id": "a1_unit_05_this_that",
+     "slug": "this_that",
+     "order": 5,
+     "title_en": "This, that, these, those",
+     "title_tr": "This, that, these, those",
+     "exercise_count": 24,
+     "file": "units/05_this_that.json",
+     "related_vocab_topics": [
+      "pronouns_grammar",
+      "home_furniture"
+     ]
+    }
+   ]
+  },
+  {
+   "module_id": "m2",
+   "title_tr": "İsimler ve Tanımlama",
+   "goal_tr": "Nesneleri say, anlat ve sahipliği belirt",
+   "units": [
+    {
+     "unit_id": "a1_unit_06_articles",
+     "slug": "articles",
+     "order": 6,
+     "title_en": "Articles: a, an, the",
+     "title_tr": "Tanımlıklar: a, an, the",
+     "exercise_count": 24,
+     "file": "units/06_articles.json",
+     "related_vocab_topics": [
+      "general_nouns"
+     ]
+    },
+    {
+     "unit_id": "a1_unit_07_plurals",
+     "slug": "plurals",
+     "order": 7,
+     "title_en": "Plural nouns",
+     "title_tr": "Çoğul isimler",
+     "exercise_count": 24,
+     "file": "units/07_plurals.json",
+     "related_vocab_topics": [
+      "general_nouns"
+     ]
+    },
+    {
+     "unit_id": "a1_unit_08_numbers_prices",
+     "slug": "numbers_prices",
+     "order": 8,
+     "title_en": "Numbers, age and prices",
+     "title_tr": "Sayılar, yaş ve fiyatlar",
+     "exercise_count": 24,
+     "file": "units/08_numbers_prices.json",
+     "related_vocab_topics": [
+      "numbers_time",
+      "shopping_money"
+     ]
+    },
+    {
+     "unit_id": "a1_unit_09_adjectives",
+     "slug": "adjectives",
+     "order": 9,
+     "title_en": "Adjectives and colours",
+     "title_tr": "Sıfatlar ve renkler",
+     "exercise_count": 24,
+     "file": "units/09_adjectives.json",
+     "related_vocab_topics": [
+      "adjectives_description",
+      "colors_shapes"
+     ]
+    },
+    {
+     "unit_id": "a1_unit_10_have_has",
+     "slug": "have_has",
+     "order": 10,
+     "title_en": "Have and has",
+     "title_tr": "Have / has (sahip olmak)",
+     "exercise_count": 24,
+     "file": "units/10_have_has.json",
+     "related_vocab_topics": [
+      "family_people",
+      "general_nouns"
+     ]
+    },
+    {
+     "unit_id": "a1_unit_11_possessive_s",
+     "slug": "possessive_s",
+     "order": 11,
+     "title_en": "Possessive 's and family",
+     "title_tr": "Tamlama 's ve aile",
+     "exercise_count": 24,
+     "file": "units/11_possessive_s.json",
+     "related_vocab_topics": [
+      "family_people"
+     ]
+    }
+   ]
+  },
+  {
+   "module_id": "m3",
+   "title_tr": "Yer ve Zaman",
+   "goal_tr": "Bir şeyin nerede ve ne zaman olduğunu anlat",
+   "units": [
+    {
+     "unit_id": "a1_unit_12_there_is_are",
+     "slug": "there_is_are",
+     "order": 12,
+     "title_en": "There is and there are",
+     "title_tr": "There is / there are",
+     "exercise_count": 24,
+     "file": "units/12_there_is_are.json",
+     "related_vocab_topics": [
+      "home_furniture",
+      "places_town"
+     ]
+    },
+    {
+     "unit_id": "a1_unit_13_prepositions_place",
+     "slug": "prepositions_place",
+     "order": 13,
+     "title_en": "Prepositions of place",
+     "title_tr": "Yer edatları",
+     "exercise_count": 24,
+     "file": "units/13_prepositions_place.json",
+     "related_vocab_topics": [
+      "prepositions_place",
+      "home_furniture"
+     ]
+    },
+    {
+     "unit_id": "a1_unit_14_time_clock",
+     "slug": "time_clock",
+     "order": 14,
+     "title_en": "Telling the time",
+     "title_tr": "Saati söyleme",
+     "exercise_count": 24,
+     "file": "units/14_time_clock.json",
+     "related_vocab_topics": [
+      "numbers_time"
+     ]
+    },
+    {
+     "unit_id": "a1_unit_15_days_months_prepositions",
+     "slug": "days_months_prepositions",
+     "order": 15,
+     "title_en": "Days, months and prepositions of time",
+     "title_tr": "Gün, ay ve zaman edatları",
+     "exercise_count": 24,
+     "file": "units/15_days_months_prepositions.json",
+     "related_vocab_topics": [
+      "numbers_time",
+      "weather_seasons"
+     ]
+    }
+   ]
+  },
+  {
+   "module_id": "m4",
+   "title_tr": "Geniş Zaman",
+   "goal_tr": "Alışkanlıkları ve günlük hayatı anlat, soru sor",
+   "units": [
+    {
+     "unit_id": "a1_unit_16_present_simple_aff",
+     "slug": "present_simple_aff",
+     "order": 16,
+     "title_en": "Present simple: affirmative",
+     "title_tr": "Geniş zaman: olumlu",
+     "exercise_count": 24,
+     "file": "units/16_present_simple_aff.json",
+     "related_vocab_topics": [
+      "daily_verbs"
+     ]
+    },
+    {
+     "unit_id": "a1_unit_17_adverbs_frequency",
+     "slug": "adverbs_frequency",
+     "order": 17,
+     "title_en": "Adverbs of frequency",
+     "title_tr": "Sıklık zarfları",
+     "exercise_count": 24,
+     "file": "units/17_adverbs_frequency.json",
+     "related_vocab_topics": [
+      "adverbs_frequency",
+      "daily_verbs"
+     ]
+    },
+    {
+     "unit_id": "a1_unit_18_present_simple_neg",
+     "slug": "present_simple_neg",
+     "order": 18,
+     "title_en": "Present simple: negative",
+     "title_tr": "Geniş zaman: olumsuz",
+     "exercise_count": 24,
+     "file": "units/18_present_simple_neg.json",
+     "related_vocab_topics": [
+      "daily_verbs"
+     ]
+    },
+    {
+     "unit_id": "a1_unit_19_present_simple_questions",
+     "slug": "present_simple_questions",
+     "order": 19,
+     "title_en": "Present simple: questions",
+     "title_tr": "Geniş zaman: soru",
+     "exercise_count": 24,
+     "file": "units/19_present_simple_questions.json",
+     "related_vocab_topics": [
+      "daily_verbs",
+      "question_words_conjunctions"
+     ]
+    },
+    {
+     "unit_id": "a1_unit_20_question_words",
+     "slug": "question_words",
+     "order": 20,
+     "title_en": "Question words",
+     "title_tr": "Soru kelimeleri",
+     "exercise_count": 24,
+     "file": "units/20_question_words.json",
+     "related_vocab_topics": [
+      "question_words_conjunctions"
+     ]
+    }
+   ]
+  },
+  {
+   "module_id": "m5",
+   "title_tr": "Can, Emirler ve İstekler",
+   "goal_tr": "Yapabildiklerini, istediklerini ve sevdiklerini söyle",
+   "units": [
+    {
+     "unit_id": "a1_unit_21_can_cant",
+     "slug": "can_cant",
+     "order": 21,
+     "title_en": "Can and can't",
+     "title_tr": "Can / can't",
+     "exercise_count": 24,
+     "file": "units/21_can_cant.json",
+     "related_vocab_topics": [
+      "hobbies_sports_music",
+      "daily_verbs"
+     ]
+    },
+    {
+     "unit_id": "a1_unit_22_imperatives",
+     "slug": "imperatives",
+     "order": 22,
+     "title_en": "Imperatives and polite requests",
+     "title_tr": "Emir kipi ve nazik rica",
+     "exercise_count": 24,
+     "file": "units/22_imperatives.json",
+     "related_vocab_topics": [
+      "daily_verbs",
+      "school_education"
+     ]
+    },
+    {
+     "unit_id": "a1_unit_23_like_want",
+     "slug": "like_want",
+     "order": 23,
+     "title_en": "Like, love, want and need",
+     "title_tr": "Like, love, want, need",
+     "exercise_count": 24,
+     "file": "units/23_like_want.json",
+     "related_vocab_topics": [
+      "food_drink",
+      "hobbies_sports_music"
+     ]
+    },
+    {
+     "unit_id": "a1_unit_24_countable_uncountable",
+     "slug": "countable_uncountable",
+     "order": 24,
+     "title_en": "Countable and uncountable nouns",
+     "title_tr": "Sayılabilir ve sayılamayan isimler",
+     "exercise_count": 24,
+     "file": "units/24_countable_uncountable.json",
+     "related_vocab_topics": [
+      "food_drink",
+      "shopping_money"
+     ]
+    },
+    {
+     "unit_id": "a1_unit_25_object_pronouns",
+     "slug": "object_pronouns",
+     "order": 25,
+     "title_en": "Object pronouns",
+     "title_tr": "Nesne zamirleri",
+     "exercise_count": 24,
+     "file": "units/25_object_pronouns.json",
+     "related_vocab_topics": [
+      "pronouns_grammar",
+      "family_people"
+     ]
+    }
+   ]
+  },
+  {
+   "module_id": "m6",
+   "title_tr": "Şimdiki Zaman ve Bağlaçlar",
+   "goal_tr": "Şu an olanı anlat, cümleleri birleştir",
+   "units": [
+    {
+     "unit_id": "a1_unit_26_present_continuous",
+     "slug": "present_continuous",
+     "order": 26,
+     "title_en": "Present continuous",
+     "title_tr": "Şimdiki zaman (Present continuous)",
+     "exercise_count": 24,
+     "file": "units/26_present_continuous.json",
+     "related_vocab_topics": [
+      "daily_verbs",
+      "weather_seasons"
+     ]
+    },
+    {
+     "unit_id": "a1_unit_27_conjunctions",
+     "slug": "conjunctions",
+     "order": 27,
+     "title_en": "And, but, or, because, so",
+     "title_tr": "And, but, or, because, so",
+     "exercise_count": 24,
+     "file": "units/27_conjunctions.json",
+     "related_vocab_topics": [
+      "question_words_conjunctions"
+     ]
+    }
+   ]
+  },
+  {
+   "module_id": "m7",
+   "title_tr": "Günlük Durumlar",
+   "goal_tr": "Sipariş ver, yol sor",
+   "units": [
+    {
+     "unit_id": "a1_unit_28_ordering_shopping",
+     "slug": "ordering_shopping",
+     "order": 28,
+     "title_en": "Practical English: food, shops and requests",
+     "title_tr": "Pratik İngilizce: yemek ve alışveriş",
+     "exercise_count": 24,
+     "file": "units/28_ordering_shopping.json",
+     "related_vocab_topics": [
+      "food_drink",
+      "shopping_money"
+     ]
+    },
+    {
+     "unit_id": "a1_unit_29_directions_places",
+     "slug": "directions_places",
+     "order": 29,
+     "title_en": "Practical English: places and directions",
+     "title_tr": "Pratik İngilizce: yerler ve yön tarif",
+     "exercise_count": 24,
+     "file": "units/29_directions_places.json",
+     "related_vocab_topics": [
+      "places_town",
+      "prepositions_place",
+      "transport_travel"
+     ]
+    }
+   ]
+  },
+  {
+   "module_id": "m8",
+   "title_tr": "Bonus A1+",
+   "goal_tr": "A1 sonrası için ilk adımlar: karşılaştırma, geçmiş zaman",
+   "units": [
+    {
+     "unit_id": "a1_unit_30_comparisons",
+     "slug": "comparisons",
+     "order": 30,
+     "title_en": "Simple comparisons (bonus A1+)",
+     "title_tr": "Basit karşılaştırmalar (bonus A1+)",
+     "exercise_count": 24,
+     "file": "units/30_comparisons.json",
+     "related_vocab_topics": [
+      "adjectives_description"
+     ]
+    },
+    {
+     "unit_id": "a1_unit_31_past_be",
+     "slug": "past_be",
+     "order": 31,
+     "title_en": "Past of be: was and were (bonus A1+)",
+     "title_tr": "Be fiilinin geçmişi: was / were (bonus A1+)",
+     "exercise_count": 24,
+     "file": "units/31_past_be.json",
+     "related_vocab_topics": [
+      "daily_verbs",
+      "numbers_time"
+     ]
+    },
+    {
+     "unit_id": "a1_unit_32_past_simple",
+     "slug": "past_simple",
+     "order": 32,
+     "title_en": "Past simple (bonus A1+)",
+     "title_tr": "Geçmiş zaman (bonus A1+)",
+     "exercise_count": 24,
+     "file": "units/32_past_simple.json",
+     "related_vocab_topics": [
+      "daily_verbs"
+     ]
+    }
+   ]
+  }
+ ]
+}

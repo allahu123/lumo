@@ -1,0 +1,646 @@
+{
+ "unit_id": "a1_unit_22_imperatives",
+ "slug": "imperatives",
+ "order": 22,
+ "module": "m5",
+ "bonus_a1_plus": false,
+ "title_en": "Imperatives and polite requests",
+ "title_tr": "Emir kipi ve nazik rica",
+ "level": "A1",
+ "related_vocab_topics": [
+  "daily_verbs",
+  "school_education"
+ ],
+ "lesson": {
+  "goal_tr": "Bu dersin sonunda basit emirler verebilir, birini nazikçe bir şey yapmaya davet edebilir ve kibarca bir şey isteyebilirsin.",
+  "sections": [
+   {
+    "heading_tr": "Emir verme ve olumsuz emir",
+    "explanation_tr": "Emir verirken fiilin yalın hâliyle başla; “you” genellikle söylenmez. Olumsuz emir için “Don't” kelimesini fiilden önce kullan.",
+    "examples": [
+     {
+      "en": "Open the door.",
+      "tr": "Kapıyı aç."
+     },
+     {
+      "en": "Don't run.",
+      "tr": "Koşma."
+     }
+    ]
+   },
+   {
+    "heading_tr": "Davet ve “be” ile emir",
+    "explanation_tr": "Birlikte bir şey yapmayı önermek için “Let's” kelimesinden sonra fiilin yalın hâlini kullan. “Be” ile başlayan emirlerde ardından bir sıfat gelebilir.",
+    "examples": [
+     {
+      "en": "Let's go!",
+      "tr": "Hadi gidelim!"
+     },
+     {
+      "en": "Be quiet.",
+      "tr": "Sessiz ol."
+     },
+     {
+      "en": "Be careful.",
+      "tr": "Dikkatli ol."
+     }
+    ]
+   },
+   {
+    "heading_tr": "Nazik rica ve teşekkür",
+    "explanation_tr": "Nazikçe birinden bir şey yapmasını istemek için “Could you” ve ardından fiilin yalın hâlini kullan. Bir şey isterken “Can I have” diyebilirsin; “please” ricayı nazikleştirir, “Thank you” veya “Thanks” ise teşekkür eder.",
+    "examples": [
+     {
+      "en": "Could you open the door, please?",
+      "tr": "Kapıyı açabilir misin, lütfen?"
+     },
+     {
+      "en": "Can I have a glass of water, please?",
+      "tr": "Bir bardak su alabilir miyim, lütfen?"
+     },
+     {
+      "en": "Thank you.",
+      "tr": "Teşekkür ederim."
+     }
+    ]
+   }
+  ],
+  "key_patterns": [
+   {
+    "pattern": "Fiil + nesne",
+    "example_en": "Open the door.",
+    "example_tr": "Kapıyı aç."
+   },
+   {
+    "pattern": "Don't + fiil",
+    "example_en": "Don't run.",
+    "example_tr": "Koşma."
+   },
+   {
+    "pattern": "Let's + fiil",
+    "example_en": "Let's go!",
+    "example_tr": "Hadi gidelim!"
+   },
+   {
+    "pattern": "Be + sıfat",
+    "example_en": "Be careful.",
+    "example_tr": "Dikkatli ol."
+   },
+   {
+    "pattern": "Could you + fiil, please?",
+    "example_en": "Could you sit down, please?",
+    "example_tr": "Oturabilir misin, lütfen?"
+   },
+   {
+    "pattern": "Can I have + isim, please?",
+    "example_en": "Can I have a book, please?",
+    "example_tr": "Bir kitap alabilir miyim, lütfen?"
+   }
+  ],
+  "turkish_speaker_tips_tr": [
+   "Türkçede olduğu gibi emirlerde özne çoğu zaman söylenmez; İngilizcede de doğrudan fiille başlayabilirsin.",
+   "Olumsuz emirde Türkçede olumsuzluk fiile eklenir; İngilizcede “don't” fiilden önce gelir: “Don't run.”",
+   "Türkçede fiil genellikle cümlenin sonunda, İngilizcede ise çoğunlukla özneden sonra gelir. “Could you open the door?” kalıbında “could you” kısmını fiilden önce kullan.",
+   "Emirler tek başına sert duyulabilir. “Please” eklemek rica ifadesini daha nazik yapar."
+  ],
+  "common_mistakes": [
+   {
+    "wrong": "Don't runs.",
+    "correct": "Don't run.",
+    "note_tr": "“Don't”tan sonra fiilin yalın hâli gelir; fiile “-s” eklenmez."
+   },
+   {
+    "wrong": "Could you to open the door?",
+    "correct": "Could you open the door?",
+    "note_tr": "“Could you”dan sonra “to” olmadan fiilin yalın hâli kullanılır."
+   },
+   {
+    "wrong": "Let's to go!",
+    "correct": "Let's go!",
+    "note_tr": "“Let's” kelimesinden sonra “to” kullanma; doğrudan fiili söyle."
+   },
+   {
+    "wrong": "You be quiet.",
+    "correct": "Be quiet.",
+    "note_tr": "Doğrudan emir verirken genellikle “you” kullanılmaz."
+   }
+  ],
+  "mini_dialogue": [
+   {
+    "speaker": "Anna",
+    "en": "Could you open the door, please?",
+    "tr": "Kapıyı açabilir misin, lütfen?"
+   },
+   {
+    "speaker": "Ali",
+    "en": "Yes.",
+    "tr": "Evet."
+   },
+   {
+    "speaker": "Anna",
+    "en": "Thank you.",
+    "tr": "Teşekkür ederim."
+   },
+   {
+    "speaker": "Ali",
+    "en": "Please sit down.",
+    "tr": "Lütfen otur."
+   },
+   {
+    "speaker": "Anna",
+    "en": "Let's go!",
+    "tr": "Hadi gidelim!"
+   },
+   {
+    "speaker": "Ali",
+    "en": "OK!",
+    "tr": "Tamam!"
+   }
+  ]
+ },
+ "exercise_counts": {
+  "fill_blank": 6,
+  "multiple_choice": 4,
+  "match_pairs": 1,
+  "choose_correct_sentence": 3,
+  "build_sentence": 6,
+  "dictation": 2,
+  "type_translation": 2
+ },
+ "exercises": [
+  {
+   "id": "a1_gram_imperatives_001",
+   "unit": "a1_unit_22_imperatives",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "Open the ___!",
+   "sentence_tr": "Kapıyı aç!",
+   "options": [
+    "bag",
+    "window",
+    "door",
+    "book"
+   ],
+   "answer": "door",
+   "explanation_tr": "Emir cümlesinde fiil doğrudan nesneden önce gelir: “Open the door.”"
+  },
+  {
+   "id": "a1_gram_imperatives_002",
+   "unit": "a1_unit_22_imperatives",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "Don't ___ in the house.",
+   "sentence_tr": "Evde koşma.",
+   "options": [
+    "to run",
+    "running",
+    "runs",
+    "run"
+   ],
+   "answer": "run",
+   "explanation_tr": "Olumsuz emir, “Don't” ve fiilin yalın hâliyle kurulur."
+  },
+  {
+   "id": "a1_gram_imperatives_003",
+   "unit": "a1_unit_22_imperatives",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "Please ___ down.",
+   "sentence_tr": "Lütfen otur.",
+   "options": [
+    "sitting",
+    "sit",
+    "to sit",
+    "sits"
+   ],
+   "answer": "sit",
+   "explanation_tr": "Rica içeren emirlerde “please” kullanılır; fiil yalın hâlde kalır."
+  },
+  {
+   "id": "a1_gram_imperatives_004",
+   "unit": "a1_unit_22_imperatives",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "Let's ___ to the park.",
+   "sentence_tr": "Hadi parka gidelim.",
+   "options": [
+    "go",
+    "going",
+    "goes",
+    "to go"
+   ],
+   "answer": "go",
+   "explanation_tr": "Birlikte bir şey yapmayı önermek için “Let's”ten sonra fiilin yalın hâli gelir."
+  },
+  {
+   "id": "a1_gram_imperatives_005",
+   "unit": "a1_unit_22_imperatives",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "Be ___ with the glass.",
+   "sentence_tr": "Bardakla dikkatli ol.",
+   "options": [
+    "care",
+    "carefully",
+    "careful",
+    "a careful"
+   ],
+   "answer": "careful",
+   "explanation_tr": "“Be” fiilinden sonra burada bir sıfat kullanılır: “Be careful.”"
+  },
+  {
+   "id": "a1_gram_imperatives_006",
+   "unit": "a1_unit_22_imperatives",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "Could you ___ the door, please?",
+   "sentence_tr": "Lütfen kapıyı açabilir misiniz?",
+   "options": [
+    "opening",
+    "to open",
+    "open",
+    "opens"
+   ],
+   "answer": "open",
+   "explanation_tr": "“Could you”dan sonra fiilin yalın hâli gelir."
+  },
+  {
+   "id": "a1_gram_imperatives_007",
+   "unit": "a1_unit_22_imperatives",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "Don't run in the house.",
+   "question_tr": "",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Evde yürü.",
+    "Evde oturma.",
+    "Evde koş.",
+    "Evde koşma."
+   ],
+   "answer": "Evde koşma.",
+   "explanation_tr": "“Don't run” olumsuz emirdir ve “Koşma” anlamına gelir."
+  },
+  {
+   "id": "a1_gram_imperatives_008",
+   "unit": "a1_unit_22_imperatives",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "Could you sit down, please?",
+   "question_tr": "",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Lütfen ayağa kalkabilir misiniz?",
+    "Lütfen koşabilir misiniz?",
+    "Lütfen oturabilir misiniz?",
+    "Lütfen oturur musun?"
+   ],
+   "answer": "Lütfen oturabilir misiniz?",
+   "explanation_tr": "“Could you” nazik bir rica kalıbıdır; “sit down” ise “oturmak” demektir."
+  },
+  {
+   "id": "a1_gram_imperatives_009",
+   "unit": "a1_unit_22_imperatives",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "",
+   "question_tr": "Lütfen sessiz ol.",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Let's quiet, please.",
+    "Be quietly, please.",
+    "Don't quiet, please.",
+    "Be quiet, please."
+   ],
+   "answer": "Be quiet, please.",
+   "explanation_tr": "“Be” fiilinden sonra sıfat gelir; “quiet” burada sıfattır."
+  },
+  {
+   "id": "a1_gram_imperatives_010",
+   "unit": "a1_unit_22_imperatives",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "",
+   "question_tr": "Lütfen bir bardak su alabilir miyim?",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Can I have a glass water, please?",
+    "Can I have glasses of water, please?",
+    "Can I have a glass of water, please?",
+    "Can I has a glass of water, please?"
+   ],
+   "answer": "Can I have a glass of water, please?",
+   "explanation_tr": "Bir şeyi nazikçe istemek için “Can I have + isim, please?” kalıbı kullanılır."
+  },
+  {
+   "id": "a1_gram_imperatives_011",
+   "unit": "a1_unit_22_imperatives",
+   "type": "match_pairs",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Eşleştir.",
+   "pairs": [
+    {
+     "en": "Open the door",
+     "tr": "Kapıyı aç"
+    },
+    {
+     "en": "Don't run",
+     "tr": "Koşma"
+    },
+    {
+     "en": "Let's go",
+     "tr": "Hadi gidelim"
+    },
+    {
+     "en": "Be quiet",
+     "tr": "Sessiz ol"
+    },
+    {
+     "en": "Thank you",
+     "tr": "Teşekkür ederim"
+    }
+   ],
+   "explanation_tr": "Bu kısa ifadeler emir, öneri veya nazik bir teşekkür belirtir."
+  },
+  {
+   "id": "a1_gram_imperatives_012",
+   "unit": "a1_unit_22_imperatives",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "Could you sits down, please?",
+    "Could you to sit down, please?",
+    "Could you sit down, please?"
+   ],
+   "answer": "Could you sit down, please?",
+   "explanation_tr": "“Could you”dan sonra fiilin yalın hâli kullanılır; “sits” ve “to sit” bu kalıpta yanlıştır."
+  },
+  {
+   "id": "a1_gram_imperatives_013",
+   "unit": "a1_unit_22_imperatives",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Please open the door.",
+   "word_bank": [
+    "door",
+    "Please",
+    "run",
+    "open",
+    "don't",
+    "can",
+    "the"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Lütfen kapıyı aç.",
+   "explanation_tr": "Nazik bir emir için lütfen anlamındaki “please” kullanılabilir."
+  },
+  {
+   "id": "a1_gram_imperatives_014",
+   "unit": "a1_unit_22_imperatives",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Don't run in the house.",
+   "word_bank": [
+    "house",
+    "run",
+    "the",
+    "sit",
+    "book",
+    "Don't",
+    "in",
+    "please"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Evde koşma.",
+   "explanation_tr": "Olumsuz emir, “don't” ve fiilin yalın hâliyle kurulur."
+  },
+  {
+   "id": "a1_gram_imperatives_015",
+   "unit": "a1_unit_22_imperatives",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Let's go to the park.",
+   "word_bank": [
+    "the",
+    "book",
+    "to",
+    "be",
+    "Let's",
+    "go",
+    "don't",
+    "park"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Hadi parka gidelim.",
+   "explanation_tr": "Birlikte yapılacak bir şeyi önermek için “let's” ve fiilin yalın hâli kullanılır."
+  },
+  {
+   "id": "a1_gram_imperatives_016",
+   "unit": "a1_unit_22_imperatives",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Be careful with the hot tea.",
+   "word_bank": [
+    "can",
+    "tea",
+    "don't",
+    "with",
+    "careful",
+    "Be",
+    "run",
+    "the",
+    "hot"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Sıcak çaya dikkat et.",
+   "explanation_tr": "Birine nasıl olması gerektiğini söylemek için “be” ve sıfat kullanılır."
+  },
+  {
+   "id": "a1_gram_imperatives_017",
+   "unit": "a1_unit_22_imperatives",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Could you bring a book, please?",
+   "word_bank": [
+    "book",
+    "Could",
+    "let's",
+    "you",
+    "please",
+    "run",
+    "don't",
+    "a",
+    "bring"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Lütfen bana bir kitap getirir misin?",
+   "explanation_tr": "Nazik bir rica için “Could you”dan sonra fiilin yalın hâli gelir."
+  },
+  {
+   "id": "a1_gram_imperatives_018",
+   "unit": "a1_unit_22_imperatives",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Can I have a glass of water, please?",
+   "word_bank": [
+    "don't",
+    "I",
+    "let's",
+    "of",
+    "Can",
+    "a",
+    "run",
+    "water",
+    "glass",
+    "please",
+    "have"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Lütfen bir bardak su alabilir miyim?",
+   "explanation_tr": "Bir şey isterken “Can I have” kalıbı ve sonunda “please” kullanılır."
+  },
+  {
+   "id": "a1_gram_imperatives_019",
+   "unit": "a1_unit_22_imperatives",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "Please down sit.",
+    "Don't to sit down.",
+    "Please sit down."
+   ],
+   "answer": "Please sit down.",
+   "explanation_tr": "Emir cümlesinde fiil önce gelir; “sit down” doğru fiil öbeğidir."
+  },
+  {
+   "id": "a1_gram_imperatives_020",
+   "unit": "a1_unit_22_imperatives",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "Could you helps me, please?",
+    "Could you help me, please?",
+    "Could you to help me, please?"
+   ],
+   "answer": "Could you help me, please?",
+   "explanation_tr": "“Could you”dan sonra fiil yalın hâlde kullanılır; “to” ya da fiile “-s” eklenmez."
+  },
+  {
+   "id": "a1_gram_imperatives_021",
+   "unit": "a1_unit_22_imperatives",
+   "type": "dictation",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Duyduğun cümleyi yaz.",
+   "answer": "Please be quiet.",
+   "word_bank": [
+    "be",
+    "run",
+    "Please",
+    "book",
+    "can",
+    "quiet"
+   ],
+   "accepted_answers": [],
+   "sentence_tr": "Lütfen sessiz ol.",
+   "audio_text": "Please be quiet.",
+   "explanation_tr": "“Be” ve sıfat “quiet” birlikte bir emir oluşturur; “please” ifadeyi nazikleştirir."
+  },
+  {
+   "id": "a1_gram_imperatives_022",
+   "unit": "a1_unit_22_imperatives",
+   "type": "dictation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Duyduğun cümleyi yaz.",
+   "answer": "Let's clean the room.",
+   "word_bank": [
+    "the",
+    "please",
+    "don't",
+    "Let's",
+    "book",
+    "clean",
+    "room"
+   ],
+   "accepted_answers": [],
+   "sentence_tr": "Hadi odayı temizleyelim.",
+   "audio_text": "Let's clean the room.",
+   "explanation_tr": "Birlikte yapılacak bir etkinliği önermek için “let's” kullanılır."
+  },
+  {
+   "id": "a1_gram_imperatives_023",
+   "unit": "a1_unit_22_imperatives",
+   "type": "type_translation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "İngilizceye çevir ve yaz.",
+   "prompt_tr": "Lütfen pencereyi kapat.",
+   "answer": "Please close the window.",
+   "accepted_answers": [
+    "Close the window, please."
+   ],
+   "explanation_tr": "“Please” emir cümlesinin başında veya sonunda kullanılarak rica ifadesi oluşturur."
+  },
+  {
+   "id": "a1_gram_imperatives_024",
+   "unit": "a1_unit_22_imperatives",
+   "type": "type_translation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "İngilizceye çevir ve yaz.",
+   "prompt_tr": "Lütfen bir kitap alabilir miyim?",
+   "answer": "Can I have a book, please?",
+   "accepted_answers": [
+    "Could I have a book, please?"
+   ],
+   "explanation_tr": "Bir şeyi nazikçe istemek için “Can I have” veya “Could I have” kalıbı kullanılabilir."
+  }
+ ]
+}

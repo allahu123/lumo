@@ -1,0 +1,607 @@
+{
+ "unit_id": "a1_unit_09_adjectives",
+ "slug": "adjectives",
+ "order": 9,
+ "module": "m2",
+ "bonus_a1_plus": false,
+ "title_en": "Adjectives and colours",
+ "title_tr": "Sıfatlar ve renkler",
+ "level": "A1",
+ "related_vocab_topics": [
+  "adjectives_description",
+  "colors_shapes"
+ ],
+ "lesson": {
+  "goal_tr": "Bu dersin sonunda renkleri, boyutları ve duyguları basit sıfatlarla anlatabilir; sıfatları isimlerle ve be fiiliyle doğru kullanabilirsin.",
+  "sections": [
+   {
+    "heading_tr": "Sıfatın yeri",
+    "explanation_tr": "Sıfat, ismi anlatıyorsa İngilizcede isimden önce gelir: “a red car”. Be fiilinden sonra da kullanılabilir: “The car is red.”",
+    "examples": [
+     {
+      "en": "I have a red car.",
+      "tr": "Kırmızı bir arabam var."
+     },
+     {
+      "en": "The car is red.",
+      "tr": "Araba kırmızı."
+     }
+    ]
+   },
+   {
+    "heading_tr": "a/an ve çoğul isimler",
+    "explanation_tr": "Tekil bir ismin önünde sıfat varsa a/an, sıfatın hemen önüne gelir: “a big car”, “an old car”. Seçim, sıfatın ilk sesine göre yapılır; sıfat çoğul isimlerle de değişmeden kalır.",
+    "examples": [
+     {
+      "en": "I have an old car.",
+      "tr": "Eski bir arabam var."
+     },
+     {
+      "en": "The cars are red.",
+      "tr": "Arabalar kırmızı."
+     }
+    ]
+   },
+   {
+    "heading_tr": "Renkler, boyutlar ve duygular",
+    "explanation_tr": "Renk, boyut ve duygu bildiren sıfatları be fiilinden sonra kullanabilirsin. Very “çok”, not very ise “pek ... değil” anlamı verir ve sıfattan önce gelir.",
+    "examples": [
+     {
+      "en": "The car is very big.",
+      "tr": "Araba çok büyük."
+     },
+     {
+      "en": "I am not very happy.",
+      "tr": "Pek mutlu değilim."
+     }
+    ]
+   }
+  ],
+  "key_patterns": [
+   {
+    "pattern": "İsim + be + sıfat",
+    "example_en": "The car is red.",
+    "example_tr": "Araba kırmızı."
+   },
+   {
+    "pattern": "a/an + sıfat + tekil isim",
+    "example_en": "I have a big car.",
+    "example_tr": "Büyük bir arabam var."
+   },
+   {
+    "pattern": "Çoğul isim + be + sıfat",
+    "example_en": "The cars are red.",
+    "example_tr": "Arabalar kırmızı."
+   },
+   {
+    "pattern": "Özne + be + very/not very + sıfat",
+    "example_en": "Anna is not very happy.",
+    "example_tr": "Anna pek mutlu değil."
+   }
+  ],
+  "turkish_speaker_tips_tr": [
+   "Türkçede a/an karşılığı yoktur; İngilizcede tekil sayılabilir bir isimden önce kullanmayı unutma.",
+   "Türkçede de sıfat genellikle isimden önce gelir: “kırmızı araba” ve “red car”.",
+   "Türkçede “Araba kırmızı” diyebilirsin; İngilizcede iki kelimenin arasına is gerekir: “The car is red.”",
+   "Türkçedeki “o” cinsiyet belirtmez; İngilizcede renk ve boyut sıfatları da kadın ya da erkek için değişmez."
+  ],
+  "common_mistakes": [
+   {
+    "wrong": "The cars are reds.",
+    "correct": "The cars are red.",
+    "note_tr": "Sıfat çoğul yapılmaz; çoğul eki isme gelir."
+   },
+   {
+    "wrong": "I have a old car.",
+    "correct": "I have an old car.",
+    "note_tr": "Old sesli bir sesle başladığı için önünde an kullanılır."
+   },
+   {
+    "wrong": "The car red.",
+    "correct": "The car is red.",
+    "note_tr": "İngilizcede sıfat isimden sonra geldiğinde araya be fiili gerekir."
+   }
+  ],
+  "mini_dialogue": [
+   {
+    "speaker": "Ali",
+    "en": "Is the car red?",
+    "tr": "Araba kırmızı mı?"
+   },
+   {
+    "speaker": "Anna",
+    "en": "No, it is blue.",
+    "tr": "Hayır, mavi."
+   },
+   {
+    "speaker": "Ali",
+    "en": "Is it a big car?",
+    "tr": "Büyük bir araba mı?"
+   },
+   {
+    "speaker": "Anna",
+    "en": "Yes, it is a very big car.",
+    "tr": "Evet, çok büyük bir araba."
+   }
+  ]
+ },
+ "exercise_counts": {
+  "fill_blank": 6,
+  "multiple_choice": 4,
+  "match_pairs": 1,
+  "choose_correct_sentence": 3,
+  "build_sentence": 6,
+  "dictation": 2,
+  "type_translation": 2
+ },
+ "exercises": [
+  {
+   "id": "a1_gram_adjectives_001",
+   "unit": "a1_unit_09_adjectives",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "The car is ___.",
+   "sentence_tr": "Araba kırmızı.",
+   "options": [
+    "reds",
+    "red cars",
+    "red",
+    "a red"
+   ],
+   "answer": "red",
+   "explanation_tr": "Be fiilinden sonra sıfat gelir. Bu cümlede doğru renk sıfatı “red”dir."
+  },
+  {
+   "id": "a1_gram_adjectives_002",
+   "unit": "a1_unit_09_adjectives",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "I have a ___ car.",
+   "sentence_tr": "Büyük bir arabam var.",
+   "options": [
+    "a",
+    "bigs",
+    "big",
+    "very"
+   ],
+   "answer": "big",
+   "explanation_tr": "Sıfat, isimden önce gelir. Tekil isimden önce “a” kullanılır ve sıfat çoğul yapılmaz."
+  },
+  {
+   "id": "a1_gram_adjectives_003",
+   "unit": "a1_unit_09_adjectives",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "The cars are ___.",
+   "sentence_tr": "Arabalar siyah.",
+   "options": [
+    "blacks",
+    "a black",
+    "blackly",
+    "black"
+   ],
+   "answer": "black",
+   "explanation_tr": "Çoğul isimden sonra be fiili “are” olur. Sıfat ise yine çoğul yapılmaz."
+  },
+  {
+   "id": "a1_gram_adjectives_004",
+   "unit": "a1_unit_09_adjectives",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "Anna is ___ happy.",
+   "sentence_tr": "Anna çok mutlu.",
+   "options": [
+    "very",
+    "the",
+    "many",
+    "an"
+   ],
+   "answer": "very",
+   "explanation_tr": "“Very”, sıfatın anlamını güçlendirir ve be fiilinden sonra sıfattan önce gelir."
+  },
+  {
+   "id": "a1_gram_adjectives_005",
+   "unit": "a1_unit_09_adjectives",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "Tom is not very ___.",
+   "sentence_tr": "Tom pek mutlu değil.",
+   "options": [
+    "happies",
+    "happy",
+    "a happy",
+    "happy person"
+   ],
+   "answer": "happy",
+   "explanation_tr": "“Not very” ifadesinden sonra sıfatın yalın hâli gelir: “happy”."
+  },
+  {
+   "id": "a1_gram_adjectives_006",
+   "unit": "a1_unit_09_adjectives",
+   "type": "fill_blank",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Boşluğu doldur.",
+   "sentence_en": "It is ___ old car.",
+   "sentence_tr": "Bu eski bir araba.",
+   "options": [
+    "are",
+    "an",
+    "a",
+    "am"
+   ],
+   "answer": "an",
+   "explanation_tr": "“Old” sesli harfle başladığı için önünde “an” kullanılır. “An”, sıfat ile isimden önce gelir."
+  },
+  {
+   "id": "a1_gram_adjectives_007",
+   "unit": "a1_unit_09_adjectives",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "The bike is green.",
+   "question_tr": "",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Bisiklet çok büyük.",
+    "Bisiklet yeşil.",
+    "Bisikletler yeşil.",
+    "Araba yeşil."
+   ],
+   "answer": "Bisiklet yeşil.",
+   "explanation_tr": "“The bike” tek bir bisikleti anlatır; “is green” ise “yeşil” demektir."
+  },
+  {
+   "id": "a1_gram_adjectives_008",
+   "unit": "a1_unit_09_adjectives",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "",
+   "question_tr": "",
+   "sentence_en": "I have a small dog.",
+   "sentence_tr": "",
+   "options": [
+    "Büyük bir köpeğim var.",
+    "Küçük köpeklerim var.",
+    "Küçük bir köpeğim var.",
+    "Köpek küçük değil."
+   ],
+   "answer": "Küçük bir köpeğim var.",
+   "explanation_tr": "“Small”, “küçük” demektir ve isimden önce gelir. “A small dog” tekil bir köpektir."
+  },
+  {
+   "id": "a1_gram_adjectives_009",
+   "unit": "a1_unit_09_adjectives",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "",
+   "question_tr": "Ev beyaz.",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "The house is whites.",
+    "The house white is.",
+    "The house are white.",
+    "The house is white."
+   ],
+   "answer": "The house is white.",
+   "explanation_tr": "Tekil “house” ile “is” kullanılır. Be fiilinden sonra gelen “white” sıfatı çoğul yapılmaz."
+  },
+  {
+   "id": "a1_gram_adjectives_010",
+   "unit": "a1_unit_09_adjectives",
+   "type": "multiple_choice",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru çeviriyi seç.",
+   "question_en": "",
+   "question_tr": "Lisa çok mutlu.",
+   "sentence_en": "",
+   "sentence_tr": "",
+   "options": [
+    "Lisa very is happy.",
+    "Lisa is very happy.",
+    "Lisa are very happy.",
+    "Lisa is a very happy."
+   ],
+   "answer": "Lisa is very happy.",
+   "explanation_tr": "“Very”, be fiilinden sonra ve sıfattan önce gelir. “Lisa” tekil olduğu için “is” kullanılır."
+  },
+  {
+   "id": "a1_gram_adjectives_011",
+   "unit": "a1_unit_09_adjectives",
+   "type": "match_pairs",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Eşleştir.",
+   "pairs": [
+    {
+     "en": "red car",
+     "tr": "kırmızı araba"
+    },
+    {
+     "en": "big house",
+     "tr": "büyük ev"
+    },
+    {
+     "en": "blue bag",
+     "tr": "mavi çanta"
+    },
+    {
+     "en": "happy child",
+     "tr": "mutlu çocuk"
+    },
+    {
+     "en": "very tired",
+     "tr": "çok yorgun"
+    }
+   ],
+   "explanation_tr": "İngilizcede sıfat isimden önce gelir. “Very” ise sıfatın anlamını güçlendirir."
+  },
+  {
+   "id": "a1_gram_adjectives_012",
+   "unit": "a1_unit_09_adjectives",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "The cars are red.",
+    "The cars are reds.",
+    "The cars is red."
+   ],
+   "answer": "The cars are red.",
+   "explanation_tr": "Çoğul “cars” ile “are” kullanılır. Sıfat olan “red” çoğul yapılmaz."
+  },
+  {
+   "id": "a1_gram_adjectives_013",
+   "unit": "a1_unit_09_adjectives",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "The car is red.",
+   "word_bank": [
+    "car",
+    "are",
+    "a",
+    "The",
+    "very",
+    "red",
+    "is"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Araba kırmızı.",
+   "explanation_tr": "Sıfat, be fiilinden sonra gelir. Tekil isimle “is” kullanılır."
+  },
+  {
+   "id": "a1_gram_adjectives_014",
+   "unit": "a1_unit_09_adjectives",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "I have a big car.",
+   "word_bank": [
+    "red",
+    "car",
+    "I",
+    "a",
+    "big",
+    "have",
+    "are",
+    "the"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Büyük bir arabam var.",
+   "explanation_tr": "Sıfat, isimden önce gelir. Tekil isimden önce “a” kullanılır."
+  },
+  {
+   "id": "a1_gram_adjectives_015",
+   "unit": "a1_unit_09_adjectives",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 1,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "The cars are black.",
+   "word_bank": [
+    "The",
+    "is",
+    "cars",
+    "are",
+    "a",
+    "black",
+    "very"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Arabalar siyah.",
+   "explanation_tr": "Çoğul isimle “are” kullanılır. Sıfat çoğul olmaz."
+  },
+  {
+   "id": "a1_gram_adjectives_016",
+   "unit": "a1_unit_09_adjectives",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "Anna is very happy.",
+   "word_bank": [
+    "not",
+    "very",
+    "a",
+    "are",
+    "is",
+    "happy",
+    "Anna"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Anna çok mutlu.",
+   "explanation_tr": "“Very”, sıfattan önce gelerek anlamını güçlendirir. Anna tekil olduğu için “is” kullanılır."
+  },
+  {
+   "id": "a1_gram_adjectives_017",
+   "unit": "a1_unit_09_adjectives",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "I have a blue bag.",
+   "word_bank": [
+    "bag",
+    "I",
+    "a",
+    "is",
+    "blue",
+    "have",
+    "an",
+    "very"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Mavi bir çantam var.",
+   "explanation_tr": "Sıfat, isimden önce gelir: “blue bag”. “Bag” tekil olduğu için önünde “a” kullanılır."
+  },
+  {
+   "id": "a1_gram_adjectives_018",
+   "unit": "a1_unit_09_adjectives",
+   "type": "build_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Cümleyi İngilizceye çevir.",
+   "answer": "The small dog is not very happy.",
+   "word_bank": [
+    "happy",
+    "not",
+    "very",
+    "are",
+    "small",
+    "is",
+    "The",
+    "a",
+    "dog",
+    "red"
+   ],
+   "accepted_answers": [],
+   "prompt_tr": "Küçük köpek çok mutlu değil.",
+   "explanation_tr": "Sıfat isimden önce kullanılır: “small dog”. Olumsuz cümlede “not”, “very” ve sıfattan önce gelir."
+  },
+  {
+   "id": "a1_gram_adjectives_019",
+   "unit": "a1_unit_09_adjectives",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "The cars are red.",
+    "The cars are reds.",
+    "The cars is red."
+   ],
+   "answer": "The cars are red.",
+   "explanation_tr": "Çoğul “cars” ile “are” kullanılır. Sıfat olan “red” çoğul eki almaz."
+  },
+  {
+   "id": "a1_gram_adjectives_020",
+   "unit": "a1_unit_09_adjectives",
+   "type": "choose_correct_sentence",
+   "level": "A1",
+   "difficulty": 2,
+   "instruction_tr": "Doğru cümleyi seç.",
+   "prompt_tr": "",
+   "options": [
+    "I have an orange bag.",
+    "I have a orange bag.",
+    "I have an orange bags."
+   ],
+   "answer": "I have an orange bag.",
+   "explanation_tr": "“Orange” sesli harfle başladığı için önünde “an” kullanılır. Tekil “bag” sıfatla birlikte tekil kalır."
+  },
+  {
+   "id": "a1_gram_adjectives_021",
+   "unit": "a1_unit_09_adjectives",
+   "type": "dictation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Duyduğun cümleyi yaz.",
+   "answer": "The room is clean.",
+   "word_bank": [
+    "room",
+    "red",
+    "The",
+    "is",
+    "very",
+    "clean",
+    "are"
+   ],
+   "accepted_answers": [],
+   "sentence_tr": "Oda temiz.",
+   "audio_text": "The room is clean.",
+   "explanation_tr": "Tekil “room” ile “is” kullanılır; sıfat “clean” ise be fiilinden sonra gelir."
+  },
+  {
+   "id": "a1_gram_adjectives_022",
+   "unit": "a1_unit_09_adjectives",
+   "type": "dictation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "Duyduğun cümleyi yaz.",
+   "answer": "My brother is tall.",
+   "word_bank": [
+    "My",
+    "blue",
+    "tall",
+    "very",
+    "is",
+    "small",
+    "brother"
+   ],
+   "accepted_answers": [],
+   "sentence_tr": "Erkek kardeşim uzun boylu.",
+   "audio_text": "My brother is tall.",
+   "explanation_tr": "Tekil “brother” ile “is” kullanılır. “Tall” sıfatı be fiilinden sonra gelir."
+  },
+  {
+   "id": "a1_gram_adjectives_023",
+   "unit": "a1_unit_09_adjectives",
+   "type": "type_translation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "İngilizceye çevir ve yaz.",
+   "prompt_tr": "Arabalar çok büyük.",
+   "answer": "The cars are very big.",
+   "accepted_answers": [],
+   "explanation_tr": "Çoğul “cars” ile “are” kullanılır. “Very”, sıfat olan “big”den önce gelir."
+  },
+  {
+   "id": "a1_gram_adjectives_024",
+   "unit": "a1_unit_09_adjectives",
+   "type": "type_translation",
+   "level": "A1",
+   "difficulty": 3,
+   "instruction_tr": "İngilizceye çevir ve yaz.",
+   "prompt_tr": "Anna çok mutlu değil.",
+   "answer": "Anna is not very happy.",
+   "accepted_answers": [
+    "Anna isn't very happy."
+   ],
+   "explanation_tr": "Olumsuz cümlede “not”, “very” ve sıfattan önce gelir. “Is not” yerine “isn't” de kullanılabilir."
+  }
+ ]
+}
